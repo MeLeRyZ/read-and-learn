@@ -1,0 +1,360 @@
+[918] = Третья рукопись
+- Drittes Manuskript = Третья рукопись
+
+[919] = Частная собственность и труд
+- Privateigentum und Arbeit = Частная собственность и труд
+
+[920] = К странице
+- ad pag = К странице
+* pag = странице | pagina | сокр. | лат. ad pag. — к странице
+
+[921] = XXXVI.
+- XXXVI = XXXVI
+* xxxvi = XXXVI (лист рукописи) | | числ.
+
+[922] = Субъективная сущность частной собственности, частная собственность как для себя сущая деятельность, как субъект, как личность — это труд.
+- Das subjektive Wesen des Privateigentums = Субъективная сущность частной собственности,
+- das Privateigentum = частная собственность
+- als für sich seiende Tätigkeit = как для себя сущая деятельность,
+- als Subjekt, als Person = как субъект, как личность
+- ist die Arbeit = есть труд
+* seiende = сущая | sein | прил. | für sich seiend — «для-себя-сущий», гегелевский термин
+
+[923] = Само собой понятно поэтому, что лишь та политическая экономия, которая признала своим принципом труд (Адам Смит) и, следовательно, уже не видела в частной собственности лишь состояние вне человека, — что эта политическая экономия должна рассматриваться как продукт действительной энергии и движения частной собственности (она есть ставшее для себя в сознании самостоятельное движение частной собственности, современная промышленность как самость), как продукт современной промышленности, подобно тому как она, с другой стороны, ускорила, прославила энергию и развитие этой промышленности и сделала их силой сознания.
+- Es versteht sich also = Само собой понятно, следовательно,
+- daß erst die Nationalökonomie = что лишь та политическая экономия,
+- welche die Arbeit als ihr Prinzip erkannte = которая признала труд своим принципом
+- Adam Smith = (Адам Смит),
+- also nicht mehr das Privateigentum = т. е. уже не частную собственность
+- nur mehr als einen Zustand außer dem Menschen wußte = знала лишь как состояние вне человека, —
+- daß diese Nationalökonomie = что эта политическая экономия
+- sowohl als ein Produkt = как продукт
+- der wirklichen Energie und Bewegung des Privateigentums = действительной энергии и движения частной собственности
+- sie ist die für sich im Bewußtsein gewordne = (она есть ставшее для себя в сознании
+- selbständige Bewegung des Privateigentums = самостоятельное движение частной собственности,
+- die moderne Industrie als Selbst = современная промышленность как самость)
+- zu betrachten ist = должна рассматриваться,
+- als ein Produkt der modernen Industrie = как продукт современной промышленности,
+- wie sie andrerseits = как она, с другой стороны,
+- die Energie und Entwicklung dieser Industrie = энергию и развитие этой промышленности
+- beschleunigt, verherrlicht = ускорила, прославила
+- zu einer Macht des Bewußtseins gemacht hat = и сделала силой сознания
+
+[924] = Поэтому для этой просвещённой политической экономии, открывшей субъективную сущность богатства — в рамках частной собственности, — сторонники денежной и меркантилистской системы, которые знают частную собственность лишь как предметную сущность для человека, выступают как фетишисты, как католики.
+- Als Fetischdiener, als Katholiken = Как фетишисты, как католики
+- erscheinen daher = выступают поэтому
+- dieser aufgeklärten Nationalökonomie = для этой просвещённой политической экономии,
+- die das subjektive Wesen des Reichtums = которая субъективную сущность богатства —
+- innerhalb des Privateigentums = в рамках частной собственности —
+- entdeckt hat = открыла,
+- die Anhänger des Geld- und Merkantilsystems = сторонники денежной и меркантилистской системы,
+- welche das Privateigentum = которые частную собственность
+- als ein nur gegenständliches Wesen für den Menschen wissen = лишь как предметную сущность для человека знают
+* merkantilsystems = меркантилистской системы | das Merkantilsystem | сущ. | меркантилизм: богатство — это золото и серебро
+
+[925] = Поэтому Энгельс с полным правом назвал Адама Смита Лютером политической экономии.
+- Engels hat daher mit Recht = Энгельс поэтому с полным правом
+- Adam Smith = Адама Смита
+- den nationalökonomischen Luther genannt = политико-экономическим Лютером назвал
++ mit Recht = по праву ~ устойчивое выражение
+
+[926] = Подобно тому как Лютер признал сущностью внешнего мира религию, веру и потому выступил против католического язычества, как он упразднил внешнюю религиозность, сделав религиозность внутренней сущностью человека, как он отверг существующих вне мирянина попов, потому что пересадил попа в сердце мирянина, — так и богатство, находящееся вне человека и независимое от него, т. е. сохраняемое и утверждаемое лишь внешним образом, упраздняется, т. е. упраздняется эта его внешняя бессмысленная предметность, поскольку частная собственность воплощается в самом человеке и сам человек признаётся её сущностью, — но поэтому сам человек ставится в определение частной собственности, как у Лютера — религии.
+- Wie Luther als das Wesen der äußerlichen Welt = Как Лютер сущностью внешнего мира
+- die Religion, den Glauben erkannte = религию, веру признал
+- und daher dem katholischen Heidentum gegenübertrat = и потому католическому язычеству противостал,
+- wie er die äußere Religiosität aufhob = как он внешнюю религиозность упразднил,
+- indem er die Religiosität = сделав религиозность
+- zum innern Wesen des Menschen machte = внутренней сущностью человека,
+- wie er die außer dem Laien vorhandnen Pfaffen negierte = как он существующих вне мирянина попов отверг,
+- weil er den Pfaffen in das Herz der Laien versetzte = потому что пересадил попа в сердце мирянина,
+- so wird der außer dem Menschen befindliche = так и находящееся вне человека
+- und von ihm unabhängige = и от него независимое —
+- also nur auf eine äußerliche Weise = т. е. лишь внешним образом
+- zu erhaltende und zu behauptende = сохраняемое и утверждаемое —
+- Reichtum aufgehoben = богатство упраздняется,
+- d.h. = т. е.
+- diese seine äußerliche gedankenlose Gegenständlichkeit = эта его внешняя бессмысленная предметность
+- wird aufgehoben = упраздняется,
+- indem sich das Privateigentum = поскольку частная собственность
+- inkorporiert im Menschen selbst = воплощается в самом человеке
+- und der Mensch selbst als sein Wesen erkannt = и сам человек признаётся её сущностью, —
+- aber darum der Mensch selbst = но поэтому сам человек
+- in der Bestimmung des Privateigentums = в определение частной собственности,
+- wie bei Luther der Religion gesetzt wird = как у Лютера — религии, ставится
+* luther = Лютер | | имя собств. | Мартин Лютер (1483–1546), реформатор церкви
+
+[927] = Итак, под видом признания человека политическая экономия, принцип которой — труд, есть скорее лишь последовательное проведение отрицания человека, поскольку сам человек уже не находится во внешнем напряжении к внешней сущности частной собственности, а сам стал этой напряжённой сущностью частной собственности.
+- Unter dem Schein einer Anerkennung des Menschen = Под видом признания человека
+- ist also die Nationalökonomie = есть, следовательно, политическая экономия,
+- deren Prinzip die Arbeit = принцип которой — труд,
+- vielmehr nur die konsequente Durchführung = скорее лишь последовательное проведение
+- der Verleugnung des Menschen = отрицания человека,
+- indem er selbst nicht mehr = поскольку сам он уже не
+- in einer äußerlichen Spannung = во внешнем напряжении
+- zu dem äußerlichen Wesen des Privateigentums steht = к внешней сущности частной собственности находится,
+- sondern er selbst = а он сам
+- dies gespannte Wesen des Privateigentums geworden ist = стал этой напряжённой сущностью частной собственности
+
+[928] = То, что прежде было внешним для себя бытием, реальным отчуждением человека, стало теперь лишь актом отчуждения, отчуждением-продажей.
+- Was früher Sichäußerlichsein = Что прежде было бытием-вне-себя,
+- reale Entäußerung des Menschen = реальным отчуждением человека,
+- ist nur zur Tat der Entäußerung = стало лишь актом отчуждения,
+- zur Veräußerung geworden = отчуждением-продажей
+* veräußerung = продажа, отчуждение (имущества) | die Veräußerung | сущ. | юридический термин: передача собственности
+
+[929] = Итак, если эта политическая экономия начинает с видимости признания человека, его самостоятельности, самодеятельности и т. д. и, перенося частную собственность в саму сущность человека, уже не может быть обусловлена местными, национальными и т. д. определениями частной собственности как существующей вне её сущности, т. е. развивает космополитическую, всеобщую, опрокидывающую всякую преграду, всякую связь энергию, чтобы самой встать на их место как единственная политика, всеобщность, преграда и связь, — то при дальнейшем развитии она должна сбросить это лицемерие и выступить во всём своём цинизме; и она делает это, когда — невзирая на все кажущиеся противоречия, в которые её запутывает это учение, — гораздо более односторонне, а потому резче и последовательнее развивает труд как единственную сущность богатства, показывает, что следствия этого учения, в противоположность тому первоначальному пониманию, скорее враждебны человеку, и, наконец, наносит смертельный удар последнему индивидуальному, природному, независимому от движения труда существованию частной собственности и источнику богатства — земельной ренте, этому уже вполне ставшему политико-экономическим и потому неспособному сопротивляться политической экономии выражению феодальной собственности.
+- Wenn also jene Nationalökonomie = Итак, если та политическая экономия
+- unter dem Schein der Anerkennung des Menschen = с видимости признания человека,
+- seiner Selbständigkeit, Selbsttätigkeit etc. beginnt = его самостоятельности, самодеятельности и т. д. начинает
+- und, wie sie in das Wesen des Menschen selbst = и, поскольку она в саму сущность человека
+- das Privateigentum versetzt = частную собственность переносит,
+- nicht mehr durch die lokalen, nationalen etc. Bestimmungen = уже не местными, национальными и т. д. определениями
+- des Privateigentums = частной собственности
+- als eines außer ihr existierenden Wesens = как вне её существующей сущности
+- bedingt sein kann = может быть обусловлена,
+- also eine kosmopolitische, allgemeine = т. е. космополитическую, всеобщую,
+- jede Schranke, jedes Band umwerfende Energie entwickelt = всякую преграду, всякую связь опрокидывающую энергию развивает,
+- um sich als die einzige Politik = чтобы себя как единственную политику,
+- Allgemeinheit, Schranke und Band = всеобщность, преграду и связь
+- an die Stelle zu setzen = на их место поставить, —
+- so muß sie bei weitrer Entwicklung = то она должна при дальнейшем развитии
+- diese Scheinheiligkeit abwerfen = это лицемерие сбросить,
+- in ihrem ganzen Zynismus hervortreten = во всём своём цинизме выступить,
+- und sie tut dies = и она делает это,
+- indem sie = когда она —
+- unbekümmert um alle scheinbaren Widersprüche = невзирая на все кажущиеся противоречия,
+- worin diese Lehre sie verwickelt = в которые её это учение запутывает, —
+- viel einseitiger, darum schärfer und konsequenter = гораздо более односторонне, а потому резче и последовательнее
+- die Arbeit als das einzige Wesen des Reichtums entwickelt = труд как единственную сущность богатства развивает,
+- die Konsequenzen dieser Lehre = следствия этого учения
+- im Gegensatz zu jener ursprünglichen Auffassung = в противоположность тому первоначальному пониманию
+- vielmehr als menschenfeindliche nachweist = скорее как враждебные человеку показывает
+- und endlich dem letzten, individuellen, natürlichen = и, наконец, последнему, индивидуальному, природному,
+- unabhängig von der Bewegung der Arbeit existierenden = независимо от движения труда существующему
+- Dasein des Privateigentums und Quelle des Reichtums = бытию частной собственности и источнику богатства —
+- der Grundrente = земельной ренте,
+- diesem schon ganz nationalökonomisch gewordnen = этому уже вполне политико-экономическим ставшему
+- und daher gegen die Nationalökonomie widerstandsunfähigen = и потому против политической экономии бессильному
+- Ausdruck des Feudaleigentums = выражению феодальной собственности —
+- den Todesstoß gibt = смертельный удар наносит
++ den Todesstoß gibt = наносит смертельный удар ~ jemandem den Todesstoß geben
+
+[930] = (Школа Рикардо.)
+- Schule des Ricardo = (Школа Рикардо.)
+
+[931] = Цинизм политической экономии растёт не только относительно — от Смита через Сэя к Рикардо, Миллю и т. д., — поскольку последствия промышленности предстают перед глазами последних более развитыми и противоречивыми, но и положительно они всё дальше и сознательно идут в отчуждении от человека, чем их предшественники, — но лишь потому, что их наука развивается последовательнее и правдивее.
+- Nicht nur wächst der Zynismus der Nationalökonomie = Не только растёт цинизм политической экономии
+- relativ von Smith über Say = относительно от Смита через Сэя
+- bis zu Ricardo, Mill etc. = до Рикардо, Милля и т. д.,
+- insofern die Konsequenzen der Industrie = поскольку последствия промышленности
+- den letztern entwickelter und widerspruchsvoller = последним более развитыми и противоречивыми
+- vor die Augen treten = предстают перед глазами,
+- sondern auch positiv = но и положительно
+- gehn sie immer und mit Bewußtsein weiter = идут они всё дальше и сознательно
+- in der Entfremdung gegen den Menschen = в отчуждении от человека,
+- als ihr Vorgänger = чем их предшественник, —
+- aber nur, weil ihre Wissenschaft = но лишь потому, что их наука
+- sich konsequenter und wahrer entwickelt = развивается последовательнее и правдивее
+
+[932] = Поскольку они делают субъектом частную собственность в её деятельной форме, т. е. делают сущностью одновременно человека и одновременно человека как не-сущность, противоречие действительности полностью соответствует противоречивой сущности, которую они признали своим принципом.
+- Indem sie das Privateigentum = Поскольку они частную собственность
+- in seiner tätigen Gestalt zum Subjekt machen = в её деятельной форме делают субъектом,
+- also zugleich den Menschen zum Wesen = т. е. одновременно человека — сущностью
+- und zugleich den Menschen als ein Unwesen zum Wesen machen = и одновременно человека как не-сущность — сущностью делают,
+- so entspricht der Widerspruch der Wirklichkeit = то противоречие действительности
+- vollständig dem widerspruchsvollen Wesen = полностью соответствует противоречивой сущности,
+- das sie als Prinzip erkannt haben = которую они признали своим принципом
+* unwesen = не-сущность, бесчинство | das Unwesen | сущ. | игра слов с Wesen — сущность
+
+[933] = Раздираемая противоречиями действительность промышленности не только не опровергает их внутренне раздираемый принцип, но подтверждает его.
+- Die zerrißne Wirklichkeit der Industrie = Разорванная действительность промышленности
+- bestätigt ihr in sich zerrißnes Prinzip = подтверждает их внутренне разорванный принцип,
+- weit entfernt, es zu widerlegen = отнюдь не опровергая его
+
+[934] = Ведь их принцип — это принцип этой разорванности. —
+- Ihr Prinzip ist ja = Их принцип ведь —
+- das Prinzip dieser Zerrissenheit = принцип этой разорванности. —
+
+[935] = Физиократическое учение доктора Кенэ образует переход от меркантилистской системы к Адаму Смиту.
+- Die physiokratische Lehre von Dr. Quesnay = Физиократическое учение доктора Кенэ
+- bildet den Übergang = образует переход
+- aus dem Merkantilsystem zu Adam Smith = от меркантилистской системы к Адаму Смиту
+* quesnay = Кенэ | | имя собств. | Франсуа Кенэ (1694–1774), основатель школы физиократов
+* dr = д-р | Doktor | сокр.
+
+[936] = Физиократия непосредственно есть политико-экономическое разложение феодальной собственности, но потому столь же непосредственно и её политико-экономическое преобразование, восстановление, с той лишь разницей, что её язык теперь уже не феодальный, а экономический.
+- Die Physiokratie ist unmittelbar = Физиократия непосредственно есть
+- die nationalökonomische Auflösung des Feudaleigentums = политико-экономическое разложение феодальной собственности,
+- aber darum ebenso unmittelbar = но поэтому столь же непосредственно
+- die nationalökonomische Umwandlung = политико-экономическое преобразование,
+- Wiederherstellung desselben = восстановление её,
+- nur daß seine Sprache nun = только что её язык теперь
+- nicht mehr feudal, sondern ökonomisch wird = уже не феодальный, а экономический
+
+[937] = Всё богатство сводится к земле и земледелию (агрикультуре).
+- Aller Reichtum wird aufgelöst = Всё богатство разлагается
+- in die Erde und den Landbau = на землю и земледелие
+- Agrikultur = (агрикультуру)
+
+[938] = Земля — ещё не капитал, это ещё особый способ его существования, который должен иметь значение в силу своей природной особенности и ради неё; но земля всё же — всеобщий, природный элемент, тогда как меркантилистская система знает как существование богатства лишь благородный металл.
+! Merkantilsystem nur < Merkantilsystern nur
+- Die Erde ist noch nicht Kapital = Земля ещё не капитал,
+- sie ist noch eine besondre Daseinsweise desselben = она ещё особый способ его существования,
+- die in ihrer und um ihrer natürlichen Besonderheit willen = который в своей и ради своей природной особенности
+- gelten soll = должен иметь значение;
+- aber die Erde ist doch = но земля всё же
+- ein allgemeines, natürliches Element = всеобщий, природный элемент,
+- während das Merkantilsystem = тогда как меркантилистская система
+- nur das edle Metall als Existenz des Reichtums kennt = лишь благородный металл как существование богатства знает
++ um willen = ради ~ um … willen
+
+[939] = Следовательно, предмет богатства, его материя, сразу получил высшую всеобщность в пределах природной границы — поскольку он как природа ещё непосредственно предметное богатство.
+- Der Gegenstand des Reichtums = Предмет богатства,
+- seine Materie = его материя,
+- hat also sogleich die höchste Allgemeinheit = получил, следовательно, сразу высшую всеобщность
+- innerhalb der Naturgrenze = в пределах природной границы —
+- insofern er noch als Natur = поскольку он ещё как природа
+- unmittelbar gegenständlicher Reichtum ist = непосредственно предметное богатство —
+- erhalten = (получил)
+
+[940] = А земля существует для человека лишь через труд, через земледелие.
+- Und die Erde ist nur durch die Arbeit = А земля есть лишь через труд,
+- die Agrikultur für den Menschen = через земледелие для человека
+
+[941] = Следовательно, субъективная сущность богатства уже переносится в труд.
+- Also wird schon das subjektive Wesen des Reichtums = Следовательно, субъективная сущность богатства уже
+- in die Arbeit versetzt = в труд переносится
+
+[942] = Но одновременно земледелие — единственный производительный труд.
+- Aber zugleich ist die Agrikultur = Но одновременно земледелие —
+- die einzig produktive Arbeit = единственно производительный труд
+
+[943] = Значит, труд ещё не понят в его всеобщности и абстракции, он ещё привязан к особому природному элементу как к своей материи, и потому он признан лишь в особом, определяемом природой способе существования.
+- Also ist die Arbeit noch nicht = Значит, труд ещё не
+- in ihrer Allgemeinheit und Abstraktion gefaßt = в его всеобщности и абстракции понят,
+- sie ist noch an ein besondres Naturelement = он ещё к особому природному элементу
+- als ihre Materie gebunden = как к своей материи привязан,
+- sie ist daher auch nur noch = он поэтому лишь ещё
+- in einer besonderen naturbestimmten Daseinsweise erkannt = в особом, определённом природой способе существования признан
+
+[944] = Поэтому он есть лишь определённое, особое отчуждение человека, подобно тому как и его продукт понимается ещё как определённое богатство, принадлежащее скорее природе, чем ему самому.
+- Sie ist daher erst = Он есть поэтому лишь
+- eine bestimmte, besondre Entäußerung des Menschen = определённое, особое отчуждение человека,
+- wie ihr Produkt noch als ein bestimmter = как и его продукт ещё как определённое —
+- mehr noch der Natur als ihr selbst anheimfallender = скорее природе, чем ему самому принадлежащее —
+- Reichtum gefaßt ist = богатство понимается
+
+[945] = Земля здесь ещё признаётся как независимое от человека природное бытие, ещё не как капитал, т. е. не как момент самого труда.
+- Die Erde wird hier noch = Земля здесь ещё
+- als von Menschen unabhängiges Naturdasein anerkannt = как независимое от людей природное бытие признаётся,
+- noch nicht als Kapital = ещё не как капитал,
+- d.h. als ein Moment der Arbeit selbst = т. е. как момент самого труда
+
+[946] = Скорее труд выступает как её момент.
+- Vielmehr erscheint die Arbeit = Скорее выступает труд
+- als ihr Moment = как её момент
+
+[947] = Но поскольку фетишизм старого внешнего, существующего лишь как предмет богатства сведён к очень простому природному элементу и его сущность уже — хотя лишь частично, особым образом — признана в своём субъективном существовании, необходимым шагом вперёд оказывается то, что познаётся всеобщая сущность богатства и потому труд в его полной абсолютности, т. е.
+- Indem aber der Fetischismus = Но поскольку фетишизм
+- des alten äußerlichen, nur als Gegenstand existierenden Reichtums = старого внешнего, лишь как предмет существующего богатства
+- auf ein sehr einfaches Naturelement reduziert = к очень простому природному элементу сведён
+- und sein Wesen schon = и его сущность уже,
+- wenn auch erst teilweise = хотя лишь частично,
+- auf eine besondre Weise = особым образом
+- in seiner subjektiven Existenz anerkannt ist = в своём субъективном существовании признана,
+- ist der notwendige Fortschritt = необходимый шаг вперёд в том,
+- daß das allgemeine Wesen des Reichtums erkannt = что всеобщая сущность богатства познаётся
+- und daher die Arbeit = и потому труд
+- in ihrer vollständigen Absolutheit = в его полной абсолютности,
+- d.h. = т. е.
+
+[948] = в абстракции, возводится в принцип.
+- Abstraktion, zum Prinzip erhoben wird = в абстракции, в принцип возводится
+
+[949] = Физиократии доказывают, что земледелие с экономической точки зрения — т. е. единственно правомерной — ничем не отличается от любой другой промышленности, что, следовательно, сущность богатства — не определённый труд, не связанный с особым элементом, не особое проявление труда, а труд вообще.
+- Es wird der Physiokratie bewiesen = Физиократии доказывается,
+- daß die Agrikultur in ökonomischer Hinsicht = что земледелие в экономическом отношении,
+- also der einzig berechtigten = т. е. единственно правомерном,
+- von keiner andren Industrie verschieden sei = ничем не отличается от другой промышленности,
+- also nicht eine bestimmte Arbeit = что, следовательно, не определённый труд,
+- eine an ein besondres Element gebundne = привязанный к особому элементу,
+- eine besondre Arbeitsäußerung = не особое проявление труда,
+- sondern die Arbeit überhaupt = а труд вообще
+- das Wesen des Reichtums sei = есть сущность богатства
+
+[950] = Физиократия отрицает особое внешнее, лишь предметное богатство, объявляя его сущностью труд.
+- Die Physiokratie leugnet = Физиократия отрицает
+- den besondren äußerlichen, nur gegenständlichen Reichtum = особое внешнее, лишь предметное богатство,
+- indem sie die Arbeit für sein Wesen erklärt = объявляя труд его сущностью
+
+[951] = Но сначала труд для неё — лишь субъективная сущность земельной собственности (она исходит из того вида собственности, который исторически выступает как господствующий и признанный); она позволяет лишь земельной собственности стать отчуждённым человеком.
+- Aber zunächst ist die Arbeit für sie nur = Но сначала труд для неё лишь
+- das subjektive Wesen des Grundeigentums = субъективная сущность земельной собственности
+- sie geht von der Art des Eigentums aus = (она исходит из того вида собственности,
+- welche historisch als die herrschende = который исторически как господствующий
+- und anerkannte erscheint = и признанный выступает);
+- sie läßt nur das Grundeigentum = она позволяет лишь земельной собственности
+- zum entäußerten Menschen werden = стать отчуждённым человеком
+
+[952] = Она упраздняет её феодальный характер, объявляя её сущностью промышленность (земледелие); но к миру промышленности она относится отрицательно, она признаёт феодализм, объявляя земледелие единственной промышленностью.
+- Sie hebt seinen Feudalcharakter auf = Она упраздняет её феодальный характер,
+- indem sie die Industrie = объявляя промышленность
+- Agrikultur = (земледелие)
+- für sein Wesen erklärt = её сущностью;
+- aber sie verhält sich leugnend = но она относится отрицательно
+- zur Welt der Industrie = к миру промышленности,
+- sie erkennt das Feudalwesen an = она признаёт феодальную сущность,
+- indem sie die Agrikultur = объявляя земледелие
+- für die einzige Industrie erklärt = единственной промышленностью
++ erkennt an = признаёт ~ anerkennen
+
+[953] = Само собой понятно, что как только постигается субъективная сущность промышленности, конституирующейся в противоположность земельной собственности, т. е. как промышленность, эта сущность заключает в себе и ту свою противоположность.
+- Es versteht sich = Само собой понятно,
+- daß, sobald nun das subjektive Wesen = что как только субъективная сущность
+- der im Gegensatz zum Grundeigentum = промышленности, в противоположность земельной собственности,
+- d.h. als Industrie = т. е. как промышленность,
+- sich konstituierenden Industrie = конституирующейся,
+- gefaßt wird = постигается,
+- dieses Wesen jenen seinen Gegensatz = эта сущность ту свою противоположность
+- in sich einschließt = в себе заключает
+
+[954] = Ибо как промышленность включает в себя снятую земельную собственность, так и её субъективная сущность охватывает одновременно субъективную сущность земельной собственности.
+- Denn wie die Industrie = Ибо как промышленность
+- das aufgehobne Grundeigentum = снятую земельную собственность (охватывает),
+- so umfaßt ihr subjektives Wesen = так её субъективная сущность охватывает
+- zugleich sein subjektives Wesen = одновременно и субъективную сущность той
+
+[955] = Как земельная собственность есть первая форма частной собственности, как промышленность сначала исторически противостоит ей лишь как особый вид собственности — или, скорее, есть освобождённый раб земельной собственности, — так и при научном постижении субъективной сущности частной собственности, труда, повторяется этот процесс: труд выступает сначала лишь как земледельческий труд, а затем утверждает себя как труд вообще.
+- Wie das Grundeigentum = Как земельная собственность
+- die erste Form des Privateigentums ist = есть первая форма частной собственности,
+- wie die Industrie ihr bloß = как промышленность ей лишь
+- als eine besondre Art des Eigentums = как особый вид собственности
+- zunächst historisch entgegentritt = сначала исторически противостоит —
+- oder vielmehr der freigelaßne Sklave = или, скорее, есть освобождённый раб
+- des Grundeigentums ist = земельной собственности, —
+- so wiederholt sich = так повторяется
+- bei der wissenschaftlichen Erfassung = при научном постижении
+- des subjektiven Wesens des Privateigentums = субъективной сущности частной собственности,
+- der Arbeit = труда,
+- dieser Prozeß = этот процесс,
+- und die Arbeit erscheint zuerst nur als Landbauarbeit = и труд выступает сначала лишь как земледельческий труд,
+- macht sich dann aber = но затем утверждает себя
+- als Arbeit überhaupt geltend = как труд вообще
++ macht sich geltend = утверждает себя, даёт о себе знать ~ sich geltend machen
+
+[956] = Всё богатство стало промышленным богатством, богатством труда, а промышленность — это завершённый труд, подобно тому как фабричная система — развитая сущность промышленности, т. е. труда, а промышленный капитал — завершённая объективная форма частной собственности. —
+- Aller Reichtum ist zum industriellen Reichtum = Всё богатство стало промышленным богатством,
+- zum Reichtum der Arbeit geworden = богатством труда,
+- und die Industrie ist die vollendete Arbeit = а промышленность — завершённый труд,
+- wie das Fabrikwesen = как фабричная система —
+- das ausgebildete Wesen der Industrie = развитая сущность промышленности,
+- d.h. der Arbeit ist = т. е. труда,
+- und das industrielle Kapital = а промышленный капитал —
+- die vollendete objektive Gestalt des Privateigentums ist = завершённая объективная форма частной собственности. —
+
+[957] = Мы видим, как лишь теперь частная собственность может завершить своё господство над человеком и в самой всеобщей форме стать всемирно-исторической силой. —
+- Wir sehn, wie auch nun erst = Мы видим, как лишь теперь
+- das Privateigentum seine Herrschaft über den Menschen = частная собственность своё господство над человеком
+- vollenden = завершить
+- und in allgemeinster Form = и в самой всеобщей форме
+- zur weltgeschichtlichen Macht werden kann = всемирно-исторической силой стать может. —
