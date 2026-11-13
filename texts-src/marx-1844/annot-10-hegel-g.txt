@@ -1,0 +1,274 @@
+[1613] = Поэтому его мысли — обитающие вне природы и человека фиксированные духи.
+! außer der Natur < außer den Natur
+- Seine Gedanken sind daher = Его мысли поэтому —
+- außer der Natur und dem Menschen hausende fixe Geister = обитающие вне природы и человека фиксированные духи
+* geister = духи | der Geist | сущ. | fixe Geister — игра с fixe Idee, «навязчивая идея»
+
+[1614] = Гегель запер в своей логике все эти фиксированные духи, понимая каждого из них сначала как отрицание, т. е. как овнешнение человеческого мышления, затем как отрицание отрицания, т. е. как снятие этого овнешнения, как действительное проявление человеческого мышления; но так как оно само ещё сковано отчуждением, это отрицание отрицания есть отчасти восстановление их в их отчуждении, отчасти остановка на последнем акте, отнесение себя к себе в овнешнении как в истинном бытии этих фиксированных духов [B], отчасти же, поскольку эта абстракция постигает самоё себя и испытывает от самой себя бесконечную скуку, у Гегеля отказ от абстрактного, движущегося лишь в мышлении мышления, которое без глаз, без зубов, без ушей, без всего, выступает как решимость признать природу сущностью и перейти к созерцанию.)
+! in seiner Logik < in seinen Logik
+! als Negation der Negation, d.h. als Aufhebung dieser Entäußerung < als Negation den Negation, d.h. als Aufhebung diesen Entäußerung
+! in der Entfremdung befangen < in den Entfremdung befangen
+! diese Negation der Negation < diese Negation den Negation
+! in ihrer Entfremdung < in ihren Entfremdung
+! in der Entäußerung, als < in den Entäußerung, als
+! nur im Denken < nun im Denken
+- Hegel hat in seiner Logik = Гегель в своей логике
+- alle diese fixen Geister zusammengesperrt = все эти фиксированные духи запер,
+- jeden derselben einmal als Negation = каждого из них сначала как отрицание,
+- d.h. als Entäußerung des menschlichen Denkens = т. е. как овнешнение человеческого мышления,
+- dann als Negation der Negation = затем как отрицание отрицания,
+- d.h. als Aufhebung dieser Entäußerung = т. е. как снятие этого овнешнения,
+- als wirkliche Äußerung des menschlichen Denkens gefaßt = как действительное проявление человеческого мышления понимая;
+- aber da = но так как
+- als selbst noch in der Entfremdung befangen = оно само ещё сковано отчуждением, —
+- ist diese Negation der Negation = это отрицание отрицания есть
+- teils das Wiederherstellen derselben in ihrer Entfremdung = отчасти восстановление их в их отчуждении,
+- teils das Stehnbleiben bei dem letzten Akt = отчасти остановка на последнем акте,
+- das Sichaufsichbeziehn in der Entäußerung = отнесение себя к себе в овнешнении
+- als dem wahren Dasein dieser fixen Geister [B] = как в истинном бытии этих фиксированных духов [B],
+- teils insofern diese Abstraktion sich selbst erfaßt = отчасти же, поскольку эта абстракция постигает самоё себя
+- und über sich selbst eine unendliche Langweile empfindet = и испытывает от самой себя бесконечную скуку,
+- erscheint bei Hegel das Aufgeben des abstrakten = у Гегеля отказ от абстрактного,
+- nur im Denken sich bewegenden Denkens = движущегося лишь в мышлении мышления,
+- das ohne Aug’, ohn’ Zahn, ohn’ Ohr, ohn’ alles ist = которое без глаз, без зубов, без ушей, без всего,
+- als Entschließung = выступает как решимость
+- die Natur als Wesen anzuerkennen = признать природу сущностью
+- und sich auf die Anschauung zu verlegen = и перейти к созерцанию.)
++ sich auf verlegen = перейти к, взяться за ~ sich auf etwas verlegen
+* geister = духи | der Geist | сущ. | fixe Geister — «навязчивые идеи»
+
+[1615] = Но и природа, взятая абстрактно, сама по себе, фиксированная в отделённости от человека, есть для человека ничто.
+! in der Trennung < in den Trennung
+- Aber auch die Natur, abstrakt genommen, für sich = Но и природа, взятая абстрактно, сама по себе,
+- in der Trennung vom Menschen fixiert = фиксированная в отделённости от человека,
+- ist für den Menschen nichts = для человека — ничто
+
+[1616] = Само собой разумеется, что абстрактное мышление, решившееся на созерцание, созерцает её абстрактно.
+! Daß das abstrakte Denken, das sich < Daß den abstrakte Denken, den sich
+- Daß das abstrakte Denken = Что абстрактное мышление,
+- das sich zum Anschauen entschlossen hat = решившееся на созерцание,
+- sie abstrakt anschaut = созерцает её абстрактно, —
+- versteht sich von selbst = само собой разумеется
++ versteht sich von selbst = само собой разумеется ~ sich von selbst verstehen
+
+[1617] = Подобно тому как природа была заключена мышлением в его скрытой от него самого и загадочной форме как абсолютная идея, как мысленная вещь, так оно поистине, отпустив её из себя, отпустило из себя лишь эту абстрактную природу — но лишь со значением, что она есть инобытие мысли, что она есть действительная, созерцаемая, отличная от абстрактного мышления природа, — лишь мысленную вещь природы.
+! in seiner ihm selbst < in seinen ihm selbst
+! aber nur mit der Bedeutung < aber nun mit den Bedeutung
+! ist – nur das Gedankending < ist – nun das Gedankending
+- Wie die Natur = Подобно тому как природа
+- von dem Denken in seiner ihm selbst verborgnen und rätselhaften Gestalt = мышлением в его скрытой от него самого и загадочной форме,
+- als absolute Idee, als Gedankending eingeschlossen lag = как абсолютная идея, как мысленная вещь, была заключена,
+- so hat er in Wahrheit = так оно поистине,
+- indem er sie aus sich entlassen hat = отпустив её из себя,
+- nur diese abstrakte Natur = лишь эту абстрактную природу —
+- aber nur mit der Bedeutung = но лишь со значением,
+- daß sie das Anderssein des Gedankens ist = что она — инобытие мысли,
+- daß sie die wirkliche angeschaute, vom abstrakten Denken unterschiedne Natur ist = что она действительная, созерцаемая, отличная от абстрактного мышления природа, —
+- nur das Gedankending der Natur aus sich entlassen = лишь мысленную вещь природы из себя отпустило
+
+[1618] = Или, говоря человеческим языком, абстрактный мыслитель при своём созерцании природы узнаёт, что сущности, которые он думал создать в божественной диалектике из ничего, из чистой абстракции, как чистые продукты ткущей в себе самой и нигде не выглядывающей в действительность работы мышления, суть не что иное, как абстракции от природных определений.
+! seiner Naturanschauung erfährt der abstrakte Denker < seinen Naturanschauung erfährt den abstrakte Denken
+! in der göttlichen < in den göttlichen
+- Oder, um eine menschliche Sprache zu reden = Или, говоря человеческим языком,
+- bei seiner Naturanschauung = при своём созерцании природы
+- erfährt der abstrakte Denker = абстрактный мыслитель узнаёт,
+- daß die Wesen = что сущности,
+- welche er in der göttlichen Dialektik = которые он в божественной диалектике
+- als reine Produkte der in sich selbst webenden = как чистые продукты ткущей в себе самой
+- und nirgends in die Wirklichkeit hinausschauenden Arbeit des Denkens = и нигде не выглядывающей в действительность работы мышления
+- aus dem Nichts, aus der puren Abstraktion zu schaffen meinte = из ничего, из чистой абстракции думал создать,
+- nichts andres sind, als Abstraktionen von Naturbestimmungen = суть не что иное, как абстракции от природных определений
+
+[1619] = Вся природа лишь повторяет ему, следовательно, в чувственной, внешней форме логические абстракции. — Он анализирует её — и снова эти абстракции.
+! in einer sinnlichen < in einen sinnlichen
+- Die ganze Natur wiederholt ihm also nur = Вся природа лишь повторяет ему, следовательно,
+- in einer sinnlichen, äußerlichen Form = в чувственной, внешней форме
+- die logischen Abstraktionen = логические абстракции. —
+- Er analysiert sie und diese Abstraktionen wieder = Он анализирует её — и снова эти абстракции
+
+[1620] = Его созерцание природы есть, следовательно, лишь акт подтверждения его абстракции от созерцания природы, сознательно повторяемый им процесс порождения его абстракции.
+! nur der Bestätigungsakt seiner Abstraktion von der Naturanschauung < nun den Bestätigungsakt seinen Abstraktion von den Naturanschauung
+! Zeugungsgang seiner < Zeugungsgang seinen
+- Seine Naturanschauung ist also = Его созерцание природы есть, следовательно,
+- nur der Bestätigungsakt seiner Abstraktion = лишь акт подтверждения его абстракции
+- von der Naturanschauung = от созерцания природы,
+- der von ihm mit Bewußtsein wiederholte Zeugungsgang seiner Abstraktion = сознательно повторяемый им процесс порождения его абстракции
+
+[1621] = Так, например, время есть отрицательность, относящаяся к себе (с. 238, там же).
+- So ist z.B. die Zeit = Так, например, время есть
+- Negativität, die sich auf sich bezieht = отрицательность, относящаяся к себе
+- p.238 l.c. = (с. 238, там же)
+* l = там | | лат. | l. c. = loco citato — в указанном месте
+* c = же | | лат. | l. c. = loco citato — в указанном месте
+* p = с. | | сокр. | p. = pagina — страница
+
+[1622] = Снятому становлению как наличному бытию соответствует в природной форме снятое движение как материя.
+! in natürlicher Form < in natürlichen Form
+- Dem aufgehobnen Werden als Dasein = Снятому становлению как наличному бытию
+- entspricht in natürlicher Form = соответствует в природной форме —
+- die aufgehobne Bewegung als Materie = снятое движение как материя
+
+[1623] = Свет есть природная форма рефлексии в себя.
+- Das Licht ist = Свет есть —
+- die natürliche Form = природная форма —
+- die Reflexion in sich = рефлексии в себя
+
+[1624] = Тело как луна и комета есть природная форма противоположности, которая, согласно логике, есть, с одной стороны, покоящееся на самом себе положительное, с другой — покоящееся на самом себе отрицательное.
+! der nach der Logik < den nach den Logik
+- Der Körper als Mond und Komet ist = Тело как луна и комета есть —
+- die natürliche Form = природная форма —
+- des Gegensatzes = противоположности,
+- der nach der Logik = которая, согласно логике,
+- einerseits das auf sich selbst ruhende Positive = с одной стороны — покоящееся на самом себе положительное,
+- andrerseits das auf sich selbst ruhende Negative ist = с другой — покоящееся на самом себе отрицательное
+
+[1625] = Земля есть природная форма логического основания как отрицательного единства противоположности и т. д.
+- Die Erde ist die natürliche Form des logischen Grundes = Земля есть природная форма логического основания
+- als negative Einheit des Gegensatzes etc. = как отрицательного единства противоположности и т. д.
+
+[1626] = Природа как природа, т. е. поскольку она чувственно ещё отличается от того тайного, скрытого в ней смысла, природа, отделённая, отличённая от этих абстракций, есть ничто, ничто, подтверждающее себя как ничто, она бессмысленна или имеет лишь смысл внешности, которая должна быть снята.
+! in ihr verborgnen < in ihn verborgnen
+! hat nur den Sinn < hat nun den Sinn
+- Die Natur als Natur = Природа как природа,
+- d.h. insofern sie sich sinnlich noch unterscheidet = т. е. поскольку она чувственно ещё отличается
+- von jenem geheimen, in ihr verborgnen Sinn = от того тайного, скрытого в ней смысла,
+- die Natur getrennt, unterschieden von diesen Abstraktionen = природа, отделённая, отличённая от этих абстракций,
+- ist Nichts = есть ничто,
+- ein sich als Nichts bewährendes Nichts = ничто, подтверждающее себя как ничто,
+- ist sinnlos = она бессмысленна
+- oder hat nur den Sinn einer Äußerlichkeit = или имеет лишь смысл внешности,
+- die aufgehoben werden muß = которая должна быть снята
+
+[1627] = «В конечно-телеологической точке зрения содержится ничтожная предпосылка, будто природа не содержит абсолютной цели в самой себе». С. 225 [§ 245].
+! in ihr selbst enthält < in ihn selbst enthält
+- In dem endlich-teleologischen Standpunkt = «В конечно-телеологической точке зрения
+- findet sich die nichtige Voraussetzung = содержится ничтожная предпосылка,
+- daß die Natur den absoluten Zweck = будто природа абсолютной цели
+- nicht in ihr selbst enthält = не содержит в самой себе»
+- p.225 [§ 245] = С. 225 [§ 245]
+* p = с. | | сокр. | p. = pagina — страница
+
+[1628] = Её цель — подтверждение абстракции.
+! Bestätigung der Abstraktion < Bestätigung den Abstraktion
+- Ihr Zweck ist die Bestätigung der Abstraktion = Её цель — подтверждение абстракции
+
+[1629] = «Природа оказалась идеей в форме инобытия.
+! in der Form < in den Form
+- Die Natur hat sich als die Idee = «Природа оказалась идеей
+- in der Form des Andersseins ergeben = в форме инобытия
++ hat sich ergeben = оказалась ~ sich ergeben als
+
+[1630] = Так как идея есть, таким образом, отрицательное самой себя, или внешня себе, то природа внешня не только относительно этой идеи, а внешность составляет то определение, в котором она есть как природа». С.
+- Da die Idee so als das Negative ihrer selbst = Так как идея, таким образом, как отрицательное самой себя
+- oder sich äußerlich ist = или как внешняя себе есть,
+- so ist die Natur nicht äußerlich, nur relativ gegen diese Idee = то природа внешня не только относительно этой идеи,
+- sondern die Äußerlichkeit macht die Bestimmung aus = а внешность составляет определение,
+- in welcher sie als Natur ist = в котором она есть как природа»
+- p. = С.
++ macht aus = составляет ~ ausmachen
+* p = с. | | сокр. | p. = pagina — страница
+
+[1631] = 227 [§ 247].
+- 227 [§ 247] = 227 [§ 247]
+
+[1632] = Внешность здесь следует понимать не как проявляющую себя и открытую свету, чувственному человеку чувственность.
+- Die Äußerlichkeit ist hier nicht = Внешность здесь не
+- als die sich äußernde und dem Licht = как проявляющую себя и открытую свету,
+- dem sinnlichen Menschen erschloßne Sinnlichkeit = чувственному человеку чувственность
+- zu verstehn = следует понимать
+
+[1633] = Внешность здесь следует понимать в смысле овнешнения, изъяна, недостатка, которого не должно быть.
+! im Sinne der Entäußerung < im Sinne den Entäußerung
+- Die Äußerlichkeit ist hier = Внешность здесь следует
+- im Sinne der Entäußerung = в смысле овнешнения,
+- eines Fehlens, eines Gebrechens, das nicht sein soll = изъяна, недостатка, которого не должно быть,
+- zu nehmen = понимать
+
+[1634] = Ибо истинное — это всё ещё идея.
+- Denn das Wahre ist immer noch die Idee = Ибо истинное — всё ещё идея
+
+[1635] = Природа — лишь форма её инобытия.
+- Die Natur ist nur die Form ihres Andersseins = Природа — лишь форма её инобытия
+
+[1636] = А так как абстрактное мышление есть сущность, то то, что ему внешне, есть по своей сущности лишь нечто внешнее.
+- Und da das abstrakte Denken das Wesen ist = А так как абстрактное мышление — сущность,
+- so ist das, was ihm äußerlich ist = то то, что ему внешне,
+- seinem Wesen nach ein nur Äußerliches = по своей сущности лишь нечто внешнее
+
+[1637] = Абстрактный мыслитель признаёт вместе с тем, что чувственность, внешность в противоположность ткущему в себе мышлению есть сущность природы.
+! das Wesen der Natur < das Wesen den Natur
+- Der abstrakte Denker erkennt zugleich an = Абстрактный мыслитель признаёт вместе с тем,
+- daß die Sinnlichkeit das Wesen der Natur ist = что чувственность есть сущность природы,
+- die Äußerlichkeit im Gegensatz zu dem in sich webenden Denken = внешность в противоположность ткущему в себе мышлению
++ erkennt an = признаёт ~ anerkennen
+
+[1638] = Но вместе с тем он высказывает эту противоположность так, что эта внешность природы есть её противоположность мышлению, её недостаток, что она, поскольку отличается от абстракции, есть ущербная сущность.
+- Aber zugleich spricht er diesen Gegensatz so aus = Но вместе с тем он высказывает эту противоположность так,
+- daß diese Äußerlichkeit der Natur = что эта внешность природы —
+- ihr Gegensatz zum Denken, ihr Mangel = её противоположность мышлению, её недостаток,
+- daß sie, insofern sie sich von der Abstraktion unterscheidet = что она, поскольку отличается от абстракции,
+- ein mangelhaftes Wesen ist = есть ущербная сущность
++ spricht aus = высказывает ~ aussprechen
+
+[1639] = Сущность, ущербная не только для меня, в моих глазах, а ущербная сама по себе, имеет вне себя нечто такое, чего ей недостаёт.
+! nicht nur für mich < nicht nun für mich
+! etwas außer sich < etwas außen sich
+- Ein nicht nur für mich, in meinen Augen mangelhaftes = Ущербная не только для меня, в моих глазах,
+- ein an sich selbst mangelhaftes Wesen = а ущербная сама по себе сущность
+- hat etwas außer sich = имеет вне себя нечто,
+- was ihm mangelt = чего ей недостаёт
+
+[1640] = Т. е. её сущность — иная, чем она сама.
+- D.h. sein Wesen ist ein andres als es selbst = Т. е. её сущность — иная, чем она сама
+
+[1641] = Природа должна поэтому сама себя снять для абстрактного мыслителя, так как она уже положена им как в возможности снятая сущность.
+! für den abstrakten Denker < für den abstrakten Denken
+! ein der Potenz nach < ein den Potenz nach
+- Die Natur muß sich daher selbst aufheben = Природа должна поэтому сама себя снять
+- für den abstrakten Denker = для абстрактного мыслителя,
+- weil sie schon von ihm = так как она уже им
+- als ein der Potenz nach aufgehobenes Wesen gesetzt ist = положена как в возможности снятая сущность
+* potenz = возможность | die Potenz | сущ. | der Potenz nach — в возможности
+
+[1642] = «Дух имеет для нас своей предпосылкой природу, истиной которой и тем самым её абсолютно первым он является.
+- Der Geist hat für uns die Natur zu seiner Voraussetzung = «Дух имеет для нас своей предпосылкой природу,
+- deren Wahrheit und damit deren absolutes Erstes er ist = истиной которой и тем самым её абсолютно первым он является
+
+[1643] = В этой истине природа исчезла, и дух оказался идеей, достигшей своего для-себя-бытия, объектом которой, так же как и субъектом, является понятие.
+! und der Geist hat < und den Geist hat
+- In dieser Wahrheit ist die Natur verschwunden = В этой истине природа исчезла,
+- und der Geist hat sich als die zu ihrem Fürsichsein gelangte Idee ergeben = и дух оказался идеей, достигшей своего для-себя-бытия,
+- deren Objekt ebensowohl als das Subjekt der Begriff ist = объектом которой, так же как и субъектом, является понятие
+
+[1644] = Это тождество есть абсолютная отрицательность, потому что в природе понятие имеет свою совершенную внешнюю объективность, но это его овнешнение снято, и оно стало в нём тождественным с собой.
+- Diese Identität ist absolute Negativität = Это тождество есть абсолютная отрицательность,
+- weil in der Natur der Begriff = потому что в природе понятие
+- seine vollkommene äußerliche Objektivität hat = имеет свою совершенную внешнюю объективность,
+- diese seine Entäußerung aber aufgehoben = но это его овнешнение снято,
+- und er in dieser sich identisch mit sich geworden ist = и оно стало в нём тождественным с собой
+
+[1645] = Поэтому оно есть это тождество лишь как возвращение из природы». С. 392 [§ 381].
+! somit nur als Zurückkommen aus der Natur < somit nun als Zurückkommen aus den Natur
+- Er ist diese Identität somit = Оно есть это тождество, следовательно,
+- nur als Zurückkommen aus der Natur = лишь как возвращение из природы»
+- p.392 [§ 381] = С. 392 [§ 381]
+* p = с. | | сокр. | p. = pagina — страница
+
+[1646] = «Откровение, которое как абстрактная идея есть непосредственный переход, становление природы, есть как откровение духа, который свободен, полагание природы как его мира; полагание, которое как рефлексия есть вместе с тем предпосылание мира как самостоятельной природы.
+- Das Offenbaren = «Откровение,
+- welches als die abstrakte Idee unmittelbarer Übergang, Werden der Natur ist = которое как абстрактная идея есть непосредственный переход, становление природы,
+- ist als Offenbaren des Geistes, der frei ist = есть как откровение духа, который свободен,
+- Setzen der Natur als seiner Welt = полагание природы как его мира;
+- ein Setzen, das als Reflexion zugleich = полагание, которое как рефлексия вместе с тем есть
+- Voraussetzen der Welt als selbständiger Natur ist = предпосылание мира как самостоятельной природы
+
+[1647] = Откровение в понятии есть сотворение её как его бытия, в котором он даёт себе утверждение и истину своей свободы».
+- Das Offenbaren im Begriffe = Откровение в понятии
+- ist Erschaffen derselben als seines Seins = есть сотворение её как его бытия,
+- in welchem er die Affirmation und Wahrheit seiner Freiheit sich gibt = в котором он даёт себе утверждение и истину своей свободы»
+
+[1648] = «Абсолютное есть дух — таково высшее определение абсолютного». [С. 393, § 384.]
+- Das Absolute ist der Geist = «Абсолютное есть дух:
+- dies ist die höchste Definition des Absoluten = таково высшее определение абсолютного»
+- p.393, § 384. = [С. 393, § 384.]
+* p = с. | | сокр. | p. = pagina — страница

@@ -1,0 +1,395 @@
+[1375] = Критика гегелевской диалектики и философии вообще
+- Kritik der Hegelschen Dialektik und Philosophie überhaupt = Критика гегелевской диалектики и философии вообще
+
+[1376] = 6) Здесь, пожалуй, уместно сделать некоторые замечания как для уяснения и обоснования гегелевской диалектики вообще, так и в особенности её разработки в «Феноменологии» и «Логике», и, наконец, об отношении к ней новейшего критического движения. —
+- 6. An diesem Punkte = 6) В этом пункте
+- ist vielleicht der Ort = пожалуй, уместно
+- sowohl zur Verständigung und Berechtigung = как для уяснения и обоснования
+- über die Hegelsche Dialektik überhaupt = гегелевской диалектики вообще,
+- als namentlich über ihre Ausführung = так и в особенности её разработки
+- in der Phänomenologie und Logik = в «Феноменологии» и «Логике»,
+- endlich über das Verhältnis der neuern kritischen Bewegung = наконец, об отношении к ней новейшего критического движения
+- einige Andeutungen zu geben = сделать некоторые замечания. —
+
+[1377] = Занятие содержанием старого мира, скованное материалом развитие современной немецкой критики было столь бурным, что имели место совершенно некритическое отношение к методу критики и полная бессознательность насчёт кажущегося формальным, а на деле существенного вопроса: как же нам теперь быть с гегелевской диалектикой?
+- Die Beschäftigung mit dem Inhalt der alten Welt = Занятие содержанием старого мира,
+- die von dem Stoff befangne Entwicklung = скованное материалом развитие
+- der modernen deutschen Kritik = современной немецкой критики
+- war so gewaltsam = было столь бурным,
+- daß ein völlig kritikloses Verhalten = что совершенно некритическое отношение
+- zur Methode des Kritisierens = к методу критики
+- und eine völlige Bewußtlosigkeit = и полная бессознательность
+- über die scheinbar formelle = насчёт кажущегося формальным,
+- aber wirklich wesentliche Frage = а на деле существенного вопроса
+- stattfand = имели место:
+- wie halten wir es nun mit der Hegelschen Dialektik = как же нам теперь быть с гегелевской диалектикой?
++ halten es mit = как быть с ~ es mit etwas halten
+
+[1378] = Бессознательность — насчёт отношения современной критики к гегелевской философии вообще и к диалектике в особенности — была так велика, что такие критики, как Штраус и Бруно Бауэр, первый полностью, второй в своих «Синоптиках» (где он, в противовес Штраусу, ставит «самосознание» абстрактного человека на место субстанции «абстрактной природы») и даже ещё в «Раскрытом христианстве», по крайней мере в возможности, всё ещё целиком остаются в плену гегелевской логики.
+- Die Bewußtlosigkeit = Бессознательность —
+- über das Verhältnis der modernen Kritik = насчёт отношения современной критики
+- zur Hegelschen Philosophie überhaupt = к гегелевской философии вообще
+- und zur Dialektik namentlich = и к диалектике в особенности —
+- war so groß = была так велика,
+- daß Kritiker wie Strauß und Bruno Bauer = что такие критики, как Штраус и Бруно Бауэр,
+- der erstere vollständig = первый полностью,
+- der zweite in seinen „Synoptikern“ = второй в своих «Синоптиках»
+- wo er dem Strauß gegenüber = (где он в противовес Штраусу
+- das „Selbstbewußtsein“ des abstrakten Menschen = «самосознание» абстрактного человека
+- an die Stelle der Substanz der „abstrakten Natur“ stellt = ставит на место субстанции «абстрактной природы»)
+- und selbst noch im Entdeckten Christentum = и даже ещё в «Раскрытом христианстве»,
+- wenigstens der Potenz nach = по крайней мере в возможности,
+- noch vollständig innerhalb der Hegelschen Logik = всё ещё целиком в пределах гегелевской логики
+- befangen sind = остаются в плену
+* potenz = возможность | die Potenz | сущ. | der Potenz nach — потенциально, в возможности
+
+[1379] = Так, например, в «Раскрытом христианстве» говорится:
+- So heißt es z.B. = Так, например, говорится
+- in dem Entdeckten Christentum = в «Раскрытом христианстве»:
+
+[1380] = «Как будто самосознание, полагая мир, различие и производя в том, что оно производит, само себя, поскольку оно снова снимает различие произведённого от него самого, поскольку оно есть оно само лишь в производстве и в движении, — как будто оно не имело в этом движении своей цели» и т. д., или: «Они (французские материалисты) ещё не смогли увидеть, что движение универсума лишь как движение самосознания действительно стало для себя и сошлось в единство с самим собой».
+- Als ob nicht das Selbstbewußtsein = «Как будто самосознание,
+- indem es die Welt, den Unterschied setzt = полагая мир, различие
+- und in dem, was es hervorbringt = и в том, что оно производит,
+- sich selbst hervorbringt = производя само себя,
+- da es den Unterschied des Hervorgebrachten von ihm selbst = поскольку оно различие произведённого от него самого
+- wieder aufhebt = снова снимает,
+- da es nur im Hervorbringen und in der Bewegung es selber ist = поскольку оно есть оно само лишь в производстве и в движении, —
+- als ob es nicht in dieser Bewegung seinen Zweck hätte = как будто оно не имело в этом движении своей цели»
+- etc. oder = и т. д., или:
+- Sie = «Они
+- die französischen Materialisten = (французские материалисты)
+- haben noch nicht sehn können = ещё не смогли увидеть,
+- daß die Bewegung des Universums = что движение универсума
+- erst als die Bewegung des Selbstbewußtseins = лишь как движение самосознания
+- wirklich für sich geworden = действительно стало для себя
+- und zur Einheit mit ihr selbst zusammengegangen ist = и сошлось в единство с самим собой»
+* aufhebt = снимает | aufheben | гл. | гегелевский термин: и упраздняет, и сохраняет
+
+[1381] = Выражения, которые даже по языку не обнаруживают никакого отличия от гегелевского понимания, а, напротив, дословно его повторяют.
+- Ausdrücke = Выражения,
+- die auch nicht einmal in der Sprache = которые даже по языку
+- einen Unterschied von der Hegelschen Auffassung zeigen = не обнаруживают никакого отличия от гегелевского понимания,
+- sondern sie vielmehr wörtlich wiederholen = а, напротив, дословно его повторяют
+
+[1382] = Как мало во время акта критики (Бауэр, «Синоптики») было сознания отношения к гегелевской диалектике, как мало это сознание возникло и после акта предметной критики, доказывает Бауэр, когда в своём «Добром деле свободы» он отклоняет нескромный вопрос господина Группе «а что же теперь с логикой?» тем, что отсылает его к будущим критикам.
+! Freiheit die < Frei-heit die
+- Wie wenig während des Akts der Kritik = Как мало во время акта критики
+- Bauer, die „Synoptiker“ = (Бауэр, «Синоптики»)
+- ein Bewußtsein vorhanden war = было сознания
+- über das Verhältnis zur Hegelschen Dialektik = отношения к гегелевской диалектике,
+- wie wenig dieses Bewußtsein = как мало это сознание
+- auch nach dem Akt der stofflichen Kritik entstand = и после акта предметной критики возникло,
+- beweist Bauer = доказывает Бауэр,
+- wenn er in seiner Guten Sache der Freiheit = когда он в своём «Добром деле свободы»
+- die vorlaute Frage des Herrn Gruppe = нескромный вопрос господина Группе
+- was nun mit der Logik = «а что же теперь с логикой?»
+- dadurch abweist = тем отклоняет,
+- daß er ihn auf kommende Kritiker verweist = что отсылает его к будущим критикам
+
+[1383] = Но и теперь, после того как Фейербах — как в своих «Тезисах» в «Anecdota», так и подробно в «Философии будущего» — в зародыше опрокинул старую диалектику и философию; после того как, напротив, та критика, которая вовсе не сумела совершить это дело, зато увидела его совершённым, провозгласила себя чистой, решительной, абсолютной, пришедшей к ясности насчёт самой себя критикой; после того как она в своём спиритуалистическом высокомерии свела всё историческое движение к отношению остального мира — который рядом с ней подпадает под категорию «массы» — к ней самой и растворила все догматические противоположности в одной догматической противоположности её собственной мудрости и глупости мира, критического Христа и человечества как «толпы»; после того как она ежедневно и ежечасно доказывала своё превосходство на бездуховности массы; после того как она, наконец, возвестила критический Страшный суд в том виде, что близится день, когда всё падшее человечество сплотится против неё, будет ею рассортировано по группам и каждая особая толпа получит своё свидетельство о бедности; после того как она напечатала о своём возвышении над человеческими чувствами, как и над миром, над которым она, восседая в возвышенном одиночестве, лишь время от времени позволяет раздаваться со своих саркастических уст хохоту олимпийских богов, — после всех этих забавных выходок умирающего в форме критики идеализма (младогегельянства) он не высказал даже догадки, что теперь пора критически разобраться со своей матерью — гегелевской диалектикой, и даже не сумел указать никакого критического отношения к фейербаховской диалектике.
+- Aber auch nun = Но и теперь,
+- nachdem Feuerbach = после того как Фейербах —
+- sowohl in seinen „Thesen“ in den Anecdotis = как в своих «Тезисах» в «Anecdota»,
+- als ausführlich in der Philosophie der Zukunft = так и подробно в «Философии будущего» —
+- die alte Dialektik und Philosophie = старую диалектику и философию
+- dem Keim nach umgeworfen hat = в зародыше опрокинул;
+- nachdem dagegen jene Kritik = после того как, напротив, та критика,
+- welche diese Tat gar nicht zu vollbringen wußte = которая вовсе не сумела совершить это дело,
+- dagegen die Tat vollbracht sah = зато увидела его совершённым,
+- als reine, entschiedne, absolute = чистой, решительной, абсолютной,
+- mit sich ins klare gekommene Kritik ausgerufen = пришедшей к ясности насчёт себя критикой себя провозгласила;
+- nachdem sie in ihrem spiritualistischen Hochmut = после того как она в своём спиритуалистическом высокомерии
+- die ganze geschichtliche Bewegung = всё историческое движение
+- auf das Verhältnis der übrigen Welt = к отношению остального мира —
+- die ihr gegenüber unter die Kategorie der „Masse“ fällt = который рядом с ней подпадает под категорию «массы» —
+- zu ihr selbst reduziert = к ней самой свела
+- und alle dogmatischen Gegensätze = и все догматические противоположности
+- in dem einen dogmatischen Gegensatz = в одной догматической противоположности
+- ihrer eignen Klugheit und der Dummheit der Welt = её собственной мудрости и глупости мира,
+- des kritischen Christus und der Menschheit = критического Христа и человечества
+- als den „Haufen„ = как «толпы»
+- aufgelöst hat = растворила;
+- nachdem sie ihre eigne Vortrefflichkeit = после того как она своё собственное превосходство
+- täglich und stündlich = ежедневно и ежечасно
+- an der Geistlosigkeit der Masse bewiesen hat = на бездуховности массы доказывала;
+- nachdem sie endlich das kritische jüngste Gericht = после того как она, наконец, критический Страшный суд
+- unter der Gestalt verkündigt hat = в таком виде возвестила,
+- daß der Tag herannahe = что близится день,
+- wo die ganze verfallende Menschheit = когда всё падшее человечество
+- ihr gegenüber sich scharen werde = против неё сплотится,
+- von ihr in Gruppen sondiert = будет ею рассортировано по группам
+- und jeder besondre Haufen = и каждая особая толпа
+- sein testimonium paupertatis erhalten werde = получит своё свидетельство о бедности;
+- nachdem sie ihre Erhabenheit über menschliche Empfindungen = после того как она о своём возвышении над человеческими чувствами,
+- wie über die Welt = как и над миром,
+- über welche sie in erhabener Einsamkeit thronend = над которым она, восседая в возвышенном одиночестве,
+- nur von Zeit zu Zeit = лишь время от времени
+- das Gelächter der olympischen Götter = хохоту олимпийских богов
+- von ihren sarkastischen Lippen schallen läßt = позволяет раздаваться со своих саркастических уст, —
+- hat drucken lassen = напечатала, —
+- nach allen diesen ergötzlichen Gebarungen = после всех этих забавных выходок
+- des unter der Form der Kritik verscheidenden Idealismus = умирающего в форме критики идеализма
+- des Junghegeltums = (младогегельянства)
+- hat er auch nicht einmal die Ahnung ausgesprochen = он не высказал даже догадки,
+- daß man sich nun kritisch = что теперь надо критически
+- mit seiner Mutter, der Hegelschen Dialektik = со своей матерью, гегелевской диалектикой,
+- auseinanderzusetzen habe = разобраться,
+- ja selbst als kein kritisches Verhältnis = и даже никакого критического отношения
+- zur Feuerbachischen Dialektik anzugeben gewußt = к фейербаховской диалектике указать не сумел
++ ins klare gekommene = пришедшая к ясности ~ mit sich ins Klare kommen
+* anecdotis = «Anecdota» | Anecdota | лат. | сборник «Anekdota zur neuesten deutschen Philosophie und Publicistik» (1843)
+* testimonium = свидетельство | | лат. | testimonium paupertatis — свидетельство о бедности
+* paupertatis = о бедности | | лат.
+
+[1384] = Совершенно некритическое отношение к самому себе.
+- Ein völliges unkritisches Verhalten zu sich selbst = Совершенно некритическое отношение к самому себе
+
+[1385] = Фейербах — единственный, кто относится к гегелевской диалектике серьёзно, критически, кто сделал в этой области подлинные открытия и вообще является истинным победителем старой философии.
+- Feuerbach ist der einzige = Фейербах — единственный,
+- der ein ernsthaftes, ein kritisches Verhältnis = кто серьёзно, критически
+- zur Hegelschen Dialektik hat = относится к гегелевской диалектике
+- und wahrhafte Entdeckungen = и подлинные открытия
+- auf diesem Gebiete gemacht hat = в этой области сделал,
+- überhaupt der wahre Überwinder der alten Philosophie ist = и вообще истинный победитель старой философии
+
+[1386] = Величие свершения и бесшумная простота, с которой Ф[ейербах] отдаёт его миру, находятся в удивительном контрасте с обратным отношением [у других].
+- Die Größe der Leistung = Величие свершения
+- und die geräuschlose Einfachheit = и бесшумная простота,
+- womit F[euerbach] sie der Welt gibt = с которой Ф[ейербах] отдаёт его миру,
+- stehn in einem wunderlichen Gegensatz = находятся в удивительном контрасте
+- zu dem umgekehrten Verhältnis = с обратным отношением [у других]
+
+[1387] = Великий подвиг Фейербаха состоит в следующем:
+- Feuerbachs große Tat ist = Великий подвиг Фейербаха состоит в следующем:
+
+[1388] = 1) в доказательстве того, что философия есть не что иное, как переведённая в мысли и мыслительно развёрнутая религия, другая форма и способ существования отчуждения человеческой сущности и что она, следовательно, так же подлежит осуждению;
+- 1. der Beweis = 1) доказательство того,
+- daß die Philosophie nichts andres ist = что философия есть не что иное,
+- als die in Gedanken gebrachte = как переведённая в мысли
+- und denkend ausgeführte Religion = и мыслительно развёрнутая религия;
+- eine andre Form und Daseinsweise = другая форма и способ существования
+- der Entfremdung des menschlichen Wesens = отчуждения человеческой сущности;
+- also ebenfalls zu verurteilen ist = следовательно, так же подлежит осуждению;
+
+[1389] = 2) в основании истинного материализма и реальной науки, поскольку Фейербах делает основным принципом теории общественное отношение «человека к человеку»;
+- 2. die Gründung des wahren Materialismus = 2) основание истинного материализма
+- und der reellen Wissenschaft = и реальной науки,
+- indem Feuerbach das gesellschaftliche Verhältnis = поскольку Фейербах общественное отношение
+- „des Menschen zum Menschen“ = «человека к человеку»
+- ebenso zum Grundprinzip der Theorie macht = точно так же делает основным принципом теории;
+
+[1390] = 3) в том, что он противопоставил отрицанию отрицания, которое утверждает, что оно есть абсолютно положительное, покоящееся на самом себе и положительно на самом себе основанное положительное.
+- 3. indem er der Negation der Negation = 3) в том, что он отрицанию отрицания,
+- die das absolut Positive zu sein behauptet = которое утверждает, что оно — абсолютно положительное,
+- das auf sich selbst ruhende = покоящееся на самом себе
+- und positiv auf sich selbst begründete Positive entgegenstellt = и положительно на самом себе основанное положительное противопоставляет
+
+[1391] = Фейербах объясняет гегелевскую диалектику (и тем самым обосновывает исход от положительного, от чувственно достоверного) следующим образом:
+- Feuerbach erklärt die Hegelsche Dialektik = Фейербах объясняет гегелевскую диалектику —
+- und begründet dadurch den Ausgang = (и тем самым обосновывает исход
+- vom Positiven, vom Sinnlich-Gewissen = от положительного, от чувственно достоверного) —
+- folgendermaßen = следующим образом:
+
+[1392] = Гегель исходит из отчуждения (логически: из бесконечного, абстрактно-всеобщего), из субстанции, из абсолютной и фиксированной абстракции. — Т. е., выражаясь популярно, он исходит из религии и теологии.
+- Hegel geht aus von der Entfremdung = Гегель исходит из отчуждения
+- logisch: dem Unendlichen, abstrakt Allgemeinen = (логически: из бесконечного, абстрактно-всеобщего),
+- der Substanz = из субстанции,
+- der absoluten und fixierten Abstraktion = из абсолютной и фиксированной абстракции. —
+- D.h. populär ausgedrückt = Т. е., выражаясь популярно,
+- er geht von der Religion und Theologie aus = он исходит из религии и теологии
++ geht aus = исходит ~ ausgehen von
+
+[1393] = Во-вторых: он снимает бесконечное, полагает действительное, чувственное, реальное, конечное, особенное (философия, упразднение религии и теологии).
+- Zweitens = Во-вторых:
+- Er hebt das Unendliche auf = он снимает бесконечное,
+- setzt das Wirkliche, Sinnliche, Reale, Endliche, Besondre = полагает действительное, чувственное, реальное, конечное, особенное
+- Philosophie, Aufhebung der Religion und Theologie = (философия, упразднение религии и теологии)
++ hebt auf = снимает ~ aufheben
+
+[1394] = В-третьих: он снова снимает положительное, восстанавливает абстракцию, бесконечное.
+- Drittens = В-третьих:
+- Er hebt das Positive wieder auf = он снова снимает положительное,
+- stellt die Abstraktion, das Unendliche, wieder her = восстанавливает абстракцию, бесконечное
++ hebt auf = снимает ~ aufheben
++ stellt her = восстанавливает ~ wiederherstellen
+
+[1395] = Восстановление религии и теологии.
+- Wiederherstellung der Religion und Theologie = Восстановление религии и теологии
+
+[1396] = Фейербах, следовательно, понимает отрицание отрицания лишь как противоречие философии с самой собой, как философию, которая утверждает теологию (трансцендентность и т. д.) после того, как её отвергла, — следовательно, утверждает её в противоположность самой себе.
+- Feuerbach faßt also die Negation der Negation = Фейербах понимает, следовательно, отрицание отрицания
+- nur als Widerspruch der Philosophie mit sich selbst auf = лишь как противоречие философии с самой собой,
+- als die Philosophie = как философию,
+- welche die Theologie (Transzendenz etc.) bejaht = которая утверждает теологию (трансцендентность и т. д.),
+- nachdem sie dieselbe verneint hat = после того как её отвергла,
+- also im Gegensatz zu sich selbst bejaht = следовательно, утверждает в противоположность самой себе
++ faßt auf = понимает ~ auffassen
+
+[1397] = Положение, или самоутверждение и самоподтверждение, заключённое в отрицании отрицания, понимается как положение, ещё не уверенное в самом себе, потому обременённое своей противоположностью, сомневающееся в самом себе и потому нуждающееся в доказательстве, следовательно, не доказывающее себя своим существованием, как непризнанное положение; и потому ему прямо и непосредственно противопоставляется чувственно достоверное, на самом себе основанное положение. [A]
+- Die Position oder Selbstbejahung und Selbstbestätigung = Положение, или самоутверждение и самоподтверждение,
+- die in der Negation der Negation liegt = заключённое в отрицании отрицания,
+- wird für eine ihrer selbst noch nicht sichere = понимается как ещё не уверенное в самом себе,
+- darum mit ihrem Gegensatz behaftete = потому обременённое своей противоположностью,
+- an sich selbst zweifelnde = сомневающееся в самом себе
+- und darum des Beweises bedürftige = и потому нуждающееся в доказательстве,
+- also nicht durch ihr Dasein sich selbst beweisende = следовательно, не доказывающее себя своим существованием,
+- als nicht eingestandne Position gefaßt = как непризнанное положение;
+- und darum ihr direkt und unvermittelt = и потому ему прямо и непосредственно
+- die sinnlich gewisse, auf sich selbst gegründete Position = чувственно достоверное, на самом себе основанное положение
+- entgegengestellt = противопоставляется
+- [A] = [A]
+
+[1398] = Но поскольку Гегель понял отрицание отрицания — по заключённому в нём положительному отношению как истинно и единственно положительное, а по заключённому в нём отрицательному отношению как единственно истинный акт и акт самоосуществления всякого бытия, — постольку он нашёл лишь абстрактное, логическое, спекулятивное выражение для движения истории, которая ещё не есть действительная история человека как предпосланного субъекта, а лишь акт порождения, история возникновения человека. — Мы объясним как абстрактную форму, так и то различие, которое это движение имеет у Гегеля, в противоположность современной критике, по отношению к тому же процессу в фейербаховской «Сущности христианства», или, вернее, критическую форму этого у Гегеля ещё некритического движения. — Взгляд на гегелевскую систему.
+- Aber indem Hegel die Negation der Negation = Но поскольку Гегель отрицание отрицания —
+- der positiven Beziehung nach, die in ihr liegt = по заключённому в нём положительному отношению
+- als das wahrhaft und einzig Positive = как истинно и единственно положительное,
+- der negativen Beziehung nach, die in ihr liegt = по заключённому в нём отрицательному отношению
+- als den einzig wahren Akt = как единственно истинный акт
+- und Selbstbetätigungsakt alles Seins = и акт самоосуществления всякого бытия —
+- aufgefaßt hat = понял,
+- hat er nur den abstrakten, logischen, spekulativen Ausdruck = он нашёл лишь абстрактное, логическое, спекулятивное выражение
+- für die Bewegung der Geschichte gefunden = для движения истории,
+- die noch nicht wirkliche Geschichte des Menschen = которая ещё не действительная история человека
+- als eines vorausgesetzten Subjekts = как предпосланного субъекта,
+- sondern erst Erzeugungsakt = а лишь акт порождения,
+- Entstehungsgeschichte des Menschen ist = история возникновения человека. —
+- Sowohl die abstrakte Form werden wir erklären = Мы объясним как абстрактную форму,
+- als den Unterschied = так и различие,
+- den diese Bewegung bei Hegel = которое это движение у Гегеля
+- im Gegensatz zur modernen Kritik = в противоположность современной критике
+- zu demselben Prozeß = по отношению к тому же процессу
+- in Feuerbachs Wesen des Christentums hat = в фейербаховской «Сущности христианства» имеет,
+- oder vielmehr die kritische Gestalt = или, вернее, критическую форму
+- dieser bei Hegel noch unkritischen Bewegung = этого у Гегеля ещё некритического движения. —
+- Ein Blick auf das Hegelsche System = Взгляд на гегелевскую систему
+
+[1399] = Начинать нужно с гегелевской «Феноменологии», истинного места рождения и тайны гегелевской философии. —
+- Man muß beginnen = Начинать нужно
+- mit der Hegelschen Phänomenologie = с гегелевской «Феноменологии»,
+- der wahren Geburtsstätte = истинного места рождения
+- und dem Geheimnis der Hegelschen Philosophie = и тайны гегелевской философии. —
+
+[1400] = «Феноменология».
+- Phänomenologie = «Феноменология»
+
+[1401] = A. Самосознание.
+- A. Das Selbstbewußtsein = A. Самосознание
+
+[1402] = I. Сознание. a) Чувственная достоверность, или «это» и мнение. b) Восприятие, или вещь с её свойствами, и иллюзия. c) Сила и рассудок, явление и сверхчувственный мир.
+- I. Bewußtsein = I. Сознание.
+- a) Sinnliche Gewißheit = a) Чувственная достоверность,
+- oder das Dieses und das Meinen = или «это» и мнение.
+- b) Die Wahrnehmung = b) Восприятие,
+- oder das Ding mit seinen Eigenschaften und die Täuschung = или вещь с её свойствами, и иллюзия.
+- g) Kraft und Verstand = c) Сила и рассудок,
+- Erscheinung und übersinnliche Welt = явление и сверхчувственный мир
+* g = c) | | | в рукописи греч. γ — третий пункт
+* verstand = рассудок | der Verstand | сущ.
+
+[1403] = II.
+- II = II.
+
+[1404] = Самосознание.
+- Selbstbewußtsein = Самосознание
+
+[1405] = Истина достоверности самого себя. a) Самостоятельность и несамостоятельность самосознания, господство и рабство. b) Свобода самосознания.
+- Die Wahrheit der Gewißheit seiner selbst = Истина достоверности самого себя.
+- a) Selbständigkeit und Unselbständigkeit des Selbstbewußtseins = a) Самостоятельность и несамостоятельность самосознания,
+- Herrschaft und Knechtschaft = господство и рабство.
+- b) Freiheit des Selbstbewußtseins = b) Свобода самосознания
+
+[1406] = Стоицизм, скептицизм, несчастное сознание.
+- Stoizismus, Skeptizismus, das unglückliche Bewußtsein = Стоицизм, скептицизм, несчастное сознание
+
+[1407] = III.
+- III = III.
+
+[1408] = Разум.
+- Vernunft = Разум
+
+[1409] = Достоверность и истина разума. a) Наблюдающий разум; наблюдение природы и самосознания. b) Осуществление разумного самосознания через самого себя.
+- Gewißheit und Wahrheit der Vernunft = Достоверность и истина разума.
+- a) Beobachtende Vernunft = a) Наблюдающий разум;
+- Beobachtung der Natur und des Selbstbewußtseins = наблюдение природы и самосознания.
+- b) Verwirklichung des vernünftigen Selbstbewußtseins durch sich selbst = b) Осуществление разумного самосознания через самого себя
+
+[1410] = Удовольствие и необходимость.
+- Die Lust und die Notwendigkeit = Удовольствие и необходимость
+
+[1411] = Закон сердца и безумие самомнения.
+- Das Gesetz des Herzens = Закон сердца
+- und der Wahnsinn des Eigendunkels = и безумие самомнения
+
+[1412] = Добродетель и ход мира. c) Индивидуальность, которая реальна в себе и для себя.
+- Die Tugend und der Weltlauf = Добродетель и ход мира.
+- c) Die Individualität = c) Индивидуальность,
+- welche sich an und für sich reell ist = которая в себе и для себя реальна
++ an und für sich = в себе и для себя ~ an und für sich
+
+[1413] = Духовное животное царство и обман, или сама суть дела.
+- Das geistige Tierreich und der Betrug = Духовное животное царство и обман,
+- oder die Sache selbst = или сама суть дела
+
+[1414] = Законодательный разум.
+- Die gesetzgebende Vernunft = Законодательный разум
+
+[1415] = Разум, проверяющий законы.
+- Die gesetzprüfende Vernunft = Разум, проверяющий законы
+
+[1416] = B. Дух.
+- B. Der Geist = B. Дух
+
+[1417] = I. Истинный дух; нравственность.
+- I. Der wahre Geist = I. Истинный дух;
+- die Sittlichkeit = нравственность
+
+[1418] = II.
+- II = II.
+
+[1419] = Отчуждённый от себя дух, образованность.
+- Der sich entfremdete Geist = Отчуждённый от себя дух,
+- die Bildung = образованность
+
+[1420] = III.
+- III = III.
+
+[1421] = Достоверный в самом себе дух, моральность.
+- Der seiner selbst gewisse Geist = Дух, достоверный в самом себе,
+- die Moralität = моральность
+
+[1422] = C. Религия.
+- C. Die Religion = C. Религия
+
+[1423] = Естественная религия, художественная религия, откровенная религия.
+- Natürliche, Kunstreligion, offenbare Religion = Естественная, художественная, откровенная религия
+
+[1424] = D. Абсолютное знание.
+- D. Das absolute Wissen = D. Абсолютное знание
+
+[1425] = Подобно тому как гегелевская «Энциклопедия» начинается с логики, с чистой спекулятивной мысли, и заканчивается абсолютным знанием, самосознающим, постигающим самого себя философским, или абсолютным, т. е. сверхчеловеческим абстрактным духом, так и вся «Энциклопедия» есть не что иное, как развёрнутая сущность философского духа, его самоопредмечивание; как и философский дух есть не что иное, как отчуждённый дух мира, мыслящий, т. е. абстрактно постигающий себя внутри своего самоотчуждения. — Логика — деньги духа, спекулятивная, мысленная стоимость человека и природы — их ставшая совершенно безразличной ко всякой действительной определённости и потому недействительная сущность — отчуждённое и потому абстрагирующееся от природы и действительного человека мышление; абстрактное мышление. — Внешность этого абстрактного мышления… природа, какова она для этого абстрактного мышления.
+- Wie die Enzyklopädie Hegels mit der Logik beginnt = Подобно тому как «Энциклопедия» Гегеля начинается с логики,
+- mit dem reinen spekulativen Gedanken = с чистой спекулятивной мысли,
+- und mit dem absoluten Wissen = и абсолютным знанием,
+- dem selbstbewußten, sich selbst erfassenden = самосознающим, постигающим самого себя
+- philosophischen oder absoluten = философским, или абсолютным,
+- d.i. übermenschlichen abstrakten Geiste = т. е. сверхчеловеческим абстрактным духом,
+- aufhört = заканчивается,
+- so ist die ganze „Enzyklopädie“ = так и вся «Энциклопедия»
+- nichts als das ausgebreitete Wesen des philosophischen Geistes = есть не что иное, как развёрнутая сущность философского духа,
+- seine Selbstvergegenständlichung = его самоопредмечивание;
+- wie der philosophische Geist nichts ist = как и философский дух есть не что иное,
+- als der innerhalb seiner Selbstentfremdung = как внутри своего самоотчуждения
+- denkend, d.h. abstrakt sich erfassende = мыслящий, т. е. абстрактно себя постигающий
+- entfremdete Geist der Welt = отчуждённый дух мира. —
+- Die Logik = Логика —
+- das Geld des Geistes = деньги духа,
+- der spekulative, der Gedankenwert des Menschen und der Natur = спекулятивная, мысленная стоимость человека и природы —
+- ihr gegen alle wirkliche Bestimmtheit = их ко всякой действительной определённости
+- vollständig gleichgültig gewordnes = совершенно безразличной ставшая
+- und darum unwirkliches Wesen = и потому недействительная сущность —
+- das entäußerte = отчуждённое,
+- daher von der Natur und dem wirklichen Menschen abstrahierende Denken = потому от природы и действительного человека абстрагирующееся мышление;
+- das abstrakte Denken = абстрактное мышление. —
+- Die Äußerlichkeit dieses abstrakten Denkens = Внешность этого абстрактного мышления…
+- die Natur, wie sie für dies abstrakte Denken ist = природа, какова она для этого абстрактного мышления

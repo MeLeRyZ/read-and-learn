@@ -1,0 +1,325 @@
+[1576] = С одной стороны, следовательно, он противостоит как действительной сущности, так и непосредственной нефилософской науке, или нефилософским понятиям этой сущности.
+! Nach der einen < Nach den einen
+! zu der unmittelbaren < zu den unmittelbaren
+- Nach der einen Seite = С одной стороны,
+- steht er also im Gegensatz = он, следовательно, противостоит
+- sowohl zu dem wirklichen Wesen = как действительной сущности,
+- als zu der unmittelbaren unphilosophischen Wissenschaft = так и непосредственной нефилософской науке,
+- oder zu den unphilosophischen Begriffen dieses Wesens = или нефилософским понятиям этой сущности
++ steht im Gegensatz = противостоит ~ im Gegensatz stehen zu
+
+[1577] = Поэтому он противоречит их ходячим понятиям.
+- Er widerspricht daher ihren gangbaren Begriffen = Поэтому он противоречит их ходячим понятиям
+
+[1578] = С другой стороны, религиозный и т. д. человек может найти у Гегеля своё последнее подтверждение.
+! kann sich der religiöse < kann sich den religiöse
+- Andrerseits kann sich der religiöse etc. Mensch = С другой стороны, религиозный и т. д. человек может
+- in Hegel seine letzte Bestätigung finden = у Гегеля найти своё последнее подтверждение
+
+[1579] = Теперь надо понять положительные моменты гегелевской диалектики — в рамках определения отчуждения.
+! Momente der Hegelschen < Momente den Hegelschen
+- Es sind nun die positiven Momente der Hegelschen Dialektik = Теперь надо положительные моменты гегелевской диалектики
+- innerhalb der Bestimmung der Entfremdung = — в рамках определения отчуждения —
+- zu fassen = понять
++ sind zu fassen = надо понять ~ sein + zu + Inf. (долженствование)
+
+[1580] = a) Снятие как предметное, вбирающее обратно в себя овнешнение движение. — Это выраженное внутри отчуждения понимание присвоения предметной сущности через снятие её отчуждения; отчуждённое понимание действительного опредмечивания человека, действительного присвоения его предметной сущности через уничтожение отчуждённого определения предметного мира, через его снятие в его отчуждённом бытии, — подобно тому как атеизм, как снятие бога, есть становление теоретического гуманизма, а коммунизм, как снятие частной собственности, есть отстаивание действительной человеческой жизни как его собственности, становление практического гуманизма; или атеизм — это опосредованный с самим собой снятием религии, а коммунизм — снятием частной собственности гуманизм.
+! innerhalb der Entfremdung < innerhalb den Entfremdung
+! das Werden des praktischen < das Wenden des praktischen
+! Atheismus ist der durch < Atheismus ist den durch
+- a) Das Aufheben = a) Снятие
+- als gegenständliche, die Entäußerung in sich zurücknehmende Bewegung = как предметное, вбирающее обратно в себя овнешнение движение. —
+- Es ist dies die innerhalb der Entfremdung ausgedrückte Einsicht = Это выраженное внутри отчуждения понимание
+- von der Aneignung des gegenständlichen Wesens = присвоения предметной сущности
+- durch die Aufhebung seiner Entfremdung = через снятие её отчуждения,
+- die entfremdete Einsicht = отчуждённое понимание
+- in die wirkliche Vergegenständlichung des Menschen = действительного опредмечивания человека,
+- in die wirkliche Aneignung seines gegenständlichen Wesens = действительного присвоения его предметной сущности
+- durch die Vernichtung der entfremdeten Bestimmung der gegenständlichen Welt = через уничтожение отчуждённого определения предметного мира,
+- durch ihre Aufhebung, in ihrem entfremdeten Dasein = через его снятие в его отчуждённом бытии, —
+- wie der Atheismus als Aufhebung Gottes = подобно тому как атеизм, как снятие бога,
+- das Werden des theoretischen Humanismus = есть становление теоретического гуманизма,
+- der Kommunismus als Aufhebung des Privateigentums = а коммунизм, как снятие частной собственности,
+- die Vindikation des wirklichen menschlichen Lebens als seines Eigentums ist = есть отстаивание действительной человеческой жизни как его собственности,
+- das Werden des praktischen Humanismus ist = становление практического гуманизма;
+- oder der Atheismus ist der durch Aufhebung der Religion = или атеизм — это опосредованный снятием религии,
+- der Kommunismus der durch Aufhebung des Privateigentums = а коммунизм — снятием частной собственности
+- mit sich vermittelte Humanismus = опосредованный с самим собой гуманизм
+* vindikation = отстаивание, истребование | die Vindikation | сущ. | юрид.: требование вернуть своё
+
+[1581] = Лишь через снятие этого опосредования — которое, однако, есть необходимая предпосылка — возникает положительно начинающийся с самого себя, положительный гуманизм.
+! wird der positiv < wird den positiv
+- Erst durch die Aufhebung dieser Vermittelung = Лишь через снятие этого опосредования —
+- die aber eine notwendige Voraussetzung ist = которое, однако, есть необходимая предпосылка, —
+- wird der positiv von sich selbst beginnende = возникает положительно начинающийся с самого себя,
+- der positive Humanismus = положительный гуманизм
+
+[1582] = Но атеизм, коммунизм — это не бегство, не абстракция, не утрата порождённого человеком предметного мира, его рождённых в предметность сущностных сил, не бедность, возвращающаяся к неестественной, неразвитой простоте.
+! seiner zur Gegenständlichkeit < seinen zur Gegenständlichkeit
+- Aber Atheismus, Kommunismus sind keine Flucht = Но атеизм, коммунизм — не бегство,
+- keine Abstraktion = не абстракция,
+- kein Verlieren der von dem Menschen erzeugten gegenständlichen Welt = не утрата порождённого человеком предметного мира,
+- seiner zur Gegenständlichkeit herausgebornen Wesenskräfte = его рождённых в предметность сущностных сил,
+- keine zur unnatürlichen, unentwickelten Einfachheit zurückkehrende Armut = не возвращающаяся к неестественной, неразвитой простоте бедность
+
+[1583] = Напротив, они суть лишь действительное становление, действительно ставшее для человека осуществление его сущности, и притом его сущности как действительной.
+- Sie sind vielmehr erst das wirkliche Werden = Они, напротив, впервые суть действительное становление,
+- die wirklich für den Menschen gewordne Verwirklichung seines Wesens = действительно ставшее для человека осуществление его сущности
+- und seines Wesens als eines wirklichen = и его сущности как действительной
+
+[1584] = Итак, Гегель, понимая положительный смысл отнесённого к самому себе отрицания — хотя опять-таки в отчуждённой форме, — понимает самоотчуждение, овнешнение сущности, распредмечивание и разосуществление человека как самоприобретение, проявление сущности, опредмечивание, осуществление.
+! Sinn der auf sich < Sinn den auf sich
+! Wesensentäußerung < Wesensentäußenung
+- Hegel faßt also = Гегель, следовательно, понимает,
+- indem er den positiven Sinn = понимая положительный смысл
+- der auf sich selbst bezognen Negation = отнесённого к самому себе отрицания
+- wenn auch wieder in entfremdeter Weise – faßt = — хотя опять-таки в отчуждённой форме, —
+- die Selbstentfremdung, Wesensentäußerung = самоотчуждение, овнешнение сущности,
+- Entgegenständlichung und Entwirklichung des Menschen = распредмечивание и разосуществление человека
+- als Selbstgewinnung, Wesensäußerung = как самоприобретение, проявление сущности,
+- Vergegenständlichung, Verwirklichung = опредмечивание, осуществление
+
+[1585] = (Короче, он понимает — внутри абстракции — труд как акт самопорождения человека, отношение к себе как к чуждой сущности и проявление себя как чуждой сущности — как становящееся родовое сознание и родовую жизнь.
+- Kurz, er faßt = (Короче, он понимает —
+- innerhalb der Abstraktion = внутри абстракции —
+- die Arbeit als den Selbsterzeugungsakt des Menschen = труд как акт самопорождения человека,
+- das Verhalten zu sich als fremdem Wesen = отношение к себе как к чуждой сущности
+- und das Betätigen seiner als eines fremden Wesens = и проявление себя как чуждой сущности
+- als das werdende Gattungsbewußtsein und Gattungsleben = как становящееся родовое сознание и родовую жизнь
+
+[1586] = b) Но у Гегеля — помимо или, вернее, вследствие уже описанной извращённости — этот акт выступает, во-первых, как лишь формальный, потому что абстрактный, потому что сама человеческая сущность считается лишь абстрактной мыслящей сущностью, самосознанием; и
+- b) Bei Hegel = b) Но у Гегеля —
+- abgesehn oder vielmehr als Konsequenz = помимо или, вернее, вследствие
+- der schon geschilderten Verkehrtheit = уже описанной извращённости —
+- erscheint dieser Akt aber einmal = этот акт выступает, во-первых,
+- als ein nur formeller, weil als ein abstrakter = как лишь формальный, потому что абстрактный,
+- weil das menschliche Wesen selbst = потому что сама человеческая сущность
+- nur als abstraktes denkendes Wesen, als Selbstbewußtsein gilt = считается лишь абстрактной мыслящей сущностью, самосознанием;
+- und = и
+
+[1587] = во-вторых, так как понимание это формально и абстрактно, то снятие овнешнения становится подтверждением овнешнения; иначе говоря, для Гегеля то движение самопорождения, самоопредмечивания как самоовнешнения и самоотчуждения есть абсолютное и потому последнее, имеющее целью само себя и успокоившееся в себе, достигшее своей сущности проявление человеческой жизни.
+! Aufhebung der Entäußerung zu einer Bestätigung der Entäußerung < Aufhebung den Entäußerung zu einen Bestätigung den Entäußerung
+! beruhigte < bruhigte
+- zweitens, weil die Fassung formell und abstrakt ist = во-вторых, так как понимание формально и абстрактно,
+- darum wird die Aufhebung der Entäußerung = снятие овнешнения становится
+- zu einer Bestätigung der Entäußerung = подтверждением овнешнения;
+- oder für Hegel ist jene Bewegung des Selbsterzeugens = иначе говоря, для Гегеля то движение самопорождения,
+- des Selbstvergegenständlichens = самоопредмечивания
+- als Selbstentäußerung und Selbstentfremdung = как самоовнешнения и самоотчуждения
+- die absolute und darum die letzte = есть абсолютное и потому последнее,
+- sich selbst bezweckende und in sich beruhigte = имеющее целью само себя и успокоившееся в себе,
+- bei ihrem Wesen angelangte menschliche Lebensäußerung = достигшее своей сущности проявление человеческой жизни
+
+[1588] = Это движение в его абстрактной форме, как диалектика, считается поэтому истинно человеческой жизнью, а так как оно всё же есть абстракция, отчуждение человеческой жизни, то оно считается божественным процессом, но божественным процессом человека — процессом, который проделывает сама отличная от него абстрактная, чистая, абсолютная сущность человека.
+! in ihrer abstrakten Form < in ihren abstrakten Form
+- Diese Bewegung in ihrer abstrakten Form als Dialektik = Это движение в его абстрактной форме, как диалектика,
+- gilt daher als das wahrhaft menschliche Leben = считается поэтому истинно человеческой жизнью,
+- und weil es doch eine Abstraktion = а так как оно всё же абстракция,
+- eine Entfremdung des menschlichen Lebens ist = отчуждение человеческой жизни,
+- gilt es als göttlicher Prozeß = оно считается божественным процессом,
+- aber als der göttliche Prozeß des Menschen = но божественным процессом человека —
+- ein Prozeß, den sein von ihm unterschiednes = процессом, который его отличная от него,
+- abstraktes, reines, absolutes Wesen selbst durchmacht = абстрактная, чистая, абсолютная сущность сама проделывает
+
+[1589] = В-третьих: этот процесс должен иметь носителя, субъекта; но субъект возникает лишь как результат; этот результат — знающий себя как абсолютное самосознание субъект — есть поэтому бог, абсолютный дух, знающая и проявляющая себя идея.
+- Drittens = В-третьих:
+- Dieser Prozeß muß einen Träger haben, ein Subjekt = этот процесс должен иметь носителя, субъекта;
+- aber das Subjekt wird erst als Resultat = но субъект возникает лишь как результат;
+- dies Resultat = этот результат,
+- das sich als absolutes Selbstbewußtsein wissende Subjekt = знающий себя как абсолютное самосознание субъект,
+- ist daher der Gott, absoluter Geist = есть поэтому бог, абсолютный дух,
+- die sich wissende und betätigende Idee = знающая и проявляющая себя идея
+
+[1590] = Действительный человек и действительная природа становятся просто предикатами, символами этого скрытого недействительного человека и этой недействительной природы.
+! dieser unwirklichen Natur < diesen unwirklichen Natur
+- Der wirkliche Mensch und die wirkliche Natur = Действительный человек и действительная природа
+- werden bloß zu Prädikaten = становятся просто предикатами,
+- zu Symbolen dieses verborgnen unwirklichen Menschen = символами этого скрытого недействительного человека
+- und dieser unwirklichen Natur = и этой недействительной природы
+
+[1591] = Субъект и предикат находятся поэтому друг к другу в отношении абсолютного извращения: мистический субъект-объект, или переходящая за пределы объекта субъективность, абсолютный субъект как процесс, как овнешняющий себя и из овнешнения возвращающийся в себя, но вместе с тем вбирающий его обратно в себя субъект, и субъект как этот процесс; чистое, безостановочное кружение внутри себя.
+! einer absoluten Verkehrung < einen absoluten Verkehrung
+- Subjekt und Prädikat haben daher = Субъект и предикат имеют поэтому
+- das Verhältnis einer absoluten Verkehrung zueinander = друг к другу отношение абсолютного извращения:
+- mystisches Subjekt-Objekt = мистический субъект-объект,
+- oder über das Objekt übergreifende Subjektivität = или переходящая за пределы объекта субъективность,
+- das absolute Subjekt als ein Prozeß = абсолютный субъект как процесс,
+- als sich entäußerndes = как овнешняющий себя
+- und aus der Entäußerung in sich zurückkehrendes = и из овнешнения возвращающийся в себя,
+- aber sie zugleich in sich zurücknehmendes Subjekt = но вместе с тем вбирающий его обратно в себя субъект,
+- und das Subjekt als dieser Prozeß = и субъект как этот процесс;
+- das reine, rastlose Kreisen in sich = чистое, безостановочное кружение внутри себя
+
+[1592] = Во-первых.
+- Einmal = Во-первых
+
+[1593] = Формальное и абстрактное понимание акта самопорождения, или самоопредмечивания, человека.
+! Selbstvergegenständlichungsakts < Selbstvergegenständlichungakts
+- Formelle und abstrakte Fassung = Формальное и абстрактное понимание
+- des Selbsterzeugungs- oder Selbstvergegenständlichungsakts des Menschen = акта самопорождения, или самоопредмечивания, человека
+
+[1594] = Отчуждённый предмет, отчуждённая сущностная действительность человека есть — так как Гегель приравнивает человека к самосознанию — не что иное, как сознание, лишь мысль об отчуждении, его абстрактное и потому бессодержательное и недействительное выражение, отрицание.
+! nur der Gedanke der Entfremdung < nun den Gedanke den Entfremdung
+! unwirklicher Ausdruck < unwirklichen Ausdruck
+- Der entfremdete Gegenstand = Отчуждённый предмет,
+- die entfremdete Wesenswirklichkeit des Menschen ist = отчуждённая сущностная действительность человека есть —
+- da Hegel den Menschen = так как Гегель человека
+- Selbstbewußtsein setzt = приравнивает к самосознанию —
+- nichts als Bewußtsein = не что иное, как сознание,
+- nur der Gedanke der Entfremdung = лишь мысль об отчуждении,
+- ihr abstrakter und darum inhaltsloser und unwirklicher Ausdruck = его абстрактное и потому бессодержательное и недействительное выражение,
+- die Negation = отрицание
+
+[1595] = Снятие овнешнения есть поэтому также не что иное, как абстрактное, бессодержательное снятие той бессодержательной абстракции — отрицание отрицания.
+! inhaltslosen Abstraktion < in-haltslosen Abstraktion
+- Die Aufhebung der Entäußerung = Снятие овнешнения
+- ist daher ebenfalls nichts als eine abstrakte, inhaltslose Aufhebung = есть поэтому также не что иное, как абстрактное, бессодержательное снятие
+- jener inhaltslosen Abstraktion = той бессодержательной абстракции,
+- die Negation der Negation = отрицание отрицания
+
+[1596] = Содержательная, живая, чувственная, конкретная деятельность самоопредмечивания становится поэтому её простой абстракцией, абсолютной отрицательностью, абстракцией, которая снова фиксируется как таковая и мыслится как самостоятельная деятельность, как деятельность вообще.
+! Tätigkeit der Selbstvergegenständlichung < Tätigkeit den Selbstvergegenständlichung
+! Abstraktion, der absoluten < Abstraktion, den absoluten
+- Die inhaltsvolle, lebendige, sinnliche, konkrete Tätigkeit = Содержательная, живая, чувственная, конкретная деятельность
+- der Selbstvergegenständlichung = самоопредмечивания
+- wird daher zu ihrer bloßen Abstraktion = становится поэтому её простой абстракцией,
+- der absoluten Negativität = абсолютной отрицательностью,
+- eine Abstraktion, die wieder als solche fixiert = абстракцией, которая снова как таковая фиксируется
+- und als eine selbständige Tätigkeit = и как самостоятельная деятельность,
+- als die Tätigkeit schlechthin gedacht wird = как деятельность вообще мыслится
+
+[1597] = Так как эта так называемая отрицательность есть не что иное, как абстрактная, бессодержательная форма того действительного живого акта, то и её содержание может быть лишь формальным, порождённым абстракцией от всякого содержания содержанием.
+! kann auch ihr Inhalt < kann auch ihn Inhalt
+- Weil diese sogenannte Negativität = Так как эта так называемая отрицательность
+- nichts andres ist als die abstrakte, inhaltslose Form = есть не что иное, как абстрактная, бессодержательная форма
+- jenes wirklichen lebendigen Aktes = того действительного живого акта,
+- darum kann auch ihr Inhalt = то и её содержание может
+- bloß ein formeller = быть лишь формальным,
+- durch die Abstraktion von allem Inhalt erzeugter Inhalt sein = порождённым абстракцией от всякого содержания содержанием
+
+[1598] = Это поэтому всеобщие, абстрактные, присущие всякому содержанию и потому как безразличные ко всякому содержанию, так именно поэтому и значимые для всякого содержания формы абстракции, формы мышления, логические категории, оторванные от действительного духа и от действительной природы.
+- Es sind daher die allgemeinen, abstrakten = Это поэтому всеобщие, абстрактные,
+- jedem Inhalt angehörigen = присущие всякому содержанию,
+- darum auch sowohl gegen allen Inhalt gleichgültigen = потому как безразличные ко всякому содержанию,
+- als eben darum für jeden Inhalt gültigen Abstraktionsformen = так именно поэтому и значимые для всякого содержания формы абстракции,
+- die Denkformen, die logischen Kategorien = формы мышления, логические категории,
+- losgerissen vom wirklichen Geist und von der wirklichen Natur = оторванные от действительного духа и от действительной природы
+
+[1599] = (Логическое содержание абсолютной отрицательности мы разовьём ниже.)
+- Wir werden den logischen Inhalt der absoluten Negativität = (Логическое содержание абсолютной отрицательности мы
+- weiter unten entwickeln = ниже разовьём.)
+* unten = ниже | | нар.
+
+[1600] = Положительное, что Гегель здесь совершил — в своей спекулятивной логике, — состоит в том, что определённые понятия, [B*] всеобщие фиксированные формы мышления в их самостоятельности по отношению к природе и духу суть необходимый результат всеобщего отчуждения человеческой сущности, а следовательно, и человеческого мышления, и что Гегель поэтому изобразил и свёл их воедино как моменты процесса абстракции.
+! in seiner spekulativen Logik < in seinen spekulativen Logik
+- Das Positive, was Hegel hier vollbracht hat = Положительное, что Гегель здесь совершил
+- in seiner spekulativen Logik = — в своей спекулятивной логике —
+- ist, daß die bestimmten Begriffe = состоит в том, что определённые понятия,
+- [B*] = [B*]
+- die allgemeinen fixen Denkformen = всеобщие фиксированные формы мышления
+- in ihrer Selbständigkeit gegen Natur und Geist = в их самостоятельности по отношению к природе и духу
+- ein notwendiges Resultat der allgemeinen Entfremdung des menschlichen Wesens = суть необходимый результат всеобщего отчуждения человеческой сущности,
+- also auch des menschlichen Denkens sind = а следовательно, и человеческого мышления,
+- und daß Hegel sie daher = и что Гегель их поэтому
+- als Momente des Abstraktionsprozesses dargestellt und zusammengefaßt hat = как моменты процесса абстракции изобразил и свёл воедино
+
+[1601] = Например, снятое бытие есть сущность, снятая сущность — понятие, снятое понятие… — абсолютная идея.
+! der aufgehobne Begriff < den aufgehobne Begriff
+- Z.B. das aufgehobne Sein ist Wesen = Например, снятое бытие есть сущность,
+- das aufgehobne Wesen Begriff = снятая сущность — понятие,
+- der aufgehobne Begriff ... absolute Idee = снятое понятие… — абсолютная идея
+
+[1602] = Но что же такое абсолютная идея?
+- Aber was ist nun die absolute Idee = Но что же такое абсолютная идея?
+
+[1603] = Она снова снимает самоё себя, если не хочет снова проделать с самого начала весь акт абстракции и удовлетвориться тем, чтобы быть целокупностью абстракций или постигающей себя абстракцией.
+- Sie hebt sich selbst wieder auf = Она снова снимает самоё себя,
+- wenn sie nicht wieder von vorn den ganzen Abstraktionsakt durchmachen = если она не хочет снова с самого начала проделать весь акт абстракции
+- und sich damit begnügen will = и удовлетвориться тем,
+- eine Totalität von Abstraktionen = чтобы быть целокупностью абстракций
+- oder die sich erfassende Abstraktion zu sein = или постигающей себя абстракцией
++ hebt sich auf = снимает себя ~ sich aufheben
+
+[1604] = Но абстракция, постигающая себя как абстракцию, знает себя как ничто; она должна отказаться от себя, от абстракции, и так она приходит к сущности, которая есть прямая её противоположность, — к природе.
+! grade ihr Gegenteil < grade ihn Gegenteil
+! bei der Natur < bei den Natur
+- Aber die sich als Abstraktion erfassende Abstraktion = Но постигающая себя как абстракцию абстракция
+- weiß sich als nichts = знает себя как ничто;
+- sie muß sich, die Abstraktion, aufgeben = она должна отказаться от себя, от абстракции,
+- und so kömmt sie bei einem Wesen an = и так она приходит к сущности,
+- welches grade ihr Gegenteil ist = которая есть прямая её противоположность, —
+- bei der Natur = к природе
++ kömmt an = приходит ~ ankommen
+
+[1605] = Вся логика есть, следовательно, доказательство того, что абстрактное мышление само по себе есть ничто, что абсолютная идея сама по себе есть ничто, что лишь природа есть нечто.
+! also der Beweis < also den Beweis
+- Die ganze Logik ist also der Beweis = Вся логика есть, следовательно, доказательство того,
+- daß das abstrakte Denken für sich nichts ist = что абстрактное мышление само по себе — ничто,
+- daß die absolute Idee für sich nichts ist = что абсолютная идея сама по себе — ничто,
+- daß erst die Natur etwas ist = что лишь природа есть нечто
+
+[1606] = Абсолютная идея, абстрактная идея, которая
+- Die absolute Idee, die abstrakte Idee, welche = Абсолютная идея, абстрактная идея, которая
+
+[1607] = «рассматриваемая со стороны своего единства с собой есть созерцание» (гегелевская «Энциклопедия», 3-е издание, с. 222 [§ 244]), которая (там же) «в абсолютной истине самой себя решается свободно отпустить из себя момент своей особенности, или первого определения и инобытия, — непосредственную идею как своё отражение — в качестве природы» (там же),
+- nach ihrer Einheit mit sich betrachtet Anschauen ist = «рассматриваемая со стороны своего единства с собой есть созерцание»
+- Hegels Encyclopädie, 3te Ausgabe, p.222 [§ 244] = (гегелевская «Энциклопедия», 3-е издание, с. 222 [§ 244]),
+- welche (l.c.) = которая (там же)
+- in der absoluten Wahrheit ihrer selbst sich entschließt = «в абсолютной истине самой себя решается
+- das Moment ihrer Besonderheit = момент своей особенности,
+- oder des ersten Bestimmens und Andersseins = или первого определения и инобытия,
+- die unmittelbare Idee, als ihren Widerschein = непосредственную идею, как своё отражение,
+- sich als Natur frei aus sich zu entlassen = свободно отпустить из себя в качестве природы»
+- l.c. = (там же),
+* l = там | | лат. | l. c. = loco citato — в указанном месте
+* c = же | | лат. | l. c. = loco citato — в указанном месте
+* p = с. | | сокр. | p. = pagina — страница
+
+[1608] = вся эта идея, ведущая себя столь странно и причудливо и причинившая гегельянцам ужасную головную боль, есть насквозь не что иное, как абстракция, т. е. абстрактный мыслитель, которая, наученная опытом и просвещённая насчёт своей истины, решается при разных — ложных и даже всё ещё абстрактных — условиях отказаться от себя и поставить своё инобытие, особенное, определённое на место своего пребывания у себя, своего небытия, своей всеобщности и своей неопределённости; решается свободно отпустить из себя природу, которую она скрывала в себе лишь как абстракцию, как мысленную вещь, т. е. оставить абстракцию и посмотреть наконец на свободную от неё природу.
+! unter mancherlei < unten mancherlei
+! ihrer Allgemeinheit und ihrer Unbestimmtheit < ihnen Allgemeinheit und ihnen Unbestimmtheit
+! sie nur als Abstraktion < sie nun als Abstraktion
+- diese ganze, so sonderbar und barock sich gebarende Idee = вся эта ведущая себя столь странно и причудливо идея,
+- welche den Hegelianern ungeheure Kopfschmerzen verursacht hat = причинившая гегельянцам ужасную головную боль,
+- ist durchaus nichts anders als die Abstraktion = есть насквозь не что иное, как абстракция,
+- i.e. der abstrakte Denker = т. е. абстрактный мыслитель,
+- die, durch Erfahrung gewitzigt = которая, наученная опытом
+- und über ihre Wahrheit aufgeklärt = и просвещённая насчёт своей истины,
+- sich unter mancherlei = при разных —
+- falschen und selbst noch abstrakten = ложных и даже всё ещё абстрактных —
+- Bedingungen dazu entschließt = условиях решается
+- sich aufzugeben = отказаться от себя
+- und ihr Anderssein, das Besondere, Bestimmte = и своё инобытие, особенное, определённое
+- an die Stelle ihres Beisichseins, Nichtsseins = на место своего пребывания у себя, своего небытия,
+- ihrer Allgemeinheit und ihrer Unbestimmtheit zu setzen = своей всеобщности и своей неопределённости поставить,
+- die Natur, die sie nur als Abstraktion = природу, которую она лишь как абстракцию,
+- als Gedankending in sich verbarg = как мысленную вещь в себе скрывала,
+- frei aus sich zu entlassen = свободно отпустить из себя,
+- d.h. die Abstraktion zu verlassen = т. е. оставить абстракцию
+- und sich einmal die von ihr freie Natur anzusehn = и посмотреть наконец на свободную от неё природу
+
+[1609] = Абстрактная идея, которая непосредственно становится созерцанием, есть насквозь не что иное, как абстрактное мышление, которое отказывается от себя и решается на созерцание.
+- Die abstrakte Idee, die unmittelbar Anschauen wird = Абстрактная идея, которая непосредственно становится созерцанием,
+- ist durchaus nichts andres als das abstrakte Denken = есть насквозь не что иное, как абстрактное мышление,
+- das sich aufgibt und zur Anschauung entschließt = которое отказывается от себя и решается на созерцание
+
+[1610] = Весь этот переход от логики к натурфилософии есть не что иное, как столь трудно осуществимый для абстрактного мыслителя и потому столь авантюрно им описанный переход от абстрагирования к созерцанию.
+! Dieser ganze Übergang der Logik < Diesen ganze Übergang den Logik
+! als der – dem < als den – dem
+- Dieser ganze Übergang der Logik in die Naturphilosophie = Весь этот переход логики в натурфилософию
+- ist nichts andres als der = есть не что иное, как
+- dem abstrakten Denker so schwer zu bewerkstelligende = столь трудно осуществимый для абстрактного мыслителя
+- und daher so abenteuerlich von ihm beschriebne Übergang = и потому столь авантюрно им описанный переход
+- aus dem Abstrahieren in das Anschauen = от абстрагирования к созерцанию
+
+[1611] = Мистическое чувство, которое гонит философа от абстрактного мышления к созерцанию, — это скука, тоска по содержанию.
+- Das mystische Gefühl = Мистическое чувство,
+- was den Philosophen aus dem abstrakten Denken in das Anschauen treibt = которое гонит философа от абстрактного мышления к созерцанию, —
+- ist die Langweile = это скука,
+- die Sehnsucht nach einem Inhalt = тоска по содержанию
+
+[1612] = (Отчуждённый от самого себя человек есть также отчуждённый от своей сущности, т. е. от природной и человеческой сущности, мыслитель.
+- Der sich selbst entfremdete Mensch = (Отчуждённый от самого себя человек
+- ist auch seinem Wesen = есть также от своей сущности,
+- d.h. dem natürlichen und menschlichen Wesen = т. е. от природной и человеческой сущности,
+- entfremdeter Denker = отчуждённый мыслитель

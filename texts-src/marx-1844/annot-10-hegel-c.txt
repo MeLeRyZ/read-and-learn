@@ -1,0 +1,264 @@
+[1461] = (Полагание человека как самосознания.)
+- Setzen des Menschen = (Полагание человека
+- Selbstbewußtsein = как самосознания.)
+
+[1462] = Поэтому дело в том, чтобы преодолеть предмет сознания.
+- Es gilt daher = Поэтому дело в том,
+- den Gegenstand des Bewußtseins zu überwinden = чтобы преодолеть предмет сознания
++ Es gilt = дело в том, чтобы ~ es gilt, etwas zu tun
+
+[1463] = Предметность как таковая считается отчуждённым, не соответствующим человеческой сущности, самосознанию, отношением человека.
+- Die Gegenständlichkeit als solche = Предметность как таковая
+- gilt für ein entfremdetes = считается отчуждённым,
+- dem menschlichen Wesen, dem Selbstbewußtsein nicht entsprechendes = не соответствующим человеческой сущности, самосознанию,
+- Verhältnis des Menschen = отношением человека
++ gilt für = считается ~ gelten für (устар. = gelten als)
+
+[1464] = Обратное присвоение предметной сущности человека, порождённой как чуждое, под определением отчуждения, имеет, следовательно, значение снятия не только отчуждения, но и предметности, т. е., следовательно, человек считается непредметным, спиритуалистическим существом.
+! nicht nur die Bedeutung < nicht nun die Bedeutung
+- Die Wiederaneignung = Обратное присвоение
+- des als fremd = порождённой как чуждое,
+- unter der Bestimmung der Entfremdung erzeugten = под определением отчуждения,
+- gegenständlichen Wesens des Menschen = предметной сущности человека
+- hat also nicht nur die Bedeutung = имеет, следовательно, значение снятия не только
+- die Entfremdung = отчуждения,
+- sondern die Gegenständlichkeit aufzuheben = но и предметности,
+- d.h. also der Mensch gilt = т. е., следовательно, человек считается
+- als ein nicht-gegenständliches, spiritualistisches Wesen = непредметным, спиритуалистическим существом
+
+[1465] = Движение преодоления предмета сознания Гегель описывает теперь следующим образом:
+- Die Bewegung der Überwindung des Gegenstandes des Bewußtseins = Движение преодоления предмета сознания
+- beschreibt Hegel nun wie folgt = Гегель описывает теперь следующим образом:
+
+[1466] = Предмет обнаруживает себя не только (по Гегелю, это одностороннее — т. е. схватывающее одну сторону — понимание того движения) как возвращающийся в самость.
+- Der Gegenstand zeigt sich nicht nur = Предмет обнаруживает себя не только
+- dies ist nach Hegel die einseitige = (это, по Гегелю, одностороннее —
+- also die die eine Seite erfassende = т. е. схватывающее одну сторону —
+- Auffassung jener Bewegung = понимание того движения)
+- als zurückkehrend in das Selbst = как возвращающийся в самость
+* selbst = самость | das Selbst | сущ. | гегелевская «самость», Я
+
+[1467] = Человек полагается равным самости.
+- Der Mensch wird = Человек
+- Selbst gesetzt = полагается равным самости
+* selbst = самость | das Selbst | сущ.
+
+[1468] = Но самость есть лишь абстрактно понятый и порождённый абстракцией человек.
+! aber nur der abstrakt < aber nun der abstrakt
+- Das Selbst ist aber nur = Но самость — лишь
+- der abstrakt gefaßte = абстрактно понятый
+- und durch Abstraktion erzeugte Mensch = и порождённый абстракцией человек
+* selbst = самость | das Selbst | сущ.
+
+[1469] = Человек самостен.
+- Der Mensch ist selbstisch = Человек самостен
+* selbstisch = самостен | | прил. | от das Selbst — «самость»; здесь не «эгоистичный»
+
+[1470] = Его глаз, его ухо и т. д. самостны; каждая из его сущностных сил обладает в нём свойством самостности.
+! jede seiner Wesenskräfte < jede seinen Wesenskräfte
+- Sein Auge, sein Ohr etc. ist selbstisch = Его глаз, его ухо и т. д. самостны;
+- jede seiner Wesenskräfte = каждая из его сущностных сил
+- hat in ihm die Eigenschaft der Selbstigkeit = обладает в нём свойством самостности
+* selbstisch = самостны | | прил. | от das Selbst — «самость»; здесь не «эгоистичный»
+
+[1471] = Но потому совершенно неверно говорить: самосознание имеет глаз, ухо, сущностную силу.
+- Aber deswegen ist es nun ganz falsch zu sagen = Но поэтому совершенно неверно говорить:
+- Das Selbstbewußtsein hat Aug’, Ohr, Wesenskraft = самосознание имеет глаз, ухо, сущностную силу
+
+[1472] = Самосознание есть, скорее, качество человеческой природы, человеческого глаза и т. д., а не человеческая природа — качество самосознания.
+- Das Selbstbewußtsein ist vielmehr = Самосознание есть, скорее,
+- eine Qualität der menschlichen Natur, des menschlichen Auges etc. = качество человеческой природы, человеческого глаза и т. д.,
+- nicht die menschliche Natur ist eine Qualität des Selbstbewußtseins = а не человеческая природа — качество самосознания
+
+[1473] = Абстрагированная и фиксированная для себя самость — это человек как абстрактный эгоист, эгоизм, возведённый в своей чистой абстракции до мышления.
+- Das für sich abstrahierte und fixierte Selbst = Абстрагированная и фиксированная для себя самость —
+- ist der Mensch als abstrakter Egoist = это человек как абстрактный эгоист,
+- der in seine reine Abstraktion zum Denken erhobne Egoismus = эгоизм, возведённый в своей чистой абстракции до мышления
+* selbst = самость | das Selbst | сущ.
+
+[1474] = (Мы вернёмся к этому позже.)
+- Wir kommen später hierauf zurück = (Мы к этому позже вернёмся.)
++ kommen zurück = вернёмся ~ zurückkommen
+
+[1475] = Человеческая сущность, человек, для Гегеля равен самосознанию.
+- Das menschliche Wesen, der Mensch = Человеческая сущность, человек,
+- gilt für Hegel = для Гегеля равен
+- Selbstbewußtsein = самосознанию
+
+[1476] = Всякое отчуждение человеческой сущности есть поэтому не что иное, как отчуждение самосознания.
+- Alle Entfremdung des menschlichen Wesens = Всякое отчуждение человеческой сущности
+- ist daher nichts als Entfremdung des Selbstbewußtseins = есть поэтому не что иное, как отчуждение самосознания
+
+[1477] = Отчуждение самосознания считается не выражением, отражающимся в знании и мышлении выражением действительного отчуждения человеческой сущности.
+- Die Entfremdung des Selbstbewußtseins = Отчуждение самосознания
+- gilt nicht als Ausdruck = считается не выражением,
+- im Wissen und Denken sich abspiegelnder Ausdruck = отражающимся в знании и мышлении выражением
+- der wirklichen Entfremdung des menschlichen Wesens = действительного отчуждения человеческой сущности
+
+[1478] = Напротив, действительное, выступающее как реальное отчуждение по своей сокровеннейшей, скрытой — и лишь философией выведенной на свет — сущности есть не что иное, как явление отчуждения действительной человеческой сущности, самосознания.
+- Die wirkliche, als real erscheinende Entfremdung vielmehr = Напротив, действительное, выступающее как реальное отчуждение
+- ist ihrem innersten verborgnen = по своей сокровеннейшей, скрытой —
+- und erst durch die Philosophie ans Licht gebrachten = и лишь философией выведенной на свет —
+- Wesen nach = сущности
+- nichts andres als die Erscheinung = есть не что иное, как явление
+- von der Entfremdung des wirklichen menschlichen Wesens = отчуждения действительной человеческой сущности,
+- des Selbstbewußtseins = самосознания
+
+[1479] = Наука, которая постигает это, называется поэтому феноменологией.
+- Die Wissenschaft, welche dies begreift = Наука, которая это постигает,
+- heißt daher Phänomenologie = называется поэтому феноменологией
+
+[1480] = Всякое обратное присвоение отчуждённой предметной сущности выступает поэтому как включение в самосознание; овладевающий своей сущностью человек есть лишь овладевающее предметной сущностью самосознание.
+- Alle Wiederaneignung des entfremdeten gegenständlichen Wesens = Всякое обратное присвоение отчуждённой предметной сущности
+- erscheint daher als eine Einverleibung in das Selbstbewußtsein = выступает поэтому как включение в самосознание;
+- der sich seines Wesens bemächtigende Mensch = овладевающий своей сущностью человек
+- ist nur das der gegenständlichen Wesen sich bemächtigende Selbstbewußtsein = есть лишь овладевающее предметной сущностью самосознание
+
+[1481] = Возвращение предмета в самость есть поэтому обратное присвоение предмета.
+- Die Rückkehr des Gegenstandes in das Selbst = Возвращение предмета в самость
+- ist daher die Wiederaneignung des Gegenstandes = есть поэтому обратное присвоение предмета
+* selbst = самость | das Selbst | сущ.
+
+[1482] = Выраженное всесторонне, преодоление предмета сознания состоит в следующем:
+- Allseitig ausgedrückt = Выраженное всесторонне,
+- ist die Überwindung des Gegenstandes des Bewußtseins = преодоление предмета сознания состоит в следующем:
+
+[1483] = 1) предмет как таковой представляется сознанию исчезающим;
+! als solcher sich < als solchen sich
+- 1. daß der Gegenstand als solcher = 1) что предмет как таковой
+- sich dem Bewußtsein als verschwindend darstellt = представляется сознанию исчезающим;
+
+[1484] = 2) именно овнешнение самосознания полагает вещность;
+- 2. daß die Entäußerung des Selbstbewußtseins es ist = 2) что именно овнешнение самосознания
+- welche die Dingheit setzt = полагает вещность;
+
+[1485] = 3) это овнешнение имеет не только отрицательное, но и положительное значение;
+! nicht nur negative < nicht nun negative
+- 3. daß diese Entäußerung = 3) что это овнешнение
+- nicht nur negative, sondern positive Bedeutung hat = имеет не только отрицательное, но и положительное значение;
+
+[1486] = 4) имеет его не только для нас, или в себе, но и для него самого.
+! nicht nur für uns < nicht nun für uns
+- 4. sie nicht nur für uns oder an sich = 4) что оно имеет его не только для нас, или в себе,
+- sondern für es selbst hat = но и для него самого
+
+[1487] = 5) Для него отрицательное предмета, или его самоснятие, имеет положительное значение благодаря тому, или оно знает эту ничтожность предмета благодаря тому, что оно само себя овнешняет, ибо в этом овнешнении оно полагает себя как предмет или — ради нераздельного единства для-себя-бытия — предмет как себя самого.
+! in dieser Entäußerung < in diesen Entäußerung
+- 5. Für es hat das Negative des Gegenstandes = 5) Для него отрицательное предмета,
+- oder dessen Sich-Selbst-Aufheben = или его самоснятие,
+- dadurch die positive Bedeutung = имеет положительное значение благодаря тому,
+- oder es weiß diese Nichtigkeit desselben dadurch = или оно знает эту ничтожность его благодаря тому,
+- daß es sich selbst entäußert = что оно само себя овнешняет,
+- denn in dieser Entäußerung = ибо в этом овнешнении
+- setzt es sich als Gegenstand = оно полагает себя как предмет
+- oder den Gegenstand = или предмет —
+- um der untrennbaren Einheit des Fürsichseins willen = ради нераздельного единства для-себя-бытия —
+- als sich selbst = как себя самого
++ um willen = ради ~ um … willen
+
+[1488] = 6) С другой стороны, здесь вместе с тем заключается и тот другой момент, что оно в такой же мере и сняло это овнешнение и предметность и вобрало их обратно в себя, следовательно, в своём инобытии как таковом находится у себя.
+- 6. Andrerseits liegt hierin zugleich dies andre Moment = 6) С другой стороны, здесь вместе с тем заключается и тот другой момент,
+- daß es diese Entäußerung und Gegenständlichkeit = что оно это овнешнение и предметность
+- ebensosehr auch aufgehoben = в такой же мере и сняло
+- und in sich zurückgenommen hat = и вобрало обратно в себя,
+- also in seinem Anderssein als solchem bei sich ist = следовательно, в своём инобытии как таковом находится у себя
++ bei sich ist = находится у себя ~ bei sich sein
+
+[1489] = 7) Таково движение сознания, и оно поэтому есть целокупность его моментов.
+! Totalität seiner Momente < Totalität seinen Momente
+- 7. Dies ist die Bewegung des Bewußtseins = 7) Таково движение сознания,
+- und dies ist darum die Totalität seiner Momente = и оно поэтому есть целокупность его моментов
+
+[1490] = 8) Оно должно точно так же относиться к предмету соответственно целокупности его определений и постичь его согласно каждому из них.
+- 8. Es muß sich ebenso zu dem Gegenstand = 8) Оно должно точно так же к предмету
+- nach der Totalität seiner Bestimmungen verhalten = соответственно целокупности его определений относиться
+- und ihn nach jeder derselben so erfaßt haben = и постичь его так согласно каждому из них
+
+[1491] = Эта целокупность его определений делает его в себе духовной сущностью, а для сознания он становится ею поистине благодаря постижению каждого отдельного из этих определений как самости или благодаря только что названному духовному отношению к ним.
+- Diese Totalität seiner Bestimmungen = Эта целокупность его определений
+- macht ihn an sich zum geistigen Wesen = делает его в себе духовной сущностью,
+- und für das Bewußtsein wird dies in Wahrheit = а для сознания он становится ею поистине
+- durch das Auffassen einer jeden einzelnen derselben = благодаря постижению каждого отдельного из них
+- als des Selbsts = как самости
+- oder durch das eben genannte geistige Verhalten zu ihnen = или благодаря только что названному духовному отношению к ним
+* selbsts = самости | das Selbst | сущ.
+
+[1492] = К пункту 1. То, что предмет как таковой представляется сознанию исчезающим, — это вышеупомянутое возвращение предмета в самость.
+- ad 1. = К пункту 1.
+- Daß der Gegenstand als solcher = То, что предмет как таковой
+- sich dem Bewußtsein als verschwindend darstellt = представляется сознанию исчезающим, —
+- ist die oben erwähnte Rückkehr des Gegenstandes in das Selbst = это вышеупомянутое возвращение предмета в самость
+* ad = к (пункту) | | лат. | ad 1 — к пункту 1
+* selbst = самость | das Selbst | сущ.
+
+[1493] = К пункту 2. Овнешнение самосознания полагает вещность.
+- ad 2. = К пункту 2.
+- Die Entäußerung des Selbstbewußtseins setzt die Dingheit = Овнешнение самосознания полагает вещность
+* ad = к (пункту) | | лат.
+
+[1494] = Так как человек равен самосознанию, то его овнешнённая предметная сущность, или вещность (то, что для него есть предмет, а предмет поистине есть для него лишь то, что для него существенный предмет, что, следовательно, есть его предметная сущность.
+- Weil der Mensch = Так как человек равен
+- Selbstbewußtsein = самосознанию,
+- so ist sein entäußertes gegenständliches Wesen = то его овнешнённая предметная сущность,
+- oder die Dingheit = или вещность
+- das, was für ihn Gegenstand ist = (то, что для него есть предмет,
+- und Gegenstand ist wahrhaft nur für ihn = а предмет поистине есть для него лишь то,
+- was ihm wesentlicher Gegenstand = что для него существенный предмет,
+- was also sein gegenständliches Wesen ist = что, следовательно, есть его предметная сущность
+
+[1495] = Так как субъектом делается не действительный человек, а потому и не природа — человек есть человеческая природа — как таковая, а лишь абстракция человека, самосознание, то вещность может быть лишь овнешнённым самосознанием) равна овнешнённому самосознанию, и вещность положена этим овнешнением.
+! Dingheit nur das entäußerte < Dingheit nun das entäußerte
+- Da nun nicht der wirkliche Mensch = Так как не действительный человек,
+- darum auch nicht die Natur = а потому и не природа —
+- der Mensch ist die menschliche Natur = человек есть человеческая природа —
+- als solcher zum Subjekt gemacht wird = как таковые делаются субъектом,
+- sondern nur die Abstraktion des Menschen = а лишь абстракция человека,
+- das Selbstbewußtsein = самосознание,
+- so kann die Dingheit nur das entäußerte Selbstbewußtsein sein = то вещность может быть лишь овнешнённым самосознанием)
+- dem entäußerten Selbstbewußtsein = равна овнешнённому самосознанию,
+- und die Dingheit ist durch diese Entäußerung gesetzt = и вещность положена этим овнешнением
+
+[1496] = То, что живое, природное, наделённое и одарённое предметными, т. е. материальными, сущностными силами существо имеет и действительные природные предметы своей сущности, и что его самоовнешнение есть полагание действительного, но в форме внешности, следовательно, не принадлежащего к его сущности и подавляющего его, предметного мира, — это совершенно естественно.
+- Daß ein lebendiges, natürliches = То, что живое, природное,
+- mit gegenständlichen, i.e. materiellen Wesenskräften = предметными, т. е. материальными, сущностными силами
+- ausgerüstetes und begabtes Wesen = наделённое и одарённое существо
+- auch sowohl wirkliche natürliche Gegenstände seines Wesens hat = имеет как действительные природные предметы своей сущности,
+- als daß seine Selbstentäußerung = так и то, что его самоовнешнение
+- die Setzung einer wirklichen = есть полагание действительного,
+- aber unter der Form der Äußerlichkeit = но в форме внешности,
+- also zu seinem Wesen nicht gehörigen und übermächtigen = следовательно, не принадлежащего к его сущности и подавляющего его,
+- gegenständlichen Welt ist = предметного мира, —
+- ist ganz natürlich = совершенно естественно
+
+[1497] = В этом нет ничего непостижимого и загадочного.
+- Es ist nichts Unbegreifliches und Rätselhaftes dabei = В этом нет ничего непостижимого и загадочного
+
+[1498] = Загадочным было бы, скорее, обратное.
+- Vielmehr wäre das Gegenteil rätselhaft = Загадочным было бы, скорее, обратное
+
+[1499] = Но столь же ясно, что самосознание своим овнешнением может полагать лишь вещность, т. е. само лишь абстрактную вещь, вещь абстракции, а не действительную вещь.
+! Entäußerung nur die Dingheit < Entäußerung nun die Dingheit
+! selbst nur ein abstraktes < selbst nun ein abstraktes
+- Aber daß ein Selbstbewußtsein = Но то, что самосознание
+- durch seine Entäußerung nur die Dingheit = своим овнешнением лишь вещность,
+- d.h. selbst nur ein abstraktes Ding = т. е. само лишь абстрактную вещь,
+- ein Ding der Abstraktion = вещь абстракции,
+- und kein wirkliches Ding setzen kann = а не действительную вещь, может полагать, —
+- ist ebenso klar = столь же ясно
+
+[1500] = Далее ясно, что вещность поэтому есть отнюдь не нечто самостоятельное, существенное по отношению к самосознанию, а простое творение, нечто им положенное, и положенное, вместо того чтобы подтверждать себя, есть лишь подтверждение акта полагания, который на мгновение фиксирует свою энергию как продукт и для видимости наделяет его ролью — но лишь на мгновение — самостоятельной, действительной сущности.
+! ist nur eine Bestätigung < ist nun eine Bestätigung
+! aber nur für einen < aber nun für einen
+- Es ist ferner klar = Далее ясно,
+- daß die Dingheit daher durchaus nichts Selbständiges = что вещность поэтому отнюдь не нечто самостоятельное,
+- Wesentliches gegen das Selbstbewußtsein = существенное по отношению к самосознанию,
+- sondern ein bloßes Geschöpf = а простое творение,
+- ein von ihm Gesetztes ist = нечто им положенное,
+- und das Gesetzte = и положенное,
+- statt sich selbst zu bestätigen = вместо того чтобы подтверждать себя,
+- ist nur eine Bestätigung des Aktes des Setzens = есть лишь подтверждение акта полагания,
+- der einen Augenblick seine Energie als das Produkt fixiert = который на мгновение фиксирует свою энергию как продукт
+- und zum Schein ihm die Rolle = и для видимости наделяет его ролью —
+- aber nur für einen Augenblick = но лишь на мгновение —
+- eines selbständigen, wirklichen Wesens erteilt = самостоятельной, действительной сущности
++ zum Schein = для видимости ~ zum Schein
