@@ -1,0 +1,621 @@
+[1114] = Потребность, производство и разделение труда
+- Bedürfnis, Produktion und Arbeitsteilung = Потребность, производство и разделение труда
+
+[1115] = 7) Мы видели, какое значение при предпосылке социализма имеет богатство человеческих потребностей, а следовательно, и новый способ производства, и новый предмет производства.
+- 7. Wir haben gesehn = 7) Мы видели,
+- welche Bedeutung = какое значение
+- unter der Voraussetzung des Sozialismus = при предпосылке социализма
+- die Reichheit der menschlichen Bedürfnisse = богатство человеческих потребностей
+- und daher sowohl eine neue Weise der Produktion = и потому как новый способ производства,
+- als auch ein neuer Gegenstand der Produktion hat = так и новый предмет производства имеет
+
+[1116] = Новое проявление человеческой сущностной силы и новое обогащение человеческой сущности.
+- Neue Bestätigung der menschlichen Wesenskraft = Новое утверждение человеческой сущностной силы
+- und neue Bereicherung des menschlichen Wesens = и новое обогащение человеческой сущности
+
+[1117] = В рамках частной собственности — обратное значение.
+- Innerhalb des Privateigentums = В рамках частной собственности
+- die umgekehrte Bedeutung = обратное значение
+
+[1118] = Каждый человек старается пробудить в другом новую потребность, чтобы принудить его к новой жертве, поставить его в новую зависимость и толкнуть к новому способу наслаждения, а тем самым и к экономическому разорению.
+- Jeder Mensch spekuliert darauf = Каждый человек рассчитывает на то,
+- dem andern ein neues Bedürfnis zu schaffen = чтобы создать другому новую потребность,
+- um ihn zu einem neuen Opfer zu zwingen = чтобы принудить его к новой жертве,
+- um ihn in eine neue Abhängigkeit zu versetzen = чтобы поставить его в новую зависимость
+- und ihn zu einer neuen Weise des Genusses = и склонить его к новому способу наслаждения,
+- und damit des ökonomischen Ruins zu verleiten = а тем самым и экономического разорения
+
+[1119] = Каждый стремится вызвать к жизни какую-нибудь чуждую сущностную силу, господствующую над другим, чтобы найти в этом удовлетворение своей собственной своекорыстной потребности.
+- Jeder sucht eine fremde Wesenskraft = Каждый стремится чуждую сущностную силу
+- über den andern zu schaffen = над другим создать,
+- um darin die Befriedigung = чтобы в этом удовлетворение
+- seines eigenen eigennützigen Bedürfnisses zu finden = своей собственной своекорыстной потребности найти
+
+[1120] = Поэтому вместе с массой предметов растёт царство чуждых сущностей, под игом которых находится человек, и каждый новый продукт — это новая возможность взаимного обмана и взаимного грабежа.
+- Mit der Masse der Gegenstände = С массой предметов
+- wächst daher das Reich der fremden Wesen = растёт поэтому царство чуждых сущностей,
+- denen der Mensch unterjocht ist = под игом которых человек,
+- und jedes neue Produkt = и каждый новый продукт
+- ist eine neue Potenz = есть новая потенция
+- des wechselseitigen Betrugs = взаимного обмана
+- und der wechselseitigen Ausplünderung = и взаимного грабежа
+
+[1121] = Человек становится тем беднее как человек, он тем больше нуждается в деньгах, чтобы овладеть враждебной сущностью, а сила его денег падает в прямо обратном отношении к массе производства, т. е. его нуждаемость растёт по мере роста власти денег. — Поэтому потребность в деньгах есть истинная, производимая политической экономией потребность и единственная потребность, которую она производит. — Количество денег всё больше становится их единственным могущественным свойством; подобно тому как они сводят всякую сущность к её абстракции, так они сводят и себя в своём собственном движении к количественной сущности.
+- Der Mensch wird um so ärmer als Mensch = Человек становится тем беднее как человек,
+- er bedarf um so mehr des Geldes = он тем больше нуждается в деньгах,
+- um sich des feindlichen Wesens zu bemächtigen = чтобы овладеть враждебной сущностью,
+- und die Macht seines Geldes fällt = а сила его денег падает
+- grade im umgekehrten Verhältnis = как раз в обратном отношении
+- als die Masse der Produktion = к массе производства,
+- d.h. = т. е.
+- seine Bedürftigkeit wächst = его нуждаемость растёт,
+- wie die Macht des Geldes zunimmt = как растёт власть денег. —
+- Das Bedürfnis des Geldes ist daher = Потребность в деньгах есть поэтому
+- das wahre, von der Nationalökonomie produzierte Bedürfnis = истинная, произведённая политической экономией потребность
+- und das einzige Bedürfnis = и единственная потребность,
+- das sie produziert = которую она производит. —
+- Die Quantität des Geldes wird immer mehr = Количество денег становится всё больше
+- seine einzige mächtige Eigenschaft = их единственным могущественным свойством;
+- wie es alles Wesen auf seine Abstraktion reduziert = как они всякую сущность сводят к её абстракции,
+- so reduziert es sich in seiner eignen Bewegung = так они сводят себя в своём собственном движении
+- als quantitatives Wesen = к количественной сущности
+
+[1122] = Безмерность и неумеренность становятся их истинной мерой. — Субъективно это проявляется отчасти в том, что рост продуктов и потребностей превращается в изобретательного и всегда расчётливого раба нечеловеческих, изощрённых, неестественных и надуманных вожделений: частная собственность не умеет превратить грубую потребность в человеческую; её идеализм — это фантазия, произвол, прихоть; и никакой евнух не льстит более низко своему деспоту и не пытается более гнусными средствами возбудить его притуплённую способность к наслаждению, чтобы снискать себе его милость, чем это делает евнух промышленности, производитель, чтобы выманить себе серебряные гроши, выудить золотых птичек из кармана христиански любимого ближнего (каждый продукт — это приманка, с помощью которой хотят выманить сущность другого, его деньги; каждая действительная или возможная потребность — это слабость, которая приведёт муху к клейкой палке; всеобщая эксплуатация общественной человеческой сущности, подобно тому как всякое несовершенство человека есть связь с небом, та сторона, с которой его сердце доступно священнику; всякая нужда — это повод, чтобы с самым любезным видом подойти к ближнему и сказать ему: «Дорогой друг, я дам тебе то, что тебе нужно; но ты знаешь conditio sine qua non; ты знаешь, какими чернилами ты должен мне подписаться; я обираю тебя, доставляя тебе наслаждение»): он подчиняется самым гнусным прихотям другого, играет роль сводника между ним и его потребностью, возбуждает в нём болезненные вожделения, подстерегает каждую его слабость, чтобы потом потребовать задаток за эту любезность. — Отчасти же это отчуждение проявляется в том, что утончённость потребностей и средств их удовлетворения на одной стороне порождает скотское одичание, полное, грубое, абстрактное упрощение потребностей на другой стороне, или, вернее, лишь воспроизводит себя в своём противоположном значении.
+! Goldvögel < Goldvogel
+- Die Maßlosigkeit und Unmäßigkeit = Безмерность и неумеренность
+- wird sein wahres Maß = становятся его истинной мерой. —
+- Subjektiv selbst erscheint dies so = Субъективно это проявляется так:
+- teils daß die Ausdehnung der Produkte und der Bedürfnisse = отчасти рост продуктов и потребностей
+- zum erfinderischen und stets kalkulierenden Sklaven = изобретательным и всегда расчётливым рабом
+- unmenschlicher, raffinierter, unnatürlicher = нечеловеческих, изощрённых, неестественных
+- und eingebildeter Gelüste wird = и надуманных вожделений становится, —
+- das Privateigentum weiß das rohe Bedürfnis nicht = частная собственность не умеет грубую потребность
+- zum menschlichen Bedürfnis zu machen = сделать человеческой потребностью;
+- sein Idealismus ist die Einbildung = её идеализм — фантазия,
+- die Willkür, die Laune = произвол, прихоть,
+- und ein Eunuche schmeichelt nicht niederträchtiger = и никакой евнух не льстит более низко
+- seinem Despoten = своему деспоту
+- und sucht durch keine infameren Mittel = и не пытается более гнусными средствами
+- seine abgestumpfte Genußfähigkeit zu irritieren = его притуплённую способность к наслаждению возбудить,
+- um sich selbst die Gunst zu erschleichen = чтобы себе милость снискать,
+- wie der Industrieeunuche = чем евнух промышленности,
+- der Produzent = производитель,
+- um sich Silberpfennige zu erschleichen = чтобы себе серебряные гроши выманить,
+- aus der Tasche des christlich geliebten Nachbarn = из кармана христиански любимого ближнего
+- die Goldvögel herauszulocken = золотых птичек выудить, —
+- jedes Produkt ist ein Köder = (каждый продукт — приманка,
+- womit man das Wesen des andern = которой сущность другого,
+- sein Geld, an sich locken will = его деньги, хотят к себе заманить,
+- jedes wirkliche oder mögliche Bedürfnis = каждая действительная или возможная потребность
+- ist eine Schwachheit = есть слабость,
+- die die Fliege an die Leimstange heranführen wird = которая приведёт муху к клейкой палке, —
+- allgemeine Ausbeutung = всеобщая эксплуатация
+- des gemeinschaftlichen menschlichen Wesens = общественной человеческой сущности,
+- wie jede Unvollkommenheit des Menschen = как всякое несовершенство человека
+- ein Band mit dem Himmel ist = есть связь с небом,
+- eine Seite = сторона,
+- wo sein Herz dem Priester zugänglich = где его сердце доступно священнику;
+- jede Not ist die Gelegenheit = всякая нужда — повод,
+- um unter dem liebenswürdigsten Schein = чтобы с самым любезным видом
+- zum Nachbarn zu treten = к ближнему подойти
+- und ihm zu sagen = и ему сказать:
+- Lieber Freund = «Дорогой друг,
+- ich gebe dir, was dir nötig ist = я даю тебе то, что тебе нужно;
+- aber du kennst die conditio sine qua non = но ты знаешь непременное условие;
+- du weißt, mit welcher Tinte = ты знаешь, какими чернилами
+- du dich mir zu verschreiben hast = ты должен мне подписаться;
+- ich prelle dich = я обираю тебя,
+- indem ich dir einen Genuß verschaffe = доставляя тебе наслаждение») —
+- sich seinen verworfensten Einfällen fügt = подчиняется его самым гнусным прихотям,
+- den Kuppler zwischen ihm und seinem Bedürfnis spielt = играет роль сводника между ним и его потребностью,
+- krankhafte Gelüste in ihm erregt = болезненные вожделения в нём возбуждает,
+- jede Schwachheit ihm ablauert = каждую его слабость подстерегает,
+- um dann das Handgeld = чтобы потом задаток
+- für diesen Liebes-dienst zu verlangen = за эту любезность потребовать. —
+- Teils zeigt sich diese Entfremdung = Отчасти проявляется это отчуждение в том,
+- indem die Raffinierung der Bedürfnisse und ihrer Mittel = что утончённость потребностей и их средств
+- auf der einen Seite = на одной стороне
+- die viehische Verwildrung = скотское одичание,
+- vollständige, rohe, abstrakte Einfachheit des Bedürfnisses = полную, грубую, абстрактную простоту потребности
+- auf der andren Seite produziert = на другой стороне порождает;
+- oder vielmehr nur sich selbst = или, скорее, лишь себя саму
+- in seiner gegenteiligen Bedeutung wiedergebiert = в своём противоположном значении воспроизводит
+* conditio = условие | | сущ. | лат. conditio sine qua non — непременное условие
+* sine = без | | предлог | лат.
+* qua = которого | | местоим. | лат.
+* non = не | | частица | лат.
+
+[1123] = Даже потребность в свежем воздухе перестаёт быть потребностью для рабочего; человек возвращается в пещерное жилище, но теперь оно отравлено зловонным, смертоносным дыханием цивилизации, и он живёт в нём лишь на птичьих правах, как в чуждой силе, которая может ежедневно ускользнуть от него, из которой его могут ежедневно выбросить, если он не заплатит.
+- Selbst das Bedürfnis der freien Luft = Даже потребность в свежем воздухе
+- hört bei dem Arbeiter auf = перестаёт у рабочего
+- ein Bedürfnis zu sein = быть потребностью,
+- der Mensch kehrt in die Höhlenwohnung zurück = человек возвращается в пещерное жилище,
+- die aber nun von dem mephytischen Pesthauch der Zivilisation = которое теперь, однако, зловонным чумным дыханием цивилизации
+- verpestet ist = отравлено
+- und die er nur mehr prekär = и в котором он лишь на птичьих правах,
+- als eine fremde Macht = как в чуждой силе,
+- die sich ihm täglich entziehn = которая ежедневно может от него ускользнуть,
+- aus der er täglich = из которой его ежедневно,
+- wenn er nicht zahlt = если он не платит,
+- herausgeworfen werden kann = могут выбросить,
+- bewohnt = живёт
+* mephytischen = зловонным | mephitisch | прил. | от лат. mephitis — ядовитые испарения
+
+[1124] = За этот мертвецкий дом он должен платить.
+- Dies Totenhaus muß er bezahlen = За этот мертвецкий дом он должен платить
+
+[1125] = Светлое жилище, которое у Эсхила Прометей называет одним из великих даров, благодаря которым он превратил дикаря в человека, перестаёт существовать для рабочего.
+- Die Lichtwohnung = Светлое жилище,
+- welche Prometheus bei Aeschylus = которое Прометей у Эсхила
+- als eines der großen Geschenke = как один из великих даров,
+- wodurch er den Wilden zum Menschen gemacht = которыми он сделал дикаря человеком,
+- bezeichnet = называет,
+- hört auf, für den Arbeiter zu sein = перестаёт существовать для рабочего
+* prometheus = Прометей | | имя собств. | титан, давший людям огонь
+* aeschylus = Эсхил | | имя собств. | древнегреческий драматург
+
+[1126] = Свет, воздух и т. д., простейшая, присущая даже животным чистоплотность перестают быть потребностью человека.
+- Licht, Luft etc. = Свет, воздух и т. д.,
+- die einfachste tierische Reinlichkeit = простейшая животная чистоплотность
+- hört auf, ein Bedürfnis für den Menschen zu sein = перестают быть потребностью для человека
+
+[1127] = Грязь, это опускание, гниение человека, сточные нечистоты (в буквальном смысле этого слова) цивилизации становятся для него жизненной стихией.
+- Der Schmutz = Грязь,
+- diese Versumpfung, Verfaulung des Menschen = это заболачивание, гниение человека,
+- der Gossenablauf = сток канавы
+- dies ist wörtlich zu verstehn = (это надо понимать буквально)
+- der Zivilisation = цивилизации
+- wird ihm ein Lebenselement = становится для него жизненной стихией
+
+[1128] = Полная противоестественная запущенность, гниющая природа становится его жизненной стихией.
+- Die völlige unnatürliche Verwahrlosung = Полная противоестественная запущенность,
+- die verfaulte Natur = гниющая природа,
+- wird zu seinem Lebenselement = становится его жизненной стихией
+
+[1129] = Ни одно из его чувств уже не существует не только в его человеческом виде, но и в нечеловеческом, а потому даже не в животном виде.
+- Keiner seiner Sinne existiert mehr = Ни одно из его чувств не существует больше
+- nicht nur nicht in seiner menschlichen Weise = не только не в его человеческом виде,
+- sondern in einer unmenschlichen = но в нечеловеческом,
+- darum selbst nicht einmal tierischen Weise = а потому даже не в животном виде
+
+[1130] = Возвращаются самые грубые способы (и орудия) человеческого труда: так, топчак римских рабов стал способом производства, способом существования многих английских рабочих.
+- Die rohsten Weisen = Самые грубые способы
+- und Instrumente = (и орудия)
+- der menschlichen Arbeit kehren wieder = человеческого труда возвращаются,
+- wie die Tretmühle der römischen Sklaven = как топчак римских рабов
+- zur Produktionsweise, Daseinsweise = способом производства, способом существования
+- vieler englischen Arbeiter geworden ist = многих английских рабочих стал
+* tretmühle = топчак (колесо, вращаемое ногами) | die Tretmühle | сущ.
+
+[1131] = Человек не только лишён человеческих потребностей — даже животные потребности исчезают.
+- Nicht nur, daß der Mensch = Не только то, что человек
+- keine menschlichen Bedürfnisse hat = не имеет человеческих потребностей, —
+- selbst die tierischen Bedürfnisse hören auf = даже животные потребности прекращаются
+
+[1132] = Ирландец знает только потребность в еде, а именно только в поедании картофеля, притом лишь «лумпер-картофеля», худшего сорта картофеля.
+- Der Irländer kennt nur mehr = Ирландец знает лишь
+- das Bedürfnis des Essens = потребность в еде,
+- und zwar nur mehr des Kartoffelessens = и притом лишь в поедании картофеля,
+- und zwar nur der Lumpenkartoffel = и притом лишь «лумпер-картофеля»,
+- der schlechtesten Art von Kartoffel = худшего сорта картофеля
+
+[1133] = Но Англия и Франция уже имеют в каждом промышленном городе маленькую Ирландию.
+- Aber England und Frankreich haben schon = Но Англия и Франция уже имеют
+- in jeder Industriestadt ein kleines Irland = в каждом промышленном городе маленькую Ирландию
+
+[1134] = У дикаря, у животного есть всё же потребность в охоте, в движении и т. д., потребность в обществе себе подобных. — Упрощение машины, труда используется для того, чтобы сделать рабочим ещё только становящегося человека, совершенно неразвитого человека — ребёнка, подобно тому как рабочий стал запущенным ребёнком.
+- Der Wilde, das Tier = Дикарь, животное
+- hat doch das Bedürfnis der Jagd, der Bewegung etc. = имеет всё же потребность в охоте, движении и т. д.,
+- der Geselligkeit = в общении. —
+- Die Vereinfachung der Maschine, der Arbeit = Упрощение машины, труда
+- wird dazu benutzt = используется для того,
+- um den erst werdenden Menschen = чтобы ещё только становящегося человека,
+- den ganz unausgebildeten Menschen = совершенно неразвитого человека —
+- das Kind = ребёнка —
+- zum Arbeiter zu machen = сделать рабочим,
+- wie der Arbeiter ein verwahrlostes Kind geworden ist = как рабочий стал запущенным ребёнком
+
+[1135] = Машина приспосабливается к слабости человека, чтобы превратить слабого человека в машину.
+- Die Maschine bequemt sich der Schwäche des Menschen = Машина приспосабливается к слабости человека,
+- um den schwachen Menschen zur Maschine zu machen = чтобы слабого человека сделать машиной
++ bequemt sich = приспосабливается ~ sich einer Sache bequemen
+
+[1136] = Как умножение потребностей и средств их удовлетворения порождает отсутствие потребностей и отсутствие средств, доказывает политэконом (и капиталист — вообще мы всегда говорим об эмпирических дельцах, когда обращаемся к политэкономам — их научному признанию и бытию): 1) сводя потребности рабочего к самому необходимому и самому жалкому поддержанию физической жизни, а его деятельность — к самому абстрактному механическому движению, он тем самым говорит: у человека нет никаких других потребностей ни в деятельности, ни в наслаждении; ибо и эту жизнь он объявляет человеческой жизнью и человеческим существованием; 2) принимая возможно более скудную жизнь (существование) за масштаб, притом за всеобщий масштаб: всеобщий потому, что он имеет силу для массы людей; он превращает рабочего в существо, лишённое чувств и потребностей, подобно тому как его деятельность он превращает в чистую абстракцию от всякой деятельности; поэтому всякая роскошь рабочего кажется ему предосудительной, и всё, что выходит за пределы самой абстрактной потребности, — будь то пассивное наслаждение или проявление деятельности, — кажется ему роскошью.
+! von aller Tätigkeit < von alter Tätigkeit
+- Wie die Vermehrung der Bedürfnisse und ihrer Mittel = Как умножение потребностей и их средств
+- die Bedürfnislosigkeit und die Mittellosigkeit erzeugt = отсутствие потребностей и отсутствие средств порождает,
+- beweist der Nationalökonom = доказывает политэконом
+- und der Kapitalist = (и капиталист,
+- überhaupt reden wir immer = вообще мы всегда говорим
+- von den empirischen Geschäftsleuten = об эмпирических дельцах,
+- wenn wir uns an die Nationalökonomen = когда мы к политэкономам —
+- ihr wissenschaftliches Geständnis und Dasein = их научному признанию и бытию —
+- adressieren = обращаемся),
+- 1. indem er das Bedürfnis des Arbeiters = 1) сводя потребность рабочего
+- auf den notwendigsten und jämmerlichsten Unterhalt = к самому необходимому и жалкому поддержанию
+- des physischen Lebens = физической жизни,
+- und seine Tätigkeit = а его деятельность
+- auf die abstrakteste mechanische Bewegung reduziert = к самому абстрактному механическому движению,
+- also, sagt er = значит, говорит он:
+- Der Mensch hat kein andres Bedürfnis = у человека нет иной потребности
+- weder der Tätigkeit noch des Genusses = ни в деятельности, ни в наслаждении;
+- denn auch dies Leben = ибо и эту жизнь
+- erklärt er [als] menschliches Leben und Dasein = он объявляет человеческой жизнью и существованием;
+- indem 2. er das möglichst dürftige Leben = 2) принимая возможно более скудную жизнь
+- Existenz = (существование)
+- als Maßstab = за масштаб,
+- und zwar als allgemeinen Maßstab ausrechnet = и притом за всеобщий масштаб высчитывая:
+- allgemein, weil für die Masse der Menschen geltend = всеобщий потому, что имеющий силу для массы людей;
+- er macht den Arbeiter = он делает рабочего
+- zu einem unsinnlichen und bedürfnislosen Wesen = существом, лишённым чувств и потребностей,
+- wie er seine Tätigkeit = как и его деятельность
+- zu einer reinen Abstraktion von aller Tätigkeit macht = чистой абстракцией от всякой деятельности делает;
+- jeder Luxus des Arbeiters = всякая роскошь рабочего
+- erscheint ihm daher als verwerflich = кажется ему поэтому предосудительной,
+- und alles, was über das allerabstrakteste Bedürfnis hinausgeht = и всё, что за пределы самой абстрактной потребности выходит, —
+- sei es als passiver Genuß = будь то пассивное наслаждение
+- oder Tätigkeitsäußerung = или проявление деятельности, —
+- erscheint ihm als Luxus = кажется ему роскошью
+
+[1137] = Поэтому политическая экономия, эта наука о богатстве, есть вместе с тем наука об отречении, о лишениях, о сбережении, и она действительно доходит до того, что избавляет человека даже от потребности в чистом воздухе или физическом движении.
+- Die Nationalökonomie = Политическая экономия,
+- diese Wissenschaft des Reichtums = эта наука о богатстве,
+- ist daher zugleich die Wissenschaft des Entsagens = есть поэтому вместе с тем наука об отречении,
+- des Darbens, der Ersparung = о лишениях, о сбережении,
+- und sie kömmt wirklich dazu = и она действительно доходит до того,
+- dem Menschen sogar das Bedürfnis = что человеку даже потребность
+- einer reinen Luft oder der physischen Bewegung = в чистом воздухе или физическом движении
+- zu ersparen = сберегает
+
+[1138] = Эта наука о чудесной промышленности есть вместе с тем наука об аскетизме, и её истинный идеал — это аскетический, но ростовщичествующий скряга и аскетический, но производящий раб.
+! Ideal ist < Idealist
+- Diese Wissenschaft der wunderbaren Industrie = Эта наука о чудесной промышленности
+- ist zugleich die Wissenschaft der Askese = есть одновременно наука об аскезе,
+- und ihr wahres Ideal ist = и её истинный идеал —
+- der asketische, aber wuchernde Geizhals = аскетический, но ростовщичествующий скряга
+- und der asketische, aber produzierende Sklave = и аскетический, но производящий раб
+
+[1139] = Её моральный идеал — рабочий, который относит часть своей заработной платы в сберегательную кассу, и для этой своей излюбленной идеи она нашла даже раболепное искусство.
+- Ihr moralisches Ideal ist der Arbeiter = Её моральный идеал — рабочий,
+- der in die Sparkasse = который в сберегательную кассу
+- einen Teil seines salaire bringt = часть своей заработной платы несёт,
+- und sie hat für diesen ihren Lieblingseinfall = и она для этой своей любимой идеи
+- sogar eine knechtische Kunst vorgefunden = даже раболепное искусство нашла
+
+[1140] = Это сентиментально выводили на сцену.
+- Man hat das sentimental = Это сентиментально
+- aufs Theater gebracht = выводили на сцену
+
+[1141] = Поэтому она — несмотря на свой мирской и сладострастный вид — действительно моральная наука, самая моральная из наук.
+- Sie ist daher = Она поэтому —
+- trotz ihres weltlichen und wollüstigen Aussehns = несмотря на свой мирской и сладострастный вид —
+- eine wirklich moralische Wissenschaft = действительно моральная наука,
+- die allermoralischste Wissenschaft = самая моральная наука
+
+[1142] = Самоотречение, отречение от жизни и от всех человеческих потребностей — её главный догмат.
+! aller menschlichen < alter menschlichen
+- Die Selbstentsagung = Самоотречение,
+- die Entsagung des Lebens = отречение от жизни
+- und aller menschlichen Bedürfnisse = и от всех человеческих потребностей
+- ist ihr Hauptlehrsatz = есть её главный догмат
+
+[1143] = Чем меньше ты ешь, пьёшь, чем меньше покупаешь книг, чем реже ходишь в театр, на балы, в кабаки, чем меньше ты думаешь, любишь, теоретизируешь, поёшь, рисуешь, фехтуешь и т. д., тем больше ты сберегаешь, тем больше становится твоё сокровище, не подтачиваемое ни молью, ни ржавчиной, — твой капитал.
+- Je weniger du ißt, trinkst = Чем меньше ты ешь, пьёшь,
+- Bücher kaufst = книг покупаешь,
+- in das Theater, auf den Ball, zum Wirtshaus gehst = в театр, на бал, в кабак ходишь,
+- denkst, liebst, theoretisierst = думаешь, любишь, теоретизируешь,
+- singst, malst, fichtst etc. = поёшь, рисуешь, фехтуешь и т. д.,
+- um so [mehr] sparst du = тем больше ты сберегаешь,
+- um so größer wird dein Schatz = тем больше становится твоё сокровище,
+- den weder Motten noch Raub fressen = которое ни моль, ни грабёж не съедят, —
+- dein Kapital = твой капитал
+
+[1144] = Чем ничтожнее твоё бытие, чем меньше ты проявляешь свою жизнь, тем больше твоё имущество, тем больше твоя отчуждённая жизнь, тем больше ты накапливаешь своей отчуждённой сущности.
+- Je weniger du bist = Чем меньше ты есть,
+- je weniger du dein Leben äußerst = чем меньше ты свою жизнь проявляешь,
+- um so mehr hast du = тем больше ты имеешь,
+- um so größer ist dein entäußertes Leben = тем больше твоя отчуждённая жизнь,
+- um so mehr speicherst du auf = тем больше ты накапливаешь
+- von deinem entfremdeten Wesen = своей отчуждённой сущности
++ speicherst auf = накапливаешь ~ aufspeichern
+
+[1145] = Всё то, что политэконом отнимает у тебя в виде жизни и человечности, он возмещает тебе в виде денег и богатства, и всё то, чего не можешь ты, могут твои деньги: они могут есть, пить, ходить на балы, в театр, они умеют приобрести себе искусство, учёность, исторические редкости, политическую власть, они могут путешествовать, они могут присвоить тебе всё это; они могут всё это купить; они — истинное могущество.
+- Alles, was dir der Nationalökonom = Всё, что у тебя политэконом
+- an Leben nimmt und an Menschheit = из жизни отнимает и из человечности,
+- das alles ersetzt er dir in Geld und Reichtum = всё это он возмещает тебе деньгами и богатством,
+- und alles das, was du nicht kannst = и всё то, чего ты не можешь,
+- das kann dein Geld = то могут твои деньги:
+- Es kann essen, trinken = они могут есть, пить,
+- auf den Ball, ins Theater gehn = ходить на бал, в театр,
+- es weiß sich die Kunst = они умеют себе искусство,
+- die Gelehrsamkeit = учёность,
+- die historischen Seltenheiten = исторические редкости,
+- die politische Macht = политическую власть (приобрести),
+- es kann reisen = они могут путешествовать,
+- es kann dir das alles aneignen = они могут тебе всё это присвоить;
+- es kann das alles kaufen = они могут всё это купить;
+- es ist das wahre Vermögen = они — истинное могущество
+* vermögen = могущество; состояние | das Vermögen | сущ. | игра слов: Vermögen — и «состояние, богатство», и «способность»
+
+[1146] = Но, будучи всем этим, они не хотят ничего, кроме как создавать самих себя, покупать самих себя, ибо всё остальное ведь их слуга, а когда у меня есть господин, у меня есть и слуга, и в его слуге я не нуждаюсь.
+- Aber es, was all dies ist = Но они, будучи всем этим,
+- es mag nichts als sich selbst schaffen = не хотят ничего, кроме как создавать себя,
+- sich selbst kaufen = покупать себя,
+- denn alles andre ist ja sein Knecht = ибо всё остальное ведь их слуга,
+- und wenn ich den Herrn habe = а если у меня есть господин,
+- habe ich den Knecht = у меня есть и слуга,
+- und brauche ich seinen Knecht nicht = и его слуга мне не нужен
+
+[1147] = Итак, все страсти и всякая деятельность должны потонуть в алчности.
+- Alle Leidenschaften und alle Tätigkeit = Все страсти и вся деятельность
+- muß also untergehn in der Habsucht = должны, следовательно, потонуть в алчности
+
+[1148] = Рабочий должен иметь лишь столько, сколько нужно, чтобы он хотел жить, и должен хотеть жить лишь для того, чтобы иметь.
+- Der Arbeiter darf nur soviel haben = Рабочий вправе иметь лишь столько,
+- daß [er] leben will = чтобы он хотел жить,
+- und darf nur leben wollen = и вправе хотеть жить лишь,
+- um zu haben = чтобы иметь
+
+[1149] = Правда, на почве политической экономии поднимается теперь спор.
+- Allerdings erhebt sich nun = Правда, поднимается теперь
+- auf nationalökonomischem Boden = на политико-экономической почве
+- eine Kontroverse = спор
+
+[1150] = Одна сторона (Лодердейл, Мальтус и др.) рекомендует роскошь и проклинает бережливость; другая (Сэй, Рикардо и др.) рекомендует бережливость и проклинает роскошь.
+- Die eine Seite = Одна сторона
+- Lauderdale, Malthus etc. = (Лодердейл, Мальтус и др.)
+- empfiehlt den Luxus = рекомендует роскошь
+- und verwünscht die Sparsamkeit = и проклинает бережливость;
+- die andre = другая
+- Say, Ricardo etc. = (Сэй, Рикардо и др.)
+- empfiehlt die Sparsamkeit = рекомендует бережливость
+- und verwünscht den Luxus = и проклинает роскошь
+* malthus = Мальтус | | имя собств. | Томас Мальтус (1766–1834), английский экономист
+* lauderdale = Лодердейл | | имя собств. | Джеймс Мейтленд, граф Лодердейл (1759–1839), экономист
+
+[1151] = Но первая признаётся, что она хочет роскоши, чтобы производить труд, т. е. абсолютную бережливость; другая сторона признаётся, что она рекомендует бережливость, чтобы производить богатство, т. е. роскошь.
+- Aber jene gesteht = Но та признаётся,
+- daß sie den Luxus will = что она хочет роскоши,
+- um die Arbeit = чтобы труд,
+- d.h. die absolute Sparsamkeit zu produzieren = т. е. абсолютную бережливость, производить;
+- die andre Seite gesteht = другая сторона признаётся,
+- daß sie die Sparsamkeit empfiehlt = что она рекомендует бережливость,
+- um den Reichtum = чтобы богатство,
+- d.h. den Luxus zu produzieren = т. е. роскошь, производить
+
+[1152] = Первая сторона предаётся романтической фантазии, будто алчность не должна одна определять потребление богатых, и противоречит своим собственным законам, выдавая расточительство непосредственно за средство обогащения, — и поэтому другая сторона весьма серьёзно и обстоятельно доказывает ей, что расточительством я уменьшаю, а не увеличиваю своё имущество; другая сторона лицемерно не признаётся в том, что как раз прихоть и каприз определяют производство; она забывает об «утончённых потребностях», она забывает, что без потребления не было бы и производства; она забывает, что производство в силу конкуренции должно становиться всё более всесторонним, более роскошным; она забывает, что ценность вещи определяется для неё потреблением, а потребление определяется модой; она хочет, чтобы производилось только «полезное», но забывает, что производство слишком большого количества полезного производит слишком много бесполезного населения.
+- Die erstere Seite = Первая сторона
+- hat die romantische Einbildung = предаётся романтической фантазии,
+- die Habsucht dürfe nicht allein = что алчность будто бы не должна одна
+- die Konsumtion der Reichen bestimmen = определять потребление богатых,
+- und sie widerspricht ihren eignen Gesetzen = и она противоречит своим собственным законам,
+- wenn sie die Verschwendung unmittelbar = когда она расточительство непосредственно
+- für ein Mittel der Bereicherung ausgibt = выдаёт за средство обогащения,
+- und von der andern Seite = и другой стороной
+- wird ihr daher sehr ernstlich und umständlich bewiesen = ей поэтому весьма серьёзно и обстоятельно доказывается,
+- daß ich durch die Verschwendung = что я расточительством
+- meine Habe verringere und nicht vermehre = своё имущество уменьшаю, а не увеличиваю;
+- die andre Seite begeht die Heuchelei = другая сторона совершает лицемерие,
+- nicht zu gestehn = не признаваясь,
+- daß grade die Laune und der Einfall = что как раз прихоть и каприз
+- die Produktion bestimmt = определяют производство;
+- sie vergißt die verfeinerten Bedürfnisse = она забывает «утончённые потребности»,
+- sie vergißt, daß ohne Konsumtion = она забывает, что без потребления
+- nicht produziert wurde = не производилось бы;
+- sie vergißt, daß die Produktion = она забывает, что производство
+- durch die Konkurrenz nur allseitiger = благодаря конкуренции лишь всестороннее,
+- luxuriöser werden muß = роскошнее должно становиться;
+- sie vergißt, daß der Gebrauch = она забывает, что потребление
+- ihr den Wert der Sache bestimmt = для неё определяет ценность вещи,
+- und daß die Mode den Gebrauch bestimmt = а мода определяет потребление;
+- sie wünscht nur Nützliches produziert zu sehn = она хочет видеть производимым лишь «полезное»,
+- aber sie vergißt = но она забывает,
+- daß die Produktion von zuviel Nützlichem = что производство слишком большого количества полезного
+- zuviel unnütze Population produziert = слишком много бесполезного населения производит
+
+[1153] = Обе стороны забывают, что расточительство и бережливость, роскошь и нищета, богатство и бедность тождественны.
+- Beide Seiten vergessen = Обе стороны забывают,
+- daß Verschwendung und Ersparung = что расточительство и бережливость,
+- Luxus und Entblößung = роскошь и обнищание,
+- Reichtum und Armut = богатство и бедность
+- sind = тождественны (=)
+
+[1154] = И не только своими непосредственными чувствами, например едой и т. д., ты должен жертвовать; ты должен отказаться и от участия в общих интересах, от сострадания, доверия и т. д. — от всего этого ты должен себя избавить, если хочешь быть экономным, если не хочешь погибнуть от иллюзий.
+- Und nicht nur deine unmittelbaren Sinne = И не только своими непосредственными чувствами,
+- wie Essen etc., mußt du absparen = как еда и т. д., ты должен поступиться;
+- auch Teilnahme mit allgemeinen Interessen = и участие в общих интересах,
+- Mitleiden, Vertrauen etc. = сострадание, доверие и т. д.,
+- das alles mußt du dir ersparen = всё это ты должен себе сберечь,
+- wenn du ökonomisch sein willst = если хочешь быть экономным,
+- wenn du nicht an Illusionen zugrunde gehn willst = если не хочешь погибнуть от иллюзий
+
+[1155] = Всё, что твоё, ты должен сделать продажным, т. е. полезным.
+- Du mußt alles, was dein ist = Ты должен всё, что твоё,
+- feil, d.h. nützlich machen = продажным, т. е. полезным, сделать
+
+[1156] = Если я спрошу политэконома: повинуюсь ли я экономическим законам, когда извлекаю деньги из того, что отдаю на продажу своё тело чужому сладострастию (фабричные рабочие во Франции называют проституцию своих жён и дочерей лишним рабочим часом, что буквально верно), или не поступаю ли я в духе политической экономии, когда продаю своего друга марокканцам (а прямая торговля людьми в виде торговли рекрутами и т. д. происходит во всех культурных странах), — то политэконом мне ответит: моим законам ты не противоречишь; но погляди, что говорят кузина мораль и кузина религия; моя политико-экономическая мораль и религия ничего не имеют против тебя, но… Но кому же мне теперь больше верить — политической экономии или морали? — Мораль политической экономии — это нажива, труд и бережливость, трезвость; но политическая экономия обещает мне удовлетворить мои потребности. — Политическая экономия морали — это богатство чистой совестью, добродетелью и т. д.; но как я могу быть добродетельным, если я не существую, как могу иметь чистую совесть, если ничего не знаю?
+- Wenn ich den Nationalökonomen frage = Если я спрошу политэконома:
+- Gehorche ich den ökonomischen Gesetzen = повинуюсь ли я экономическим законам,
+- wenn ich aus der Preisgebung = если я из отдачи,
+- Feilbietung meines Körpers = продажи своего тела
+- an fremde Wollust Geld ziehe = чужому сладострастию деньги извлекаю
+- die Fabrikarbeiter in Frankreich nennen = (фабричные рабочие во Франции называют
+- die Prostitution ihrer Frauen und Töchter = проституцию своих жён и дочерей
+- die Xte Arbeitsstunde = энным рабочим часом,
+- was wörtlich wahr ist = что буквально верно),
+- oder handle ich nicht nationalökonomisch = или не поступаю ли я по-политэкономически,
+- wenn ich meinen Freund an die Marokkaner verkaufe = если я продаю своего друга марокканцам
+- und der unmittelbare Menschenverkauf = (а прямая продажа людей
+- als Handel der Konskribierten etc. = как торговля рекрутами и т. д.
+- findet in allen Kulturländern statt = происходит во всех культурных странах),
+- so antwortet mir der Nationalökonom = то политэконом мне ответит:
+- Meinen Gesetzen handelst du nicht zuwider = моим законам ты не противоречишь;
+- aber sieh dich um = но оглянись,
+- was Frau Base Moral und Base Religion sagt = что говорят госпожа кузина мораль и кузина религия;
+- meine nationalökonomische Moral und Religion = моя политико-экономическая мораль и религия
+- hat nichts an gegen dich einzuwenden = ничего не имеют против тебя,
+- aber = но…
+- Aber wem soll ich nun mehr glauben = Но кому мне теперь больше верить,
+- der Nationalökonomie oder der Moral = политической экономии или морали? —
+- Die Moral der Nationalökonomie = Мораль политической экономии —
+- ist der Erwerb = это нажива,
+- die Arbeit und die Sparsamkeit = труд и бережливость,
+- die Nüchternheit = трезвость, —
+- aber die Nationalökonomie verspricht mir = но политическая экономия обещает мне
+- meine Bedürfnisse zu befriedigen = удовлетворить мои потребности. —
+- Die Nationalökonomie der Moral = Политическая экономия морали
+- ist der Reichtum an gutem Gewissen = есть богатство чистой совестью,
+- an Tugend etc. = добродетелью и т. д.,
+- aber wie kann ich tugendhaft sein = но как могу я быть добродетельным,
+- wenn ich nicht bin = если я не существую,
+- wie ein gutes Gewissen haben = как иметь чистую совесть,
+- wenn ich nichts weiß = если я ничего не знаю?
++ handelst zuwider = противоречишь, нарушаешь ~ einer Sache zuwiderhandeln
++ sieh um = оглянись ~ sich umsehen
+* xte = энный, лишний | | числ. | X-te — «энная»
+* base = кузина, тётушка | die Base | сущ. | устар.
+
+[1157] = Это основано на сущности отчуждения: каждая сфера прикладывает ко мне иной и противоположный масштаб — один мораль, другой политическая экономия, — ибо каждая есть определённое отчуждение человека и каждая фиксирует особый круг отчуждённой сущностной деятельности, каждая относится отчуждённо к другому отчуждению…
+- Es ist dies im Wesen der Entfremdung gegründet = Это основано на сущности отчуждения,
+- daß jede Sphäre einen andren = что каждая сфера иной
+- und entgegengesetzten Maßstab an mich legt = и противоположный масштаб ко мне прикладывает,
+- einen andren die Moral = один — мораль,
+- einen andren die Nationalökonomie = другой — политическая экономия,
+- weil jede eine bestimmte Entfremdung des Menschen ist = потому что каждая есть определённое отчуждение человека
+- und jede einen besondren Kreis = и каждая особый круг
+- der entfremdeten Wesenstätigkeit fixiert = отчуждённой сущностной деятельности фиксирует,
+- jede sich entfremdet zu der andren Entfremdung verhält = каждая относится отчуждённо к другому отчуждению…
+
+[1158] = Так, г-н Мишель Шевалье упрекает Рикардо в том, что тот абстрагируется от морали.
+- So wirft Herr Michel Chevalier dem Ricardo vor = Так упрекает г-н Мишель Шевалье Рикардо,
+- daß er von der Moral abstrahiert = что тот от морали абстрагируется
++ wirft vor = упрекает ~ jemandem etwas vorwerfen
+
+[1159] = Но Рикардо заставляет политическую экономию говорить её собственным языком.
+- Aber Ricardo läßt die Nationalökonomie = Но Рикардо заставляет политическую экономию
+- ihre eigne Sprache sprechen = говорить её собственным языком
+
+[1160] = Если этот язык не морален, то в этом не вина Рикардо. Г-н
+- Wenn diese nicht moralisch spricht = Если она не морально говорит,
+- so ist es nicht die Schuld von Ricardo = то это не вина Рикардо.
+- M = Г-н
+* m = г-н | Monsieur | сокр.
+
+[1161] = Шевалье абстрагируется от политической экономии, поскольку он морализирует, но он необходимо и действительно абстрагируется от морали, поскольку занимается политической экономией.
+- Ch[evalier] abstrahiert von der Nationalökonomie = Шевалье абстрагируется от политической экономии,
+- soweit er moralisiert = поскольку он морализирует,
+- aber er abstrahiert notwendig und wirklich = но он необходимо и действительно абстрагируется
+- von der Moral = от морали,
+- soweit er Nationalökonomie treibt = поскольку он занимается политической экономией
+* ch = Ш(евалье) | | имя собств.
+* evalier = (Ш)евалье | | имя собств. | Ch[evalier]
+
+[1162] = Отношение политической экономии к морали, если оно не произвольно, не случайно, а потому не безосновательно и не ненаучно, если оно не делается только для видимости, а мыслится как существенное, может быть лишь отношением политико-экономических законов к морали; если же этого нет или, вернее, имеет место противоположное, то чем тут может помочь Рикардо?
+- Die Beziehung der Nationalökonomie auf die Moral = Отношение политической экономии к морали,
+- wenn sie anders nicht willkürlich, zufällig = если оно вообще не произвольно, случайно
+- und daher unbegründet und unwissenschaftlich ist = и потому безосновательно и ненаучно,
+- wenn sie nicht zum Schein vorgemacht = если оно не для видимости показывается,
+- sondern als wesentlich gemeint wird = а как существенное мыслится,
+- kann doch nur die Beziehung = может ведь быть лишь отношением
+- der nationalökonomischen Gesetze auf die Moral sein = политико-экономических законов к морали;
+- wenn diese nicht = если этого нет
+- oder vielmehr das Gegenteil stattfindet = или, скорее, имеет место противоположное,
+- was kann Ricardo dafür = при чём тут Рикардо?
++ was kann dafür = при чём тут ~ was kann jemand dafür
+
+[1163] = Впрочем, и противоположность политической экономии и морали есть лишь видимость, и, будучи противоположностью, она в то же время не противоположность.
+- Übrigens ist auch der Gegensatz = Впрочем, и противоположность
+- der Nationalökonomie und der Moral = политической экономии и морали
+- nur ein Schein = лишь видимость,
+- und, wie er ein Gegensatz ist = и, будучи противоположностью,
+- wieder kein Gegensatz = снова не противоположность
+
+[1164] = Политическая экономия лишь выражает по-своему моральные законы. —
+- Die Nationalökonomie drückt nur in ihrer Weise = Политическая экономия выражает лишь по-своему
+- die moralischen Gesetze aus = моральные законы. —
++ drückt aus = выражает ~ ausdrücken
+
+[1165] = Отсутствие потребностей как принцип политической экономии блистательнее всего проявляется в её теории народонаселения.
+- Die Bedürfnislosigkeit = Отсутствие потребностей
+- als das Prinzip der Nationalökonomie = как принцип политической экономии
+- zeigt sich am glänzendsten = проявляется блистательнее всего
+- in ihrer Bevölkerungstheorie = в её теории народонаселения
+
+[1166] = Людей слишком много.
+- Es gibt zu viel Menschen = Слишком много людей
+
+[1167] = Даже существование людей — чистейшая роскошь, и если рабочий «морален» (Милль предлагает публично хвалить тех, кто проявляет воздержанность в половых отношениях, и публично порицать тех, кто грешит против этой бесплодности брака… разве это не мораль, не учение об аскетизме?), то он будет бережлив в отношении деторождения.
+! schlägt öffentliche < schlagt öffentliche
+- Sogar das Dasein der Menschen = Даже существование людей
+- ist ein purer Luxus = есть чистая роскошь,
+- und wenn der Arbeiter moralisch ist = и если рабочий «морален»
+- Mill schlägt öffentliche Belobungen = (Милль предлагает публичные похвалы
+- für die vor = для тех,
+- die sich enthaltsam in geschlechtlicher Beziehung zeigen = кто воздержан в половом отношении,
+- und öffentlichen Tadel für die = и публичное порицание тем,
+- die sich versündigen an dieser Unfruchtbarkeit der Ehe = кто грешит против этой бесплодности брака…
+- ist das nicht Moral = разве это не мораль,
+- Lehre von der Askese = учение об аскезе?),
+- wird er sparsam sein an Zeugung = то он будет бережлив в деторождении
++ schlägt vor = предлагает ~ vorschlagen
+
+[1168] = Производство человека выступает как общественное бедствие. —
+- Die Produktion des Menschen = Производство человека
+- erscheint als öffentliches Elend = выступает как общественное бедствие. —
+
+[1169] = Смысл, который производство имеет по отношению к богатым, открыто обнаруживается в том смысле, который оно имеет для бедных; наверху это проявление всегда утончённое, скрытое, двусмысленное, видимость; внизу — грубое, прямолинейное, откровенное, сущность.
+- Der Sinn, den die Produktion = Смысл, который производство
+- in bezug auf die Reichen hat = по отношению к богатым имеет,
+- zeigt sich offenbart = обнаруживается открыто
+- in dem Sinne, den sie für die Armen hat = в том смысле, который оно имеет для бедных;
+- nach oben ist die Äußerung = наверху проявление
+- immer fein, versteckt, zweideutig, Schein = всегда утончённое, скрытое, двусмысленное, видимость,
+- nach unten hin = внизу
+- grob, gradheraus, offenherzig, Wesen = грубое, прямолинейное, откровенное, сущность
+
+[1170] = Грубая потребность рабочего — гораздо больший источник прибыли, чем утончённая потребность богача.
+- Das rohe Bedürfnis des Arbeiters = Грубая потребность рабочего
+- ist eine viel größere Quelle des Gewinns = есть гораздо больший источник прибыли,
+- als das feine des Reichen = чем утончённая потребность богача
+
+[1171] = Подвальные жилища в Лондоне приносят их владельцам больше, чем дворцы, т. е. по отношению к домовладельцу они — большее богатство, а значит, говоря языком политической экономии, большее общественное богатство. — И подобно тому как промышленность спекулирует на утончённости потребностей, она в такой же мере спекулирует и на их грубости, но на искусственно созданной грубости, истинное наслаждение которой есть поэтому самоодурманивание, это мнимое удовлетворение потребности, эта цивилизация внутри грубого варварства потребности.
+- Die Kellerwohnungen in London = Подвальные жилища в Лондоне
+- bringen ihren Vermietern mehr ein = приносят своим владельцам больше,
+- als die Paläste = чем дворцы,
+- d.h. = т. е.
+- sie sind in bezug auf ihn = они по отношению к нему
+- ein größrer Reichtum = большее богатство,
+- also, um nationalökonomisch zu sprechen = значит, говоря на языке политической экономии,
+- ein größrer gesellschaftlicher Reichtum = большее общественное богатство. —
+- Und wie die Industrie = И как промышленность
+- auf die Verfeinerung der Bedürfnisse = на утончённость потребностей,
+- ebensosehr spekuliert sie auf ihre Roheit = так же спекулирует она и на их грубости,
+- aber auf ihre künstlich hervorgebrachte Roheit = но на их искусственно созданной грубости,
+- deren wahrer Genuß daher = истинное наслаждение которой поэтому
+- die Selbstbetäubung ist = есть самоодурманивание,
+- diese scheinbare Befriedigung des Bedürfnisses = это мнимое удовлетворение потребности,
+- diese Zivilisation = эта цивилизация
+- innerhalb der rohen Barbarei des Bedürfnisses = внутри грубого варварства потребности
++ bringen ein = приносят ~ einbringen
+
+[1172] = Поэтому английские кабаки — символические изображения частной собственности.
+- Die englischen Schnapsläden = Английские кабаки
+- sind darum sinnbildliche Darstellungen = поэтому символические изображения
+- des Privateigentums = частной собственности
+
+[1173] = Их роскошь показывает истинное отношение промышленной роскоши и богатства к человеку.
+- Ihr Luxus zeigt das wahre Verhältnis = Их роскошь показывает истинное отношение
+- des industriellen Luxus und Reichtums = промышленной роскоши и богатства
+- zum Menschen = к человеку
+
+[1174] = Поэтому они по праву и являются единственными воскресными развлечениями народа, к которым английская полиция относится хотя бы мягко.
+- Sie sind daher mit Recht auch = Они поэтому по праву и
+- die einzigen, wenigstens mild = единственные, хотя бы мягко
+- von der englischen Polizei behandelten = английской полицией обращаемые
+- Sonntagsvergnügungen des Volkes = воскресные развлечения народа
+
+[1175] = Мы уже видели, как политэконом различными способами устанавливает единство труда и капитала.
+- Wir haben schon gesehn = Мы уже видели,
+- wie der Nationalökonom = как политэконом
+- Einheit von Arbeit und Kapital = единство труда и капитала
+- auf vielfache Art setzt = многообразно полагает

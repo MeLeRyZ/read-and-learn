@@ -1,0 +1,475 @@
+[1241] = От природы философ и вполовину не так отличается от носильщика талантом и умом, как дворовая собака от борзой, борзая от легавой, а легавая от овчарки.
+- Von Natur ist ein Philosoph = От природы философ
+- nicht halb so verschieden = и вполовину не так отличается
+- von einem Sackträger = от носильщика
+- an Talent und Intelligenz = талантом и умом,
+- als ein Haushund von einem Windhund = как дворовая собака от борзой,
+- ein Windhund von einem Wachtelhund = борзая от легавой
+- und dieser von einem Schäferhund = и эта от овчарки
+
+[1242] = И всё же эти различные породы животных, хотя и одного вида, почти бесполезны друг для друга.
+- Dennoch sind diese verschiednen Tierracen = И всё же эти различные породы животных,
+- obgleich von derselben species = хотя одного вида,
+- fast von gar keiner Nützlichkeit füreinander = почти совершенно бесполезны друг для друга
+
+[1243] = Дворовая собака ничего не может прибавить к преимуществам своей силы, пользуясь, скажем, лёгкостью борзой и т. д.
+- Der Hofhund kann den Vorteilen seiner Stärke = Дворовая собака к преимуществам своей силы
+- nichts hinzufügen = ничего прибавить не может
+- dadurch, daß er sich etwa = тем, что она, скажем,
+- der Leichtigkeit des Windhundes etc. bediente = лёгкостью борзой и т. д. пользовалась бы
+
+[1244] = Действия этих различных талантов или ступеней ума из-за отсутствия способности или склонности к торговле и обмену не могут быть сложены вместе, в общую массу, и никак не могут способствовать выгоде или общему удобству вида…
+- Die Wirkungen dieser verschiednen Talente = Действия этих различных талантов
+- oder Stufen der Intelligenz = или ступеней ума
+- können, aus Mangel der Fähigkeit = не могут, из-за отсутствия способности
+- oder des Hangs zum Handel und Austausch = или склонности к торговле и обмену,
+- nicht zusammen, in Gemeinschaft, geworfen werden = вместе, в общую массу, быть сложены
+- und können durchaus nicht zum Vorteil = и никак не могут к выгоде
+- oder zur gemeinschaftlichen Bequemlichkeit der species beitragen = или общему удобству вида способствовать…
+
+[1245] = Каждое животное должно само себя содержать и защищать, независимо от других, — оно не может извлечь ни малейшей пользы из различия талантов, которое природа распределила среди ему подобных.
+- Jedes Tier muß sich selbst = Каждое животное должно само себя
+- unterhalten und beschützen = содержать и защищать,
+- unabhängig von den andern = независимо от других, —
+- es kann nicht den geringsten Nutzen = оно не может ни малейшей пользы
+- von der Verschiedenheit der Talente ziehn = из различия талантов извлечь,
+- welche die Natur unter seinesgleichen verteilt hat = которое природа среди ему подобных распределила
+
+[1246] = Среди людей же самые несходные таланты полезны друг другу, потому что различные продукты каждой из соответствующих отраслей промышленности благодаря этой всеобщей склонности к торговле и обмену оказываются как бы сложенными в общую массу, откуда каждый человек может покупать по своим потребностям любую часть продукта чужой промышленности. — Так как эта склонность к обмену даёт начало разделению труда, то рост этого разделения всегда ограничен размерами способности к обмену, или, другими словами, размерами рынка.
+- Unter den Menschen dagegen = Среди людей же
+- sind die disparatesten Talente einander nützlich = самые несходные таланты полезны друг другу,
+- weil die verschiednen Produkte = потому что различные продукты
+- jeder ihrer respektiven Industriezweige = каждой из их соответствующих отраслей промышленности,
+- vermittelst dieses allgemeinen Hangs = посредством этой всеобщей склонности
+- zum Handel und Austausch = к торговле и обмену,
+- sich sozusagen in eine gemeinschaftliche Masse = как бы в общую массу
+- geworfen finden = оказываются сложенными,
+- wo jeder Mensch nach seinen Bedürfnissen = где каждый человек по своим потребностям
+- kaufen gehn kann = может покупать
+- irgendeinen Teil des Produkts der Industrie des andern = какую-нибудь часть продукта промышленности другого. —
+- Weil dieser Hang zum Austausch = Так как эта склонность к обмену
+- der Teilung der Arbeit ihren Ursprung gibt = даёт начало разделению труда,
+- so ist folglich das Wachstum dieser Teilung = то, следовательно, рост этого разделения
+- immer beschränkt = всегда ограничен
+- durch die Ausdehnung der Fähigkeit auszutauschen = размерами способности к обмену
+- oder, in andern Worten = или, другими словами,
+- durch die Ausdehnung des Marktes = размерами рынка
+
+[1247] = Если рынок очень мал, то никто не будет поощрён к тому, чтобы целиком посвятить себя одному занятию, из-за невозможности обменять излишек продукта своего труда, превышающий его собственное потребление, на равный излишек продукта чужого труда, который он хотел бы получить…»
+- Ist der Markt sehr klein = Если рынок очень мал,
+- so wird niemand ermutigt sein = то никто не будет поощрён
+- sich gänzlich einer einzigen Beschäftigung zu ergeben = целиком одному занятию отдаться,
+- aus Mangel = из-за невозможности
+- das Mehr des Produkts seiner Arbeit = излишек продукта своего труда,
+- welches seine eigne Konsumtion übersteigt = который превышает его собственное потребление,
+- gegen ein gleiches Mehr des Produkts = на равный излишек продукта
+- der Arbeit eines andern = труда другого,
+- das er sich zu verschaffen wünschte = который он хотел бы себе добыть,
+- austauschen zu können = обменять…»
+
+[1248] = В развитом состоянии: «Каждый человек живёт обменом и становится своего рода торговцем, а само общество, собственно, — это торгующее общество».
+- Im fortgeschrittnen Zustand = В развитом состоянии:
+- Jeder Mensch besteht von échanges = «каждый человек живёт обменами,
+- vom Austausch = обменом,
+- und wird eine Art von Handelsmann = и становится своего рода торговцем,
+- und die Gesellschaft selbst = а само общество
+- ist eigentlich eine handelstreibende Gesellschaft = собственно торгующее общество»
+* échanges = обмены | l'échange | франц.
+
+[1249] = (См. Дестют де Траси: «Общество есть ряд взаимных обменов; в торговле заключена вся сущность общества».
+! das ganze Wesen < des ganze Wesen
+- Sieh Destutt de Tracy = (См. Дестют де Траси:
+- Die Gesellschaft ist eine Reihe = «Общество есть ряд
+- von wechselseitigem Austausch = взаимного обмена,
+- in dem Commerce = в торговле
+- liegt das ganze Wesen der Gesellschaft = заключена вся сущность общества»
+* commerce = торговля | le commerce | франц.
+* sieh = см. | sehen | гл. | повелительное: sieh — смотри
+
+[1250] = ) «…
+- ) = )
+
+[1251] = Накопление капиталов растёт с разделением труда, и наоборот». —
+- Die Akkumulation der Kapitalien = Накопление капиталов
+- steigt mit der Teilung der Arbeit = растёт с разделением труда
+- und wechselseitig = и наоборот». —
+
+[1252] = Так говорит Адам Смит.
+- Soweit Adam Smith = Так говорит Адам Смит
+
+[1253] = «Если бы каждая семья производила всю совокупность предметов своего потребления, общество могло бы продолжать существовать, хотя бы никакого обмена и не совершалось; не будучи основополагающим, обмен необходим в развитом состоянии нашего общества; разделение труда есть искусное применение сил человека; оно, следовательно, увеличивает продукты общества, его могущество и его наслаждения, но лишает, уменьшает способность каждого человека, взятого в отдельности. — Производство не может происходить без обмена». —
+- Wenn jede Familie = «Если бы каждая семья
+- die Totalität der Gegenstände ihrer Konsumtion erzeugte = всю совокупность предметов своего потребления производила,
+- könnte die Gesellschaft in Gang bleiben = общество могло бы продолжать действовать,
+- obgleich sich keine Art von Austausch bewerkstelligte = хотя бы никакого обмена не осуществлялось, —
+- ohne fundamental zu sein = не будучи основополагающим,
+- ist der Austausch unentbehrlich = обмен необходим
+- in dem avancierten Zustand unsrer Gesellschaft = в развитом состоянии нашего общества, —
+- die Teilung der Arbeit ist eine geschickte Anwendung = разделение труда есть искусное применение
+- der Kräfte des Menschen = сил человека, —
+- sie vermehrt also die Produkte der Gesellschaft = оно увеличивает, следовательно, продукты общества,
+- ihre Macht und ihre Genüsse = его мощь и его наслаждения,
+- aber sie beraubt, vermindert die Fähigkeit = но оно лишает, уменьшает способность
+- jedes Menschen individuell genommen = каждого человека, взятого в отдельности. —
+- Die Produktion kann ohne den Austausch = Производство без обмена
+- nicht stattfinden = не может происходить». —
++ in Gang bleiben = продолжать действовать ~ in Gang bleiben
+
+[1254] = Так говорит Ж.-Б. Сэй.
+- So J.B.Say = Так Ж.-Б. Сэй
+* j = Ж. | Jean | сокр.
+
+[1255] = «Силы, присущие человеку, — это его ум и его физическая способность к труду; силы же, ведущие своё происхождение от общественного состояния, состоят в способности разделять труд и распределять различные работы между различными людьми… и в способности обмениваться взаимными услугами и продуктами, которые образуют эти средства…
+- Die dem Menschen inhärenten Kräfte sind = «Присущие человеку силы суть:
+- seine Intelligenz = его ум
+- und seine physische Anlage zur Arbeit = и его физическая способность к труду;
+- diejenigen, welche von dem gesellschaftlichen Zustand = те же, которые от общественного состояния
+- ihren Ursprung ableiten = своё происхождение ведут,
+- bestehn = состоят
+- in der Fähigkeit, die Arbeit zu teilen = в способности делить труд
+- und die verschiednen Arbeiten = и различные работы
+- unter die verschiednen Menschen auszuteilen = между различными людьми распределять…
+- und in dem Vermögen = и в способности
+- die wechselseitigen Dienste auszutauschen = взаимными услугами обмениваться
+- und die Produkte, welche diese Mittel konstituieren = и продуктами, которые эти средства составляют…
+
+[1256] = Мотив, по которому один человек посвящает другому свои услуги, — это своекорыстие; человек требует вознаграждения за услуги, оказанные другому. — Право исключительной частной собственности необходимо для того, чтобы между людьми установился обмен».
+- Das Motiv = Мотив,
+- warum ein Mensch dem andern seine Dienste widmet = почему один человек другому свои услуги посвящает,
+- ist der Eigennutz = есть своекорыстие, —
+- der Mensch verlangt eine Rekompens = человек требует вознаграждения
+- für die einem andern geleisteten Dienste = за оказанные другому услуги. —
+- Das Recht des exklusiven Privateigentums = Право исключительной частной собственности
+- ist unentbehrlich = необходимо,
+- damit sich der Austausch unter den Menschen etabliere = чтобы между людьми установился обмен»
+
+[1257] = «Обмен и разделение труда взаимно обусловливают друг друга».
+- Austausch und Teilung der Arbeit = «Обмен и разделение труда
+- bedingen sich wechselseitig = взаимно обусловливают друг друга»
+
+[1258] = Так говорит Скарбек.
+- So Skarbek = Так Скарбек
+* skarbek = Скарбек | | имя собств. | Фредерик Скарбек (1792–1866), польский экономист
+
+[1259] = Милль представляет развитой обмен, торговлю, как следствие разделения труда.
+- Mill stellt den entwickelten Austausch = Милль представляет развитой обмен,
+- den Handel = торговлю,
+- als Folge der Teilung der Arbeit dar = как следствие разделения труда
++ stellt dar = представляет ~ darstellen
+
+[1260] = «Деятельность человека может быть сведена к очень простым элементам.
+- Die Tätigkeit des Menschen = «Деятельность человека
+- kann auf sehr einfache Elemente reduziert werden = может быть сведена к очень простым элементам
+
+[1261] = В действительности он может только производить движение; он может двигать вещи, чтобы удалять их друг от друга или приближать друг к другу; свойства материи делают остальное.
+- Er kann in Wahrheit nichts mehr tun = Он может в действительности не больше,
+- als Bewegung produzieren = чем производить движение;
+- er kann die Sachen bewegen = он может двигать вещи,
+- um sie voneinander zu ent- fernen = чтобы их друг от друга удалять
+- oder einander zu nähern = или друг к другу приближать;
+- die Eigenschaften der Materie tun das übrige = свойства материи делают остальное
+* ent = (у)да(лять) | entfernen | гл. | слово разорвано переносом: ent- fernen
+* fernen = (уда)лять | entfernen | гл.
+
+[1262] = При применении труда и машин часто обнаруживают, что действия можно усилить искусным распределением, разделением операций, которые мешают друг другу, и объединением всех тех, которые каким-либо образом могут взаимно способствовать друг другу.
+- Bei der Anwendung der Arbeit und der Maschinen = При применении труда и машин
+- endet man oft = часто приходят к выводу,
+- daß die Wirkungen = что действия
+- durch eine geschickte Verteilung vermehrt werden können = искусным распределением можно усилить,
+- durch Trennung der Operationen = разделением операций,
+- die sich entgegenstehn = которые друг другу противостоят,
+- und durch Vereinigung aller derjenigen = и объединением всех тех,
+- welche auf irgendeine Weise = которые каким-либо образом
+- sich wechselseitig fördern können = могут взаимно способствовать
+
+[1263] = Поскольку люди в общем не могут выполнять много различных операций с одинаковой быстротой и ловкостью, тогда как привычка даёт им эту способность при выполнении небольшого их числа, всегда выгодно как можно больше ограничивать число операций, доверенных каждому индивиду. — Для разделения труда и распределения сил человека и машин наиболее выгодным образом во множестве случаев необходимо действовать в крупном масштабе, или, другими словами, производить богатства большими массами.
+! kleinern Zahl < kleinem Zahl
+- Da im allgemeinen die Menschen = Поскольку люди вообще
+- nicht viele verschiedne Operationen = не много различных операций
+- mit gleicher Geschwindigkeit und Geschicklichkeit = с одинаковой быстротой и ловкостью
+- exekutieren können = могут выполнять,
+- wie die Gewohnheit ihnen diese Fähigkeit = как привычка им эту способность
+- für die Ausübung einer kleinern Zahl verschafft = для выполнения меньшего их числа доставляет, —
+- so ist es immer vorteilhaft = то всегда выгодно
+- soviel als möglich die Zahl = как можно больше число
+- der jedem Individuum anvertrauten Operationen = доверенных каждому индивиду операций
+- zu beschränken = ограничивать. —
+- Zur Teilung der Arbeit = Для разделения труда
+- und Verteilung der Kräfte des Menschen und der Maschinen = и распределения сил человека и машин
+- auf die vorteilhafteste Art = наивыгоднейшим образом
+- ist es notwendig in einer Menge von Fällen = необходимо во множестве случаев
+- auf einer großen Stufenleiter zu operieren = действовать в крупном масштабе
+- oder, in andren Worten = или, другими словами,
+- die Reichtümer in großen Massen zu produzieren = производить богатства большими массами
+
+[1264] = Это преимущество — причина возникновения крупных мануфактур, из которых часто небольшое число, основанное при благоприятных условиях, снабжает иногда не одну, а несколько стран требуемым количеством производимых ими предметов».
+- Dieser Vorteil = Это преимущество
+- ist der Entstehungsgrund der großen Manufakturen = есть причина возникновения крупных мануфактур,
+- von denen oft eine kleine = из которых часто небольшое,
+- unter günstigen Verhältnissen gegründete Anzahl = при благоприятных условиях основанное число
+- manchmal nicht nur ein einziges = порой не только одну,
+- sondern mehre Länder approvisioniert = но несколько стран снабжает
+- mit der hier verlangten Quantität = требуемым здесь количеством
+- von den durch sie produzierten Objekten = производимых ими предметов»
+
+[1265] = Так говорит Милль.
+- So Mill = Так Милль
+
+[1266] = Но вся современная политическая экономия сходится в том, что разделение труда и богатство производства, разделение труда и накопление капитала взаимно обусловливают друг друга, а также в том, что лишь освобождённая, предоставленная самой себе частная собственность может создать наиболее полезное и всеобъемлющее разделение труда.
+! daß das freigelaßne < daß des freigelaßne
+- Die ganze moderne Nationalökonomie aber = Но вся современная политическая экономия
+- stimmt darin überein = сходится в том,
+- daß Teilung der Arbeit und Reichtum der Produktion = что разделение труда и богатство производства,
+- Teilung der Arbeit und Akkumulation des Kapitals = разделение труда и накопление капитала
+- sich wechselseitig bedingen = взаимно обусловливают друг друга,
+- wie daß das freigelaßne = как и в том, что освобождённая,
+- sich selbst überlaßne Privateigentum allein = самой себе предоставленная частная собственность одна
+- die nützlichste und umfassendste Teilung der Arbeit = самое полезное и всеобъемлющее разделение труда
+- hervorbringen kann = может создать
++ stimmt überein = сходится ~ übereinstimmen
+
+[1267] = Изложение Адама Смита можно резюмировать так: разделение труда придаёт труду бесконечную производительность.
+- Adam Smiths Entwicklung = Изложение Адама Смита
+- läßt sich dahin resümieren = можно резюмировать так:
+- Die Teilung der Arbeit gibt der Arbeit = разделение труда даёт труду
+- die unendliche Produktionsfähigkeit = бесконечную производительную способность
+
+[1268] = Оно основано на склонности к обмену и торгашеству, специфически человеческой склонности, которая, вероятно, не случайна, а обусловлена пользованием разумом и речью.
+- Sie ist begründet in dem Hang = Оно основано на склонности
+- zum Austausch und Schacher = к обмену и торгашеству,
+- einem spezifisch menschlichen Hang = специфически человеческой склонности,
+- der wahrscheinlich nicht zufällig = которая, вероятно, не случайна,
+- sondern durch den Gebrauch der Vernunft und der Sprache bedingt ist = а обусловлена пользованием разумом и языком
+
+[1269] = Мотив обменивающегося — не человечность, а эгоизм.
+- Das Motiv des Austauschenden = Мотив обменивающегося —
+- ist nicht die Menschheit = не человечность,
+- sondern der Egoismus = а эгоизм
+
+[1270] = Разнообразие человеческих талантов есть скорее следствие, чем причина разделения труда, т. е. обмена.
+- Die Verschiedenartigkeit der menschlichen Talente = Разнообразие человеческих талантов
+- ist mehr die Wirkung = есть скорее следствие,
+- als die Ursache der Teilung der Arbeit = чем причина разделения труда,
+- i.e. des Austauschs = т. е. обмена
+* e = (то есть) | | сокр. | лат. i. e. = id est
+
+[1271] = И лишь это различие делает обмен полезным.
+- Auch macht letzteren = И делает последний
+- erst diese Verschiedenheit nützlich = лишь это различие полезным
+
+[1272] = Особые свойства различных пород одного вида животных от природы резче, чем различие человеческих задатков и деятельности.
+- Die besondren Eigenschaften = Особые свойства
+- der verschiedenen Racen einer Tierart = различных пород одного вида животных
+- sind von Natur schärfer = от природы резче,
+- als die Verschiedenheit menschlicher Anlage und Tätigkeit = чем различие человеческих задатков и деятельности
+
+[1273] = Но так как животные не способны к обмену, ни одной особи не приносит пользы отличное свойство животного того же вида, но другой породы.
+- Weil die Tiere aber = Но так как животные
+- nicht auszutauschen vermögen = не способны обмениваться,
+- nützt keinem Tierindividuum = не приносит пользы ни одной особи
+- die unterschiedne Eigenschaft eines Tiers = отличное свойство животного
+- von derselben Art = того же вида,
+- aber von verschiedner Race = но другой породы
+
+[1274] = Животные не могут складывать различные свойства своего вида; они ничего не могут внести в общую выгоду и удобство своего вида.
+- Die Tiere vermögen nicht = Животные не могут
+- die unterschiednen Eigenschaften ihrer species = различные свойства своего вида
+- zusammenzulegen = складывать;
+- sie vermögen nichts = они ничего не могут
+- zum gemeinschaftlichen Vorteil und Bequemlichkeit = к общей выгоде и удобству
+- ihrer species beizutragen = своего вида прибавить
+
+[1275] = Иначе у человека: здесь самые несходные таланты и виды деятельности взаимно полезны, потому что люди могут сложить свои различные продукты в общую массу, из которой каждый может покупать.
+- Anders der Mensch = Иначе у человека,
+- wo die disparatesten Talente und Tätigkeitsweisen = где самые несходные таланты и виды деятельности
+- sich wechselseitig nützen = взаимно полезны,
+- weil sie ihre verschiednen Produkte = потому что они свои различные продукты
+- zusammenwerfen können = могут сложить
+- in eine gemeinschaftliche Masse = в общую массу,
+- wovon jeder kaufen kann = из которой каждый может покупать
+
+[1276] = Подобно тому как разделение труда возникает из склонности к обмену, так оно растёт и ограничивается размерами обмена, рынка.
+- Wie die Teilung der Arbeit = Как разделение труда
+- aus dem Hang des Austauschs entspringt = из склонности к обмену возникает,
+- so wächst sie und ist begrenzt = так оно растёт и ограничено
+- durch die Ausdehnung des Austauschs, des Marktes = размерами обмена, рынка
+
+[1277] = В развитом состоянии каждый человек — торговец, общество — торговое общество.
+- Im fortgeschrittnen Zustand = В развитом состоянии
+- jeder Mensch Handelsmann = каждый человек — торговец,
+- die Gesellschaft eine Handelsgesellschaft = общество — торговое общество
+
+[1278] = Сэй рассматривает обмен как случайный и не основополагающий.
+- Say betrachtet den Austausch = Сэй рассматривает обмен
+- als zufällig und nicht fundamental = как случайный и не основополагающий
+
+[1279] = Общество могло бы существовать без него.
+- Die Gesellschaft könnte ohne ihn bestehn = Общество могло бы без него существовать
+
+[1280] = Он становится необходимым в развитом состоянии общества.
+- Er wird unentbehrlich = Он становится необходимым
+- im avancierten Zustand der Gesellschaft = в развитом состоянии общества
+
+[1281] = Тем не менее производство не может обходиться без него.
+- Dennoch kann die Produktion = Тем не менее производство
+- ohne ihn nicht stattfinden = без него не может происходить
+
+[1282] = Разделение труда — удобное, полезное средство, искусное применение человеческих сил для общественного богатства, но оно уменьшает способность каждого человека, взятого в отдельности.
+- Die Teilung der Arbeit ist = Разделение труда есть
+- ein bequemes, nützliches Mittel = удобное, полезное средство,
+- eine geschickte Anwendung der menschlichen Kräfte = искусное применение человеческих сил
+- für den gesellschaftlichen Reichtum = для общественного богатства,
+- aber sie vermindert die Fähigkeit jedes Menschen = но оно уменьшает способность каждого человека,
+- individuell genommen = взятого в отдельности
+
+[1283] = Последнее замечание — шаг вперёд у Сэя.
+- Die letztere Bemerkung = Последнее замечание
+- ist ein Fortschritt von Say = — шаг вперёд у Сэя
+
+[1284] = Скарбек отличает индивидуальные, присущие человеку силы — ум и физическую способность к труду — от сил, производных от общества, — обмена и разделения труда, которые взаимно обусловливают друг друга.
+- Skarbek unterscheidet = Скарбек отличает
+- die individuellen, dem Menschen inhärenten Kräfte = индивидуальные, присущие человеку силы,
+- Intelligenz und physische Disposition zur Arbeit = ум и физическую способность к труду,
+- von den von der Gesellschaft hergeleiteten Kräften = от выведенных из общества сил,
+- Austausch und Teilung der Arbeit = обмена и разделения труда,
+- die sich wechselseitig bedingen = которые взаимно обусловливают друг друга
+
+[1285] = Но необходимая предпосылка обмена — частная собственность.
+! das Privateigentum < des Privateigentum
+- Aber die notwendige Voraussetzung des Austausches = Но необходимая предпосылка обмена
+- ist das Privateigentum = есть частная собственность
+
+[1286] = Скарбек выражает здесь в объективной форме то, что говорят Смит, Сэй, Рикардо и т. д., когда называют эгоизм, частный интерес основанием обмена или торгашество — существенной и адекватной формой обмена.
+! Ricardo < Ricaudo
+- Skarbek drückt hier unter objektiver Form aus = Скарбек выражает здесь в объективной форме,
+- was Smith, Say, Ricardo etc. sagen = что говорят Смит, Сэй, Рикардо и т. д.,
+- wenn sie den Egoismus = когда они эгоизм,
+- das Privatinteresse als Grund des Austausches = частный интерес как основание обмена
+- oder den Schacher als die wesentliche = или торгашество как существенную
+- und adäquate Form des Austausches bezeichnen = и адекватную форму обмена обозначают
+
+[1287] = Милль представляет торговлю как следствие разделения труда.
+- Mill stellt den Handel = Милль представляет торговлю
+- als Folge der Teilung der Arbeit dar = как следствие разделения труда
+
+[1288] = Человеческая деятельность сводится у него к механическому движению.
+- Die menschliche Tätigkeit reduziert sich ihm = Человеческая деятельность сводится у него
+- auf eine mechanische Bewegung = к механическому движению
+
+[1289] = Разделение труда и применение машин способствуют богатству производства.
+- Teilung der Arbeit und Anwendung von Maschinen = Разделение труда и применение машин
+- befördern den Reichtum der Produktion = способствуют богатству производства
+
+[1290] = Каждому человеку надо доверять как можно более узкий круг операций.
+- Man muß jedem Menschen = Надо каждому человеку
+- einen möglichst kleinen Kreis von Operationen anvertrauen = как можно меньший круг операций доверять
+
+[1291] = В свою очередь, разделение труда и применение машин обусловливают производство богатства в массе, т. е. концентрацию производства.
+- Ihrerseits bedingen = В свою очередь, обусловливают
+- Teilung der Arbeit und Anwendung von Maschinen = разделение труда и применение машин
+- die Produktion des Reichtums in Masse = производство богатства в массе,
+- also Konzentrierung der Produk[tion] = т. е. концентрацию производства
+* produk = произво(дства) | die Produktion | сущ. | Produk[tion] — восстановлено редакцией
+* tion = (произво)дства | | сущ.
+
+[1292] = Это причина крупных мануфактур.
+- Dies der Grund der großen Manufakturen = Это — причина крупных мануфактур
+
+[1293] = Рассмотрение разделения труда и обмена представляет величайший интерес, потому что они — чувственно-зримые овнешнённые выражения человеческой деятельности и сущностной силы как деятельности и сущностной силы родовой.
+- Die Betrachtung der Teilung der Arbeit = Рассмотрение разделения труда
+- und des Austausches = и обмена
+- sind von höchstem Interesse = представляет величайший интерес,
+- weil sie die sinnfällig entäußerten Ausdrücke = потому что они — чувственно-зримые овнешнённые выражения
+- der menschlichen Tätigkeit und Wesenskraft = человеческой деятельности и сущностной силы
+- als einer gattungsmäßigen Tätigkeit und Wesenskraft sind = как родовой деятельности и сущностной силы
+
+[1294] = Утверждать, что разделение труда и обмен основаны на частной собственности, — значит утверждать, что труд есть сущность частной собственности; это утверждение политэконом не может доказать, и мы хотим доказать его за него.
+- Daß die Teilung der Arbeit und der Austausch = Что разделение труда и обмен
+- auf dem Privateigentum beruhn = основаны на частной собственности,
+- ist nichts anders als die Behauptung = есть не что иное, как утверждение,
+- daß die Arbeit das Wesen des Privateigentums ist = что труд — сущность частной собственности,
+- eine Behauptung = утверждение,
+- die der Nationalökonom nicht beweisen kann = которое политэконом не может доказать
+- und die wir für ihn beweisen wollen = и которое мы за него хотим доказать
+
+[1295] = Именно в том, что разделение труда и обмен суть формы частной собственности, именно в этом заключается двойное доказательство как того, что человеческая жизнь для своего осуществления нуждалась в частной собственности, так и того, что теперь она нуждается в упразднении частной собственности.
+! daß das menschliche Leben < daß des menschliche Leben
+- Eben darin, daß Teilung der Arbeit und Austausch = Именно в том, что разделение труда и обмен
+- Gestaltungen des Privateigentums sind = формы частной собственности,
+- eben darin liegt der doppelte Beweis = именно в этом заключается двойное доказательство,
+- sowohl daß das menschliche Leben = как того, что человеческая жизнь
+- zu seiner Verwirklichung des Privateigentums bedurfte = для своего осуществления нуждалась в частной собственности,
+- wie andrerseits = так, с другой стороны,
+- daß es jetzt der Aufhebung des Privateigentums bedarf = что теперь она нуждается в упразднении частной собственности
+
+[1296] = Разделение труда и обмен — те два явления, при которых политэконом кичится общественным характером своей науки и в одном дыхании бессознательно высказывает противоречие своей науки — обоснование общества необщественным частным интересом.
+! durch das ungesellschaftliche < durch des ungesellschaftliche
+- Teilung der Arbeit und Austausch = Разделение труда и обмен
+- sind die beiden Erscheinungen = суть те два явления,
+- bei denen der Nationalökonom = при которых политэконом
+- auf die Gesellschaftlichkeit seiner Wissenschaft pocht = кичится общественностью своей науки
+- und den Widerspruch seiner Wissenschaft = и противоречие своей науки —
+- die Begründung der Gesellschaft = обоснование общества
+- durch das ungesellschaftliche Sonderinteresse = необщественным частным интересом —
+- in einem Atemzug bewußtlos ausspricht = на одном дыхании бессознательно высказывает
++ auf pocht = кичится, ссылается на ~ auf etwas pochen
+
+[1297] = Моменты, которые нам предстоит рассмотреть, таковы: во-первых, склонность к обмену, основание которой находят в эгоизме, рассматривается как основание или взаимодействие разделения труда.
+- Die Momente = Моменты,
+- die wir zu betrachten haben = которые нам предстоит рассмотреть,
+- sind = таковы:
+- Einmal wird der Hang des Austauschs = во-первых, склонность к обмену,
+- dessen Grund im Egoismus gefunden wird = основание которой находят в эгоизме,
+- als Grund oder Wechselwirkung = как основание или взаимодействие
+- der Teilung der Arbeit betrachtet = разделения труда рассматривается
+
+[1298] = Сэй рассматривает обмен как не основополагающий для сущности общества.
+! das Wesen < des Wesen
+- Say betrachtet den Austausch = Сэй рассматривает обмен
+- als nicht fundamental = как не основополагающий
+- für das Wesen der Gesellschaft = для сущности общества
+
+[1299] = Богатство, производство объясняется разделением труда и обменом.
+- Der Reichtum, die Produktion = Богатство, производство
+- wird durch die Teilung der Arbeit und den Austausch erklärt = объясняется разделением труда и обменом
+
+[1300] = Признаётся обеднение и обессмысливание индивидуальной деятельности вследствие разделения труда.
+- Die Verarmung und Entwesung = Обеднение и обессмысливание
+- der individuellen Tätigkeit = индивидуальной деятельности
+- durch die Teilung der Arbeit = разделением труда
+- wird zugestanden = признаётся
+* entwesung = лишение сущности, обессмысливание | die Entwesung | сущ.
+
+[1301] = Обмен и разделение труда признаются производителями большого разнообразия человеческих талантов — разнообразия, которое благодаря обмену снова становится полезным.
+- Austausch und Teilung der Arbeit = Обмен и разделение труда
+- werden als Produzenten der großen Verschiedenheit = признаются производителями большого разнообразия
+- der menschlichen Talente anerkannt = человеческих талантов,
+- eine Verschiedenheit = разнообразия,
+- welche durch ersteren auch wieder nützlich wird = которое благодаря первому снова полезным становится
+
+[1302] = Скарбек делит производственные, или производительные, сущностные силы человека на две части: 1) индивидуальные и присущие ему — его ум и особую способность к труду, или умение; 2) производные от общества, а не от действительного индивида, — разделение труда и обмен. — Далее: разделение труда ограничено рынком. — Человеческий труд есть простое механическое движение; главное делают материальные свойства предметов. — Индивиду надо поручать как можно меньше операций. — Расщепление труда и концентрация капитала, ничтожность индивидуального производства и производство богатства в массе. — Смысл свободной частной собственности в разделении труда.
+! vom wirklichen < vorn wirklichen
+- Skarbek teilt die Produktions- = Скарбек делит производственные,
+- oder produktiven Wesenskräfte des Menschen = или производительные, сущностные силы человека
+- in 2 Teile = на две части:
+- 1. die individuellen und ihm inhärenten = 1) индивидуальные и присущие ему —
+- seine Intelligenz = его ум
+- und spezielle Arbeitsdisposition oder Fähigkeit = и особую способность к труду, или умение;
+- 2. die von der Gesellschaft = 2) производные от общества —
+- nicht vom wirklichen Individuum = не от действительного индивида —
+- abgeleiteten = выведенные:
+- die Teilung der Arbeit und den Austausch = разделение труда и обмен. —
+- Ferner = Далее:
+- Die Teilung der Arbeit ist durch den Markt beschränkt = разделение труда ограничено рынком. —
+- Die menschliche Arbeit = Человеческий труд
+- ist einfache mechanische Bewegung = есть простое механическое движение;
+- die Hauptsache tun = главное делают
+- die materiellen Eigenschaften der Gegenstände = материальные свойства предметов. —
+- Einem Individuum müssen = Индивиду должны
+- wenigst mögliche Operationen zugeteilt werden = как можно меньше операций поручаться. —
+- Spaltung der Arbeit = Расщепление труда
+- und Konzentrierung des Kapitals = и концентрация капитала,
+- die Nichtigkeit der individuellen Produktion = ничтожность индивидуального производства
+- und die Produktion des Reichtums in Masse = и производство богатства в массе. —
+- Verstand des freien Privateigentums = Смысл свободной частной собственности
+- in der Teilung der Arbeit = в разделении труда
