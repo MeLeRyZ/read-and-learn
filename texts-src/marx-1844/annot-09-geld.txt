@@ -1,0 +1,493 @@
+[1303] = Деньги
+- Geld = Деньги
+
+[1304] = Если ощущения, страсти и т. д. человека суть не только антропологические определения в [более узком] смысле, но поистине онтологические утверждения сущности (природы) — и если они действительно утверждают себя лишь благодаря тому, что их предмет чувственно существует для них, то само собой разумеется: 1) что способ их утверждения отнюдь не один и тот же, а, напротив, различный способ утверждения составляет своеобразие их бытия, их жизни; то, каким образом предмет существует для них, есть своеобразный способ их наслаждения; 2) там, где чувственное утверждение есть непосредственное упразднение предмета в его самостоятельной форме (еда, питьё, обработка предмета и т. д.), это и есть утверждение предмета; 3) поскольку человек человечен, а значит, человечно и его ощущение и т. д., утверждение предмета другим есть также его собственное наслаждение; 4) лишь благодаря развитой промышленности, т. е. через опосредование частной собственности, онтологическая сущность человеческой страсти обретает бытие как в своей целостности, так и в своей человечности; наука о человеке, следовательно, сама есть продукт практического самоосуществления человека; 5) смысл частной собственности — освобождённый от её отчуждения — есть существование существенных предметов для человека как предмета наслаждения, так и предмета деятельности. —
+! wird das ontologische < wird des ontologische
+- Wenn die Empfindungen, Leidenschaften etc. des Menschen = Если ощущения, страсти и т. д. человека
+- nicht nur anthropologische Bestimmungen = не только антропологические определения
+- im [engeren] Sinn = в [более узком] смысле,
+- sondern wahrhaft ontologische Wesens-(Natur-)bejahungen sind = но поистине онтологические утверждения сущности (природы) —
+- und wenn sie nur dadurch wirklich sich bejahen = и если они действительно утверждают себя лишь тем,
+- daß ihr Gegenstand sinnlich für sie ist = что их предмет чувственно существует для них,
+- so versteht sich = то само собой разумеется:
+- 1. daß die Weise ihrer Bejahung = 1) что способ их утверждения
+- durchaus nicht eine und dieselbe ist = отнюдь не один и тот же,
+- sondern vielmehr die unterschiedne Weise der Bejahung = а, напротив, различный способ утверждения
+- die Eigentümlichkeit ihres Daseins, ihres Lebens bildet = составляет своеобразие их бытия, их жизни;
+- die Weise, wie der Gegenstand für sie = способ, каким предмет существует для них,
+- ist die eigentümliche Weise ihres Genusses = есть своеобразный способ их наслаждения;
+- 2. da, wo die sinnliche Bejahung = 2) там, где чувственное утверждение
+- unmittelbares Aufheben des Gegenstandes = есть непосредственное упразднение предмета
+- in seiner selbständigen Form ist = в его самостоятельной форме
+- Essen, Trinken, Bearbeiten des Gegenstandes etc. = (еда, питьё, обработка предмета и т. д.),
+- ist dies die Bejahung des Gegenstandes = это и есть утверждение предмета;
+- 3. insofern der Mensch menschlich = 3) поскольку человек человечен,
+- also auch seine Empfindung etc. menschlich ist = а значит, человечно и его ощущение и т. д.,
+- ist die Bejahung des Gegenstandes durch einen andren = утверждение предмета другим
+- ebenfalls sein eigner Genuß = есть также его собственное наслаждение;
+- 4. erst durch die entwickelte Industrie = 4) лишь через развитую промышленность,
+- i.e. durch die Vermittlung des Privateigentums = т. е. через опосредование частной собственности,
+- wird das ontologische Wesen der menschlichen Leidenschaft = обретает бытие онтологическая сущность человеческой страсти
+- sowohl in seiner Totalität = как в своей целостности,
+- als in seiner Menschlichkeit = так и в своей человечности;
+- die Wissenschaft vom Menschen = наука о человеке
+- ist also selbst ein Produkt = есть, следовательно, сама продукт
+- der praktischen Selbstbetätigung des Menschen = практического самоосуществления человека;
+- 5. der Sinn des Privateigentums = 5) смысл частной собственности —
+- losgelöst von seiner Entfremdung = освобождённый от её отчуждения —
+- ist das Dasein der wesentlichen Gegenstände für den Menschen = есть существование существенных предметов для человека
+- sowohl als Gegenstand des Genusses = как предмета наслаждения,
+- wie der Tätigkeit = так и деятельности. —
+* e = (то есть) | | сокр. | лат. i. e. = id est
+
+[1305] = Деньги, поскольку они обладают свойством всё покупать, поскольку они обладают свойством всё присваивать себе, суть, следовательно, предмет обладания по преимуществу.
+- Das Geld = Деньги,
+- indem es die Eigenschaft besitzt, alles zu kaufen = поскольку они обладают свойством всё покупать,
+- indem es die Eigenschaft besitzt = поскольку обладают свойством
+- alle Gegenstände sich anzueignen = все предметы себе присваивать,
+- ist also der Gegenstand im eminenten Besitz = суть, следовательно, предмет обладания по преимуществу
+
+[1306] = Универсальность их свойства есть всемогущество их сущности; поэтому они слывут всемогущим существом…
+- Die Universalität seiner Eigenschaft = Универсальность их свойства
+- ist die Allmacht seines Wesens = есть всемогущество их сущности;
+- es gilt daher als allmächtiges Wesen = поэтому они слывут всемогущим существом…
++ gilt als = слывёт, считается ~ gelten als
+
+[1307] = Деньги — сводник между потребностью и предметом, между жизнью и средствами к жизни человека.
+- Das Geld ist der Kuppler = Деньги — сводник
+- zwischen dem Bedürfnis und dem Gegenstand = между потребностью и предметом,
+- zwischen dem Leben und dem Lebensmittel des Menschen = между жизнью и средствами к жизни человека
+
+[1308] = Но то, что опосредует мне мою жизнь, опосредует мне и существование других людей для меня.
+- Was mir aber mein Leben vermittelt = Но то, что опосредует мне мою жизнь,
+- das vermittelt mir auch = то опосредует мне и
+- das Dasein der andren Menschen für mich = существование других людей для меня
+
+[1309] = Это для меня и есть другой человек.
+- Das ist für mich der andre Mensch = Это для меня — другой человек
+
+[1310] = «Чёрт возьми!
+- Was Henker = «Чёрт возьми!
+
+[1311] = Конечно, руки, ноги, голова и зад — они твои!
+- Freilich Händ’ und Füße = Конечно, руки и ноги,
+- Und Kopf und Hintre, die sind dein = и голова, и зад — они твои!
+
+[1312] = Но всё, чем я вволю наслаждаюсь, — разве оно оттого меньше моё?
+! Ist das drum < Ist des drum
+- Doch alles, was ich frisch genieße = Но всё, чем я вволю наслаждаюсь,
+- Ist das drum weniger mein = разве оно оттого меньше моё?
+
+[1313] = Если я могу оплатить шесть жеребцов, разве их силы не мои?
+- Wenn ich sechs Hengste zahlen kann = Если я могу оплатить шесть жеребцов,
+- Sind ihre Kräfte nicht die meine = разве их силы не мои?
+
+[1314] = Я мчусь вперёд — и я настоящий мужчина, словно у меня двадцать четыре ноги».
+- Ich renne zu und bin ein rechter Mann = Я мчусь вперёд — и я настоящий мужчина,
+- Als hätt’ ich vierundzwanzig Beine = словно у меня двадцать четыре ноги»
++ renne zu = мчусь вперёд ~ zurennen
+
+[1315] = Гёте, «Фауст» (Мефистофель)
+- Goethe, Faust (Mephisto) = Гёте, «Фауст» (Мефистофель)
+* faust = «Фауст» | | имя собств. | трагедия Гёте
+
+[1316] = Шекспир в «Тимоне Афинском»:
+- Shakespeare im Timon von Athen = Шекспир в «Тимоне Афинском»:
+
+[1317] = «Золото?
+- Gold = «Золото?
+
+[1318] = Драгоценное, мерцающее, червонное золото?
+- Kostbar, flimmernd, rotes Gold = Драгоценное, мерцающее, червонное золото?
+* rotes = червонное (букв. красное) | rot | прил. | «красное золото» — поэтически о чистом золоте
+
+[1319] = Нет, боги!
+- Nein, Götter = Нет, боги!
+
+[1320] = Не попусту я молил.
+! Nicht eitel fleht’ < Nicht eitel ficht’
+- Nicht eitel fleht’ ich = Не попусту я молил
+* eitel = попусту, напрасно | | нар. | устар. значение
+
+[1321] = Вот столько этого сделает чёрное белым, уродливое красивым, дурное добрым, старое молодым, трусливое храбрым, низкое благородным.
+- So viel hievon = Вот столько этого
+- macht schwarz weiß, häßlich schön = сделает чёрное белым, уродливое красивым,
+- Schlecht gut, alt jung = дурное добрым, старое молодым,
+- feig tapfer, niedrig edel = трусливое храбрым, низкое благородным
+* gut = добрым, хорошим | | прил.
+
+[1322] = Оно сманивает… жреца от алтаря; выдёргивает у выздоравливающих подушку из-под головы; да, этот червонный раб развязывает и связывает священные узы; благословляет проклятого; делает проказу милой, почитает вора и даёт ему чин, преклонённое колено и влияние в совете сенаторов; он приводит к перезрелой вдове женихов; её, что, ядовито гноясь от лазарета и ран, с отвращением была отослана прочь, это, как бальзам, омолаживает до майской юности.
+! Schlummerkissen < Schlumrnerkissen
+! löst und bindet < lost und bindet
+- Dies lockt ... den Priester vom Altar = Оно сманивает… жреца от алтаря;
+- Reißt Halbgenesnen weg das Schlummerkissen = выдёргивает у выздоравливающих подушку из-под головы;
+- Ja, dieser rote Sklave = да, этот червонный раб
+- löst und bindet Geweihte Bande = развязывает и связывает священные узы;
+- segnet den Verfluchten = благословляет проклятого;
+- Er macht den Aussatz lieblich = он делает проказу милой,
+- ehrt den Dieb = почитает вора
+- Und gibt ihm Rang, gebeugtes Knie und Einfluß = и даёт ему чин, преклонённое колено и влияние
+- Im Rat der Senatoren = в совете сенаторов;
+- dieser führt Der überjähr’gen Witwe Freier zu = он приводит к перезрелой вдове женихов;
+- Sie, von Spital und Wunden giftig eiternd = её, что, от лазарета и ран ядовито гноясь,
+- Mit Ekel fortgeschickt = с отвращением была отослана прочь,
+- verjüngt balsamisch Zu Maienjugend dies = это, как бальзам, омолаживает до майской юности
++ Reißt weg = вырывает ~ wegreißen
++ führt zu = приводит ~ zuführen
+
+[1323] = Проклятый металл, ты, общая блудница людская, что одурманивает народы».
+- Verdammt Metall = Проклятый металл,
+- Gemeine Hure du der Menschen = общая блудница ты людская,
+- die Die Völker tört = что народы одурманивает»
+* tört = одурманивает | betören | гл. | поэтическое усечение от betört
+
+[1324] = И ниже:
+- Und weiter unten = И дальше, ниже:
+* unten = ниже | | нар.
+
+[1325] = «Ты, сладостный цареубийца, благородный разлучитель сына и отца!
+- Du süßer Königsmörder = «Ты, сладостный цареубийца,
+- edle Scheidung Des Sohns und Vaters = благородный разлучитель сына и отца!
+
+[1326] = Блестящий осквернитель чистейшего ложа Гименея!
+- glänzender Besudler = Блестящий осквернитель
+- Von Hymens reinstem Lager = чистейшего ложа Гименея!
+* hymens = Гименея | Hymen | имя собств. | бог брака
+
+[1327] = Храбрый Марс!
+- tapfrer Mars = Храбрый Марс!
+
+[1328] = Ты, вечно цветущий, нежно любимый жених, чей алый отблеск растапливает священный снег на чистом лоне Дианы!
+- Du ewig blüh’nder, zartgeliebter Freier = Ты, вечно цветущий, нежно любимый жених,
+- Des roter Schein = чей алый отблеск
+- den heil’gen Schnee zerschmelzt = растапливает священный снег
+- Auf Dianas reinem Schoß = на чистом лоне Дианы!
+* des = чей | dessen | мест. | старая форма относительного местоимения
+
+[1329] = Видимое божество, ты, что тесно братаешь невозможности и принуждаешь их к поцелую!
+- sichtbare Gottheit = Видимое божество,
+- Die du Unmöglichkeiten eng verbrüderst = ты, что невозможности тесно братаешь,
+- Zum Kuß sie zwingst = к поцелую их принуждаешь!
+
+[1330] = Ты говоришь на всяком языке, для всякой цели!
+- du sprichst in jeder Sprache = Ты говоришь на всяком языке,
+- Zu jedem Zweck = для всякой цели!
+
+[1331] = О ты, пробный камень сердец!
+- o du, der Herzen Prüfstein = О ты, сердец пробный камень!
+
+[1332] = Подумай: восстаёт твой раб — человек!
+- Denk, es empört dein Sklave sich = Подумай: восстаёт твой раб —
+- der Mensch = человек!
++ empört sich = восстаёт ~ sich empören
+
+[1333] = Своей силой погуби их, всех перессорив, чтобы зверям досталась власть над этим миром!»
+- Vernichte deine Kraft sie all verwirrend = Своей силой погуби их, всех перессорив,
+- Daß Tieren wird die Herrschaft dieser Welt = чтобы зверям досталась власть над этим миром!»
+
+[1334] = Шекспир превосходно изображает сущность денег.
+- Shakespeare schildert das Wesen des Geldes trefflich = Шекспир превосходно изображает сущность денег
+
+[1335] = Чтобы понять его, начнём сначала с толкования места из Гёте.
+- Um ihn zu verstehn = Чтобы его понять,
+- beginnen wir zunächst = начнём сначала
+- mit der Auslegung der goethischen Stelle = с толкования места из Гёте
+
+[1336] = То, что существует для меня благодаря деньгам, то, за что я могу заплатить, т. е. что могут купить деньги, — это я сам, владелец денег.
+- Was durch das Geld für mich ist = То, что благодаря деньгам существует для меня,
+- was ich zahlen = за что я могу заплатить,
+- d.h., was das Geld kaufen kann = т. е. что могут купить деньги, —
+- das bin ich = это я сам,
+- der Besitzer des Geldes selbst = владелец денег
+
+[1337] = Как велика сила денег, так велика и моя сила.
+- So groß die Kraft des Geldes = Как велика сила денег,
+- so groß ist meine Kraft = так велика и моя сила
+
+[1338] = Свойства денег — мои, их владельца, свойства и сущностные силы.
+- Die Eigenschaften des Geldes sind meine = Свойства денег — мои,
+- seines Besitzers = их владельца,
+- Eigenschaften und Wesenskräfte = свойства и сущностные силы
+
+[1339] = То, что я есть и что я могу, определяется, следовательно, отнюдь не моей индивидуальностью.
+- Das, was ich bin und vermag = То, что я есть и что я могу,
+- ist also keineswegs = следовательно, отнюдь не
+- durch meine Individualität bestimmt = определяется моей индивидуальностью
+
+[1340] = Я уродлив, но я могу купить себе красивейшую женщину.
+- Ich bin häßlich = Я уродлив,
+- aber ich kann mir die schönste Frau kaufen = но могу купить себе красивейшую женщину
+* frau = женщину | die Frau | сущ.
+
+[1341] = Значит, я не уродлив, ибо действие уродства, его отпугивающая сила деньгами уничтожена.
+- Also bin ich nicht häßlich = Значит, я не уродлив,
+- denn die Wirkung der Häßlichkeit = ибо действие уродства,
+- ihre abschreckende Kraft = его отпугивающая сила
+- ist durch das Geld vernichtet = деньгами уничтожена
+
+[1342] = Я по своей индивидуальности хромой, но деньги доставляют мне 24 ноги; значит, я не хромой; я дурной, нечестный, бессовестный, скудоумный человек, но деньги в почёте, а значит, и их владелец.
+- Ich – meiner Individualität nach – bin lahm = Я по своей индивидуальности хромой,
+- aber das Geld verschafft mir 24 Füße = но деньги доставляют мне 24 ноги;
+- ich bin also nicht lahm = значит, я не хромой;
+- ich bin ein schlechter, unehrlicher = я дурной, нечестный,
+- gewissenloser, geistloser Mensch = бессовестный, скудоумный человек,
+- aber das Geld ist geehrt = но деньги в почёте,
+- also auch sein Besitzer = а значит, и их владелец
+
+[1343] = Деньги — высшее благо, значит, хорош и их владелец; к тому же деньги избавляют меня от труда быть нечестным; поэтому меня заранее считают честным; я скудоумен, но деньги — действительный ум всех вещей, как же может их владелец быть скудоумным?
+- Das Geld ist das höchste Gut = Деньги — высшее благо,
+- also ist sein Besitzer gut = значит, хорош и их владелец;
+- das Geld überhebt mich überdem = деньги к тому же избавляют меня
+- der Mühe, unehrlich zu sein = от труда быть нечестным;
+- ich werde also als ehrlich präsumiert = поэтому меня заранее считают честным;
+- ich bin geistlos = я скудоумен,
+- aber das Geld ist der wirkliche Geist aller Dinge = но деньги — действительный ум всех вещей,
+- wie sollte sein Besitzer geistlos sein = как же их владельцу быть скудоумным?
++ überhebt der Mühe = избавляет от труда ~ jemanden einer Sache überheben
+* gut = благо; хорош | gut | сущ./прил. | игра слов: das höchste Gut — высшее благо, gut — хороший
+
+[1344] = Кроме того, он может купить себе остроумных людей, а кто имеет власть над остроумными, разве тот не остроумнее остроумного?
+- Zudem kann er sich = Кроме того, он может себе
+- die geistreichen Leute kaufen = остроумных людей купить,
+- und wer die Macht über die Geistreichen hat = а кто имеет власть над остроумными,
+- ist der nicht geistreicher als der Geistreiche = разве тот не остроумнее остроумного?
+
+[1345] = Я, который благодаря деньгам могу всё, чего жаждет человеческое сердце, разве я не обладаю всеми человеческими способностями?
+- Ich, der durch das Geld alles = Я, который благодаря деньгам всё,
+- wonach ein menschliches Herz sich sehnt = чего жаждет человеческое сердце,
+- vermag = могу,
+- besitze ich nicht alle menschlichen Vermögen = разве не обладаю я всеми человеческими способностями?
+* vermögen = способности | das Vermögen | сущ. | игра слов: Vermögen — и «способность», и «состояние»
+
+[1346] = Не превращают ли, следовательно, мои деньги все мои немощи в их противоположность?
+- Verwandelt also mein Geld nicht = Не превращают ли, следовательно, мои деньги
+- alle meine Unvermögen = все мои немощи
+- in ihr Gegenteil = в их противоположность?
+
+[1347] = Если деньги — те узы, что связывают меня с человеческой жизнью, общество — со мной, меня — с природой и людьми, то не узы ли всех уз деньги?
+- Wenn das Geld das Band ist = Если деньги — те узы,
+- das mich an das menschliche Leben = что меня с человеческой жизнью,
+- das mir die Gesellschaft = общество со мной,
+- das mich mit der Natur und den Menschen verbindet = меня с природой и людьми связывают,
+- ist das Geld nicht das Band aller Bande = то не узы ли всех уз деньги?
+
+[1348] = Не могут ли они развязывать и связывать любые узы?
+- Kann es nicht alle Bande lösen und binden = Не могут ли они любые узы развязывать и связывать?
+
+[1349] = Не являются ли они поэтому также и всеобщим средством разъединения?
+- Ist es darum nicht auch = Не являются ли они поэтому также
+- das allgemeine Scheidungsmittel = всеобщим средством разъединения?
+
+[1350] = Они — истинная разменная монета, как и истинное связующее средство, […] химическая сила общества.
+- Es ist die wahre Scheidemünze = Они — истинная разменная монета,
+- wie das wahre Bindungsmittel = как и истинное связующее средство,
+- die [...] chemische Kraft der Gesellschaft = […] химическая сила общества
+* scheidemünze = разменная монета | die Scheidemünze | сущ. | игра слов: scheiden — «разделять»
+
+[1351] = Шекспир особенно выделяет в деньгах два свойства:
+- Shakespeare hebt an dem Geld = Шекспир выделяет в деньгах
+- besonders 2 Eigenschaften heraus = особенно 2 свойства:
++ hebt heraus = выделяет ~ herausheben
+
+[1352] = 1) они — видимое божество, превращение всех человеческих и природных свойств в их противоположность, всеобщее смешение и извращение вещей; они братают невозможности;
+- 1. Es ist die sichtbare Gottheit = 1) они — видимое божество,
+- die Verwandlung aller menschlichen und natürlichen Eigenschaften = превращение всех человеческих и природных свойств
+- in ihr Gegenteil = в их противоположность,
+- die allgemeine Verwechslung und Verkehrung der Dinge = всеобщее смешение и извращение вещей;
+- es verbrüdert Unmöglichkeiten = они братают невозможности;
+
+[1353] = 2) они — всеобщая блудница, всеобщий сводник людей и народов.
+- 2. Es ist die allgemeine Hure = 2) они — всеобщая блудница,
+- der allgemeine Kuppler der Menschen und Völker = всеобщий сводник людей и народов
+
+[1354] = Извращение и смешение всех человеческих и природных качеств, братание невозможностей — божественная сила денег — заключается в их сущности как отчуждённой, овнешняющей и себя отчуждающей родовой сущности людей.
+- Die Verkehrung und Verwechslung = Извращение и смешение
+- aller menschlichen und natürlichen Qualitäten = всех человеческих и природных качеств,
+- die Verbrüderung der Unmöglichkeiten = братание невозможностей —
+- die göttliche Kraft des Geldes = божественная сила денег —
+- liegt in seinem Wesen = заключается в их сущности
+- als dem entfremdeten, entäußernden = как отчуждённой, овнешняющей
+- und sich veräußernden Gattungswesen der Menschen = и себя отчуждающей родовой сущности людей
+
+[1355] = Они — овнешнённая способность человечества.
+- Es ist das entäußerte Vermögen der Menschheit = Они — овнешнённая способность человечества
+* vermögen = способность | das Vermögen | сущ. | также «состояние, богатство»
+
+[1356] = Чего я не могу как человек, чего, следовательно, не могут все мои индивидуальные сущностные силы, то я могу посредством денег.
+- Was ich qua Mensch nicht vermag = Чего я как человек не могу,
+- was also alle meine individuellen Wesenskräfte nicht vermögen = чего, следовательно, все мои индивидуальные сущностные силы не могут,
+- das vermag ich durch das Geld = то я могу посредством денег
+* vermögen = могут | | гл.
+
+[1357] = Деньги, следовательно, делают каждую из этих сущностных сил тем, чем она сама по себе не является, т. е. её противоположностью.
+- Das Geld macht also jede dieser Wesenskräfte = Деньги делают, следовательно, каждую из этих сущностных сил
+- zu etwas, was sie an sich nicht ist = тем, чем она сама по себе не является,
+- d.h. zu ihrem Gegenteil = т. е. её противоположностью
+
+[1358] = Если мне хочется какого-нибудь кушанья или я хочу воспользоваться почтовой каретой, потому что недостаточно силён, чтобы пройти путь пешком, то деньги доставляют мне и кушанье, и почтовую карету, т. е. они превращают мои желания из существ представления, переводят их из их мыслимого, представляемого, желаемого бытия в их чувственное, действительное бытие, из представления — в жизнь, из представляемого бытия — в действительное бытие.
+- Wenn ich mich nach einer Speise sehne = Если мне хочется какого-нибудь кушанья
+- oder den Postwagen brauchen will = или я хочу воспользоваться почтовой каретой,
+- weil ich nicht stark genug bin = потому что недостаточно силён,
+- den Weg zu Fuß zu machen = чтобы пройти путь пешком,
+- so verschafft mir das Geld = то деньги доставляют мне
+- die Speise und den Postwagen = и кушанье, и почтовую карету,
+- d.h., es verwandelt meine Wünsche = т. е. они превращают мои желания
+- aus Wesen der Vorstellung = из существ представления,
+- es übersetzt sie = переводят их
+- aus ihrem gedachten, vorgestellten, gewollten Dasein = из их мыслимого, представляемого, желаемого бытия
+- in ihr sinnliches, wirkliches Dasein = в их чувственное, действительное бытие,
+- aus der Vorstellung in das Leben = из представления — в жизнь,
+- aus dem vorgestellten Sein in das wirkliche Sein = из представляемого бытия — в действительное бытие
++ mich nach sehne = хочется, тоскую по ~ sich nach etwas sehnen
+* brauchen = воспользоваться | | гл. | устар.: в значении gebrauchen
+
+[1359] = Как это опосредование [деньги] суть поистине творческая сила.
+- Als diese Vermittlung = Как это опосредование
+- ist das [Geld] die wahrhaft schöpferische Kraft = [деньги] — поистине творческая сила
+
+[1360] = Спрос существует, правда, и у того, у кого нет денег, но его спрос — лишь существо представления, которое на меня, на третьего, на [других] не оказывает никакого действия, не имеет никакого существования, а значит, и для меня самого остаётся недействительным, беспредметным.
+- Die demande existiert wohl auch = Спрос существует, правда, и
+- für den, der kein Geld hat = для того, у кого нет денег,
+- aber seine demande = но его спрос
+- ist ein bloßes Wesen der Vorstellung = — лишь существо представления,
+- das auf mich, auf den 3ten, auf die [anderen] = которое на меня, на третьего, на [других]
+- keine Wirkung, keine Existenz hat = никакого действия, никакого существования не имеет,
+- also für mich selbst = а значит, и для меня самого
+- unwirklich, gegenstandlos bleibt = недействительным, беспредметным остаётся
+* demande = спрос | la demande | франц.
+
+[1361] = Различие между эффективным спросом, основанным на деньгах, и безрезультатным, основанным на моей потребности, моей страсти, моём желании и т. д., есть различие между бытием и мышлением, между простым, существующим во мне представлением и представлением, каким оно в качестве действительного предмета вне меня существует для меня.
+- Der Unterschied der effektiven = Различие эффективного,
+- auf das Geld basierten = основанного на деньгах,
+- und der effektlosen = и безрезультатного,
+- auf mein Bedürfnis, meine Leidenschaft, meinen Wunsch etc. basierten demande = основанного на моей потребности, моей страсти, моём желании и т. д. спроса
+- ist der Unterschied zwischen Sein und Denken = есть различие между бытием и мышлением,
+- zwischen der bloßen in mir existierenden Vorstellung = между простым, во мне существующим представлением
+- und der Vorstellung = и представлением,
+- wie sie als wirklicher Gegenstand außer mir für mich ist = каким оно в качестве действительного предмета вне меня существует для меня
+* demande = спроса | la demande | франц.
+
+[1362] = Если у меня нет денег на путешествие, то у меня нет и потребности, т. е. действительной и осуществляющей себя потребности в путешествии.
+- Ich, wenn ich kein Geld zum Reisen habe = Я, если у меня нет денег на путешествие,
+- habe kein Bedürfnis = не имею потребности,
+- d.h. kein wirkliches und sich verwirklichendes Bedürfnis zum Reisen = т. е. действительной и осуществляющей себя потребности в путешествии
+* reisen = путешествие | das Reisen | сущ.
+
+[1363] = Если у меня есть призвание к учёбе, но нет на это денег, то у меня нет призвания к учёбе, т. е. нет действенного, нет истинного призвания.
+- Ich, wenn ich Beruf zum Studieren = Я, если у меня есть призвание к учёбе,
+- aber kein Geld dazu habe = но нет на это денег,
+- habe keinen Beruf zum Studieren = не имею призвания к учёбе,
+- d.h. keinen wirksamen, keinen wahren Beruf = т. е. ни действенного, ни истинного призвания
+* beruf = призвание | der Beruf | сущ.
+
+[1364] = Напротив, если у меня на самом деле нет призвания к учёбе, но есть желание и деньги, то у меня есть действенное призвание к ней.
+- Dagegen ich = Напротив, я,
+- wenn ich wirklich keinen Beruf zum Studieren habe = если у меня на самом деле нет призвания к учёбе,
+- aber den Willen und das Geld = но есть воля и деньги,
+- habe einen wirksamen Beruf dazu = имею действенное призвание к этому
+* beruf = призвание | der Beruf | сущ.
+
+[1365] = Деньги — как внешнее, происходящее не из человека как человека и не из человеческого общества как общества всеобщее средство и способность превращать представление в действительность, а действительность — в простое представление — в такой же мере превращают действительные человеческие и природные сущностные силы в чисто абстрактные представления и потому в несовершенства, в мучительные химеры, в какой, с другой стороны, они превращают действительные несовершенства и химеры, действительно бессильные, существующие лишь в воображении индивида его сущностные силы в действительные сущностные силы и способности.
+- Das Geld = Деньги —
+- als das äußere = как внешнее,
+- nicht aus dem Menschen als Menschen = не из человека как человека
+- und nicht von der menschlichen Gesellschaft als Gesellschaft = и не из человеческого общества как общества
+- herkommende allgemeine = происходящее всеобщее
+- Mittel und Vermögen = средство и способность
+- die Vorstellung in die Wirklichkeit = представление в действительность,
+- und die Wirklichkeit zu einer bloßen Vorstellung zu machen = а действительность в простое представление превращать, —
+- verwandelt ebensosehr = превращают в той же мере
+- die wirklichen menschlichen und natürlichen Wesenskräfte = действительные человеческие и природные сущностные силы
+- in bloß abstrakte Vorstellungen = в чисто абстрактные представления
+- und darum Unvollkommenheiten = и потому в несовершенства,
+- qualvolle Hirngespinste = мучительные химеры,
+- wie es andrerseits = в какой они, с другой стороны,
+- die wirklichen Unvollkommenheiten und Hirngespinste = действительные несовершенства и химеры,
+- die wirklich ohnmächtigen = действительно бессильные,
+- nur in der Einbildung des Individuums existierenden = лишь в воображении индивида существующие
+- Wesenskräfte desselben = его сущностные силы
+- zu wirklichen Wesenskräften und Vermögen verwandelt = в действительные сущностные силы и способности превращают
+* vermögen = способность | das Vermögen | сущ.
+
+[1366] = Уже по одному этому определению они, следовательно, суть всеобщее извращение индивидуальностей, которое обращает их в их противоположность и придаёт их свойствам противоречащие им свойства.
+- Schon dieser Bestimmung nach = Уже по одному этому определению
+- ist es also schon = они, следовательно, уже
+- die allgemeine Verkehrung der Individualitäten = всеобщее извращение индивидуальностей,
+- die sie in ihr Gegenteil umkehrt = которое обращает их в их противоположность
+- und ihren Eigenschaften = и их свойствам
+- widersprechende Eigenschaften beilegt = противоречащие свойства придаёт
+
+[1367] = В качестве этой извращающей силы они выступают затем и против индивида, и против общественных и т. п. уз, которые претендуют на то, чтобы быть сущностями сами по себе.
+- Als diese verkehrende Macht = Как эта извращающая сила
+- erscheint es dann auch = они выступают затем и
+- gegen das Individuum = против индивида,
+- und gegen die gesellschaftlichen etc. Bande = и против общественных и т. п. уз,
+- die für sich Wesen zu sein behaupten = которые претендуют на то, чтобы быть сущностями сами по себе
+
+[1368] = Они превращают верность в измену, любовь в ненависть, ненависть в любовь, добродетель в порок, порок в добродетель, раба в господина, господина в раба, глупость в ум, ум в глупость.
+- Es verwandelt die Treue in Untreue = Они превращают верность в измену,
+- die Liebe in Haß, den Haß in Liebe = любовь в ненависть, ненависть в любовь,
+- die Tugend in Laster, das Laster in Tugend = добродетель в порок, порок в добродетель,
+- den Knecht in den Herrn, den Herrn in den Knecht = раба в господина, господина в раба,
+- den Blödsinn in Verstand, den Verstand in Blödsinn = глупость в ум, ум в глупость
+* verstand = ум, рассудок | der Verstand | сущ.
+
+[1369] = Так как деньги, как существующее и действующее понятие стоимости, смешивают и подменяют все вещи, то они суть всеобщее смешение и подмена всех вещей, следовательно, перевёрнутый мир, смешение и подмена всех природных и человеческих качеств.
+- Da das Geld = Так как деньги,
+- als der existierende und sich betätigende Begriff des Wertes = как существующее и действующее понятие стоимости,
+- alle Dinge verwechselt, vertauscht = все вещи смешивают, подменяют,
+- so ist es die allgemeine Verwechslung und Vertauschung aller Dinge = то они — всеобщее смешение и подмена всех вещей,
+- also die verkehrte Welt = следовательно, перевёрнутый мир,
+- die Verwechslung und Vertauschung = смешение и подмена
+- aller natürlichen und menschlichen Qualitäten = всех природных и человеческих качеств
+* verkehrte = перевёрнутый | verkehrt | прил.
+
+[1370] = Кто может купить храбрость, тот храбр, хотя бы он и был трусом.
+- Wer die Tapferkeit kaufen kann = Кто может купить храбрость,
+- der ist tapfer = тот храбр,
+- wenn er auch feig ist = хотя бы он и был трусом
+
+[1371] = Так как деньги обмениваются не на определённое качество, не на определённую вещь, не на человеческие сущностные силы, а на весь человеческий и природный предметный мир, то они — с точки зрения их владельца — обменивают любое свойство на любое, в том числе и на противоречащее ему свойство и предмет; они — братание невозможностей, они принуждают противоречащее себе к поцелую.
+- Da das Geld nicht gegen eine bestimmte Qualität = Так как деньги не на определённое качество,
+- gegen ein bestimmtes Ding = не на определённую вещь,
+- menschliche Wesenskräfte = не на человеческие сущностные силы,
+- sondern gegen die ganze menschliche und natürliche gegenständliche Welt = а на весь человеческий и природный предметный мир
+- sich austauscht = обмениваются,
+- so tauscht es also = то они, следовательно, обменивают
+- vom Standpunkt seines Besitzers angesehn = — с точки зрения их владельца —
+- jede Eigenschaft gegen jede = любое свойство на любое,
+- auch ihr widersprechende Eigenschaft und Gegenstand = в том числе и на противоречащие ему свойство и предмет
+- aus = (обменивают);
+- es ist die Verbrüderung der Unmöglichkeiten = они — братание невозможностей,
+- es zwingt das sich Widersprechende zum Kuß = они принуждают противоречащее себе к поцелую
++ tauscht aus = обменивает ~ austauschen
+
+[1372] = Предположи человека как человека и его отношение к миру как человеческое, тогда ты сможешь обменивать любовь только на любовь, доверие только на доверие и т. д. Если ты хочешь наслаждаться искусством, ты должен быть художественно образованным человеком; если ты хочешь оказывать влияние на других людей, ты должен быть человеком, действительно побуждающим и поддерживающим других людей.
+- Setze den Menschen als Menschen = Предположи человека как человека
+- und sein Verhältnis zur Welt als ein menschliches voraus = и его отношение к миру как человеческое,
+- so kannst du Liebe nur gegen Liebe austauschen = тогда ты сможешь обменивать любовь только на любовь,
+- Vertrauen nur gegen Vertrauen etc. = доверие только на доверие и т. д.
+- Wenn du die Kunst genießen willst = Если ты хочешь наслаждаться искусством,
+- mußt du ein künstlerisch gebildeter Mensch sein = ты должен быть художественно образованным человеком;
+- wenn du Einfluß auf andre Menschen ausüben willst = если хочешь оказывать влияние на других людей,
+- mußt du ein wirklich anregend und fördernd = ты должен быть действительно побуждающим и поддерживающим,
+- auf andere Menschen wirkender Mensch sein = воздействующим на других людей человеком
++ Setze voraus = предположи ~ voraussetzen
++ Einfluß ausüben = оказывать влияние ~ Einfluss ausüben
+
+[1373] = Каждое из твоих отношений к человеку — и к природе — должно быть определённым, соответствующим предмету твоей воли проявлением твоей действительной индивидуальной жизни.
+- Jedes deiner Verhältnisse zum Menschen = Каждое из твоих отношений к человеку
+- und zu der Natur = — и к природе —
+- muß eine bestimmte = должно быть определённым,
+- dem Gegenstand deines Willens entsprechende = соответствующим предмету твоей воли
+- Äußrung deines wirklichen individuellen Lebens sein = проявлением твоей действительной индивидуальной жизни
+
+[1374] = Если ты любишь, не вызывая ответной любви, т. е. если твоя любовь как любовь не порождает ответной любви, если ты своим жизненным проявлением как любящий человек не делаешь себя любимым человеком, то твоя любовь бессильна, она — несчастье.
+- Wenn du liebst = Если ты любишь,
+- ohne Gegenliebe hervorzurufen = не вызывая ответной любви,
+- d.h., wenn dein Lieben als Lieben = т. е. если твоя любовь как любовь
+- nicht die Gegenliebe produziert = не порождает ответной любви,
+- wenn du durch deine Lebensäußrung als liebender Mensch = если ты своим жизненным проявлением как любящий человек
+- dich nicht zum geliebten Menschen machst = не делаешь себя любимым человеком,
+- so ist deine Liebe ohnmächtig = то твоя любовь бессильна,
+- ein Unglück = она — несчастье
