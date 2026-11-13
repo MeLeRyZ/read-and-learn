@@ -1,0 +1,634 @@
+[205] = Прибыль на капитал
+- Profit des Kapitals = Прибыль на капитал
+
+[206] = 1. Капитал.
+- 1. Das Kapital = 1. Капитал
+
+[207] = 1) На чём основан капитал, т. е. частная собственность на продукты чужого труда?
+- 1. Worauf beruht das Kapital = 1) На чём основан капитал,
+- d.h. das Privateigentum = т. е. частная собственность
+- an den Produkten fremder Arbeit = на продукты чужого труда?
++ Worauf beruht = на чём основан ~ auf etwas beruhen
+
+[208] = «Даже если сам капитал и не сводится к воровству или мошенничеству, всё же он нуждается в содействии законодательства, чтобы освятить наследование».
+- Wenn das Kapital selbst = «Если сам капитал
+- nicht auf Diebstahl oder Unterschleif = не к воровству или мошенничеству
+- sich reduziert = сводится,
+- so bedarf es doch = то всё же он нуждается
+- den Konkurs der Gesetzgebung = в содействии законодательства,
+- um die Erbschaft zu heiligen = чтобы освятить наследство»
+* konkurs = содействие | der Konkurs | сущ. | устар. (франц. concours) — содействие; не «банкротство»!
+
+[209] = Сэй, т. I, с. 136, примечание.
+- Say. t.I, p.136, nota = Сэй, т. I, с. 136, примечание
+* say = Сэй | | имя собств. | Жан-Батист Сэй (1767–1832), французский экономист
+* nota = примечание | | сущ. | лат.
+
+[210] = Как становятся собственником производительных фондов?
+- Wie wird man Proprietär = Как становятся собственником
+- von produktiven fonds = производительных фондов?
+
+[211] = Как становятся собственником продуктов, которые создаются посредством этих фондов?
+- Wie wird man Eigentümer = Как становятся собственником
+- von den Produkten = продуктов,
+- die vermittelst dieser fonds geschaffen werden = которые посредством этих фондов создаются?
+
+[212] = Благодаря положительному праву.
+- Durch das positive Recht = Благодаря положительному праву
+
+[213] = Сэй, т. II, с. 4.
+- Say. t.II, p.4 = Сэй, т. II, с. 4
+
+[214] = Что приобретают вместе с капиталом, например с наследством большого состояния?
+- Was erwirbt man mit dem Kapital = Что приобретают с капиталом,
+- mit der Erbschaft eines großen Vermögens z.B. = например с наследством большого состояния?
+
+[215] = «Тот, кто, например, наследует большое состояние, тем самым, правда, не приобретает непосредственно политической власти.
+- Einer, der z.B. ein großes Vermögen erbt = «Тот, кто, например, большое состояние наследует,
+- erwirbt dadurch zwar nicht unmittelbar = тем, правда, не приобретает непосредственно
+- politische Macht = политической власти
+
+[216] = Тот род власти, который это владение непосредственно и прямо ему передаёт, — это власть покупать, это право распоряжаться всем чужим трудом или всем продуктом этого труда, который в данный момент существует на рынке».
+- Die Art von Macht = Род власти,
+- die diese Besitzung ihm = которую это владение ему
+- unmittelbar und direkt überträgt = непосредственно и прямо передаёт,
+- das ist die Macht zu kaufen = — это власть покупать,
+- das ist ein Recht des Befehls = это право распоряжения
+- über alle Arbeit von andern = всем трудом других
+- oder über alles Produkt dieser Arbeit = или всем продуктом этого труда,
+- welches zur Zeit auf dem Markt existiert = который в данное время существует на рынке»
+
+[217] = Смит, т. I, с. 61.
+! p.61 < p.6l
+- Smith. t.I, p.61 = Смит, т. I, с. 61
+
+[218] = Итак, капитал — это власть управлять трудом и его продуктами.
+- Das Kapital ist also = Итак, капитал —
+- die Regierungsgewalt = власть управления
+- über die Arbeit und ihre Produkte = над трудом и его продуктами
+
+[219] = Капиталист обладает этой властью не благодаря своим личным или человеческим свойствам, а лишь постольку, поскольку он собственник капитала.
+- Der Kapitalist besitzt diese Gewalt = Капиталист обладает этой властью
+- nicht seiner persönlichen = не из-за своих личных
+- oder menschlichen Eigenschaften wegen = или человеческих свойств,
+- sondern insofern er Eigentümer des Kapitals ist = а поскольку он собственник капитала
+
+[220] = Покупательная сила его капитала, которой ничто не может противостоять, — это и есть его власть.
+- Die kaufende Gewalt seines Kapitals = Покупательная сила его капитала,
+- der nichts widerstehn kann = которой ничто не может противостоять,
+- ist seine Gewalt = есть его власть
+
+[221] = Позже мы увидим, во-первых, как капиталист посредством капитала осуществляет свою власть над трудом, а затем — власть капитала над самим капиталистом.
+- Wir werden später sehn = Мы позже увидим,
+- einmal = во-первых,
+- wie der Kapitalist vermittelst des Kapitals = как капиталист посредством капитала
+- seine Regierungsgewalt über die Arbeit ausübt = свою власть над трудом осуществляет,
+- dann aber = а затем
+- die Regierungsgewalt des Kapitals = власть капитала
+- über den Kapitalisten selbst = над самим капиталистом
++ ausübt = осуществляет ~ ausüben
+
+[222] = Что такое капитал?
+- Was ist das Kapital = Что такое капитал?
+
+[223] = «Известное количество труда, накопленного и отложенного про запас».
+- Une certaine quantité de travail = «Известное количество труда,
+- amassé et mis en réserve = накопленного и отложенного про запас»
+* en = в, про | | предлог | франц. en réserve — про запас
+
+[224] = Смит, т. II, с. 312.
+- Smith. t.II, p.312 = Смит, т. II, с. 312
+
+[225] = Капитал — это накопленный труд.
+- Kapital ist aufgespeicherte Arbeit = Капитал — это накопленный труд
+
+[226] = 2. Фонды.
+- 2. Fonds = 2. Фонды
+
+[227] = Запас (stock) — это всякое скопление продуктов земли и мануфактурного труда.
+- Stock ist jede Häufung = Запас — это всякое скопление
+- von Produkten der Erde = продуктов земли
+- und Manufakturarbeit = и мануфактурного труда
+
+[228] = Запас называется капиталом лишь тогда, когда он приносит своему собственнику доход или прибыль.
+- Der Stock heißt nur dann Kapital = Запас называется капиталом лишь тогда,
+- wenn er seinem Eigentümer = когда он своему собственнику
+- eine Revenue oder Gewinn abwirft = доход или прибыль приносит
++ abwirft = приносит (доход) ~ abwerfen
+
+[229] = Смит, т. II, с. 191.
+- Smith. t.II, p.191 = Смит, т. II, с. 191
+
+[230] = 2. Прибыль на капитал.
+- 2. Der Gewinn des Kapitals = 2. Прибыль на капитал
+
+[231] = Прибыль на капитал совершенно отлична от заработной платы.
+- Der Profit oder Gewinn des Kapitals = Прибыль, или выигрыш на капитал,
+- ist ganz vom Arbeitslohn verschieden = совершенно отлична от заработной платы
+
+[232] = Это различие проявляется двояко: во-первых, прибыли на капитал целиком определяются стоимостью применённого капитала, хотя труд надзора и управления при разных капиталах может быть одинаковым.
+- Diese Verschiedenheit zeigt sich = Это различие проявляется
+- in doppelter Weise = двояко:
+- Einmal regeln sich = во-первых, определяются
+- die Gewinne des Kapitals = прибыли на капитал
+- gänzlich nach dem Wert = целиком по стоимости
+- des angewandten Kapitals = применённого капитала,
+- obgleich die Arbeit der Aufsicht und Direktion = хотя труд надзора и управления
+- bei verschiedenen Kapitalien = при разных капиталах
+- die nämliche sein kann = может быть одинаковым
+
+[233] = Затем добавляется то, что на крупных фабриках весь этот труд доверен главному приказчику, жалованье которого не стоит ни в каком отношении к капиталу, работу которого он контролирует.
+- Dann kömmt hinzu = Затем добавляется,
+- daß in großen Fabriken = что на крупных фабриках
+- diese ganze Arbeit = весь этот труд
+- einem Hauptkommis anvertraut ist = главному приказчику доверен,
+- dessen Gehalt = жалованье которого
+- in keinem Verhältnis mit dem Kapital steht = ни в каком отношении к капиталу не стоит,
+- dessen Leistung er überwacht = работу которого он контролирует
++ kömmt hinzu = добавляется ~ hinzukommen
+
+[234] = Хотя труд собственника здесь сводится почти к нулю, он всё же требует прибыли пропорционально своему капиталу.
+- Obgleich sich hier nun = Хотя здесь
+- die Arbeit des Proprietärs = труд собственника
+- fast auf nichts reduziert = почти к нулю сводится,
+- verlangt er doch Profite = он всё же требует прибыли
+- im Verhältnis zu seinem Kapital = пропорционально своему капиталу
+
+[235] = Смит, т. I, с. 97–99.
+- Smith. t.I, p.97-99 = Смит, т. I, с. 97–99
+
+[236] = Почему капиталист требует такой пропорции между прибылью и капиталом?
+- Warum verlangt der Kapitalist = Почему капиталист требует
+- diese Proportion = такой пропорции
+- zwischen Gewinn und Kapital = между прибылью и капиталом?
+
+[237] = У него не было бы интереса нанимать рабочих, если бы он не ожидал от продажи их изделий больше, чем нужно для возмещения фондов, авансированных на заработную плату; и у него не было бы интереса применять скорее большую, чем малую сумму фондов, если бы его прибыль не была пропорциональна размеру применённых фондов. Т. I, с. 96, 97.
+! vom Verkauf < vorn Verkauf
+- Er hätte kein Interesse = У него не было бы интереса
+- die Arbeiter anzuwenden = нанимать рабочих,
+- wenn er nicht vom Verkauf ihres Werks = если бы он не от продажи их изделий
+- mehr erwartete = больше ожидал,
+- als nötig ist = чем нужно,
+- um die für Arbeitslohn avancierten fonds zu ersetzen = чтобы возместить фонды, авансированные на заработную плату,
+- und er hätte kein Interesse = и у него не было бы интереса
+- eher eine große als eine kleine Summe von fonds = скорее большую, чем малую сумму фондов
+- anzuwenden = применять,
+- wenn sein Profit nicht = если бы его прибыль не
+- im Verhältnis zum Umfang der angewandten fonds stände = была пропорциональна размеру применённых фондов.
+- t.I, p.96, 97 = Т. I, с. 96, 97
+
+[238] = Следовательно, капиталист извлекает прибыль, во-первых, с заработной платы, во-вторых, с авансированного сырья.
+- Der Kapitalist zieht also = Капиталист извлекает, следовательно,
+- erstens einen Gewinn auf die salaire = во-первых, прибыль с заработной платы,
+- zweitens auf die avancierten Rohstoffe = во-вторых, с авансированного сырья
+* salaire = заработная плата | le salaire | сущ. | франц.
+
+[239] = Каково же отношение прибыли к капиталу?
+- Welches Verhältnis hat nun der Gewinn = Каково же отношение прибыли
+- zum Kapital = к капиталу?
+
+[240] = Если уже трудно определить обычную среднюю ставку заработной платы в данном месте и в данное время, то ещё труднее — прибыль на капитал.
+- Wenn es schon schwer ist = Если уже трудно
+- die gewöhnliche mittlere Taxe des Arbeitslohns = обычную среднюю ставку заработной платы
+- an gegebnem Ort und in [gegebner] Zeit = в данном месте и в данное время
+- zu bestimmen = определить,
+- so noch schwerer der Gewinn der Kapitalien = то ещё труднее — прибыль на капиталы
+
+[241] = Колебания цен товаров, которыми торгует капитал, удача или неудача его соперников и покупателей, тысячи других случайностей, которым подвержены товары как при перевозке, так и на складах, вызывают ежедневные, почти ежечасные изменения прибыли.
+- Wechsel im Preis der Waren = Колебания цены товаров,
+- mit welchen das Kapital handelt = которыми торгует капитал,
+- Glück oder Unglück = удача или неудача
+- seiner Rivalen und Kunden = его соперников и покупателей,
+- tausend andre Zufälle = тысячи других случайностей,
+- denen die Waren ausgesetzt sind = которым подвержены товары
+- sowohl während des Transports = как при перевозке,
+- als in den Magazinen = так и на складах,
+- bringen einen täglichen = вызывают ежедневную,
+- fast stündlichen Wechsel im Profit hervor = почти ежечасную смену прибыли
++ bringen hervor = вызывают, порождают ~ hervorbringen
+
+[242] = Смит, т. I, с. 179, 180. Как ни невозможно точно определить прибыли на капитал, всё же можно составить себе представление о них по денежному проценту.
+- Smith. t.I, p.179, 180 = Смит, т. I, с. 179, 180.
+- So unmöglich es nun ist = Как ни невозможно,
+- die Gewinne der Kapitalien = прибыли на капиталы
+- mit Präzision zu bestimmen = точно определить,
+- so kann man sich doch = всё же можно себе
+- eine Vorstellung von ihnen machen = представление о них составить
+- nach dem Geldzins = по денежному проценту
++ sich eine Vorstellung machen = составить представление ~ sich (D) eine Vorstellung von etwas machen
+
+[243] = Если с деньгами можно получить большую прибыль, то за возможность ими пользоваться дают много, если малую — мало.
+! viel für < vie1 für
+- Kann man viel Gewinn = Если можно много прибыли
+- mit dem Geld machen = с деньгами получить,
+- so gibt man viel = то дают много
+- für die Fähigkeit = за возможность
+- sich seiner zu bedienen = ими пользоваться,
+- wenn wenig durch seine Vermittlung = если мало при их посредстве,
+- wenig = то мало
++ sich seiner bedienen = пользоваться ими ~ sich einer Sache bedienen ~ с родительным падежом
+
+[244] = Смит, т. I, с. 181. Пропорция, которую обычная ставка процента должна сохранять со ставкой чистой прибыли, неизбежно меняется с повышением или понижением прибыли.
+- Smith. t.I, p.181 = Смит, т. I, с. 181.
+- Die Proportion = Пропорция,
+- welche die gewöhnliche Zinstaxe = которую обычная ставка процента
+- mit der Taxe des Reingewinns = со ставкой чистой прибыли
+- bewahren muß = должна сохранять,
+- wechselt notwendig = неизбежно меняется
+- mit Steigen oder Fallen des Gewinns = с повышением или понижением прибыли
+
+[245] = В Великобритании то, что торговцы называют честной, умеренной, разумной прибылью, исчисляют в двойной размер процента — всё выражения, которые означают лишь обычную и общепринятую прибыль.
+- In Großbritannien berechnet man = В Великобритании исчисляют
+- auf das Doppelte des Interesses = в двойной размер процента
+- das, was die Handelsleute nennen = то, что торговцы называют
+- un profit honnête, modéré, raisonnable = честной, умеренной, разумной прибылью, —
+- lauter Ausdrücke = сплошь выражения,
+- die nichts sagen wollen = которые означают не что иное,
+- als ein gewöhnlicher und gebräuchlicher Profit = как обычную и общепринятую прибыль
+
+[246] = Смит, т. I, с. 198.
+- Smith. t.I, p.198 = Смит, т. I, с. 198
+
+[247] = Какова самая низкая норма прибыли?
+- Welches ist die niedrigste Taxe des Gewinns = Какова самая низкая норма прибыли?
+
+[248] = А самая высокая?
+- Welches seine höchste = Какова его самая высокая?
+
+[249] = Самая низкая норма обычной прибыли на капитал всегда должна быть несколько больше того, что необходимо для возмещения случайных потерь, которым подвержено всякое применение капитала.
+- Die niedrigste Taxe = Самая низкая норма
+- des gewöhnlichen Gewinns der Kapitalien = обычной прибыли на капиталы
+- muß immer etwas mehr sein = всегда должна быть несколько больше,
+- als nötig ist = чем нужно,
+- um die zufälligen Verluste zu kompensieren = чтобы возместить случайные потери,
+- welchen jede Anwendung des Kapitals ausgesetzt ist = которым подвержено всякое применение капитала
+
+[250] = Этот излишек и есть собственно прибыль, или чистая выгода.
+- Dieses surplus = Этот излишек
+- ist eigentlich der Gewinn = есть собственно прибыль,
+- oder le bénéfice net = или чистая выгода
+* surplus = излишек | | сущ. | франц./англ.
+
+[251] = Так же обстоит дело и с самой низкой нормой процента.
+- Ebenso verhält es sich = Так же обстоит дело
+- mit der niedrigsten Taxe des Zinsfußes = с самой низкой нормой процента
++ verhält es sich = обстоит дело ~ es verhält sich mit etwas
+
+[252] = Смит, т. I, с. 196.
+- Smith. t.I, p.196 = Смит, т. I, с. 196
+
+[253] = Самая высокая норма, до которой могут подняться обычные прибыли, — это та, которая в большинстве товаров поглощает всю земельную ренту и сводит заработную плату по произведённому товару к самой низкой цене, к голому пропитанию рабочего на время работы.
+- Die höchste Taxe = Самая высокая норма,
+- auf welche die gewöhnlichen Gewinne steigen können = до которой могут подняться обычные прибыли,
+- ist die = это та,
+- welche in der Mehrzahl der Waren = которая в большинстве товаров
+- die Totalität der Grundrente wegnimmt = всю земельную ренту забирает
+- und den Arbeitslohn der gelieferten Ware = и заработную плату по поставленному товару
+- auf den niedrigsten Preis = к самой низкой цене,
+- auf die bloße Subsistenz des Arbeiters = к голому пропитанию рабочего
+- während der Arbeit reduziert = во время работы сводит
+
+[254] = Так или иначе, рабочего всегда надо кормить, пока он занят подённой работой; земельная же рента может совсем отпасть.
+- Auf die eine oder die andere Art = Так или иначе
+- muß der Arbeiter immer genährt werden = рабочего всегда надо кормить,
+- solang er zu einem Tagwerk angewandt wird = пока он на подённую работу нанят;
+- die Grundrente kann ganz wegfallen = земельная рента может совсем отпасть
+
+[255] = Пример: люди Ост-Индской торговой компании в Бенгалии.
+- Beispiel = Пример:
+- In Bengalien = в Бенгалии
+- die Leute der indischen Handelskompagnie = люди Ост-Индской торговой компании
+
+[256] = Смит, т. I, с. [
+- Smith. t.I, p.[ = Смит, т. I, с. [
+
+[257] = 197,] 198.
+- 197,] 198 = 197,] 198
+
+[258] = Помимо всех выгод незначительной конкуренции, которые капиталист вправе в этом случае использовать, он может вполне благопристойным образом держать рыночную цену выше естественной.
+- Außer allen Vorteilen einer geringen Konkurrenz = Помимо всех выгод незначительной конкуренции,
+- die der Kapitalist in diesem Fall ausbeuten darf = которые капиталист в этом случае вправе использовать,
+- kann er auf eine honette Weise = он может благопристойным образом
+- den Marktpreis über den natürlichen Preis halten = держать рыночную цену выше естественной
+
+[259] = Во-первых, с помощью торговой тайны, когда рынок очень удалён от тех, кто его снабжает: а именно утаивая изменения цены, её повышение над естественным уровнем.
+- Einmal durch Handelsgeheimnis = Во-первых, с помощью торговой тайны,
+- wenn der Markt = когда рынок
+- von denen, die ihn beziehn = от тех, кто его снабжает,
+- sehr entfernt ist = очень удалён:
+- nämlich durch Geheimhaltung = а именно утаиванием
+- der Wechsel des Preises = изменений цены,
+- seiner Erhöhung über den natürlichen Stand = её повышения над естественным уровнем
+
+[260] = Это утаивание ведёт как раз к тому, что другие капиталисты не вкладывают свой капитал в эту отрасль.
+- Diese Geheimhaltung hat nämlich den Erfolg = Это утаивание имеет ведь тот результат,
+- daß nicht andre Kapitalisten = что другие капиталисты не
+- ebenfalls ihr Kapital = тоже свой капитал
+- auf diese Branche werfen = в эту отрасль бросают
+
+[261] = Затем с помощью фабричной тайны, когда капиталист при меньших издержках производства поставляет свой товар по тем же или даже более низким ценам, чем его конкуренты, получая больше прибыли. — (Разве обман путём утаивания не безнравствен?
+- Dann durch Fabrikgeheimnis = Затем с помощью фабричной тайны,
+- wo der Kapitalist = когда капиталист
+- mit weniger Produktionskosten = с меньшими издержками производства
+- seine Ware = свой товар
+- zu denselben oder sogar zu niedrigern Preisen = по тем же или даже более низким ценам,
+- als seine Konkurrenten = чем его конкуренты,
+- mit mehr Profit liefert = с большей прибылью поставляет. —
+- Der Betrug durch Geheimhaltung = (Обман путём утаивания
+- ist nicht unsittlich = разве не безнравствен?
+
+[262] = Биржевая торговля.) — Далее: когда производство привязано к определённой местности (как, например, дорогое вино) и действительный спрос никогда не может быть удовлетворён.
+- Börsenhandel = Биржевая торговля.) —
+- Ferner = Далее:
+- wo die Produktion = когда производство
+- an eine bestimmte Lokalität gebunden = к определённой местности привязано
+- wie z.B. kostbarer Wein = (как, например, дорогое вино)
+- und die effektive Nachfrage = и действительный спрос
+- nie befriedigt werden kann = никогда не может быть удовлетворён
+
+[263] = Наконец: благодаря монополиям отдельных лиц и компаний.
+- Endlich = Наконец:
+- durch Monopole von Individuen und Kompagnien = благодаря монополиям отдельных лиц и компаний
+
+[264] = Монопольная цена — самая высокая из возможных.
+- Der Monopolpreis = Монопольная цена
+- ist so hoch als möglich = так высока, как только возможно
+
+[265] = Смит, т. I, с. 120–124.
+- Smith. t.I, p.120-124 = Смит, т. I, с. 120–124
+
+[266] = Другие случайные причины, которые могут повысить прибыль на капитал:
+- Andre zufällige Ursachen = Другие случайные причины,
+- welche den Gewinn des Kapitals erhöhn können = которые могут повысить прибыль на капитал:
+
+[267] = приобретение новых территорий или новых отраслей торговли часто, даже в богатой стране, увеличивает прибыль на капитал, потому что отвлекает от старых отраслей торговли часть капиталов, уменьшает конкуренцию, заставляет снабжать рынок меньшим количеством товаров, цены которых тогда растут; торгующие ими могут тогда платить по занятым деньгам более высокие проценты.
+- Erwerbung von neuen Territorien = Приобретение новых территорий
+- oder neuer Handelszweige = или новых отраслей торговли
+- vermehren oft = часто увеличивает,
+- selbst in einem reichen Lande = даже в богатой стране,
+- den Gewinn der Kapitalien = прибыль на капиталы,
+- weil sie den alten Handelszweigen = потому что они у старых отраслей торговли
+- einen Teil der Kapitalien entziehn = часть капиталов отнимают,
+- die Konkurrenz vermindern = конкуренцию уменьшают,
+- den Markt mit weniger Waren beziehn machen = заставляют снабжать рынок меньшим количеством товаров,
+- deren Preise sich dann erhöhn = цены которых тогда повышаются;
+- die Handelstreibenden mit denselben = торгующие ими
+- können dann das geliehne Geld = могут тогда по занятым деньгам
+- mit stärkern Zinsen zahlen = более высокие проценты платить
+
+[268] = Смит, т. I, с. 190.
+- Smith. t.I, p.190 = Смит, т. I, с. 190
+
+[269] = Чем больше товар обрабатывается, становится предметом мануфактуры, тем больше та часть цены, которая распадается на заработную плату и прибыль, по отношению к той части, которая распадается на земельную ренту.
+- Je mehr eine Ware bearbeitet = Чем больше товар обрабатывается,
+- Gegenstand der Manufaktur wird = становится предметом мануфактуры,
+- steigt der Teil des Preises = тем больше растёт часть цены,
+- der sich in Arbeitslohn und Profit auflöst = которая распадается на заработную плату и прибыль,
+- im Verhältnis zu dem Teil = по отношению к той части,
+- der sich in Grundrente auflöst = которая распадается на земельную ренту
+
+[270] = По мере того как ручной труд всё дальше обрабатывает этот товар, не только растёт число прибылей, но и каждая последующая прибыль больше предыдущей, ибо капитал, из которого она проистекает, необходимо всё больше.
+! größer als < großer als
+- In dem Fortschritt = По мере успехов,
+- den die Handarbeit über diese Ware macht = которые ручной труд делает над этим товаром,
+- vermehrt sich nicht nur die Zahl der Gewinne = растёт не только число прибылей,
+- sondern jeder folgende Gewinn = но и каждая последующая прибыль
+- ist größer als der vorhergehende = больше предыдущей,
+- weil das Kapital = потому что капитал,
+- von dem er entspringt = из которого она проистекает,
+- notwendig immer größer ist = необходимо всегда больше
+
+[271] = Капитал, который даёт работу ткачам льна, необходимо всегда больше того, который даёт работу прядильщикам, потому что он не только возмещает этот последний капитал с его прибылями, но и сверх того оплачивает заработную плату ткачей, — а прибыли необходимо всегда должны находиться в известном отношении к капиталу. Т. I, с. 102, 103.
+- Das Kapital, welches die Leinweber in Arbeit setzt = Капитал, который даёт работу ткачам льна,
+- ist notwendig immer größer = необходимо всегда больше,
+- als das, welches die Spinner arbeiten macht = чем тот, который заставляет работать прядильщиков,
+- weil es nicht nur das letzte Kapital = потому что он не только последний капитал
+- mit seinen Gewinnen ersetzt = с его прибылями возмещает,
+- sondern außerdem noch = но и сверх того
+- die salaire der Leinweber zahlt = заработную плату ткачей оплачивает, —
+- und es ist notwendig = и необходимо,
+- daß die Gewinne immer = чтобы прибыли всегда
+- in einer Art von Verhältnis mit dem Kapital stehn = находились в известном отношении к капиталу.
+- t.I, 102, 103 = Т. I, с. 102, 103
++ in Arbeit setzt = даёт работу ~ jemanden in Arbeit setzen
+
+[272] = Таким образом, успехи человеческого труда в обработке продукта природы и обработанного продукта природы увеличивают не заработную плату, а отчасти число приносящих прибыль капиталов, отчасти отношение каждого последующего капитала к предыдущим.
+- Der Fortschritt = Успехи,
+- den also die menschliche Arbeit = которые, следовательно, человеческий труд
+- über das Naturprodukt = в отношении продукта природы
+- und das bearbeitete Naturprodukt macht = и обработанного продукта природы делает,
+- vermehrt nicht den Arbeitslohn = увеличивают не заработную плату,
+- sondern teils die Zahl der gewinnenden Kapitale = а отчасти число приносящих прибыль капиталов,
+- teils das Verhältnis jedes folgenden Kapitals = отчасти отношение каждого последующего капитала
+- zu den vorhergehenden = к предыдущим
+
+[273] = О прибыли, которую капиталист извлекает из разделения труда, — позже.
+- Über den Gewinn = О прибыли,
+- den der Kapitalist von der Teilung der Arbeit zieht = которую капиталист из разделения труда извлекает, —
+- später = позже
+
+[274] = Он выигрывает вдвойне: во-первых, от разделения труда, во-вторых, вообще от успехов человеческого труда в обработке продукта природы.
+- Er gewinnt doppelt = Он выигрывает вдвойне:
+- erstens von der Teilung der Arbeit = во-первых, от разделения труда,
+- zweitens überhaupt von dem Fortschritt = во-вторых, вообще от успехов,
+- den die menschliche Arbeit = которые человеческий труд
+- über das Natur-produkt macht = в обработке продукта природы делает
+
+[275] = Чем больше человеческая доля в товаре, тем больше прибыль мёртвого капитала.
+- Je größer der menschliche Anteil = Чем больше человеческая доля
+- an einer Ware = в товаре,
+- um so größer der Gewinn des toten Kapitals = тем больше прибыль мёртвого капитала
+
+[276] = В одном и том же обществе средняя норма прибыли на капитал гораздо ближе к одному уровню, чем заработная плата различных видов труда. Т. I, с. 228. При различных применениях капитала обычная норма прибыли меняется в зависимости от большей или меньшей уверенности в возврате капитала.
+! viel näher < vie1 näher
+- In einer und derselben Gesellschaft = В одном и том же обществе
+- ist ein Durchschnittstaxe der Kapitalgewinne = средняя норма прибыли на капитал
+- viel näher demselben Niveau = гораздо ближе к одному уровню,
+- als der Lohn der verschiedenen Arten von Arbeit = чем плата различных видов труда.
+- t.I, p.228 = Т. I, с. 228.
+- Bei den verschiedenen Anwendungen des Kapitals = При различных применениях капитала
+- wechselt die gewöhnliche Taxe des Gewinns = меняется обычная норма прибыли
+- nach der größern oder geringern Gewißheit = в зависимости от большей или меньшей уверенности
+- der Zurückkunft des Kapitals = в возврате капитала
+
+[277] = «Норма прибыли повышается вместе с риском, хотя и не в полной пропорции». Там же, [с. 226, 227].
+- Die Taxe des Gewinns = «Норма прибыли
+- hebt sich mit dem risque = повышается с риском,
+- wenn auch nicht in vollständiger Proportion = хотя и не в полной пропорции».
+- ibid. [p.226, 227] = Там же, [с. 226, 227]
+* risque = риск | le risque | сущ. | франц.
+
+[278] = Само собой разумеется, что прибыли на капитал растут и благодаря облегчению или удешевлению средств обращения (например,
+- Es versteht sich von selbst = Само собой разумеется,
+- daß die Kapitalgewinne auch = что прибыли на капитал также
+- durch die Erleichterung = благодаря облегчению
+- oder geringere Kostspieligkeit = или меньшей дороговизне
+- der Zirkulationsmittel = средств обращения
+- z.B. = (например,
+
+[279] = бумажных денег).
+- Papiergeld) steigen = бумажных денег) растут
+
+[280] = 3. Господство капитала над трудом и мотивы капиталиста.
+- 3. Die Herrschaft des Kapitals = 3. Господство капитала
+- über die Arbeit = над трудом
+- und die Motive des Kapitalisten = и мотивы капиталиста
+
+[281] = Единственный мотив, побуждающий владельца капитала вкладывать его скорее в земледелие, или в мануфактуру, или в особую отрасль оптовой или розничной торговли, — это соображение собственной прибыли.
+- Das einzige Motiv = Единственный мотив,
+- welches den Besitzer eines Kapitals bestimmt = который побуждает владельца капитала
+- es eher in der Agrikultur = его скорее в земледелии,
+- oder in der Manufaktur = или в мануфактуре,
+- oder in einem besondern Zweig = или в особой отрасли
+- des Engros- oder En-détail-Handels = оптовой или розничной торговли
+- zu verwenden = применять, —
+- ist der Gesichtspunkt seines eignen Profits = это соображение собственной прибыли
+
+[282] = Ему никогда не приходит в голову подсчитать, сколько производительного труда приведёт в действие каждый из этих способов применения или какую стоимость он прибавит к годовому продукту земель и труда его страны.
+- Es kömmt ihm nie in den Sinn = Ему никогда не приходит в голову
+- zu berechnen = подсчитать,
+- wieviel produktive Arbeit = сколько производительного труда
+- jede dieser verschiednen Anwendungsarten = каждый из этих различных способов применения
+- in Tätigkeit setzen = приведёт в действие
+- oder an Wert dem jährlichen Produkt = или какую стоимость к годовому продукту
+- der Ländereien und der Arbeit seines Landes = земель и труда его страны
+- hinzufügen wird = прибавит
++ kömmt in den Sinn = приходит в голову ~ in den Sinn kommen
+
+[283] = Смит, т. II, с. 400, 401.
+- Smith. t.II, p.400, 401 = Смит, т. II, с. 400, 401
+
+[284] = Самое полезное для капиталиста применение капитала — то, которое при одинаковой надёжности приносит ему наибольшую прибыль.
+- Die nützlichste Anwendung des Kapitals = Самое полезное применение капитала
+- für den Kapitalisten ist die = для капиталиста — то,
+- welche ihm bei gleicher Sicherheit = которое ему при одинаковой надёжности
+- den größten Gewinn abwirft = наибольшую прибыль приносит
+
+[285] = Это применение не всегда самое полезное для общества; самое полезное — то, которое направлено на извлечение пользы из производительных сил природы.
+- Diese Anwendung ist nicht immer = Это применение не всегда
+- die nützlichste für die Gesellschaft = самое полезное для общества;
+- die nützlichste ist die = самое полезное — то,
+- welche darauf verwandt wird = которое направлено на то,
+- Nutzen von den produktiven Naturkräften zu ziehn = чтобы извлекать пользу из производительных сил природы
+
+[286] = Сэй, т. II, с. 131.
+- Say. t.II, p.131 = Сэй, т. II, с. 131
+
+[287] = Важнейшие операции труда регулируются и направляются по планам и расчётам тех, кто применяет капиталы; а цель, которую они ставят себе во всех этих планах и операциях, — прибыль.
+- Die wichtigsten Operationen der Arbeit = Важнейшие операции труда
+- sind geregelt und geleitet = регулируются и направляются
+- nach den Plänen und den Spekulationen derjenigen = по планам и расчётам тех,
+- welche die Kapitalien anwenden = кто применяет капиталы;
+- und der Zweck = и цель,
+- welchen sie sich = которую они себе
+- in allen diesen Plänen und Operationen vorsetzen = во всех этих планах и операциях ставят,
+- ist der Profit = — прибыль
+
+[288] = Итак: норма прибыли не растёт, подобно земельной ренте и заработной плате, вместе с благосостоянием общества и не падает, подобно им, вместе с его упадком.
+- Also = Итак:
+- Die Taxe des Profits steigt nicht = норма прибыли не растёт,
+- wie Grundrente und Arbeitslohn = как земельная рента и заработная плата,
+- mit dem Wohlstand der Gesellschaft = с благосостоянием общества
+- und fällt nicht wie jene = и не падает, как они,
+- mit ihrem Verfall = с его упадком
+
+[289] = Напротив, эта норма естественно низка в богатых странах и высока в бедных; и она никогда не бывает так высока, как в странах, которые быстрее всего несутся к своему разорению.
+- Im Gegenteil = Напротив,
+- diese Taxe ist natürlich niedrig = эта норма естественно низка
+- in den reichen Ländern = в богатых странах
+- und hoch in den armen Ländern = и высока в бедных странах;
+- und sie ist nie so hoch = и она никогда не бывает так высока,
+- als in den Ländern = как в странах,
+- welche sich am schnellsten = которые быстрее всего
+- ihrem Ruin entgegenstürzen = навстречу своему разорению несутся
+
+[290] = Следовательно, интерес этого класса не связан так, как интерес двух других, с общим интересом общества…
+- Das Interesse dieser Klasse = Интерес этого класса
+- steht also nicht in derselben Verbindung = находится, следовательно, не в той же связи,
+- wie das der beiden andern = что интерес двух других,
+- mit dem allgemeinen Interesse der Gesellschaft = с общим интересом общества…
+
+[291] = Особый интерес тех, кто ведёт особую отрасль торговли или мануфактуры, в известном отношении всегда отличается от интереса публики, а часто даже враждебно ему противоположен.
+- Das besondre Interesse derer = Особый интерес тех,
+- die einen besondren Handels- oder Manufakturzweig treiben = кто ведёт особую отрасль торговли или мануфактуры,
+- ist in gewisser Hinsicht = в известном отношении
+- immer verschieden von dem des Publikums = всегда отличен от интереса публики
+- und oft ihm sogar feindlich entgegengesetzt = и часто даже враждебно ему противоположен
+
+[292] = Интерес купца всегда в том, чтобы расширить рынок и ограничить конкуренцию продавцов…
+- Das Interesse des Kaufmanns ist immer = Интерес купца всегда —
+- den Markt zu vergrößern = расширить рынок
+- und die Konkurrenz der Verkäufer einzuschränken = и ограничить конкуренцию продавцов…
+
+[293] = Это класс людей, интерес которых никогда не будет в точности совпадать с интересом общества и которые вообще заинтересованы в том, чтобы обманывать и перехитрить публику. Т. II, с. 163–165. Смит.
+- Es ist dies eine Klasse von Leuten = Это класс людей,
+- deren Interesse niemals exakt dasselbe sein wird = интерес которых никогда не будет в точности тем же,
+- wie das der Gesellschaft = что интерес общества,
+- welche im allgemeinen ein Interesse haben = и которые вообще заинтересованы
+- das Publikum zu betrügen = обманывать публику
+- und es zu überlisten = и перехитрить её.
+- t.II, p.163-165 = Т. II, с. 163–165.
+- Smith = Смит
+
+[294] = 4. Накопление капиталов и конкуренция между капиталистами.
+- 4. Die Akkumulation der Kapitalien = 4. Накопление капиталов
+- und die Konkurrenz unter den Kapitalisten = и конкуренция между капиталистами
+
+[295] = Увеличение капиталов, повышающее заработную плату, стремится уменьшить прибыль капиталистов через конкуренцию между капиталистами. Т. I, с. 179. Смит.
+- Die Vermehrung der Kapitalien = Увеличение капиталов,
+- welche den Arbeitslohn erhöht = которое повышает заработную плату,
+- strebt den Gewinn der Kapitalisten zu vermindern = стремится уменьшить прибыль капиталистов
+- durch die Konkurrenz unter den Kapitalisten = через конкуренцию между капиталистами.
+- t.I, p.179 = Т. I, с. 179.
+- Smith = Смит
+
+[296] = «Если, например, капитал, необходимый для бакалейной торговли города, окажется разделённым между двумя разными бакалейщиками, то конкуренция приведёт к тому, что каждый из них будет продавать дешевле, чем если бы капитал находился в руках одного; а если он разделён между двадцатью, конкуренция будет как раз тем активнее и тем меньше будет возможность для них договориться между собой о повышении цен на свои товары».
+- Wenn z.B. das Kapital = «Если, например, капитал,
+- das zum Epiceriegeschäft einer Stadt nötig ist = который нужен для бакалейной торговли города,
+- sich unter zwei verschiedne Epiciers geteilt findet = окажется разделённым между двумя разными бакалейщиками,
+- so wird die Konkurrenz machen = то конкуренция приведёт к тому,
+- daß jeder von ihnen wohlfeiler verkaufen wird = что каждый из них будет продавать дешевле,
+- als wenn sich das Kapital = чем если бы капитал
+- in den Händen eines einzigen befunden hatte = находился в руках одного;
+- und wenn es unter 20 geteilt ist = а если он разделён между 20,
+- wird die Konkurrenz grade um so tätiger sein = то конкуренция будет как раз тем активнее,
+- und es wird um so weniger die Möglichkeit gegeben sein = и тем меньше будет возможность,
+- daß sie sich untereinander verständigen können = что они смогут договориться между собой
+- den Preis ihrer Waren zu erhöhn = повысить цену своих товаров»
+* epiceriegeschäft = бакалейная торговля | das Epiceriegeschäft | сущ. | франц. épicerie
+* epiciers = бакалейщики | der Epicier | сущ. | франц. épicier
+
+[297] = Смит, т. II, с. 372, 373.
+- Smith. t.II, p.372, 373 = Смит, т. II, с. 372, 373
+
+[298] = Поскольку мы уже знаем, что монопольные цены так высоки, как только возможно, поскольку интерес капиталистов даже с обычной политико-экономической точки зрения враждебно противостоит обществу, поскольку рост прибыли на капитал действует на цену товара как сложный процент (Смит, т. I, с. 199–201), то единственная помощь против капиталистов — это конкуренция, которая, по утверждению политической экономии, столь же благотворно действует на повышение заработной платы, как и на удешевление товаров в пользу потребляющей публики.
+- Da wir nun schon wissen = Поскольку мы уже знаем,
+- daß die Preise des Monopols = что монопольные цены
+- so hoch als möglich sind = так высоки, как только возможно,
+- da das Interesse der Kapitalisten selbst = поскольку интерес капиталистов даже
+- vom gemein nationalökonomischen Gesichtspunkt aus = с обычной политико-экономической точки зрения
+- feindlich der Gesellschaft gegenübersteht = враждебно противостоит обществу,
+- da die Erhöhung des Kapitalgewinns = поскольку повышение прибыли на капитал
+- wie das zusammengesetzte Interesse = как сложный процент
+- auf den Preis der Ware wirkt = на цену товара действует
+- Smith. t.I, p.199-201 = (Смит, т. I, с. 199–201),
+- so ist die Konkurrenz die einzige Hülfe = то конкуренция — единственная помощь
+- gegen die Kapitalisten = против капиталистов,
+- die nach der Angabe der Nationalökonomie = которая, по данным политической экономии,
+- ebenso wohltätig auf die Erhöhung des Arbeitslohns = столь же благотворно на повышение заработной платы,
+- als auf die Wohlfeilheit der Waren = как и на дешевизну товаров
+- zugunsten des konsumierenden Publikums wirkt = в пользу потребляющей публики действует
+
+[299] = Но конкуренция возможна лишь при том условии, что капиталы увеличиваются, притом во многих руках.
+- Allein die Konkurrenz ist nur dadurch möglich = Но конкуренция возможна лишь благодаря тому,
+- daß die Kapitalien sich vermehren = что капиталы увеличиваются,
+- und zwar in vielen Händen = и притом во многих руках
+
+[300] = Возникновение многих капиталов возможно лишь через многостороннее накопление, так как капитал вообще возникает лишь через накопление, а многостороннее накопление неизбежно превращается в одностороннее.
+- Die Entstehung vieler Kapitalien = Возникновение многих капиталов
+- ist nur möglich durch vielseitige Akkumulation = возможно лишь через многостороннее накопление,
+- da das Kapital überhaupt = так как капитал вообще
+- nur durch Akkumulation entsteht = лишь через накопление возникает,
+- und die vielseitige Akkumulation = а многостороннее накопление
+- schlägt notwendig in einseitige um = неизбежно превращается в одностороннее
++ schlägt um = превращается ~ in etwas umschlagen

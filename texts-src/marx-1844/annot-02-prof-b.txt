@@ -1,0 +1,998 @@
+[301] = Конкуренция между капиталами усиливает накопление среди капиталов.
+- Die Konkurrenz unter den Kapitalien = Конкуренция между капиталами
+- vermehrt die Akkumulation unter den Kapitalien = усиливает накопление среди капиталов
+
+[302] = Накопление, которое при господстве частной собственности есть концентрация капитала в немногих руках, — вообще необходимое следствие, если капиталы предоставлены их естественному ходу, а конкуренция лишь окончательно открывает дорогу этому естественному назначению капитала.
+- Die Akkumulation = Накопление,
+- welche unter der Herrschaft des Privateigentums = которое при господстве частной собственности
+- Konzentration des Kapitals in wenigen Händen ist = есть концентрация капитала в немногих руках,
+- ist überhaupt eine notwendige Konsequenz = вообще необходимое следствие,
+- wenn die Kapitalien = если капиталы
+- ihrem natürlichen Lauf überlassen werden = их естественному ходу предоставлены,
+- und durch die Konkurrenz = а через конкуренцию
+- bricht sich diese natürliche Bestimmung des Kapitals = это естественное назначение капитала прокладывает себе
+- erst recht freie Bahn = тем более свободный путь
++ bricht sich Bahn = прокладывает себе путь ~ sich Bahn brechen
+
+[303] = Мы уже слышали, что прибыль на капитал пропорциональна его величине.
+- Wir haben schon gehört = Мы уже слышали,
+- daß der Gewinn des Kapitals = что прибыль на капитал
+- im Verhältnis zu seiner Größe steht = пропорциональна его величине
+
+[304] = Даже совершенно не считая преднамеренной конкуренции, крупный капитал, следовательно, накопляется соответственно своей величине быстрее, чем мелкий.
+- Ganz zunächst = Даже совершенно
+- von der absichtlichen Konkurrenz abgesehn = не считая преднамеренной конкуренции,
+- akkumuliert ein großes Kapital sich also = крупный капитал накопляется, следовательно,
+- verhältnismäßig nach seiner Größe = соответственно своей величине
+- schneller als ein kleines Kapital = быстрее, чем мелкий
+
+[305] = Поэтому, даже совсем не говоря о конкуренции, накопление крупного капитала идёт гораздо быстрее, чем мелкого.
+! viel schneller < vie1 schneller
+- Hienach ist schon = Поэтому уже,
+- ganz abgesehn von der Konkurrenz = совсем не говоря о конкуренции,
+- die Akkumulation des großen Kapitals = накопление крупного капитала
+- viel schneller als die des kleineren = гораздо быстрее, чем мелкого
+
+[306] = Но проследим ход дела дальше.
+- Aber verfolgen wir weiter den Verlauf = Но проследим ход дальше
+
+[307] = С ростом капиталов прибыли на них посредством конкуренции уменьшаются.
+! mittelst < rnittelst
+- Mit der Vermehrung der Kapitalien = С ростом капиталов
+- vermindern sich = уменьшаются,
+- mittelst der Konkurrenz = посредством конкуренции,
+- die Profite der Kapitalien = прибыли на капиталы
+
+[308] = Значит, страдает прежде всего мелкий капиталист.
+- Also leidet zunächst = Значит, страдает прежде всего
+- der kleine Kapitalist = мелкий капиталист
+
+[309] = Рост капиталов и большое их число предполагают, далее, растущее богатство страны.
+- Die Vermehrung der Kapitalien = Рост капиталов
+- und eine große Anzahl von Kapitalien = и большое число капиталов
+- setzt ferner = предполагает далее
+- fortschreitenden Reichtum des Landes voraus = растущее богатство страны
+
+[310] = «В стране, достигшей очень высокой ступени богатства, обычная норма прибыли так мала, что процент, который эта прибыль позволяет платить, слишком низок, чтобы на денежный процент могли жить кто-либо, кроме самых богатых людей.
+- In einem Lande = «В стране,
+- welches auf eine sehr hohe Stufe des Reichtums gelangt ist = которая достигла очень высокой ступени богатства,
+- ist die gewöhnliche Taxe des Gewinns so klein = обычная норма прибыли так мала,
+- daß der Zinsfuß = что процент,
+- welchen dieser Gewinn zu zahlen erlaubt = который эта прибыль позволяет платить,
+- zu niedrig ist = слишком низок,
+- als daß andre als die reichsten Leute = чтобы кто-либо, кроме самых богатых людей,
+- vom Geldinteresse leben könnten = мог жить на денежный процент
+
+[311] = Все люди среднего достатка должны поэтому сами применять свой капитал, вести дела или участвовать в какой-либо отрасли торговли».
+- Alle Leute von mittlerem Vermögen = Все люди среднего достатка
+- müssen also selbst ihr Kapital anwenden = должны поэтому сами свой капитал применять,
+- Geschäfte treiben = вести дела
+- oder sich an irgendeinem Handelszweig interessieren = или участвовать в какой-либо отрасли торговли»
+
+[312] = Смит, т. I, с. [
+- Smith. t.I, p.[ = Смит, т. I, с. [
+
+[313] = 196,] 197.
+- 196,] 197 = 196,] 197
+
+[314] = Это состояние — любимое состояние политической экономии.
+- Dieser Zustand = Это состояние
+- ist der Lieblingszustand der Nationalökonomie = любимое состояние политической экономии
+
+[315] = «Пропорция между суммой капиталов и доходов повсюду определяет пропорцию, в которой будут находиться промышленность и праздность; где побеждают капиталы, там господствует промышленность; где доходы — праздность». Т. II, с. 325. Смит.
+- Die Proportion = «Пропорция,
+- welche zwischen der Summe der Kapitalien = которая между суммой капиталов
+- und der Revenuen besteht = и доходов существует,
+- bestimmt überall die Proportion = определяет повсюду пропорцию,
+- in welcher sich die Industrie = в которой промышленность
+- und der Müßiggang befinden werden = и праздность будут находиться;
+- wo die Kapitalien den Sieg davontragen = где капиталы одерживают победу,
+- herrscht die Industrie = господствует промышленность;
+- wo die Revenuen, der Müßiggang = где доходы — праздность».
+- t.II, p.325 = Т. II, с. 325.
+- Smith = Смит
++ den Sieg davontragen = одерживать победу ~ den Sieg davontragen
+
+[316] = Как же обстоит дело с применением капитала при такой возросшей конкуренции?
+- Wie steht es nun = Как же обстоит дело
+- mit der Anwendung des Kapitals = с применением капитала
+- in dieser vergrößerten Konkurrenz = при этой возросшей конкуренции?
+
+[317] = «С ростом капиталов количество фондов, предназначенных для ссуды под проценты, должно постепенно расти; с ростом этих фондов денежный процент уменьшается, во-первых, потому что рыночная цена всех вещей падает по мере того, как растёт их количество, во-вторых, потому что с ростом капиталов в стране становится труднее выгодно поместить новый капитал.
+- Mit der Vermehrung der Kapitalien = «С ростом капиталов
+- muß die Quantität der fonds = должно количество фондов,
+- à prêter à intérêt = предназначенных для ссуды под проценты,
+- sukzessiv größer werden = постепенно расти;
+- mit der Vermehrung dieser fonds = с ростом этих фондов
+- wird der Geldzins kleiner = денежный процент становится меньше,
+- 1. weil der Marktpreis aller Sachen fällt = 1) потому что рыночная цена всех вещей падает,
+- je mehr ihre Quantität sich vermehrt = чем больше растёт их количество,
+- 2. weil mit der Vermehrung der Kapitalien = 2) потому что с ростом капиталов
+- in einem Land es schwerer wird = в стране становится труднее
+- ein neues Kapital = новый капитал
+- auf eine vorteilhafte Weise anzulegen = выгодно поместить
+
+[318] = Между различными капиталами возникает конкуренция: владелец капитала прилагает все возможные усилия, чтобы завладеть делом, которое уже занято другим капиталом.
+- Es erhebt sich eine Konkurrenz = Возникает конкуренция
+- unter den verschiednen Kapitalien = между различными капиталами,
+- indem der Besitzer eines Kapitals = так как владелец капитала
+- alle möglichen Anstrengungen macht = прилагает все возможные усилия,
+- um sich des Geschäftes zu bemächtigen = чтобы завладеть делом,
+- das sich durch ein andres Kapital besetzt findet = которое уже занято другим капиталом
+
+[319] = Но по большей части он не может надеяться вытеснить с места этот другой капитал, иначе как предложив вести дело на лучших условиях.
+- Aber meistens kann er nicht hoffen = Но чаще всего он не может надеяться
+- dies andre Kapital = этот другой капитал
+- von seinem Platz wegzubugsieren = с его места вытеснить,
+- wenn nicht durch die Anbietung = иначе как предложением
+- zu besseren Bedingungen zu handeln = вести дело на лучших условиях
+
+[320] = Он вынужден не только продавать вещь дешевле, но часто, чтобы найти случай для продажи, покупать её дороже.
+- Er muß die Sache nicht nur = Он должен вещь не только
+- wohlfeiler verkaufen = дешевле продавать,
+- sondern oft = но часто,
+- um Gelegenheit zum Verkauf zu finden = чтобы найти случай для продажи,
+- sie teurer kaufen = дороже её покупать
+
+[321] = Чем больше фондов предназначено для содержания производительного труда, тем больше становится спрос на труд: рабочие легко находят работу, а капиталистам трудно найти рабочих.
+- Je mehr fonds = Чем больше фондов
+- zur Erhaltung der produktiven Arbeit bestimmt wird = на содержание производительного труда предназначено,
+- desto größer wird die Nachfrage nach Arbeit = тем больше спрос на труд:
+- Die Arbeiter finden leicht Beschäftigung = рабочие легко находят работу,
+- aber die Kapitalisten haben Schwierigkeit = а у капиталистов трудность
+- Arbeiter zu finden = найти рабочих
+
+[322] = Конкуренция капиталистов поднимает заработную плату и понижает прибыли». Т. II, с. 358, 359. Смит.
+- Die Konkurrenz der Kapitalisten = Конкуренция капиталистов
+- läßt den Arbeitslohn steigen = поднимает заработную плату
+- und die Gewinne fallen = и понижает прибыли».
+- t.II, p.358, 359 = Т. II, с. 358, 359.
+- Smith = Смит
+
+[323] = Итак, у мелкого капиталиста есть выбор: 1) либо проесть свой капитал, так как жить на проценты он больше не может, т. е. перестать быть капиталистом; либо 2) самому открыть дело, продавать свой товар дешевле и покупать дороже, чем более богатый капиталист, и платить повышенную заработную плату; следовательно, разориться, поскольку рыночная цена из-за предполагаемой высокой конкуренции и так стоит очень низко.
+- Der kleine Kapitalist hat also die Wahl = Итак, у мелкого капиталиста выбор:
+- 1. entweder sein Kapital aufzuessen = 1) либо проесть свой капитал,
+- da er von den Zinsen nicht mehr leben kann = так как на проценты он больше жить не может,
+- also aufzuhören, Kapitalist zu sein = то есть перестать быть капиталистом;
+- oder 2. selbst ein Geschäft anzulegen = либо 2) самому открыть дело,
+- seine Ware wohlfeiler zu verkaufen = свой товар продавать дешевле
+- und teurer zu kaufen = и покупать дороже,
+- als der reichere Kapitalist = чем более богатый капиталист,
+- und einen erhöhten Arbeitslohn zu zahlen = и платить повышенную заработную плату;
+- also, da der Marktpreis = следовательно, — поскольку рыночная цена
+- durch die vorausgesetzte hohe Konkurrenz = из-за предполагаемой высокой конкуренции
+- schon sehr niedrig steht = и так стоит очень низко, —
+- sich zu ruinieren = разориться
+
+[324] = Если же крупный капиталист хочет вытеснить мелкого, то у него по отношению к нему все те преимущества, какие у капиталиста как капиталиста есть по отношению к рабочему.
+- Will dagegen der große Kapitalist = Если же крупный капиталист хочет
+- den kleinern wegbugsieren = мелкого вытеснить,
+- so hat er ihm gegenüber alle Vorteile = то у него по отношению к нему все преимущества,
+- welche der Kapitalist als Kapitalist = какие у капиталиста как капиталиста
+- dem Arbeiter gegenüber hat = по отношению к рабочему есть
+
+[325] = Меньшие прибыли возмещаются ему большим количеством его капитала, и даже временные убытки он может выносить до тех пор, пока мелкий капиталист не разорится и он не избавится от этой конкуренции.
+- Die kleinern Gewinne werden ihm = Меньшие прибыли ему
+- durch die größere Quantität seines Kapitals ersetzt = большим количеством его капитала возмещаются,
+- und selbst momentane Verluste = и даже временные убытки
+- kann er so lange ertragen = он может так долго выносить,
+- bis der kleinere Kapitalist ruiniert ist = пока мелкий капиталист не разорится
+- und er sich von dieser Konkurrenz befreit sieht = и он не увидит себя свободным от этой конкуренции
+
+[326] = Так он накопляет себе прибыли мелкого капиталиста.
+- So akkumuliert er sich = Так он накопляет себе
+- die Gewinne des kleinen Kapitalisten = прибыли мелкого капиталиста
+
+[327] = Далее: крупный капиталист всегда закупает дешевле, чем мелкий, потому что закупает массами.
+- Ferner = Далее:
+- Der große Kapitalist kauft immer wohlfeiler ein = крупный капиталист всегда закупает дешевле,
+- als der kleine = чем мелкий,
+- weil er massenhafter einkauft = потому что закупает в больших массах
++ kauft ein = закупает ~ einkaufen
+
+[328] = Значит, он может без ущерба продавать дешевле.
+- Er kann also ohne Schaden = Значит, он может без ущерба
+- wohlfeiler verkaufen = дешевле продавать
+
+[329] = Но если падение денежного процента превращает средних капиталистов из рантье в дельцов, то, наоборот, рост деловых капиталов и вытекающая отсюда меньшая прибыль вызывает падение денежного процента.
+- Wenn aber der Fall des Geldzinses = Но если падение денежного процента
+- die mittleren Kapitalisten = средних капиталистов
+- aus Rentiers zu Geschäftsleuten macht = из рантье делает дельцами,
+- so bewirkt umgekehrt = то, наоборот, вызывают
+- die Vermehrung der Geschäftskapitalien = рост деловых капиталов
+- und der daher erfolgende kleinere Gewinn = и вытекающая отсюда меньшая прибыль
+- den Fall des Geldzinses = падение денежного процента
+
+[330] = «Вследствие того что выгода, которую можно извлечь из употребления капитала, уменьшается, неизбежно уменьшается и цена, которую можно платить за употребление этого капитала». Т. II, с. 359. Смит.
+- Damit, daß das Benefiz = «Вследствие того, что выгода,
+- das man vom Gebrauch eines Kapitals ziehn kann = которую можно извлечь из употребления капитала,
+- sich vermindert = уменьшается,
+- vermindert sich notwendig der Preis = неизбежно уменьшается цена,
+- den man für den Gebrauch dieses Kapitals zahlen kann = которую можно платить за употребление этого капитала».
+- t.II, p.359 = Т. II, с. 359.
+- Smith = Смит
+
+[331] = «Чем больше растут богатство, промышленность, население, тем больше уменьшается денежный процент, т. е. прибыль капиталистов; но сами капиталы тем не менее увеличиваются, и даже быстрее прежнего, несмотря на уменьшение прибылей.
+- Je mehr Reichtum, Industrie, Bevölkerung sich mehren = «Чем больше растут богатство, промышленность, население,
+- um so mehr vermindert sich der Geldzins = тем больше уменьшается денежный процент,
+- also der Gewinn der Kapitalisten = т. е. прибыль капиталистов;
+- aber sie selbst vermehren sich nichtsdestoweniger = но они сами всё же увеличиваются,
+- und noch schneller wie früher = и даже быстрее прежнего,
+- trotz der Verminderung der Gewinne = несмотря на уменьшение прибылей
+
+[332] = Крупный капитал, хотя и с малыми прибылями, увеличивается в общем гораздо быстрее, чем мелкий капитал с большими прибылями.
+- Ein großes Kapital = Крупный капитал,
+- obgleich von kleinen Gewinnen = хотя и с малыми прибылями,
+- vermehrt sich im allgemeinen viel schneller = увеличивается в общем гораздо быстрее,
+- als ein kleines Kapital mit großen Gewinnen = чем мелкий капитал с большими прибылями
+
+[333] = Деньги делают деньги, гласит пословица». Т. I, с. 189.
+- Das Geld macht Geld = Деньги делают деньги,
+- sagt das Sprichwort = гласит пословица».
+- t.I, p.189 = Т. I, с. 189
+
+[334] = Если же этому крупному капиталу противостоят мелкие капиталы с малыми прибылями, как это бывает при предполагаемом состоянии сильной конкуренции, то он их совершенно раздавливает.
+- Wenn also diesem großen Kapital = Если же этому крупному капиталу
+- nun gar kleine Kapitale mit kleinen Gewinnen = ещё и мелкие капиталы с малыми прибылями,
+- wie das unter dem vorausgesetzten Zustand = как это бывает при предполагаемом состоянии
+- starker Konkurrenz ist = сильной конкуренции,
+- gegenübertreten = противостоят,
+- so ekrasiert es sie völlig = то он их совершенно раздавливает
+* ekrasiert = раздавливает | ekrasieren | гл. | франц. écraser
+
+[335] = При такой конкуренции неизбежным следствием оказываются всеобщее ухудшение товаров, фальсификация, мнимое производство, всеобщее отравление, как это видно в больших городах.
+- In dieser Konkurrenz ist dann = При этой конкуренции тогда
+- die allgemeine Verschlechterung der Waren = всеобщее ухудшение товаров,
+- die Verfälschung = фальсификация,
+- die Scheinproduktion = мнимое производство,
+- die allgemeine Vergiftung = всеобщее отравление,
+- wie sie in großen Städten sich zeigt = как оно в больших городах проявляется, —
+- die notwendige Konsequenz = неизбежное следствие
+
+[336] = Важное обстоятельство в конкуренции крупных и мелких капиталов — это, далее, отношение основного и оборотного капитала.
+- Ein wichtiger Umstand = Важное обстоятельство
+- in der Konkurrenz der großen und kleinen Kapitalien = в конкуренции крупных и мелких капиталов
+- ist ferner das Verhältnis = — это, далее, отношение
+- von capital fixe und capital circulant = основного и оборотного капитала
+* capital = капитал | | сущ. | франц.
+* fixe = основной | | прил. | франц. capital fixe — основной капитал
+* circulant = оборотный | | прил. | франц. capital circulant — оборотный капитал
+
+[337] = «Оборотный капитал — это капитал, который применяется для производства жизненных средств, в мануфактуре или торговле.
+- Capital circulant ist ein Kapital = «Оборотный капитал — это капитал,
+- das angewandt wird = который применяется
+- zur Erzeugung von Lebensmitteln = для производства жизненных средств,
+- Manufaktur oder Handel = в мануфактуре или торговле
+
+[338] = Так помещённый капитал не даёт своему хозяину дохода или прибыли, пока он остаётся в его владении или продолжает сохранять ту же форму.
+- Dies so angelegte Kapital = Так помещённый капитал
+- gibt seinem Herrn nicht Revenue oder Profit = не даёт своему хозяину дохода или прибыли,
+- solang es in seinem Besitz bleibt = пока остаётся в его владении
+- oder fortfährt, unter derselben Gestalt zu bleiben = или продолжает пребывать в той же форме
+
+[339] = Он постоянно уходит из его рук в одной определённой форме, чтобы вернуться в другой, и приносит прибыль лишь посредством этого обращения или этого последовательного превращения и обмена.
+- Es geht beständig aus seiner Hand = Он постоянно уходит из его рук
+- unter einer bestimmten Form = в определённой форме,
+- um unter einer andren zurückzukehren = чтобы вернуться в другой,
+- und ist nur vermittelst dieser Zirkulation = и лишь посредством этого обращения
+- oder dieser sukzessiven Verwandlung und Vertauschung = или этого последовательного превращения и обмена
+- profitbringend = приносит прибыль
+
+[340] = Основной капитал состоит в капитале, помещённом в улучшение земель, покупку машин, инструментов, ремесленных орудий и подобных вещей».
+- Capital fixe besteht = Основной капитал состоит
+- in dem zur Verbesserung von Ländern = в помещённом в улучшение земель,
+- zum Ankauf von Maschinen = в покупку машин,
+- Instrumenten, Handwerkszeug = инструментов, ремесленных орудий,
+- ähnlichen Sachen angelegten Kapital = подобных вещей капитале»
+
+[341] = Смит, [т. II,] с. 197, 198.
+- Smith. [t.II,] p.197, 198 = Смит, [т. II,] с. 197, 198
+
+[342] = «Всякая экономия на содержании основного капитала есть прирост чистой прибыли.
+- Jede Ersparung in der Erhaltung des capital fixe = «Всякая экономия в содержании основного капитала
+- ist ein Zuwachs des Reingewinns = есть прирост чистой прибыли
+
+[343] = Весь капитал каждого предпринимателя необходимо делится между его основным и оборотным капиталом.
+- Das Gesamtkapital eines jeden Arbeiterunternehmers = Весь капитал каждого предпринимателя
+- teilt sich notwendig = необходимо делится
+- zwischen seinem capital fixe und seinem capital circulant = между его основным и оборотным капиталом
+
+[344] = При равенстве суммы одна часть будет тем меньше, чем больше другая.
+- Bei der Gleichheit der Summe = При равенстве суммы
+- wird der eine Teil um so kleiner sein = одна часть будет тем меньше,
+- je größer der andere ist = чем больше другая
+
+[345] = Оборотный капитал доставляет ему материал и заработную плату для труда и приводит промышленность в действие.
+- Das capital circulant liefert ihm = Оборотный капитал доставляет ему
+- die Materie und salaire der Arbeit = материал и заработную плату труда
+- und setzt die Industrie in Tätigkeit = и приводит промышленность в действие
+
+[346] = Следовательно, всякая экономия на основном капитале, не уменьшающая производительной силы труда, увеличивает фонд». Т. II, с. 226. Смит.
+- Also jede Ersparnis im capital fixe = Следовательно, всякая экономия на основном капитале,
+- welche die produktive Kraft der Arbeit nicht vermindert = которая не уменьшает производительной силы труда,
+- vermehrt den fonds = увеличивает фонд».
+- t.II, p.226 = Т. II, с. 226.
+- Smith = Смит
+
+[347] = С самого начала видно, что отношение основного и оборотного капитала гораздо выгоднее для крупного капиталиста, чем для мелкого.
+- Man sieht von vornherein = С самого начала видно,
+- daß das Verhältnis von capital fixe und capital circulant = что отношение основного и оборотного капитала
+- viel günstiger für den großen = гораздо выгоднее для крупного,
+- als für den kleineren Kapitalisten ist = чем для мелкого капиталиста
+
+[348] = Очень крупному банкиру нужно лишь ненамного больше основного капитала, чем очень мелкому.
+- Ein sehr großer Bankier = Очень крупному банкиру
+- braucht nur unbedeutend mehr capital fixe = нужно лишь ненамного больше основного капитала,
+- als ein sehr kleiner = чем очень мелкому
+
+[349] = Их основной капитал ограничивается конторой.
+- Ihr capital fixe = Их основной капитал
+- beschränkt sich auf die Comptoirstube = ограничивается конторой
+
+[350] = Орудия более крупного землевладельца растут не пропорционально величине его земельного участка.
+- Die Instrumente eines größren Landgutsbesitzers = Орудия более крупного землевладельца
+- vermehren sich nicht = растут не
+- in dem Verhältnis der Größe seines Grundstückes = пропорционально величине его участка
+
+[351] = Точно так же кредит, которым крупный капиталист располагает в большей мере, чем мелкий, есть тем большая экономия основного капитала, а именно денег, которые он всегда должен иметь наготове.
+! was er immer < was et immer
+- Ebenso ist der Kredit = Точно так же кредит,
+- den ein großer Kapitalist vor dem kleineren besitzt = которым крупный капиталист сверх мелкого обладает,
+- eine um so größere Ersparung im capital fixe = есть тем большая экономия основного капитала,
+- nämlich dem Gelde = а именно денег,
+- was er immer parat haben muß = которые он всегда должен иметь наготове
+
+[352] = Само собой разумеется, наконец, что там, где промышленный труд достиг высокой степени, т. е. почти весь ручной труд стал фабричным, мелкому капиталисту не хватает всего его капитала, чтобы хотя бы обладать необходимым основным капиталом.
+- Es versteht sich endlich = Разумеется, наконец,
+- daß, wo die Industriearbeit = что там, где промышленный труд
+- einen hohen Grad erreicht hat = достиг высокой степени,
+- also fast alle Handarbeit = т. е. почти весь ручной труд
+- zur Fabrikarbeit geworden ist = стал фабричным,
+- dem kleinen Kapitalisten = мелкому капиталисту
+- sein ganzes Kapital nicht zureicht = всего его капитала не хватает,
+- um nur das nötige capital fixe zu besitzen = чтобы хотя бы обладать необходимым основным капиталом
+
+[353] = Известно, что работы крупного земледелия обычно занимают лишь небольшое число рук.
+- On sait que = Известно, что
+- les travaux de la grande culture = работы крупного земледелия
+- n’occupent habituellement = обычно занимают
+- qu’un petit nombre de bras = лишь небольшое число рук
+
+[354] = Вообще при накоплении крупных капиталов происходит соответственно и концентрация и упрощение основного капитала по сравнению с мелкими капиталистами.
+- Überhaupt findet = Вообще происходит
+- bei der Akkumulation der großen Kapitalien = при накоплении крупных капиталов
+- verhältnismäßig auch = соответственно и
+- eine Konzentration und Vereinfachung des capital fixe = концентрация и упрощение основного капитала
+- statt = (происходит)
+- im Verhältnis zu den kleineren Kapitalisten = по сравнению с мелкими капиталистами
++ findet statt = происходит ~ stattfinden
+
+[355] = Крупный капиталист вводит для себя своего рода организацию орудий труда.
+- Der große Kapitalist führt für sich = Крупный капиталист вводит для себя
+- eine Art von Organisation der Arbeitsinstrumente ein = своего рода организацию орудий труда
++ führt ein = вводит ~ einführen
+
+[356] = «Точно так же в сфере промышленности уже каждая мануфактура и фабрика есть более широкое соединение большего вещественного богатства с многочисленными и разнообразными интеллектуальными способностями и техническими навыками ради общей цели производства…
+- Ebenso ist im Bereiche der Industrie = «Точно так же в сфере промышленности
+- schon jede Manufaktur und Fabrik = уже каждая мануфактура и фабрика
+- eine umfassendere Verbindung = есть более широкое соединение
+- eines größern sächlichen Vermögens = большего вещественного богатства
+- mit zahlreichen und vielartigen intellektuellen Fähigkeiten = с многочисленными и разнообразными интеллектуальными способностями
+- und technischen Fertigkeiten = и техническими навыками
+- zu einem gemeinsamen Zwecke der Produktion = ради общей цели производства…
+
+[357] = Там, где законодательство удерживает земельную собственность в крупных массах, избыток растущего населения теснится в промыслы, и, следовательно, как в Великобритании, именно в промышленности скапливается главным образом большая масса пролетариев.
+! drängt < drangt
+- Wo die Gesetzgebung = Там, где законодательство
+- das Grundeigentum in großen Massen zusammenhält = земельную собственность в крупных массах удерживает,
+- drängt sich der Überschuß einer wachsenden Bevölkerung = избыток растущего населения теснится
+- zu den Gewerben = в промыслы,
+- und es ist also, wie in Großbritannien = и, следовательно, как в Великобритании,
+- das Feld der Industrie = именно в поле промышленности
+- auf dem sich hauptsächlich = скапливается главным образом
+- die größere Menge der Proletarier anhäuft = большая масса пролетариев
+
+[358] = Там же, где законодательство допускает продолжающееся дробление земли, растёт, как во Франции, число мелких и обременённых долгами собственников, которых непрерывное дробление сбрасывает в класс нуждающихся и недовольных.
+- Wo aber die Gesetz-gebung = Там же, где законодательство
+- die fortgesetzte Teilung des Bodens zuläßt = продолжающееся дробление земли допускает,
+- da vermehrt sich, wie in Frankreich = там растёт, как во Франции,
+- die Zahl der kleinen und verschuldeten Eigentümer = число мелких и обременённых долгами собственников,
+- welche durch die fortgehende Zerstücklung = которых продолжающееся дробление
+- in die Klasse der Dürftigen und Unzufriedenen = в класс нуждающихся и недовольных
+- geworfen werden = сбрасывает
+
+[359] = Если, наконец, это дробление и задолженность доведены до более высокой степени, то крупное землевладение снова поглощает мелкое, как и крупная промышленность уничтожает мелкую; а так как снова образуются более крупные имения, то и количество неимущих рабочих, не безусловно необходимое для обработки земли, снова вытесняется в промышленность». С. [
+- Ist endlich diese Zerstücklung und Überschuldung = Если, наконец, это дробление и задолженность
+- zu einem höhern Grade getrieben = до более высокой степени доведены,
+- so verschlingt wieder der große Grundbesitz den kleinen = то крупное землевладение снова поглощает мелкое,
+- wie auch die große Industrie die kleine vernichtet = как и крупная промышленность уничтожает мелкую;
+- und da nun wieder größere Güterkomplexe sich bilden = а так как снова образуются более крупные имения,
+- so wird auch die zur Kultur des Bodens = то и для обработки земли
+- nicht schlechthin erforderliche Menge = не безусловно необходимая масса
+- der besitzlosen Arbeiter = неимущих рабочих
+- wieder der Industrie zugedrängt = снова оттесняется в промышленность».
+- p.[ = С. [
+
+[360] = 58,] 59, Шульц. «Движение производства».
+- 58,] 59, Schulz = 58,] 59, Шульц.
+- Bewegung der Production = «Движение производства»
+
+[361] = «Качество товаров одного и того же вида становится иным вследствие изменения способа производства и особенно вследствие применения машин.
+- Die Beschaffenheit der Waren derselben Art = «Качество товаров одного вида
+- wird eine andre = становится иным
+- durch die Veränderung in der Art der Produktion = вследствие изменения способа производства
+- und namentlich durch die Anwendung des Maschinenwesens = и особенно вследствие применения машин
+
+[362] = Только благодаря устранению человеческой силы стало возможным из одного фунта хлопка стоимостью 3 шиллинга 8 пенсов спрясть 350 мотков длиной в 167 английских или 36 немецких миль и торговой стоимостью в 25 гиней». Там же, с. 62.
+! Länge < Lange
+- Nur durch Ausschließung der Menschenkraft = Лишь благодаря исключению человеческой силы
+- ist es möglich geworden = стало возможным
+- von einem Pfund Baumwolle = из одного фунта хлопка
+- 3 Shilling 8 Pence an Wert = стоимостью 3 шиллинга 8 пенсов
+- 350 Zaspeln zu spinnen = спрясть 350 мотков
+- von 167 englischen oder 36 deutschen Meilen Länge = длиной в 167 английских или 36 немецких миль
+- und von einem Handelswerte von 25 Guineen = и торговой стоимостью в 25 гиней».
+- ibid. p.62 = Там же, с. 62
+
+[363] = В среднем в Англии за 45 лет цены хлопчатобумажных тканей снизились на 11/12, и, по расчётам Маршалла, то же количество изделий, за которое ещё в 1814 году платили 16 шиллингов, теперь поставляется за 1 шиллинг 10 пенсов.
+- Im Durchschnitt haben sich in England = В среднем в Англии
+- seit 45 Jahren = за 45 лет
+- die Preise der Baumwollzeuge um 11/12 vermindert = цены хлопчатобумажных тканей снизились на 11/12,
+- und nach Marshalls Berechnungen = и, по расчётам Маршалла,
+- wird das gleiche Quantum von Fabrikation = то же количество изделий,
+- wofür noch im Jahr 1814 16 Shillinge bezahlt wurden = за которое ещё в 1814 году платили 16 шиллингов,
+- jetzt um 1 sh. 10 d. geliefert = теперь поставляется за 1 шиллинг 10 пенсов
+* sh = шилл. | Shilling | сокр.
+* d = пенс. | denarius | сокр. | англ. pence
+
+[364] = Большая дешевизна промышленных изделий увеличивает потребление как внутри страны, так и рынок за границей; и с этим связано то, что в Великобритании число рабочих в хлопчатобумажном производстве после введения машин не только не уменьшилось, но возросло с 40 тысяч до 1½ миллиона.
+- Die größere Wohlfeilheit der industriellen Erzeugnisse = Большая дешевизна промышленных изделий
+- vergrößert die Konsumtion sowohl im Inlande = увеличивает потребление как внутри страны,
+- als den Markt im Auslande = так и рынок за границей;
+- und damit hängt zusammen = и с этим связано,
+- daß sich in Großbritannien = что в Великобритании
+- die Zahl der Arbeiter in Baumwolle = число рабочих в хлопчатобумажном деле
+- nach Einführung der Maschinen = после введения машин
+- nicht nur nicht vermindert hat = не только не уменьшилось,
+- sondern daß sie von 40.000 auf 1½ Millionen gestiegen ist = но возросло с 40 000 до 1½ миллиона
+* 1½ = полтора | | числ.
+
+[365] = Что касается заработка промышленных предпринимателей и рабочих, то из-за растущей конкуренции фабрикантов их прибыль по отношению к количеству поставляемых ими изделий неизбежно уменьшилась.
+- Was nun den Erwerb = Что касается заработка
+- der industriellen Unternehmer und Arbeiter betrifft = промышленных предпринимателей и рабочих,
+- so hat sich durch die wachsende Konkurrenz = то из-за растущей конкуренции
+- unter den Fabrikherrn = между фабрикантами
+- der Gewinst derselben = их прибыль
+- im Verhältnisse zur Quantität der Erzeugnisse = по отношению к количеству изделий,
+- die sie liefern = которые они поставляют,
+- notwendig vermindert = неизбежно уменьшилась
++ Was betrifft = что касается ~ was … betrifft
+
+[366] = В 1820–1833 годах валовая прибыль фабриканта в Манчестере с куска коленкора упала с 4 шиллингов 1⅓ пенса до 1 шиллинга 9 пенсов.
+- In den Jahren 1820-1853 = В 1820–1833 годах
+- ist der Bruttogewinn des Fabrikanten in Manchester = валовая прибыль фабриканта в Манчестере
+- für ein Stück Kaliko = с куска коленкора
+- von 4 sh. 11/3 d. = с 4 шиллингов 1⅓ пенса
+- auf 1 sh. 9 d. gefallen = до 1 шиллинга 9 пенсов упала
+* 1820-1853 = 1820–1833 | | числ. | в оригинале MEW — 1820–1833
+
+[367] = Но чтобы возместить этот убыток, объём производства расширился тем больше.
+- Aber zur Einbringung dieses Verlustes = Но для возмещения этого убытка
+- ist der Umfang der Fabrikation = объём производства
+- um so mehr erweitert worden = тем больше расширился
+
+[368] = Следствием этого оказывается то, что в отдельных отраслях промышленности возникает частичное перепроизводство; что часты банкротства, вследствие чего внутри класса капиталистов и хозяев возникают неустойчивые колебания и волнения собственности, отбрасывающие часть экономически разорённых в пролетариат; что часто и внезапно становится необходимой остановка или сокращение работы, невыгоды которой всегда горько ощущает класс наёмных рабочих». Там же, с. 63.
+- Davon ist nun die Folge = Следствие этого то,
+- daß in einzelnen Zweigen der Industrie = что в отдельных отраслях промышленности
+- teilweise Überproduktion eintritt = наступает частичное перепроизводство;
+- daß häufige Bankerotte entstehen = что возникают частые банкротства,
+- wodurch sich innerhalb der Klasse = вследствие чего внутри класса
+- der Kapitalisten und Arbeitsherrn = капиталистов и хозяев
+- ein unsicheres Schwanken und Wogen des Besitzes erzeugt = возникают неустойчивые колебания и волнения собственности,
+- was einen Teil der ökonomisch Zerrütteten = которые часть экономически разорённых
+- dem Proletariat zuwirft = бросают в пролетариат;
+- daß oft und plötzlich = что часто и внезапно
+- eine Einstellung oder Verminderung der Arbeit = остановка или сокращение работы
+- notwendig wird = становится необходимым,
+- deren Nachteile = невыгоды чего
+- die Klasse der Lohnarbeiter stets bitter empfindet = класс наёмных рабочих всегда горько ощущает».
+- ibid. p.63 = Там же, с. 63
+
+[369] = «Сдавать внаём свой труд — значит начинать своё рабство; сдавать внаём материал труда — значит утверждать свою свободу…
+- Louer son travail = «Сдавать внаём свой труд —
+- c’est commencer son esclavage = значит начинать своё рабство;
+- louer la matière du travail = сдавать внаём материал труда —
+- c’est constituer sa liberté = значит утверждать свою свободу…
+
+[370] = Труд — это человек, материал же, напротив, не есть ничто от человека».
+- Le travail est l’homme = Труд — это человек,
+- la matière au contraire = материал же, напротив,
+- n’est rien de l’homme = не есть ничто от человека»
+
+[371] = Пеккёр. «Теория социальной экономии» и т. д., с. 411, 412.
+- Pecqueur = Пеккёр.
+- Théor. soc. etc. = «Теория социальной (экономии)» и т. д.,
+- p.411, 412 = с. 411, 412
+
+[372] = «Элемент-материал, который ничего не может для создания богатства без другого элемента — труда, получает для них магическую силу плодородия, как если бы они вложили в него своими собственными руками этот необходимый элемент». Там же.
+- L’élément matière = «Элемент-материал,
+- qui ne peut rien = который ничего не может
+- pour la création de la richesse = для создания богатства
+- sans l’autre élément travail = без другого элемента — труда,
+- reçoit la vertu magique = получает магическую силу
+- d’être fécond pour eux = быть плодородным для них,
+- comme s’ils y avaient mis = как если бы они вложили в него
+- de leur propre fait = своим собственным делом
+- cet indispensable élément = этот необходимый элемент».
+- ibid. l.c. = Там же
+
+[373] = «Если предположить, что ежедневный труд рабочего приносит ему в среднем 400 франков в год и что этой суммы достаточно каждому взрослому, чтобы жить грубой жизнью, то всякий владелец 2000 франков ренты, арендной платы, квартирной платы и т. д. косвенно принуждает 5 человек работать на себя; 100 000 франков ренты представляют труд 250 человек, а 1 000 000 — труд 2000 индивидов (значит, 300 миллионов (Луи-Филипп) — труд 750 000 рабочих)». Там же, с. 412, 413.
+- En supposant que = «Если предположить, что
+- le travail quotidien d’un ouvrier = ежедневный труд рабочего
+- lui rapporte en moyenne 400 fr. par an = приносит ему в среднем 400 франков в год
+- et que cette somme suffise à chaque adulte = и что этой суммы хватает каждому взрослому,
+- pour vivre d’une vie grossière = чтобы жить грубой жизнью,
+- tout propriétaire de 2000 fr. de rente = то всякий владелец 2000 франков ренты,
+- de fermage, de loyer, etc. = арендной платы, квартирной платы и т. д.
+- force donc indirectement = принуждает, следовательно, косвенно
+- 5 hommes à travailler pour lui = 5 человек работать на себя;
+- 100 000 fr. de rente = 100 000 франков ренты
+- représentent le travail de 250 hommes = представляют труд 250 человек,
+- et 1 000 000 le travail de 2000 individus = а 1 000 000 — труд 2000 индивидов
+- also 300 Millionen = (значит, 300 миллионов
+- Louis-Philippe = (Луи-Филипп)
+- die Arbeit von 750.000 Arbeitern = — труд 750 000 рабочих)».
+- ibid. p.412, 413 = Там же, с. 412, 413
+* en = в; если | | предлог | франц. en supposant — предполагая; en moyenne — в среднем
+* fr = франков | franc | сокр.
+
+[374] = «Собственники получили от закона людей право пользоваться и злоупотреблять, т. е. делать что хотят с материалом всякого труда… закон отнюдь не обязывает их своевременно и всегда доставлять несобственникам работу или платить им всегда достаточную заработную плату и т. д.» С. 413, там же.
+- Les propriétaires ont reçu = «Собственники получили
+- de la loi des hommes = от закона людей
+- le droit d’user et d’abuser = право пользоваться и злоупотреблять,
+- c.-a-d. = т. е.
+- de faire ce qu’ils veulent = делать что хотят
+- de la matière de tout travail = с материалом всякого труда…
+- ils sont nullement obliges par la loi = закон их отнюдь не обязывает
+- de fournir à propos et toujours = своевременно и всегда доставлять
+- du travail aux non-propriétaires = работу несобственникам,
+- ni de leur payer = ни платить им
+- un salaire toujours suffisant etc. = всегда достаточную заработную плату и т. д.»
+- p.413. l.c. = С. 413, там же
+* des = (людей) | | артикль | франц.
+
+[375] = «Полная свобода в отношении характера, количества, качества, своевременности производства, использования, потребления богатств, распоряжения материалом всякого труда.
+- Liberté entière = «Полная свобода
+- quant à la nature = в отношении характера,
+- à la quantité, à la qualité = количества, качества,
+- à l’opportunité de la production = своевременности производства,
+- à l’usage, à la consommation des richesses = использования, потребления богатств,
+- à la disposition de la matière de tout travail = распоряжения материалом всякого труда
+* des = (богатств) | | артикль | франц.
+
+[376] = Каждый волен обменивать свою вещь как ему угодно, без иного соображения, кроме собственного интереса индивида». С. 413, там же.
+- Chacun est libre = Каждый волен
+- d’échanger sa chose = обменивать свою вещь,
+- comme il l’entend = как ему угодно,
+- sans autre considération = без иного соображения,
+- que son propre intérêt d’individu = кроме своего собственного интереса индивида».
+- p.413. l.c. = С. 413, там же
+
+[377] = «Конкуренция выражает не что иное, как добровольный обмен, который сам есть ближайшее и логическое следствие индивидуального права пользоваться и злоупотреблять орудиями всякого производства.
+- La concurrence n’exprime pas autre chose = «Конкуренция выражает не что иное,
+- que l’échange facultatif = как добровольный обмен,
+- qui lui-même est = который сам есть
+- la conséquence prochaine et logique = ближайшее и логическое следствие
+- du droit individuel d’user et d’abuser = индивидуального права пользоваться и злоупотреблять
+- des instruments de toute production = орудиями всякого производства
+* des = (орудиями) | | артикль | франц.
+
+[378] = Эти три экономических момента, составляющие одно — право пользоваться и злоупотреблять, свобода обмена и произвольная конкуренция, — влекут за собой следующие последствия: каждый производит что хочет, как хочет, когда хочет, где хочет; производит хорошо или плохо, слишком много или недостаточно, слишком рано или слишком поздно, слишком дорого или по слишком низкой цене; никто не знает, продаст ли он, кому продаст, как продаст, когда продаст, где продаст; и так же обстоит дело с покупками.
+! où il veut; produit < on il veut; produit
+- Ces trois moments économiques = Эти три экономических момента,
+- lesquels n’en font qu’un = которые составляют одно:
+- le droit d’user et d’abuser = право пользоваться и злоупотреблять,
+- la liberté d’échanges = свобода обмена
+- et la concurrence arbitraire = и произвольная конкуренция,
+- entraînent les conséquences suivantes = влекут следующие последствия:
+- chacun produit ce qu’il veut = каждый производит что хочет,
+- comme il veut, quand il veut = как хочет, когда хочет,
+- où il veut = где хочет;
+- produit bien ou produit mal = производит хорошо или плохо,
+- trop ou pas assez = слишком много или недостаточно,
+- trop tôt ou trop tard = слишком рано или слишком поздно,
+- trop cher ou à trop bas prix = слишком дорого или по слишком низкой цене;
+- chacun ignore s’il vendra = никто не знает, продаст ли он,
+- à qui il vendra, comment il vendra = кому продаст, как продаст,
+- quand il vendra, où il vendra = когда продаст, где продаст;
+- et il en est de même quant aux achats = и то же самое с покупками
+* en = (из этого) | | местоим. | франц. en — «из них, об этом»
+
+[379] = Производитель не знает потребностей и ресурсов, спроса и предложения.
+- Le producteur ignore = Производитель не знает
+- les besoins et les ressources = потребностей и ресурсов,
+- les demandes et les offres = спроса и предложения
+
+[380] = Он продаёт когда хочет, когда может, где хочет, кому хочет, по цене, какую хочет.
+- Il vend quand il veut = Он продаёт, когда хочет,
+- quand il peut, où il veut = когда может, где хочет,
+- à qui il veut = кому хочет,
+- au prix qu’il veut = по цене, какую хочет
+
+[381] = И покупает так же.
+- Et il achète de même = И покупает так же
+
+[382] = Во всём этом он всегда игрушка случая, раб закона сильнейшего, наименее торопливого, самого богатого…
+- En tout cela = Во всём этом
+- il est toujours le jouet du hasard = он всегда игрушка случая,
+- l’esclave de la loi du plus fort = раб закона сильнейшего,
+- du moins pressé, du plus riche = наименее торопящегося, самого богатого…
+* en = в | | предлог | франц.
+
+[383] = В то время как в одном месте ощущается недостаток какого-то богатства, в другом — переизбыток и расточительство.
+- Tandis que sur un point = В то время как в одном месте
+- il y a disette d’une richesse = есть недостаток какого-то богатства,
+- sur l’autre il y a trop-plein et gaspillage = в другом — переизбыток и расточительство
+
+[384] = В то время как один производитель продаёт много или очень дорого и с огромной прибылью, другой ничего не продаёт или продаёт в убыток… предложение не знает спроса, а спрос не знает предложения.
+- Tandis qu’un producteur = В то время как один производитель
+- vend beaucoup ou très cher = продаёт много или очень дорого
+- et à bénéfice énorme = и с огромной прибылью,
+- l’autre ne vend rien = другой ничего не продаёт
+- ou vend à perte = или продаёт в убыток…
+- l’offre ignore la demande = предложение не знает спроса,
+- et la demande ignore l’offre = а спрос не знает предложения
+
+[385] = Вы производите, полагаясь на вкус, на моду, которая проявляется в публике потребителей; но уже тогда, когда вы готовы поставить товар, прихоть прошла и обратилась к другому роду продукта… неизбежные последствия — постоянство и всеобщность банкротств, просчёты, внезапные разорения и случайные состояния; торговые кризисы, безработица, затоваривание или периодический недостаток; неустойчивость и обесценение заработной платы и прибылей; потеря или огромное расточение богатств, времени и усилий на арене ожесточённой конкуренции». С. 414–416, там же.
+! dans le public < clans le public
+- Vous produisez sur la foi d’un goût = Вы производите, полагаясь на вкус,
+- d’une mode qui se manifeste = на моду, которая проявляется
+- dans le public des consommateurs = в публике потребителей;
+- mais déjà, lorsque vous êtes prêts = но уже тогда, когда вы готовы
+- à livrer la marchandise = поставить товар,
+- la fantaisie a passé = прихоть прошла
+- et s’est fixée sur un autre genre de produit = и обратилась к другому роду продукта…
+- conséquences infaillibles = неизбежные последствия:
+- la permanence et l’universalisation des banqueroutes = постоянство и всеобщность банкротств,
+- les mécomptes = просчёты,
+- les ruines subites et les fortunes improvisées = внезапные разорения и случайные состояния;
+- les crises commerciales, les chômages = торговые кризисы, безработица,
+- les encombrements ou les disettes périodiques = затоваривание или периодические недостатки;
+- l’instabilité et l’avilissement = неустойчивость и обесценение
+- des salaires et des profits = заработной платы и прибылей;
+- la déperdition ou le gaspillage énorme = потеря или огромное расточение
+- de richesses, de temps et d’efforts = богатств, времени и усилий
+- dans l’arène d’une concurrence acharnée = на арене ожесточённой конкуренции».
+- p.414-416, l.c. = С. 414–416, там же
+* des = (банкротств, потребителей …) | | артикль | франц.
+
+[386] = Рикардо в своей книге (о земельной ренте): нации — лишь мастерские производства, человек — машина для потребления и производства; человеческая жизнь — капитал; экономические законы слепо правят миром.
+- Ricardo in seinem Buch = Рикардо в своей книге
+- rent of land = (о земельной ренте):
+- Die Nationen sind nur Ateliers der Produktion = нации — лишь мастерские производства,
+- der Mensch ist eine Maschine = человек — машина
+- zum Konsumieren und Produzieren = для потребления и производства;
+- das menschliche Leben ein Kapital = человеческая жизнь — капитал;
+- die ökonomischen Gesetze regieren blind die Welt = экономические законы слепо правят миром
+* ricardo = Рикардо | | имя собств. | Давид Рикардо (1772–1823), английский экономист
+* rent = рента | | сущ. | англ.
+* of = (род. п.) | | предлог | англ.
+* land = земля | | сущ. | англ. rent of land — земельная рента
+
+[387] = Для Рикардо люди — ничто, продукт — всё.
+- Für Ricardo sind die Menschen nichts = Для Рикардо люди — ничто,
+- das Produkt alles = продукт — всё
+
+[388] = В 26-й главе французского перевода говорится:
+- Im 26. Kapitel der französischen Übersetzung = В 26-й главе французского перевода
+- heißt es = говорится:
+
+[389] = «Человеку, который с капитала в 20 000 франков получал бы 2000 франков прибыли в год, было бы совершенно безразлично, занимает ли его капитал сто человек или тысячу… разве не тот же реальный интерес нации?
+- Il serait tout-à-fait indifférent = «Было бы совершенно безразлично
+- pour une personne = для человека,
+- qui sur un capital de 20 000 fr. = который с капитала в 20 000 франков
+- ferait 2000 fr. par an de profit = получал бы 2000 франков прибыли в год,
+- que son capital employât cent hommes ou mille = занимает ли его капитал сто человек или тысячу…
+- l’intérêt réel d’une nation = реальный интерес нации
+- n’est-il pas le même = разве не тот же?
+
+[390] = Лишь бы её чистый и реальный доход, её арендные платы и прибыли были те же, — какое значение имеет, состоит ли она из десяти или двенадцати миллионов индивидов?»
+- pourvu que son revenu net et réel = Лишь бы её чистый и реальный доход
+- et qua ses fermages et ses profits = и её арендные платы и прибыли
+- soient les mêmes = были те же, —
+- qu’importe qu’elle se compose = какое значение имеет, состоит ли она
+- de dix ou de douze millions d’individus = из десяти или двенадцати миллионов индивидов?»
+
+[391] = [Т. II, с. 194, 195.]
+- [t.II, p.194. 195.] = [Т. II, с. 194, 195.]
+
+[392] = «Право же, — говорит г-н де Сисмонди [в «Новых началах…»] (т. II, с. 331), — остаётся только желать, чтобы король, оставшись один на острове, постоянно вращая рукоятку (Kurbel), заставлял автоматы выполнять всю работу Англии».
+! dans l’île < clans l’île
+- En vérité, dit M. de Sismondi = «Право же, — говорит г-н де Сисмонди
+- [in Nouveau principes ...] = [в «Новых началах…»]
+- (t.II, p.331) = (т. II, с. 331), —
+- il me reste plus qu’à désirer = мне остаётся лишь желать,
+- que le roi, demeuré tout seul dans l’île = чтобы король, оставшись совсем один на острове,
+- en tournant constamment une manivelle = постоянно вращая рукоятку
+- Kurbel = (Kurbel),
+- fasse accomplir, par des automates = заставлял выполнять автоматами
+- tout l’ouvrage de l’Angleterre = всю работу Англии»
+* en = (вращая) | | предлог | франц. en tournant — вращая
+* des = (автоматами) | | артикль | франц.
+* sismondi = Сисмонди | | имя собств. | Жан Шарль Сисмонди (1773–1842), швейцарский экономист
+* m = г-н | monsieur | сокр.
+
+[393] = «Хозяин, покупающий труд рабочего по цене столь низкой, что её едва хватает на самые насущные потребности, не отвечает ни за недостаточность заработной платы, ни за чрезмерную продолжительность труда: он сам подчиняется закону, который навязывает… нищета исходит не столько от людей, сколько от силы вещей».
+! les plus pressants < las plus pressants
+! que de la puissance < qua de la puissance
+- Le maître = «Хозяин,
+- qui achète le travail de l’ouvrier = который покупает труд рабочего
+- à un prix si bas = по цене столь низкой,
+- qu’il suffit à peine = что её едва хватает
+- aux besoins les plus pressants = на самые насущные потребности,
+- n’est responsable ni de l’insuffisance des salaires = не отвечает ни за недостаточность заработной платы,
+- ni de la trop longue durée du travail = ни за слишком большую продолжительность труда:
+- il subit lui-même la loi qu’il impose = он сам подчиняется закону, который навязывает…
+- ce n’est pas tant des hommes = не столько от людей
+- que vient la misère = исходит нищета,
+- que de la puissance des choses = сколько от силы вещей»
+* des = (заработной платы; людей; вещей) | | артикль | франц.
+
+[394] = [Бюре], там же, с. 82.
+- [Buret] l.c. 82 = [Бюре], там же, 82
+
+[395] = В Англии много мест, где жителям не хватает капиталов для полной обработки земли.
+- In England gibt es viele Plätze = В Англии много мест,
+- wo den Einwohnern = где жителям
+- zur vollständigen Erdkultur = для полной обработки земли
+- die Kapitalien fehlen = не хватает капиталов
+
+[396] = Шерсть южных провинций Шотландии большей частью вынуждена совершать долгий путь по суше по плохим дорогам, чтобы её обработали в графстве Йорк, потому что на месте её производства не хватает капиталов для мануфактуры.
+- Die Wolle der Südprovinzen Schottlands = Шерсть южных провинций Шотландии
+- muß großenteils eine lange Reise zu Land = должна большей частью долгий путь по суше
+- durch schlechte Wege machen = по плохим дорогам проделать,
+- um in der Grafschaft York bearbeitet zu werden = чтобы быть обработанной в графстве Йорк,
+- weil es an ihrem Produktionsplatz = потому что на месте её производства
+- an Kapitalien zur Manufaktur fehlt = не хватает капиталов для мануфактуры
+
+[397] = В Англии есть несколько мелких фабричных городов, жителям которых не хватает капитала, чтобы перевозить свой промышленный продукт на отдалённые рынки, где он находит спрос и потребителей.
+- Es gibt in England mehre kleine Fabrikstädte = В Англии есть несколько мелких фабричных городов,
+- deren Einwohnern hinreichendes Kapital fehlt = жителям которых не хватает достаточного капитала
+- zum Transport ihres industriellen Produkts = для перевозки своего промышленного продукта
+- auf entfernte Märkte = на отдалённые рынки,
+- wo dasselbe Nachfrage und Konsumenten findet = где он находит спрос и потребителей
+
+[398] = Купцы здесь — лишь агенты более богатых купцов, проживающих в нескольких крупных торговых городах».
+- Die Kaufleute hier = Купцы здесь
+- sind nur Agenten reicherer Kaufleute = лишь агенты более богатых купцов,
+- die in einigen großen Handelsstädten residieren = которые живут в нескольких крупных торговых городах»
+
+[399] = Смит, т. II, с. 382. «Чтобы увеличить стоимость годового продукта земли и труда, нет иных средств, кроме как увеличить число производительных рабочих или увеличить производительную способность уже занятых рабочих…
+! que d’augmenter < qua d’augmenter
+- Smith, t.II, p.382 = Смит, т. II, с. 382.
+- Pour augmenter la valeur = «Чтобы увеличить стоимость
+- du produit annuel de la terre et du travail = годового продукта земли и труда,
+- il n’y a pas d’autres moyens = нет других средств,
+- que d’augmenter, quant au nombre = кроме как увеличить по числу
+- les ouvriers productifs = производительных рабочих
+- ou d’augmenter, quant a la puissance = или увеличить по силе
+- la faculté productive = производительную способность
+- des ouvriers précédemment employés = прежде занятых рабочих…
+* des = (рабочих) | | артикль | франц.
+
+[400] = В том и другом случае почти всегда необходим прирост капитала».
+- Dans l’un et dans l’autre cas = В том и в другом случае
+- il faut presque toujours = почти всегда нужен
+- un surcroît de capital = прирост капитала»
+
+[401] = Смит, т. II, с. 338.
+- Smith. t.II, p.338 = Смит, т. II, с. 338
+
+[402] = «Поскольку, следовательно, в природе вещей заложено, что накопление капитала есть необходимая предпосылка разделения труда, труд не может подвергаться дальнейшему подразделению иначе как в той мере, в какой капиталы постепенно накопились.
+! in der Natur der Dinge < in dar Natur der Dinge
+! nach und nach aufgehäuft < nach und mach aufgehäuft
+- Weil es also in der Natur der Dinge liegt = «Поскольку, следовательно, в природе вещей заложено,
+- daß die Akkumulation eines Kapitals = что накопление капитала
+- ein notwendiger Vorläufer der Teilung der Arbeit ist = есть необходимый предшественник разделения труда,
+- kann die Arbeit keine weiteren Unterabteilungen empfangen = труд не может получить дальнейших подразделений,
+- als in dem Verhältnis = кроме как в той мере,
+- in welchem sich die Kapitalien = в какой капиталы
+- nach und nach aufgehäuft haben = постепенно накопились
+
+[403] = Чем больше труд распадается на подразделения, тем больше растёт количество материалов, которое то же число людей может привести в обработку; а так как задача каждого рабочего постепенно сводится ко всё большей простоте, изобретается множество новых машин для облегчения и сокращения этих задач.
+- Je mehr die Arbeit in Unterabteilungen zerfällt = Чем больше труд распадается на подразделения,
+- vermehrt sich die Quantität der Materien = тем больше растёт количество материалов,
+- welche dieselbe Anzahl von Personen = которое то же число людей
+- ins Werk setzen kann = может привести в действие;
+- und da die Aufgabe jedes Arbeiters = а так как задача каждого рабочего
+- sich nach und nach = постепенно
+- auf eine größere Stufe von Einfachheit reduziert findet = сводится ко всё большей простоте,
+- werden eine Menge neuer Maschinen entdeckt = изобретается множество новых машин,
+- um diese Aufgaben zu erleichtern und abzukürzen = чтобы облегчить и сократить эти задачи
++ ins Werk setzen = привести в действие ~ etwas ins Werk setzen
+
+[404] = Поэтому, чем шире распространяется разделение труда, тем необходимее, чтобы одно и то же число рабочих было постоянно занято, накопить заранее равный запас жизненных средств и запас материалов, инструментов и ремесленных орудий, гораздо больший, чем это требовалось прежде при менее развитом состоянии вещей.
+! Zustand der Dinge < Zustand dar Dinge
+- Je weiter sich also die Teilung der Arbeit ausbreitet = Поэтому, чем шире распространяется разделение труда,
+- ist es notwendig = тем необходимее,
+- damit eine selbe Zahl von ouvriers = чтобы одно и то же число рабочих
+- beständig beschäftigt sei = было постоянно занято,
+- daß man eine gleiche Provision von Lebensmitteln = чтобы равный запас жизненных средств
+- und eine Provision von Materien, Instrumenten und Handwerkszeug = и запас материалов, инструментов и орудий
+- im voraus aufhäuft = заранее накопили,
+- welche viel stärker ist = гораздо больший,
+- als dies früher = чем это прежде
+- in einem minder avancierten Zustand der Dinge = в менее развитом состоянии вещей
+- nötig war = было нужно
+
+[405] = Число рабочих растёт в каждой отрасли труда одновременно с ростом там разделения труда, или, скорее, именно этот рост их числа даёт им возможность классифицироваться и подразделяться подобным образом».
+- Die Zahl der Arbeiter vermehrt sich = Число рабочих растёт
+- in jedem Arbeitszweig = в каждой отрасли труда
+- zur selben Zeit = одновременно с тем,
+- als sich hier die Teilung der Arbeit vermehrt = как здесь растёт разделение труда,
+- oder vielmehr ist es diese Vermehrung ihrer Zahl = или, скорее, именно этот рост их числа
+- welche sie in den Stand setzt = даёт им возможность
+- sich zu klassifizieren und unterabzuteilen auf diese Art = классифицироваться и подразделяться таким образом»
++ in den Stand setzt = даёт возможность ~ jemanden in den Stand setzen
+
+[406] = Смит, т. II, с. 193, 194.
+- Smith. t.II, 193, 194 = Смит, т. II, 193, 194
+
+[407] = «Подобно тому как труд не может получить этого большого расширения производительной силы без предварительного накопления капиталов, так и накопление капиталов естественно ведёт к этому расширению.
+- Ebenso wie die Arbeit = «Подобно тому как труд
+- diese große Ausdehnung der produktiven Kraft = этого большого расширения производительной силы
+- nicht erhalten kann = не может получить
+- ohne eine vorhergehende Akkumulation der Kapitale = без предварительного накопления капиталов,
+- ebenso führt die Akkumulation der Kapitalien = так и накопление капиталов
+- natürlicherweise diese Ausdehnung [herbei] = естественно ведёт к этому расширению
+
+[408] = Капиталист ведь хочет произвести своим капиталом как можно большее количество изделий и стремится поэтому ввести среди своих рабочих наиболее целесообразное разделение труда и снабдить их наилучшими машинами.
+- Der Kapitalist will nämlich = Капиталист ведь хочет
+- durch sein Kapital = своим капиталом
+- die größtmöglichste Quantität Machwerk produzieren = наибольшее возможное количество изделий произвести,
+- strebt also = стремится поэтому
+- unter seinen Arbeitern = среди своих рабочих
+- die schicklichste Arbeitsteilung einzuführen = наиболее подходящее разделение труда ввести
+- und mit den möglichst besten Maschinen sie zu versehn = и снабдить их наилучшими машинами
+
+[409] = Его средства для успеха в обоих этих делах пропорциональны размеру его капитала и числу людей, которых этот капитал может содержать занятыми.
+- Seine Mittel = Его средства,
+- um in diesen beiden Gegenständen zu reüssieren = чтобы преуспеть в обоих этих делах,
+- stehn im Verhältnis zur Ausdehnung seines Kapitals = пропорциональны размеру его капитала
+- und zur Zahl der Leute = и числу людей,
+- welche dieses Kapital beschäftigt halten kann = которых этот капитал может держать занятыми
+
+[410] = Следовательно, в стране растёт не только количество промышленности благодаря росту капитала, приводящего её в движение, но вследствие этого роста то же количество промышленности производит гораздо большее количество изделий».
+- Also nicht nur die Quantität der Industrie = Следовательно, не только количество промышленности
+- vermehrt sich in einem Lande = растёт в стране
+- vermittelst des Wachstums des Kapitals = благодаря росту капитала,
+- welches sie in Bewegung setzt = который приводит её в движение,
+- sondern infolge dieses Wachstums = но вследствие этого роста
+- produziert dieselbe Quantität von Industrie = то же количество промышленности производит
+- eine viel größere Quantität des Machwerks = гораздо большее количество изделий»
+
+[411] = Смит, там же, с. 194, 195.
+- Smith. l.c., p.194, 195 = Смит, там же, с. 194, 195
+
+[412] = Значит, перепроизводство.
+- Also Überproduktion = Значит, перепроизводство
+
+[413] = «Более широкие комбинации производительных сил… в промышленности и торговле путём соединения более многочисленных и разнообразных человеческих и природных сил для предприятий в более крупном масштабе.
+- Umfassendere Kombinationen der produktiven Kräfte = «Более широкие комбинации производительных сил…
+- in Industrie und Handel = в промышленности и торговле
+- durch Vereinigung zahlreicher[er] und vielartiger[er] = путём соединения более многочисленных и более разнообразных
+- Menschenkräfte und Naturkräfte = человеческих и природных сил
+- für Unternehmungen in größrem Maßstabe = для предприятий в более крупном масштабе
+
+[414] = А также — уже кое-где — более тесное соединение главных отраслей производства между собой.
+- Auch – schon hie und da = А также — уже кое-где —
+- engere Verbindung der Hauptzweige der Produktion = более тесное соединение главных отраслей производства
+- unter sich = между собой
+
+[415] = Так, крупные фабриканты будут стремиться приобрести и крупную земельную собственность, чтобы хотя бы часть необходимого для их промышленности сырья не получать из третьих рук; или они будут соединять со своими промышленными предприятиями торговлю — не только для сбыта своих собственных изделий, но, пожалуй, и для закупки продуктов другого рода и продажи их своим рабочим.
+- So werden große Fabrikanten = Так, крупные фабриканты
+- gleich großen Grundbesitz zu erwerben suchen = будут стремиться сразу приобрести крупную земельную собственность,
+- um wenigstens einen Teil = чтобы хотя бы часть
+- der zu ihrer Industrie erforderlichen Urstoffe = необходимого для их промышленности сырья
+- nicht erst aus 3ter Hand beziehn zu müssen = не получать из третьих рук;
+- oder sie werden mit ihren industriellen Unternehmungen = или они будут со своими промышленными предприятиями
+- einen Handel in Verbindung setzen = соединять торговлю
+- nicht bloß zum Vertrieb ihrer eignen Fabrikate = не только для сбыта своих собственных изделий,
+- sondern wohl auch zum Ankauf von Produkten andrer Art = но, пожалуй, и для закупки продуктов другого рода
+- und zum Verkauf derselben an ihre Arbeiter = и для продажи их своим рабочим
+
+[416] = В Англии, где отдельные фабриканты порой стоят во главе 10–12 тысяч рабочих…, уже нередки такие соединения различных отраслей производства под одним руководящим умом, такие маленькие государства или провинции в государстве.
+! Provinzen < Provinzan
+- In England = В Англии,
+- wo einzelne Fabrikherrn mitunter = где отдельные фабриканты порой
+- an der Spitze von 10-12.000 Arbeitern = во главе 10–12 тысяч рабочих…,
+- schon solche Verbindungen = уже такие соединения
+- verschiedener Produktionszweige = различных отраслей производства
+- unter einer leitenden Intelligenz = под одним руководящим умом,
+- solche kleinere Staaten oder Provinzen im Staat = такие маленькие государства или провинции в государстве
+- nicht selten = нередки
+
+[417] = Так, в новейшее время владельцы рудников близ Бирмингема берут на себя весь процесс производства железа, который прежде распределялся между разными предпринимателями и владельцами.
+! der sich früher < dar sich früher
+- So übernehmen in neuerer Zeit = Так, в новейшее время берут на себя
+- die Minenbesitzer bei Birmingham = владельцы рудников близ Бирмингема
+- den ganzen Prozeß der Eisenbereitung = весь процесс производства железа,
+- der sich früher = который прежде
+- an verschiedene Unternehmer und Besitzer verteilte = распределялся между разными предпринимателями и владельцами
+
+[418] = См. «Горнопромышленный округ близ Бирмингема».
+- Siehe = См.
+- Der bergmännische Distrikt bei Birmingham = «Горнопромышленный округ близ Бирмингема»
+
+[419] = «Deutsche Vierteljahrs-Schrift», 3, 1838. — Наконец, в столь многочисленных теперь крупных акционерных предприятиях мы видим широкие комбинации денежных сил многих участников с научными и техническими знаниями и навыками других, которым поручено выполнение работы.
+! der Geldkräfte < dar Geldkräfte
+- Deutsche Viertelj[ahrs-Schrift], 3, 1838 = «Немецкий ежеквартальник», 3, 1838. —
+- Endlich sehn wir = Наконец, мы видим
+- in den so zahlreich gewordenen größren Aktienunternehmungen = в столь многочисленных теперь крупных акционерных предприятиях
+- umfassende Kombinationen der Geldkräfte = широкие комбинации денежных сил
+- vieler Teilnehmenden = многих участников
+- mit den wissenschaftlichen und technischen Kenntnissen und Fertigkeiten = с научными и техническими знаниями и навыками
+- anderer = других,
+- welchen die Ausführung der Arbeit übertragen ist = которым поручено выполнение работы
+
+[420] = Благодаря этому капиталисты могут вкладывать свои сбережения разнообразнее и даже одновременно в сельскохозяйственное, промышленное и торговое производство, вследствие чего их интерес становится одновременно более разносторонним, а противоположности между интересами земледелия, промышленности и торговли смягчаются и сливаются.
+! der Industrie < dar Industrie
+! mildern < rnildern
+- Hierdurch den Kapitalisten möglich = Благодаря этому капиталистам возможно
+- ihre Ersparnisse in mannigfachrer Weise = свои сбережения разнообразнее
+- und wohl auch gleichzeitig = и даже одновременно
+- auf landwirtschaftliche, industrielle und kommerzielle Produktion = в сельскохозяйственное, промышленное и торговое производство
+- zu verwenden = вкладывать,
+- wodurch ihr Interesse = вследствие чего их интерес
+- ein gleichzeitig vielseitigeres wird = становится одновременно более разносторонним,
+- Gegensätze zwischen den Interessen der Agrikultur = противоположности между интересами земледелия,
+- der Industrie und des Handels = промышленности и торговли
+- sich mildern und verschmelzen = смягчаются и сливаются
+
+[421] = Но даже эта облегчённая возможность использовать капитал с выгодой самыми разными способами должна обострить противоположность между имущими и неимущими классами».
+! das Kapital < des Kapital
+- Aber selbst diese erleichterte Möglichkeit = Но даже эта облегчённая возможность
+- das Kapital in verschiedenster Weise = капитал самыми разными способами
+- nutzbringend zu machen = сделать прибыльным
+- muß den Gegensatz = должна противоположность
+- zwischen den bemittelten und unbemittelten Klassen = между имущими и неимущими классами
+- erhöhen = усилить»
+
+[422] = Шульц, с. 40, 41.
+- Schulz. p.40, 41 = Шульц, с. 40, 41
+
+[423] = Огромная прибыль, которую домовладельцы извлекают из нищеты.
+- Ungeheurer Gewinn = Огромная прибыль,
+- den die Hausvermieter von dem Elend ziehn = которую домовладельцы из нищеты извлекают
+
+[424] = Квартирная плата находится в обратном отношении к промышленной нищете.
+- Der loyer steht im umgekehrten Verhältnis = Квартирная плата находится в обратном отношении
+- zum industriellen Elend = к промышленной нищете
+* loyer = квартирная плата | le loyer | сущ. | франц.
+
+[425] = Точно так же — проценты с пороков разорившихся пролетариев.
+- Ebenso Prozente = Точно так же проценты
+- von den Lastern der ruinierten Proletarier = с пороков разорившихся пролетариев
+
+[426] = (Проституция, пьянство, ростовщик под залог.)
+- Prostitution, Soff = (Проституция, пьянство,
+- prêteur sur gages = ростовщик под залог.)
+
+[427] = Накопление капиталов растёт, а их конкуренция уменьшается, когда капитал и землевладение соединяются в одних руках, а также когда капитал благодаря своей величине получает возможность комбинировать различные отрасли производства.
+- Die Akkumulation der Kapitalien nimmt zu = Накопление капиталов растёт,
+- und ihre Konkurrenz ab = а их конкуренция уменьшается,
+- indem Kapital und Grundbesitz = когда капитал и землевладение
+- sich in einer Hand zusammenfinden = соединяются в одних руках,
+- ebenso, indem das Kapital = а также когда капитал
+- durch seine Größe befähigt wird = благодаря своей величине получает возможность
+- verschiedene Produktionszweige zu kombinieren = комбинировать различные отрасли производства
++ nimmt zu ab = растёт … уменьшается ~ zunehmen / abnehmen
+
+[428] = Равнодушие к людям.
+- Gleichgültigkeit gegen die Menschen = Равнодушие к людям
+
+[429] = 20 лотерейных билетов Смита.
+- Die 20 Lotterielose von Smith = 20 лотерейных билетов Смита
+
+[430] = Чистый и валовой доход у Сэя.
+- Revenu net et brut von Say = Чистый и валовой доход у Сэя
