@@ -1,0 +1,620 @@
+[853] = Вторая рукопись
+- Zweites Manuskript = Вторая рукопись
+
+[854] = Отношение частной собственности
+- Das Verhältnis des Privateigentums = Отношение частной собственности
+
+[855] = …составляет проценты на его капитал.
+- Zinsen seines Kapitals bildet = …составляет проценты на его капитал
+
+[856] = Следовательно, в рабочем субъективно существует то, что капитал есть полностью утративший себя человек, подобно тому как в капитале объективно существует то, что труд есть утративший себя человек.
+- An dem Arbeiter existiert es also subjektiv = В рабочем, следовательно, субъективно существует то,
+- daß das Kapital = что капитал
+- der sich ganz abhanden gekommene Mensch ist = есть полностью утративший себя человек,
+- wie es am Kapital objektiv existiert = как в капитале объективно существует то,
+- daß die Arbeit = что труд
+- der sich abhanden gekommene Mensch ist = есть утративший себя человек
++ abhanden gekommene = утраченный, пропавший ~ abhanden kommen
+
+[857] = Но у рабочего то несчастье, что он — живой и потому нуждающийся капитал, который в каждый момент, когда не работает, теряет свои проценты, а с ними и своё существование.
+- Der Arbeiter hat aber das Unglück = Но у рабочего то несчастье,
+- ein lebendiges und daher bedürftiges Kapital zu sein = что он — живой и потому нуждающийся капитал,
+- das jeden Augenblick = который в каждый момент,
+- wo es nicht arbeitet = когда он не работает,
+- seine Zinsen und damit seine Existenz verliert = теряет свои проценты, а с ними и своё существование
+
+[858] = Как капитал, стоимость рабочего повышается в зависимости от спроса и предложения, и физически его существование, его жизнь рассматривались и рассматриваются как предложение товара, подобно всякому другому товару.
+- Als Kapital steigt [der] Wert des Arbeiters = Как капитал, стоимость рабочего растёт
+- nach Nachfrage und Zufuhr = по спросу и предложению,
+- und auch physisch = и физически
+- ward und wird gewußt = было и есть известно
+- sein Dasein, sein Leben = его существование, его жизнь
+- [als] eine Zufuhr von Ware = как предложение товара,
+- wie jeder andren Ware = как всякого другого товара
+* ward = было | werden | гл. | старая форма wurde
+* dasein = существование, наличное бытие | das Dasein | сущ.
+
+[859] = Рабочий производит капитал, капитал производит его, т. е. он производит самого себя, и человек как рабочий, как товар есть продукт всего движения.
+- Der Arbeiter produziert das Kapital = Рабочий производит капитал,
+- das Kapital produziert ihn = капитал производит его,
+- er also sich selbst = он, следовательно, самого себя,
+- und der Mensch als Arbeiter, als Ware = и человек как рабочий, как товар
+- ist das Produkt der ganzen Bewegung = есть продукт всего движения
+
+[860] = У человека, который есть не больше чем рабочий, человеческие свойства существуют как у рабочего лишь постольку, поскольку они существуют для чуждого ему капитала.
+- Dem Menschen = У человека,
+- der nichts mehr ist als Arbeiter = который есть не больше чем рабочий,
+- und als Arbeiter = и как у рабочего
+- sind seine menschlichen Eigenschaften nur da = его человеческие свойства лишь тогда существуют,
+- insofern sie für das ihm fremde Kapital da sind = поскольку они существуют для чуждого ему капитала
+
+[861] = Но так как оба чужды друг другу и потому находятся в безразличном, внешнем и случайном отношении, эта чуждость должна была выступить и как действительная.
+- Weil sich aber beide fremd sind = Но так как оба чужды друг другу,
+- daher in einem gleichgültigen, äußerlichen = и потому в безразличном, внешнем
+- und zufälligen Verhältnisse stehn = и случайном отношении находятся,
+- so mußte diese Fremdheit = эта чуждость должна была
+- auch als wirklich erscheinen = и как действительная выступить
+
+[862] = Поэтому, как только капиталу приходит в голову — необходимая или произвольная прихоть — не существовать больше для рабочего, рабочий сам больше не существует для себя: у него нет работы, а потому нет и заработка, и так как он существует не как человек, а как рабочий, он может дать себя похоронить, умереть с голоду и т. д. Рабочий существует как рабочий лишь тогда, когда он существует для себя как капитал, а как капитал он существует лишь тогда, когда для него существует капитал.
+! einfällt < einfallt
+- Sobald es also dem Kapital einfällt = Итак, как только капиталу приходит в голову —
+- notwendiger oder willkürlicher Einfall = необходимая или произвольная прихоть, —
+- nicht mehr für den Arbeiter zu sein = не существовать больше для рабочего,
+- ist er selbst nicht mehr für sich = он сам больше не существует для себя,
+- er hat keine Arbeit = у него нет работы,
+- darum keinen Lohn = поэтому нет заработка,
+- und da er nicht als Mensch = и так как он не как человек,
+- sondern als Arbeiter Dasein hat = а как рабочий существует,
+- so kann er sich begraben lassen = то он может дать себя похоронить,
+- verhungern etc. = умереть с голоду и т. д.
+- Der Arbeiter ist nur als Arbeiter da = Рабочий существует как рабочий лишь,
+- sobald er für sich als Kapital da ist = когда он для себя как капитал существует,
+- und er ist nur als Kapital da = а как капитал он существует лишь,
+- sobald ein Kapital für ihn da ist = когда для него существует капитал
++ einfällt = приходит в голову ~ jemandem einfallen
+
+[863] = Существование капитала есть его существование, его жизнь, ибо оно определяет содержание его жизни безразличным для него образом.
+- Das Dasein des Kapitals = Существование капитала
+- ist sein Dasein, sein Leben = есть его существование, его жизнь,
+- wie es den Inhalt seines Lebens = как оно содержание его жизни
+- auf eine ihm gleichgültige Weise bestimmt = безразличным для него образом определяет
+
+[864] = Поэтому политическая экономия не знает незанятого рабочего, рабочего человека, поскольку он находится вне этого трудового отношения.
+- Die Nationalökonomie kennt daher nicht = Политическая экономия поэтому не знает
+- den unbeschäftigten Arbeiter = незанятого рабочего,
+- den Arbeitsmenschen = рабочего человека,
+- soweit er sich außer diesem Arbeitsverhältnis befindet = поскольку он находится вне этого трудового отношения
+
+[865] = Плут, мошенник, нищий, безработный, умирающий с голоду, нищенствующий и преступный рабочий человек — это фигуры, которые существуют не для неё, а лишь для других глаз — для глаз врача, судьи, могильщика, надзирателя за нищими и т. д., — призраки вне её царства.
+- Der Spitzbube, Gauner, Bettler = Плут, мошенник, нищий,
+- der unbeschäftigte, der verhungernde = безработный, умирающий с голоду,
+- der elende und verbrecherische Arbeitsmensch = нищенствующий и преступный рабочий человек —
+- sind Gestalten = это фигуры,
+- die nicht für sie = которые не для неё,
+- sondern nur für andre Augen = а лишь для других глаз,
+- für die des Arztes, des Richters = для глаз врача, судьи,
+- des Totengräbers und Bettelvogts etc. existieren = могильщика и надзирателя за нищими и т. д. существуют, —
+- Gespenster außerhalb ihres Reichs = призраки вне её царства
+
+[866] = Поэтому потребности рабочего для неё — лишь потребность содержать его во время работы, и притом настолько, чтобы рабочее племя не вымерло.
+- Die Bedürfnisse des Arbeiters = Потребности рабочего
+- sind daher für sie nur das Bedürfnis = поэтому для неё лишь потребность
+- ihn während der Arbeit zu unterhalten = содержать его во время работы,
+- und so weit = и настолько,
+- daß das Arbeitergeschlecht nicht aus[sterbe] = чтобы рабочее племя не вымерло
+
+[867] = Поэтому заработная плата имеет совершенно тот же смысл, что и содержание, поддержание в исправности всякого другого производительного орудия, что и потребление капитала вообще, которое ему нужно, чтобы воспроизводить себя с процентами, — как масло, которым смазывают колёса, чтобы поддерживать их движение.
+- Der Arbeitslohn hat daher = Заработная плата имеет поэтому
+- ganz denselben Sinn = совершенно тот же смысл,
+- wie die Unterhaltung, Instanderhaltung = что и содержание, поддержание в исправности
+- jedes andren produktiven Instruments = всякого другого производительного орудия,
+- wie die Konsumtion des Kapitals überhaupt = что и потребление капитала вообще,
+- deren es bedarf = в котором он нуждается,
+- um sich mit Zinsen zu reproduzieren = чтобы воспроизводить себя с процентами,
+- wie das Öl = как масло,
+- welches an die Räder verwandt wird = которое тратится на колёса,
+- um sie in Bewegung zu halten = чтобы держать их в движении
+
+[868] = Поэтому заработная плата принадлежит к необходимым издержкам капитала и капиталиста и не должна превышать потребности этой необходимости.
+- Der Arbeitslohn gehört daher = Заработная плата принадлежит поэтому
+- zu den nötigen Kosten des Kapitals und des Kapitalisten = к необходимым издержкам капитала и капиталиста
+- und darf das Bedürfnis dieser Not nicht überschreiten = и не должна превышать потребности этой нужды
+
+[869] = Поэтому вполне последовательно поступали английские фабриканты, когда до Закона о поправках 1834 года вычитали из заработной платы рабочего общественное вспомоществование, которое он получал благодаря налогу в пользу бедных, и рассматривали его как неотъемлемую её часть.
+- Es war daher ganz konsequent = Поэтому было вполне последовательно,
+- wenn englische Fabrikherrn = когда английские фабриканты
+- vor der Amendment bill von 1834 = до Закона о поправках 1834 года
+- die öffentlichen Almosen = общественное вспомоществование,
+- die der Arbeiter vermittelst der Armentaxe empfing = которое рабочий получал посредством налога в пользу бедных,
+- von seinem Arbeitslohn abzogen = вычитали из его заработной платы
+- und als einen integrierenden Teil desselben betrachteten = и как неотъемлемую её часть рассматривали
+* amendment = поправка | | сущ. | англ. Amendment bill — закон о поправках (к закону о бедных)
+* bill = закон, билль | | сущ. | англ.
+
+[870] = Производство производит человека не только как товар, человека-товар, человека в определении товара, — оно производит его, соответственно этому определению, как существо, обесчеловеченное и духовно, и телесно. — Безнравственность, уродство, отупение рабочих и капиталистов. — Его продукт — это обладающий самосознанием и самодеятельностью товар… человек-товар…
+- Die Produktion produziert den Menschen = Производство производит человека
+- nicht nur als eine Ware = не только как товар,
+- die Menschenware = человека-товар,
+- den Menschen in der Bestimmung der Ware = человека в определении товара,
+- sie produziert ihn = оно производит его,
+- dieser Bestimmung entsprechend = соответственно этому определению,
+- als ein ebenso geistig wie körperlich entmenschtes Wesen = как и духовно, и телесно обесчеловеченное существо. —
+- Immoralität, Mißgeburt = Безнравственность, уродство,
+- Hebetismus der Arbeiter und der Kapitalisten = отупение рабочих и капиталистов. —
+- Ihr Produkt ist die selbstbewußte = Его продукт — обладающий самосознанием
+- und selbsttätige Ware = и самодеятельный товар…
+- die Menschenware = человек-товар…
+* hebetismus = отупение | der Hebetismus | сущ. | от лат. hebes — тупой
+
+[871] = Большой шаг вперёд Рикардо, Милля и др. по сравнению со Смитом и Сэем — объявить существование человека, большую или меньшую человеческую производительность товара, безразличным и даже вредным.
+- Großer Fortschritt von Ricardo, Mill etc. = Большой шаг вперёд Рикардо, Милля и др.
+- gegen Smith und Say = по сравнению со Смитом и Сэем —
+- das Dasein des Menschen = существование человека —
+- die größre oder kleinre Menschenproduktivität der Ware = большую или меньшую человеческую производительность товара —
+- als gleichgültig und sogar schädlich zu erklären = объявить безразличным и даже вредным
+* mill = Милль | | имя собств. | Джеймс Милль (1773–1836), английский экономист
+
+[872] = Не то, сколько рабочих содержит капитал, а то, сколько процентов он приносит, — сумма ежегодных сбережений — вот истинная цель производства.
+- Nicht, wieviel Arbeiter ein Kapital unterhalte = Не то, сколько рабочих капитал содержит,
+- sondern wieviel Zinsen es bringe = а сколько процентов он приносит, —
+- die Summe der jährlichen Ersparungen = сумма ежегодных сбережений
+- sei der wahre Zweck der Produktion = есть будто бы истинная цель производства
+
+[873] = Точно так же большим и последовательным шагом вперёд новейшей английской политической экономии было то, что она, делая труд единственным принципом политической экономии, вместе с тем с полной ясностью раскрыла обратное отношение между заработной платой и процентами на капитал и то, что капиталист, как правило, может выиграть лишь путём снижения заработной платы, и наоборот.
+- Es war ebenfalls ein großer = Было также большим
+- und konsequenter Fortschritt = и последовательным шагом вперёд
+- der neueren englischen Nationalökonomie = новейшей английской политической экономии,
+- daß sie = что она —
+- welche die Arbeit zum einzigen Prinzip = которая труд единственным принципом
+- der Nationalökonomie erhebt = политической экономии делает, —
+- zugleich mit völliger Klarheit = одновременно с полной ясностью
+- das umgekehrte Verhältnis = обратное отношение
+- zwischen dem Arbeitslohn und den Zinsen des Kapitals = между заработной платой и процентами на капитал
+- auseinandersetzte = раскрыла
+- und daß der Kapitalist in der Regel = и что капиталист, как правило,
+- nur durch die Herabdrückung des Arbeitslohns = лишь путём снижения заработной платы,
+- wie umgekehrt = и наоборот,
+- gewinnen könne = может выиграть
++ in der Regel = как правило ~ устойчивое выражение
+
+[874] = Нормальное отношение — это не обман потребителя, а взаимный обман капиталиста и рабочего. — Отношение частной собственности содержит в себе в скрытом виде отношение частной собственности как труда, так и отношение её как капитала и связь этих двух выражений друг с другом.
+- Nicht die Übervorteilung des Konsumenten = Не обман потребителя,
+- sondern die wechselseitige Übervorteilung = а взаимный обман
+- von Kapitalist und Arbeiter = капиталиста и рабочего
+- sei das normale Verhältnis = есть будто бы нормальное отношение. —
+- Das Verhältnis des Privateigentums = Отношение частной собственности
+- enthält in sich latent = содержит в себе скрыто
+- das Verhältnis des Privateigentums als Arbeit = отношение частной собственности как труда,
+- wie das Verhältnis desselben als Kapital = как и её отношение как капитала,
+- und die Beziehung dieser beiden Ausdrücke aufeinander = и связь этих двух выражений друг с другом
+
+[875] = Производство человеческой деятельности как труда, т. е. как деятельности, совершенно чуждой самой себе, человеку и природе, а потому сознанию и проявлению жизни, — абстрактное существование человека как просто рабочего человека, который поэтому ежедневно может низвергнуться из своего заполненного ничто в абсолютное ничто, в своё общественное, а потому действительное несуществование, — как, с другой стороны, производство предмета человеческой деятельности как капитала, в котором стёрта всякая природная и общественная определённость предмета, в котором частная собственность утратила свои природные и общественные качества (т. е. утратила все политические и общественные иллюзии и не смешана ни с какими кажущимися человеческими отношениями), — в котором один и тот же капитал остаётся тем же в самом разнообразном природном и общественном бытии, совершенно безразличный к своему действительному содержанию, — эта противоположность, доведённая до крайности, необходимо есть вершина, высшая точка и гибель всего отношения.
+- Die Produktion der menschlichen Tätigkeit als Arbeit = Производство человеческой деятельности как труда,
+- also als einer sich ganz fremden = т. е. как совершенно чуждой себе,
+- dem Menschen und der Natur = человеку и природе,
+- daher dem Bewußtsein und der Lebensäußerung = а потому сознанию и проявлению жизни
+- ganz fremden Tätigkeit = совершенно чуждой деятельности,
+- die abstrakte Existenz des Menschen = абстрактное существование человека
+- als eines bloßen Arbeitsmenschen = как просто рабочего человека,
+- der daher täglich = который поэтому ежедневно
+- aus seinem erfüllten Nichts = из своего заполненного ничто
+- in das absolute Nichts = в абсолютное ничто,
+- sein gesellschaftliches und darum sein wirkliches Nichtdasein = в своё общественное, а потому действительное несуществование
+- hinabstürzen kann = может низвергнуться, —
+- wie andrerseits die Produktion = как, с другой стороны, производство
+- des Gegenstandes der menschlichen Tätigkeit als Kapital = предмета человеческой деятельности как капитала,
+- worin alle natürliche und gesellschaftliche Bestimmtheit = в котором вся природная и общественная определённость
+- des Gegenstandes ausgelöscht ist = предмета стёрта,
+- das Privateigentum seine natürliche und gesellschaftliche Qualität = частная собственность своё природное и общественное качество
+- also alle politischen und geselligen Illusionen verloren hat = (т. е. все политические и общественные иллюзии утратила
+- und mit keinen scheinbar menschlichen Verhältnissen vermischt ist = и ни с какими кажущимися человеческими отношениями не смешана)
+- verloren hat = утратила, —
+- worin auch dasselbe Kapital = в котором и один и тот же капитал
+- in dem verschiedenartigsten natürlichen und gesellschaftlichen Dasein = в самом разнообразном природном и общественном существовании
+- dasselbe bleibt = остаётся тем же,
+- vollkommen gleichgültig gegen seinen wirklichen Inhalt ist = совершенно безразличен к своему действительному содержанию, —
+- dieser Gegensatz auf die Spitze getrieben = эта противоположность, доведённая до крайности,
+- ist notwendig die Spitze, die Höhe = необходимо есть вершина, высшая точка
+- und der Untergang des ganzen Verhältnisses = и гибель всего отношения
++ auf die Spitze getrieben = доведённый до крайности ~ etwas auf die Spitze treiben
+
+[876] = Поэтому новейшая английская политическая экономия снова совершила великое дело, определив земельную ренту как разницу между доходом с наихудшей обрабатываемой земли и доходом с наилучшей, разоблачив романтические фантазии земельного собственника — его мнимое общественное значение и тождество его интереса с интересом общества, которое вслед за физиократами ещё утверждал Адам Смит, — и предвосхитив и подготовив то движение действительности, которое превратит земельного собственника в совершенно обычного, прозаического капиталиста, тем самым упростит и обострит противоположность и тем ускорит её разрешение.
+! Auflösung beschleunigen < Auflosung beschleunigen
+- Es ist daher wieder eine große Tat = Поэтому это снова великое дело
+- der neuern englischen Nationalökonomie = новейшей английской политической экономии —
+- die Grundrente als den Unterschied der Zinsen = земельную ренту как разницу доходов
+- des schlechtesten der Kultur angehörigen Landes = с наихудшей обрабатываемой земли
+- und der des besten Kulturlandes angegeben = и с наилучшей обрабатываемой земли определить,
+- die romantischen Einbildungen des Grundeigentümers = романтические фантазии земельного собственника —
+- seine angeblich soziale Wichtigkeit = его мнимое общественное значение
+- und die Identität seines Interesses = и тождество его интереса
+- mit dem Interesse der Gesellschaft = с интересом общества,
+- die noch nach den Physiokraten Adam Smith behauptet = которое ещё вслед за физиократами утверждал Адам Смит, —
+- [nachgewiesen] = разоблачить
+- und die Bewegung der Wirklichkeit = и движение действительности
+- antizipiert und vorbereitet zu [haben] = предвосхитить и подготовить,
+- die den Grundeigentümer = которое земельного собственника
+- in einen ganz gewöhnlichen, prosaischen Kapitalisten verwandeln = в совершенно обычного, прозаического капиталиста превратит,
+- dadurch den Gegensatz vereinfachen, zuspitzen = тем самым противоположность упростит, обострит
+- und damit seine Auflösung beschleunigen wird = и тем ускорит её разрешение
+* physiokraten = физиократы | der Physiokrat, -en | сущ. | экономисты XVIII в. (Кенэ и др.): источник богатства — земля
+
+[877] = Земля как земля, земельная рента как земельная рента утратили тем самым своё сословное отличие и стали ничего не говорящим или, скорее, говорящим лишь о деньгах капиталом и процентом. — Различие капитала и земли, прибыли и земельной ренты, как и обоих — от заработной платы, промышленности, земледелия, недвижимой и движимой частной собственности — это ещё историческое, не коренящееся в сущности дела различие, фиксированный исторический момент образования и возникновения противоположности капитала и труда.
+- Die Erde als Erde = Земля как земля,
+- die Grundrente als Grundrente = земельная рента как земельная рента
+- haben damit ihren Standesunterschied verloren = утратили тем самым своё сословное отличие
+- und sind zum nichtssagenden = и стали ничего не говорящим
+- oder vielmehr nur geldsagenden Kapital und Interesse geworden = или, скорее, лишь о деньгах говорящим капиталом и процентом. —
+- Der Unterschied von Kapital und Erde = Различие капитала и земли,
+- von Gewinn und Grundrente = прибыли и земельной ренты,
+- wie beider vom Arbeitslohn = как и обоих от заработной платы,
+- von der Industrie, von der Agrikultur = от промышленности, от земледелия,
+- [von] dem unbeweglichen und beweglichen Privateigentum = от недвижимой и движимой частной собственности,
+- ist ein noch historischer = есть ещё историческое,
+- nicht im Wesen der Sache begründeter Unterschied = не обоснованное сущностью дела различие,
+- ein fixiertes geschichtliches = фиксированный исторический
+- Bildungs- und Entstehungsmoment = момент образования и возникновения
+- des Gegensatzes von Kapital und Arbeit = противоположности капитала и труда
+
+[878] = В промышленности и т. д., в противоположность недвижимой земельной собственности, выражены лишь способ её возникновения и та противоположность, в которой промышленность развилась по отношению к земледелию.
+! ausgedrückt < ausgedruckt
+- In der Industrie etc. = В промышленности и т. д.,
+- im Gegensatz zum unbeweglichen Grundeigentum = в противоположность недвижимой земельной собственности,
+- ist nur die Entstehungsweise = выражены лишь способ возникновения
+- und der Gegensatz = и противоположность,
+- in dem sich die Industrie zur Agrikultur ausgebildet hat = в которой промышленность по отношению к земледелию развилась,
+- ausgedrückt = (выражены)
+
+[879] = Как особый вид труда, как существенное, весомое, охватывающее жизнь различие оно существует лишь до тех пор, пока промышленность (городская жизнь) складывается в противовес землевладению (дворянской феодальной жизни) и ещё сама несёт на себе феодальный характер своей противоположности в форме монополии, цеха, гильдии, корпорации и т. д.; в рамках этих определений труд ещё имеет видимость общественного значения, ещё значение действительной общности, ещё не дошёл до безразличия к своему содержанию и полного бытия для себя, т. е. до абстракции от всякого другого бытия, а потому ещё и не дошёл до освобождённого капитала.
+- Als eine besondre Art der Arbeit = Как особый вид труда,
+- als ein wesentlicher, gewichtiger = как существенное, весомое,
+- das Leben umfassender Unterschied = охватывающее жизнь различие
+- besteht dieser Unterschied nur = существует это различие лишь,
+- solange die Industrie = пока промышленность
+- das Stadtleben = (городская жизнь)
+- gegenüber dem Landbesitz = в противовес землевладению
+- dem adligen Feudal- Leben = (дворянской феодальной жизни)
+- sich bildet = складывается
+- und noch den feudalen Charakter ihres Gegensatzes = и ещё феодальный характер своей противоположности
+- an sich selbst = сама на себе
+- in der Form des Monopols, Zunft, Gilde, Korporation etc. trägt = в форме монополии, цеха, гильдии, корпорации и т. д. несёт;
+- innerhalb welcher Bestimmungen = в рамках этих определений
+- die Arbeit noch eine scheinbar gesellschaftliche Bedeutung = труд ещё видимость общественного значения,
+- noch die Bedeutung des wirklichen Gemeinwesens hat = ещё значение действительной общности имеет,
+- noch nicht zur Gleichgültigkeit gegen ihren Inhalt = ещё не до безразличия к своему содержанию
+- und zum völligen Sein für sich selbst = и полного бытия для себя самого,
+- d.h. zur Abstraktion von allem andren Sein = т. е. до абстракции от всякого другого бытия,
+- und darum auch noch nicht = а потому и ещё не
+- zum freigelaßnen Kapital fortgegangen ist = до освобождённого капитала дошёл
+* gemeinwesens = общности, общественного целого | das Gemeinwesen | сущ. | община, коллективное начало
+
+[880] = Но необходимое развитие труда — это освобождённая, конституировавшаяся как таковая для себя промышленность и освобождённый капитал.
+- Aber die notwendige Entwicklung der Arbeit = Но необходимое развитие труда —
+- ist die freigelaßne = это освобождённая,
+- als solche für sich konstituierte Industrie = как таковая для себя конституировавшаяся промышленность
+- und das freigelaßne Kapital = и освобождённый капитал
+
+[881] = Власть промышленности над её противоположностью сразу же проявляется в возникновении земледелия как действительной промышленности, тогда как прежде оно оставляло главную работу почве и рабу этой почвы, через которого почва сама себя обрабатывала.
+- Die Macht der Industrie über ihren Gegensatz = Власть промышленности над её противоположностью
+- zeigt sich sogleich = проявляется сразу
+- in der Entstehung der Agrikultur = в возникновении земледелия
+- als einer wirklichen Industrie = как действительной промышленности,
+- während sie früher die Hauptarbeit = тогда как оно прежде главную работу
+- dem Boden überließ = почве предоставляло
+- und dem Sklaven dieses Bodens = и рабу этой почвы,
+- durch welchen dieser sich selbst baute = через которого она сама себя обрабатывала
+
+[882] = С превращением раба в свободного рабочего, т. е. в наёмника, землевладелец сам по себе превращается в промышленника, в капиталиста; это превращение происходит сначала через промежуточное звено — арендатора.
+- Mit der Verwandlung des Sklaven = С превращением раба
+- in einen freien Arbeiter = в свободного рабочего,
+- d.h. in einen Söldling = т. е. в наёмника,
+- ist der Grundherr an sich = землевладелец сам по себе
+- in einen Industrieherrn, einen Kapitalisten verwandelt = превращён в промышленника, в капиталиста, —
+- eine Verwandlung = превращение,
+- die zunächst durch das Mittelglied des Pächters geschieht = которое сначала через промежуточное звено, арендатора, происходит
+
+[883] = Но арендатор — представитель, обнаруженная тайна земельного собственника; лишь через него осуществляется его политико-экономическое существование, его существование как частного собственника, — ибо земельная рента с его земли существует лишь благодаря конкуренции арендаторов. — Следовательно, землевладелец уже в лице арендатора по существу стал обычным капиталистом.
+- Aber der Pächter ist der Repräsentant = Но арендатор — представитель,
+- das offenbarte Geheimnis des Grundeigentümers = обнаруженная тайна земельного собственника;
+- nur durch ihn ist sein nationalökonomisches Dasein = лишь через него есть его политико-экономическое существование,
+- sein Dasein als Privateigentümer = его существование как частного собственника, —
+- denn die Grundrente seiner Erde = ибо земельная рента с его земли
+- ist nur durch die Konkurrenz der Pächter = есть лишь благодаря конкуренции арендаторов. —
+- Also ist der Grundherr wesentlich = Следовательно, землевладелец по существу
+- schon im Pächter = уже в арендаторе
+- ein gemeiner Kapitalist geworden = стал обычным капиталистом
+
+[884] = И это должно осуществиться и в действительности: капиталист, ведущий земледелие, — арендатор — должен стать землевладельцем, или наоборот.
+! der Pächter < der Richter
+- Und dies muß sich auch = И это должно
+- in der Wirklichkeit vollziehn = и в действительности осуществиться:
+- der Agrikultur treibende Kapitalist = ведущий земледелие капиталист —
+- der Pächter = арендатор —
+- muß Grundherr werden oder umgekehrt = должен стать землевладельцем, или наоборот
+
+[885] = Промышленное торгашество арендатора есть торгашество земельного собственника, ибо бытие первого полагает бытие второго. —
+- Der Industrieschacher des Pächters = Промышленное торгашество арендатора
+- ist der des Grundeigentümers = есть торгашество земельного собственника,
+- denn das Sein des ersten = ибо бытие первого
+- setzt das Sein des zweiten = полагает бытие второго. —
+
+[886] = Но, памятуя о своём противоположном происхождении, о своём прошлом, — земельный собственник видит в капиталисте своего вчерашнего заносчивого, освобождённого, разбогатевшего раба и чувствует, что тот угрожает ему как капиталисту; капиталист видит в земельном собственнике вчерашнего праздного, жестокого и эгоистичного господина, он знает, что тот ущемляет его как капиталиста, хотя всем своим нынешним общественным значением, своим имуществом и своими наслаждениями обязан промышленности; он видит в нём противоположность свободной промышленности и свободного, независимого от всякого природного определения капитала, — эта противоположность в высшей степени горька, и обе стороны говорят друг другу правду.
+- Aber ihrer gegensätzlichen Entstehung sich erinnernd = Но памятуя о своём противоположном возникновении,
+- ihrer Herkunft = о своём происхождении, —
+- der Grundeigentümer weiß den Kapitalisten = земельный собственник знает капиталиста
+- als seinen übermütigen, freigelaßnen = как своего заносчивого, освобождённого,
+- bereicherten Sklaven von gestern = разбогатевшего вчерашнего раба
+- und sieht sich selbst als Kapitalist = и видит себя как капиталиста
+- durch jenen bedroht = тем под угрозой, —
+- der Kapitalist weiß den Grundeigentümer = капиталист знает земельного собственника
+- als den nichtstuenden und grausamen = как праздного и жестокого
+- egoistischen Herrn von gestern = эгоистичного вчерашнего господина,
+- er weiß, daß er ihn als Kapitalist beeinträchtigt = он знает, что тот ущемляет его как капиталиста,
+- doch der Industrie = хотя промышленности
+- seine ganze jetzige gesellschaftliche Bedeutung = всем своим нынешним общественным значением,
+- seine Habe und seinen Genuß verdankt = своим имуществом и своим наслаждением обязан,
+- er sieht in ihm einen Gegensatz = он видит в нём противоположность
+- der freien Industrie = свободной промышленности
+- und des freien, von jeder Naturbestimmung unabhängigen Kapitals = и свободного, от всякого природного определения независимого капитала, —
+- dieser Gegensatz ist höchst bitter = эта противоположность крайне горька
+- und sagt sich wechselseitig die Wahrheit = и говорит взаимно правду
++ sich erinnernd = вспоминая ~ sich einer Sache erinnern
+
+[887] = Достаточно прочитать нападки недвижимой собственности на движимую и наоборот, чтобы составить себе наглядное представление о взаимной низости обеих.
+- Man braucht nur die Angriffe = Достаточно лишь нападки
+- des unbeweglichen Eigentums auf das bewegliche = недвижимой собственности на движимую
+- und umgekehrt zu lesen = и наоборот прочитать,
+- um sich von ihrer wechselseitigen Nichtswürdigkeit = чтобы о их взаимной низости
+- ein anschauliches Bild zu verschaffen = наглядное представление себе составить
+
+[888] = Земельный собственник выставляет напоказ родовое дворянство своей собственности, феодальные воспоминания, реминисценции, поэзию воспоминаний, свою мечтательную натуру, своё политическое значение и т. д., а если говорит на языке политической экономии, то утверждает: производительно одно только земледелие.
+- Der Grundeigentümer macht = Земельный собственник выставляет
+- den Geburtsadel seines Eigentums = родовое дворянство своей собственности,
+- die feudalen Souvenirs, Reminiszenzen = феодальные воспоминания, реминисценции,
+- die Poesie der Erinnerung = поэзию воспоминаний,
+- sein schwärmerisches Wesen = свою мечтательную натуру,
+- seine politische Wichtigkeit etc. geltend = своё политическое значение и т. д. напоказ,
+- und wenn sie nationalökonomisch sprechen = а когда они говорят политико-экономически:
+- der Landbau sei allein produktiv = производительно будто бы лишь земледелие
++ macht geltend = выставляет, ссылается на ~ etwas geltend machen
+
+[889] = Одновременно он изображает своего противника как хитрого, торгующегося, придирчивого, лживого, алчного, продажного, склонного к бунту, бессердечного и бездушного, отчуждённого от общности и свободно торгующего ею, ростовщичествующего, сводничающего, раболепного, изворотливого, льстивого, обманывающего, сухого, порождающего, питающего и лелеющего конкуренцию, а потому пауперизм и преступность, разрушение всех общественных уз денежного негодяя без чести, без принципов, без поэзии, без субстанции, без всего.
+- Er schildert zugleich seinen Gegner = Он изображает одновременно своего противника
+- als einen schlauen, feilbietenden, mäkelnden = как хитрого, торгующегося, придирчивого,
+- betrügerischen, habsüchtigen, verkäuflichen = лживого, алчного, продажного,
+- empörungssüchtigen, Herz- und Geistlosen = склонного к бунту, бессердечного и бездушного,
+- dem Gemeinwesen entfremdeten = отчуждённого от общности
+- und frei es verschachernden = и свободно ею торгующего,
+- wuchernden, kuppelnden, sklavischen = ростовщичествующего, сводничающего, раболепного,
+- geschmeidigen, schöntuenden, prellenden, trockenen = изворотливого, льстивого, обманывающего, сухого,
+- die Konkurrenz und daher den Pauperismus = конкуренцию, а потому пауперизм
+- und den verbrechenden = и преступность,
+- die Auflösung aller sozialen Bande = разрушение всех общественных уз
+- erzeugenden, nährenden, hätschelnden = порождающего, питающего, лелеющего
+- Geldschurken ohne Ehre = денежного негодяя без чести,
+- ohne Grundsätze, ohne Poesie = без принципов, без поэзии,
+- ohne Substanz, ohne alles = без субстанции, без всего
+
+[890] = (См., между прочим, физиократа Бергасса, которого бичует уже Камиль Демулен в своём журнале «Révolutions de France et de Brabant», см. фон Финке, Ланцицолле, Галлера, Лео, Козегартена [A] и см. Сисмонди.)
+! Haller < Hailer
+- Siehe unter andern den Physiokraten Bergasse = (См., между прочим, физиократа Бергасса,
+- den Camille Desmoulins schon in seinem Journal = которого Камиль Демулен уже в своём журнале
+- Révolutions de France et de Brabant = «Революции во Франции и Брабанте»
+- geißelt = бичует,
+- siehe v. Vincke, Lancizolle, Haller, Leo, Kosegarten = см. фон Финке, Ланцицолле, Галлера, Лео, Козегартена
+- [A] = [A]
+- und siehe Sismondi = и см. Сисмонди.)
+* a = A (пометка) | | сокр. | [A] — пометка в издании
+* et = и | | франц.
+* de = (род. п.) | | франц.
+* v = фон | von | сокр.
+
+[891] = Движимая собственность со своей стороны указывает на чудеса промышленности и движения: она — дитя нового времени и его законный первородный сын; она сожалеет о своём противнике как о не просвещённом насчёт своей сущности (и это совершенно верно) тупице, который хочет поставить на место морального капитала и свободного труда грубое безнравственное насилие и крепостничество; она изображает его как Дон Кихота, который под видом прямоты, честности, всеобщего интереса, устойчивости скрывает неспособность к движению, алчную жажду наслаждений, себялюбие, частный интерес, дурное намерение; она объявляет его изощрённым монополистом; его реминисценции, его поэзию, его мечтательность она гасит историческим и саркастическим перечнем низостей, жестокостей, унижений, проституции, бесчестья, анархии, мятежей, мастерскими которых были романтические замки.
+! Aufzählung < Aufzahlung
+- Das bewegliche Eigentum seinerseits = Движимая собственность со своей стороны
+- zeigt auf die Wunder der Industrie und der Bewegung = указывает на чудеса промышленности и движения,
+- es ist das Kind der modernen Zeit = она — дитя нового времени
+- und ihr berechtigter eingeborener Sohn = и его законный первородный сын;
+- es bedauert seinen Gegner = она жалеет своего противника
+- als einen über sein Wesen unaufgeklärten = как не просвещённого насчёт своей сущности
+- und das ist vollkommen richtig = (и это совершенно верно)
+- Schwachkopf = тупицу,
+- der an die Stelle des moralischen Kapitals = который на место морального капитала
+- und der freien Arbeit = и свободного труда
+- die rohe unmoralische Gewalt = грубое безнравственное насилие
+- und die Leibeigenschaft setzen wolle = и крепостничество хочет поставить;
+- es schildert ihn als einen Don Quixote = она изображает его как Дон Кихота,
+- der unter dem Schein der Gradheit, Biederheit = который под видом прямоты, честности,
+- des allgemeinen Interesses, des Bestandes = всеобщего интереса, устойчивости
+- die Bewegungsunfähigkeit = неспособность к движению,
+- die habsüchtige Genußsucht, die Selbstsucht = алчную жажду наслаждений, себялюбие,
+- das Sonderinteresse, die schlechte Absicht verstecke = частный интерес, дурное намерение скрывает;
+- es erklärt ihn für einen durchtriebnen Monopolisten = она объявляет его изощрённым монополистом;
+- seine Reminiszenzen, seine Poesie, seine Schwärmerei = его реминисценции, его поэзию, его мечтательность
+- dampft es durch eine historische und sarkastische Aufzählung = она гасит историческим и саркастическим перечнем
+- der Niederträchtigkeit, Grausamkeit, Wegwerfung = низости, жестокости, унижения,
+- Prostitution, Infamie, Anarchie, Empörung = проституции, бесчестья, анархии, мятежей,
+- deren Werkstätten die romantischen Schlösser waren = мастерскими которых были романтические замки
+
+[892] = Она будто бы дала миру политическую свободу, сняла оковы с гражданского общества, связала миры друг с другом, создала человеколюбивую торговлю, чистую мораль, приятную образованность; она будто бы дала народу вместо его грубых цивилизованные потребности и средства их удовлетворения, тогда как земельный собственник — этот праздный и лишь стесняющий хлебный ростовщик — удорожает народу первые жизненные средства, тем самым вынуждает капиталиста повышать заработную плату, не имея возможности повысить производительную силу, так препятствует годовому доходу нации, накоплению капиталов, т. е. возможности дать народу работу, а стране — богатство, в конце концов вовсе уничтожает её, вызывает всеобщую гибель и ростовщически эксплуатирует все выгоды современной цивилизации, ничего для неё не делая и даже не отказываясь от своих феодальных предрассудков.
+! gelöst < gelost
+- Es habe der Welt die politische Freiheit verschafft = Она будто бы дала миру политическую свободу,
+- die Fesseln der bürgerlichen Gesellschaft gelöst = сняла оковы с гражданского общества,
+- die Welten miteinander verbunden = связала миры друг с другом,
+- den menschenfreundlichen Handel = человеколюбивую торговлю,
+- die reine Moral, die gefällige Bildung geschaffen = чистую мораль, приятную образованность создала;
+- es habe dem Volk statt seiner rohen = она будто бы дала народу вместо его грубых
+- zivilisierte Bedürfnisse = цивилизованные потребности
+- und die Mittel ihrer Befriedigung gegeben = и средства их удовлетворения,
+- während der Grundeigentümer = тогда как земельный собственник —
+- dieser untätige und nur genante Kornwucherer = этот праздный и лишь стесняющий хлебный ростовщик —
+- dem Volk die ersten Lebensmittel verteure = народу первые жизненные средства удорожает,
+- dadurch den Kapitalisten zwinge = тем самым вынуждает капиталиста
+- den Arbeitslohn zu erhöhen = повышать заработную плату,
+- ohne die Produktionskraft erhöhen zu können = не имея возможности повысить производительную силу,
+- so das jährliche Einkommen der Nation = так годовому доходу нации,
+- die Akkumulation der Kapitalien = накоплению капиталов,
+- also die Möglichkeit = т. е. возможности
+- dem Volk Arbeit und dem Land Reichtum zu verschaffen = дать народу работу и стране богатство,
+- verhindre = препятствует,
+- endlich ganz aufhebe = в конце концов вовсе уничтожает,
+- einen allgemeinen Untergang herbeiführe = всеобщую гибель вызывает
+- und alle Vorteile der modernen Zivilisation = и все выгоды современной цивилизации
+- wucherisch ausbeute = ростовщически эксплуатирует,
+- ohne das Geringste für sie zu tun = ничего для неё не делая
+- und gar ohne von seinen Feudalvorurteilen abzulassen = и даже не отказываясь от своих феодальных предрассудков
+* genante = стесняющий, тягостный | genant | прил. | от франц. gênant
+
+[893] = Пусть, наконец, он только посмотрит на своего арендатора — он, для которого земледелие и сама земля существуют лишь как подаренный ему источник денег, — и пусть скажет, не есть ли он честный, фантастический, хитрый плут, который сердцем и в действительности давно уже принадлежит свободной промышленности и милой торговле, как бы он ни противился этому и сколько бы ни болтал об исторических воспоминаниях и нравственных или политических целях.
+! ob er nicht < oh er nicht
+! längst < langst
+- Endlich solle er nur auf seinen Pächter sehn = Пусть, наконец, он только посмотрит на своего арендатора —
+- er, für den der Landbau und der Boden selbst = он, для которого земледелие и сама земля
+- nur als eine ihm geschenkte Geldquelle existiert = лишь как подаренный ему источник денег существуют, —
+- und er solle sagen = и пусть скажет,
+- ob er nicht ein biedrer, phantastischer, schlauer Schurke sei = не честный ли он, фантастический, хитрый плут,
+- der im Herzen und der Wirklichkeit nach = который сердцем и в действительности
+- der freien Industrie und dem lieblichen Handel = свободной промышленности и милой торговле
+- schon längst angehöre = давно уже принадлежит,
+- sosehr er sich auch dagegen sträube = как бы он этому ни противился
+- und soviel er von historischen Erinnerungen = и сколько бы он об исторических воспоминаниях
+- und sittlichen oder politischen Zwecken plaudere = и нравственных или политических целях ни болтал
+
+[894] = Всё, что она действительно приводит в свою пользу, верно лишь для земледельца (капиталиста и батраков), врагом которого скорее является земельный собственник; следовательно, он доказывает против самого себя.
+- Alles, was es wirklich zu seinen Gunsten vorbringe = Всё, что она действительно в свою пользу приводит,
+- sei nur wahr für den Landbauer = верно будто бы лишь для земледельца
+- den Kapitalisten und die Arbeitsknechte = (капиталиста и батраков),
+- deren Feind vielmehr der Grundeigentümer sei = врагом которых скорее является земельный собственник;
+- er beweise also gegen sich selbst = он доказывает, следовательно, против себя самого
+
+[895] = Без капитала земельная собственность — мёртвая, бесполезная материя.
+- Ohne Kapital sei das Grundeigentum = Без капитала земельная собственность будто бы
+- tote, wertlose Materie = мёртвая, бесполезная материя
+
+[896] = Её цивилизованная победа как раз в том, что на место мёртвой вещи она открыла и создала человеческий труд как источник богатства.
+- Sein zivilisierter Sieg sei es eben = Её цивилизованная победа как раз в том,
+- an die Stelle des toten Dings = что на место мёртвой вещи
+- die menschliche Arbeit als Quelle des Reichtums = человеческий труд как источник богатства
+- entdeckt und geschaffen zu haben = открыла и создала
+
+[897] = (См. Поль-Луи Курье, Сен-Симон, Ганиль, Рикардо, Милль, Мак-Куллох, Дестют де Траси и Мишель Шевалье.)
+- Siehe Paul-Louis Courier, St. Simon, Ganilh = (См. Поль-Луи Курье, Сен-Симон, Ганиль,
+- Ricardo, Mill, MacCulloch = Рикардо, Милль, Мак-Куллох
+- und Destutt de Tracy und Michel Chevalier = и Дестют де Траси, и Мишель Шевалье.)
+* de = де | | франц.
+
+[898] = Из действительного хода развития (здесь вставить) следует необходимая победа капиталиста, т. е. развитой частной собственности, над неразвитой, половинчатой — над земельным собственником, как вообще уже движение должно победить неподвижность, открытая, сознающая себя низость — скрытую и бессознательную, алчность — жажду наслаждений, откровенно неутомимое, многоопытное своекорыстие Просвещения — местное, житейски-мудрое, простодушное, ленивое и фантастическое своекорыстие суеверия, как деньги — другую форму частной собственности. —
+- Aus dem wirklichen Lauf der Entwicklung = Из действительного хода развития
+- hier einzufügen = (здесь вставить)
+- folgt der notwendige Sieg des Kapitalisten = следует необходимая победа капиталиста,
+- d.h. des ausgebildeten Privateigentums = т. е. развитой частной собственности
+- über das unausgebildete, halbe = над неразвитой, половинчатой —
+- den Grundeigentümer = земельным собственником,
+- wie überhaupt schon die Bewegung = как вообще уже движение
+- über die Unbeweglichkeit = над неподвижностью,
+- die offene, selbstbewußte Gemeinheit = открытая, сознающая себя низость
+- über die versteckte und bewußtlose = над скрытой и бессознательной,
+- die Habsucht über die Genußsucht = алчность над жаждой наслаждений,
+- der eingestanden rastlose = откровенно неутомимое,
+- vielgewandte Eigennutz der Aufklärung = многоопытное своекорыстие Просвещения
+- über den lokalen, weltklugen, biederen = над местным, житейски-мудрым, простодушным,
+- trägen und phantastischen Eigennutz des Aberglaubens = ленивым и фантастическим своекорыстием суеверия,
+- wie das Geld über die andre Form des Privateigentums = как деньги над другой формой частной собственности
+- siegen muß = должна победить. —
+
+[899] = Государства, которые несколько предчувствуют опасность завершённой свободной промышленности, завершённой чистой морали и завершённой человеколюбивой торговли, пытаются — но совершенно напрасно — задержать капитализацию земельной собственности. —
+- Die Staaten = Государства,
+- welche etwas von der Gefahr = которые кое-что об опасности
+- der vollendeten freien Industrie = завершённой свободной промышленности,
+- der vollendeten reinen Moral = завершённой чистой морали
+- und dem vollendeten menschenfreundlichen Handel ahnen = и завершённой человеколюбивой торговли предчувствуют,
+- suchen die Kapitalisierung des Grundeigentums = пытаются капитализацию земельной собственности
+- aber ganz vergeblich = — но совершенно напрасно —
+- aufzuhalten = задержать. —
+
+[900] = Земельная собственность в её отличии от капитала — это частная собственность, капитал, ещё отягощённый местными и политическими предрассудками, ещё не вполне вернувшийся к себе самому из своей опутанности миром, ещё незавершённый капитал.
+- Das Grundeigentum = Земельная собственность
+- in seinem Unterschied von dem Kapital = в её отличии от капитала
+- ist das Privateigentum = есть частная собственность,
+- das Kapital noch von lokalen und politischen Vorurteilen behaftet = капитал, ещё отягощённый местными и политическими предрассудками,
+- das noch nicht ganz aus seiner Verstrickung mit der Welt = ещё не вполне из своей опутанности миром
+- zu sich selbst gekommene = к себе самому пришедший,
+- das noch unvollendete Kapital = ещё незавершённый капитал
+
+[901] = В ходе своего мирового развития он должен прийти к своему абстрактному, т. е. чистому выражению. —
+- Es muß im Laufe seiner Weltbildung = Он должен в ходе своего мирового развития
+- zu seinem abstrakten, d.h. reinen Ausdruck gelangen = к своему абстрактному, т. е. чистому выражению прийти. —
+
+[902] = Отношение частной собственности — это труд, капитал и отношение между ними.
+- Das Verhältnis des Privateigentums = Отношение частной собственности
+- ist Arbeit, Kapital und die Beziehung beider = есть труд, капитал и отношение обоих
+
+[903] = Движение, которое должны пройти эти звенья, таково:
+- Die Bewegung = Движение,
+- die diese Glieder zu durchlaufen haben = которое эти звенья должны пройти,
+- sind = таково:
+
+[904] = Во-первых, непосредственное или опосредствованное единство обоих.
+- Erstens = Во-первых —
+- unmittelbare oder vermittelte Einheit beider = непосредственное или опосредствованное единство обоих
+
+[905] = Капитал и труд сначала ещё объединены; затем, хотя и разделены и отчуждены, но взаимно поднимают и поощряют друг друга как положительные условия.
+- Kapital und Arbeit erst noch vereint = Капитал и труд сначала ещё объединены;
+- dann zwar getrennt und entfremdet = затем хотя и разделены и отчуждены,
+- aber sich wechselseitig als positive Bedingungen = но друг друга взаимно как положительные условия
+- hebend und fordernd = поднимающие и поощряющие
+
+[906] = [Во-вторых —] противоположность обоих.
+- [Zweitens –] = [Во-вторых —]
+- Gegensatz beider = противоположность обоих
+
+[907] = Они взаимно исключают друг друга; рабочий видит в капиталисте своё несуществование, и наоборот; каждый стремится отнять у другого его существование.
+- Schließen sich wechselseitig aus = Взаимно исключают друг друга;
+- der Arbeiter weiß den Kapitalisten = рабочий знает капиталиста
+- und umgekehrt = и наоборот
+- als sein Nichtdasein = как своё несуществование;
+- jeder sucht dem andren = каждый стремится у другого
+- sein Dasein zu entreißen = его существование вырвать
++ Schließen aus = исключают ~ ausschließen
+
+[908] = [В-третьих —] противоположность каждого самому себе.
+- [Drittens –] = [В-третьих —]
+- Gegensatz jedes gegen sich selbst = противоположность каждого самому себе
+
+[909] = Капитал = накопленному труду = труду.
+- Kapital = Капитал
+- aufgehäufter Arbeit = = накопленному труду
+- Arbeit = = труду
+
+[910] = Как таковой он распадается на самого себя и свои проценты, а эти последние — снова на проценты и прибыль.
+- Als solche zerfallend = Как таковой распадаясь
+- in sich und seine Zinsen = на себя и свои проценты,
+- wie diese wieder in Zinsen und Gewinn = как эти снова на проценты и прибыль
+
+[911] = Полное принесение капиталиста в жертву.
+- Restlose Aufopferung des Kapitalisten = Полное принесение в жертву капиталиста
+
+[912] = Он попадает в рабочий класс, как рабочий — но только в виде исключения — становится капиталистом.
+- Er fällt in die Arbeiterklasse = Он попадает в рабочий класс,
+- wie der Arbeiter = как рабочий
+- aber nur ausnahmsweise = — но лишь в виде исключения —
+- Kapitalist wird = становится капиталистом
+
+[913] = Труд как момент капитала, его издержки.
+- Arbeit als Moment des Kapitals = Труд как момент капитала,
+- seine Kosten = его издержки
+
+[914] = Следовательно, заработная плата — жертва капитала.
+- Also der Arbeitslohn = Следовательно, заработная плата —
+- ein Opfer des Kapitals = жертва капитала
+
+[915] = Труд распадается на самого себя и заработную плату.
+- Arbeit zerfallen in sich = Труд распавшийся на себя
+- und den Arbeitslohn = и заработную плату
+
+[916] = Рабочий сам — капитал, товар.
+- Arbeiter selbst ein Kapital = Рабочий сам — капитал,
+- eine Ware = товар
+
+[917] = Враждебная взаимная противоположность.
+- Feindlicher wechselseitiger Gegensatz = Враждебная взаимная противоположность
