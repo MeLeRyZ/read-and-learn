@@ -1,0 +1,616 @@
+[646] = Отчуждённый труд
+- Die entfremdete Arbeit = Отчуждённый труд
+
+[647] = Мы исходили из предпосылок политической экономии.
+- Wir sind ausgegangen = Мы исходили
+- von den Voraussetzungen der Nationalökonomie = из предпосылок политической экономии
++ sind ausgegangen von = исходили из ~ von etwas ausgehen
+
+[648] = Мы приняли её язык и её законы.
+- Wir haben ihre Sprache = Мы её язык
+- und ihre Gesetze akzeptiert = и её законы приняли
+
+[649] = Мы предположили частную собственность, отделение труда, капитала и земли друг от друга, а также заработной платы, прибыли на капитал и земельной ренты, разделение труда, конкуренцию, понятие меновой стоимости и т. д. Исходя из самой политической экономии, её собственными словами, мы показали, что рабочий опускается до положения товара, притом самого жалкого товара; что нищета рабочего обратно пропорциональна мощи и размерам его производства; что необходимым результатом конкуренции является накопление капитала в немногих руках, то есть ещё более ужасное восстановление монополии; что, наконец, исчезает различие между капиталистом и земельным рантье, как и между земледельцем и мануфактурным рабочим, и всё общество неизбежно распадается на два класса — собственников и лишённых собственности рабочих.
+- Wir unterstellten das Privateigentum = Мы предположили частную собственность
+- die Trennung von Arbeit, Kapital und Erde = отделение труда, капитала и земли
+- ebenso von Arbeitslohn = а также заработной платы
+- Profit des Kapitals und Grundrente = прибыли на капитал и земельной ренты
+- wie die Teilung der Arbeit = как и разделение труда
+- die Konkurrenz = конкуренцию
+- den Begriff des Tauschwertes etc. = понятие меновой стоимости и т. д.
+- Aus der Nationalökonomie selbst = Исходя из самой политической экономии
+- mit ihren eignen Worten = её собственными словами
+- haben wir gezeigt = мы показали
+- daß der Arbeiter zur Ware = что рабочий до товара
+- und zur elendesten Ware herabsinkt = и до самого жалкого товара опускается
+- daß das Elend des Arbeiters = что нищета рабочего
+- im umgekehrten Verhältnis = в обратном отношении
+- zur Macht und zur Größe seiner Produktion steht = к мощи и размерам его производства находится
+- daß das notwendige Resultat der Konkurrenz = что необходимый результат конкуренции
+- die Akkumulation des Kapitals = накопление капитала
+- in wenigen Händen = в немногих руках
+- also die fürchterlichere Wiederherstellung des Monopols ist = то есть ещё более страшное восстановление монополии
+- daß endlich der Unterschied = что, наконец, различие
+- von Kapitalist und Grundrentner = между капиталистом и земельным рантье
+- wie von Ackerbauer und Manufakturarbeiter = как и между земледельцем и мануфактурным рабочим
+- verschwindet = исчезает
+- und die ganze Gesellschaft = и всё общество
+- in die beiden Klassen der Eigentümer = на два класса — собственников
+- und eigentumslosen Arbeiter = и лишённых собственности рабочих
+- zerfallen muß = неизбежно распадается
++ im umgekehrten Verhältnis steht = обратно пропорционально ~ im umgekehrten Verhältnis zu etwas stehen
++ in zerfallen = распадаться на ~ in etwas zerfallen
+
+[650] = Политическая экономия исходит из факта частной собственности.
+- Die Nationalökonomie = Политическая экономия
+- geht vom Faktum des Privateigentums aus = исходит из факта частной собственности
++ geht aus = исходит ~ von etwas ausgehen
+
+[651] = Она не объясняет нам его.
+- Sie erklärt uns dasselbe nicht = Она не объясняет нам его
+
+[652] = Материальный процесс, который частная собственность проходит в действительности, она укладывает в общие, абстрактные формулы, которые затем имеют для неё значение законов.
+- Sie faßt = Она укладывает
+- den materiellen Prozeß des Privateigentums = материальный процесс частной собственности
+- den es in der Wirklichkeit durchmacht = который та проходит в действительности
+- in allgemeine, abstrakte Formeln = в общие, абстрактные формулы
+- die ihr dann als Gesetze gelten = которые затем для неё служат законами
++ als Gesetze gelten = считаются законами ~ als etwas gelten
+
+[653] = Она не постигает эти законы, т. е. не показывает, как они вытекают из сущности частной собственности.
+- Sie begreift diese Gesetze nicht = Она не постигает эти законы
+- d. h. = т. е.
+- sie zeigt nicht nach = она не показывает
+- wie sie aus dem Wesen des Privateigentums = как они из сущности частной собственности
+- hervorgehn = вытекают
++ zeigt nach = показывает, доказывает ~ nachzeigen (= nachweisen)
+
+[654] = Политическая экономия не даёт нам никакого объяснения причины разделения труда и капитала, капитала и земли.
+- Die Nationalökonomie gibt uns = Политическая экономия не даёт нам
+- keinen Aufschluß = никакого объяснения
+- über den Grund der Teilung = причины разделения
+- von Arbeit und Kapital = труда и капитала
+- von Kapital und Erde = капитала и земли
++ gibt Aufschluß über = объясняет, проливает свет на ~ Aufschluss über etwas geben
+
+[655] = Когда она, например, определяет отношение заработной платы к прибыли на капитал, последней причиной для неё служит интерес капиталистов, т. е. она предполагает то, что должна вывести.
+! ihr < ihn
+- Wenn sie z. B. = Когда она, например,
+- das Verhältnis des Arbeitslohns = отношение заработной платы
+- zum Profit des Kapitals bestimmt = к прибыли на капитал определяет
+- so gilt ihr als letzter Grund = то последней причиной для неё служит
+- das Interesse der Kapitalisten = интерес капиталистов
+- d. h. = т. е.
+- sie unterstellt = она предполагает
+- was sie entwickeln soll = то, что должна вывести
+
+[656] = Точно так же повсюду вмешивается конкуренция.
+- Ebenso kömmt überall = Точно так же повсюду
+- die Konkurrenz hinein = вмешивается конкуренция
++ kömmt hinein = входит, вмешивается ~ hineinkommen
+
+[657] = Её объясняют внешними обстоятельствами.
+- Sie wird aus äußeren Umständen erklärt = Её объясняют внешними обстоятельствами
+
+[658] = Насколько же эти внешние, по видимости случайные обстоятельства являются выражением необходимого развития, — об этом политическая экономия нам ничего не говорит.
+- Inwiefern diese äußeren = Насколько эти внешние,
+- scheinbar zufälligen Umstände nun = по видимости случайные обстоятельства
+- der Ausdruck einer notwendigen Entwicklung sind = выражение необходимого развития
+- darüber lehrt uns = об этом нас … не учит
+- die Nationalökonomie nichts = политическая экономия ничему
+
+[659] = Мы видели, что сам обмен представляется ей случайным фактом.
+! ihr < ihn
+- Wir haben gesehn = Мы видели
+- wie ihr der Austausch selbst = как ей сам обмен
+- als ein zufälliges Faktum erscheint = представляется случайным фактом
+
+[660] = Единственные колёса, которые политэконом приводит в движение, — это алчность и война между алчными, конкуренция.
+- Die einzigen Räder = Единственные колёса
+- die der Nationalökonom = которые политэконом
+- in Bewegung setzt = приводит в движение
+- sind die Habsucht = — это алчность
+- und der Krieg unter den Habsüchtigen = и война между алчными
+- die Konkurrenz = конкуренция
++ in Bewegung setzt = приводит в движение ~ etwas in Bewegung setzen
+
+[661] = Именно потому, что политическая экономия не постигает связи движения, могли снова противопоставляться друг другу, например, учение о конкуренции — учению о монополии, учение о свободе промыслов — учению о корпорациях, учение о дроблении земельной собственности — учению о крупном землевладении: ведь конкуренция, свобода промыслов, дробление землевладения были поняты и развиты лишь как случайные, преднамеренные, насильственные, а не как необходимые, неизбежные, естественные следствия монополии, корпорации и феодальной собственности.
+! der Korporation < den Korporation
+- Eben weil die Nationalökonomie = Именно потому, что политическая экономия
+- den Zusammenhang der Bewegung = связи движения
+- nicht begreift = не постигает
+- darum konnte sich z. B. = поэтому могли, например,
+- die Lehre von der Konkurrenz = учение о конкуренции
+- der Lehre vom Monopol = учению о монополии
+- die Lehre von der Gewerbfreiheit = учение о свободе промыслов
+- der Lehre von der Korporation = учению о корпорации
+- die Lehre von der Teilung des Grundbesitzes = учение о дроблении землевладения
+- der Lehre vom großen Grundeigentum = учению о крупной земельной собственности
+- wieder entgegenstellen = снова противопоставляться
+- denn Konkurrenz, Gewerbfreiheit = ведь конкуренция, свобода промыслов,
+- Teilung des Grundbesitzes = дробление землевладения
+- waren nur als zufällige = были лишь как случайные,
+- absichtliche, gewaltsame = преднамеренные, насильственные,
+- nicht als notwendige = а не как необходимые,
+- unvermeidliche, natürliche Konsequenzen = неизбежные, естественные следствия
+- des Monopols, der Korporation = монополии, корпорации
+- und des Feudaleigentums = и феодальной собственности
+- entwickelt und begriffen = развиты и поняты
++ konnte sich entgegenstellen = мог противопоставляться ~ sich einer Sache entgegenstellen
+
+[662] = Итак, теперь нам предстоит постичь существенную связь между частной собственностью, алчностью, отделением друг от друга труда, капитала и земельной собственности, обменом и конкуренцией, стоимостью и обесценением людей, монополией и конкуренцией и т. д., — связь всего этого отчуждения с денежной системой.
+- Wir haben also jetzt = Итак, теперь нам предстоит
+- den wesentlichen Zusammenhang = существенную связь
+- zwischen dem Privateigentum = между частной собственностью,
+- der Habsucht = алчностью,
+- der Trennung von Arbeit, Kapital und Grundeigentum = отделением труда, капитала и земельной собственности
+- von Austausch und Konkurrenz = обменом и конкуренцией
+- von Wert und Entwertung der Menschen = стоимостью и обесценением людей
+- von Monopol und Konkurrenz etc. = монополией и конкуренцией и т. д.
+- von dieser ganzen Entfremdung = всего этого отчуждения
+- mit dem Geldsystem = с денежной системой
+- zu begreifen = постичь
++ haben zu begreifen = должны постичь ~ haben + zu + Infinitiv
+
+[663] = Не будем переноситься, как политэконом, когда он хочет что-то объяснить, в вымышленное первобытное состояние.
+- Versetzen wir uns nicht = Не будем переноситься
+- wie der Nationalökonom = как политэконом,
+- wenn er erklären will = когда он хочет объяснить,
+- in einen nun erdichteten Urzustand = в вымышленное первобытное состояние
++ Versetzen wir uns = перенесёмся ~ sich in etwas versetzen ~ повелительная форма «давайте»
+
+[664] = Такое первобытное состояние ничего не объясняет.
+- Ein solcher Urzustand = Такое первобытное состояние
+- erklärt nichts = ничего не объясняет
+
+[665] = Он лишь отодвигает вопрос в серую, туманную даль.
+- Er schiebt bloß die Frage = Он лишь отодвигает вопрос
+- in eine graue, nebelhafte Ferne = в серую, туманную даль
+
+[666] = Он предполагает в форме факта, события то, что должен вывести, а именно необходимое отношение между двумя вещами, например между разделением труда и обменом.
+- Er unterstellt = Он предполагает
+- in der Form der Tatsache = в форме факта
+- des Ereignisses = события
+- was er deduzieren soll = то, что должен вывести
+- nämlich das notwendige Verhältnis = а именно необходимое отношение
+- zwischen zwei Dingen = между двумя вещами
+- z. B. = например
+- zwischen Teilung der Arbeit und Austausch = между разделением труда и обменом
+
+[667] = Так теология объясняет происхождение зла грехопадением, т. е. предполагает как факт, в форме истории, то, что должна объяснить.
+- So erklärt die Theologie = Так теология объясняет
+- den Ursprung des Bösen = происхождение зла
+- durch den Sündenfall = грехопадением
+- d. h. = т. е.
+- er unterstellt als ein Faktum = он предполагает как факт
+- in der Form der Geschichte = в форме истории
+- was er erklären soll = то, что должен объяснить
+* er = он (теолог) | | местоим. | у Маркса здесь «er» — видимо, о теологе, хотя выше «die Theologie»
+
+[668] = Мы исходим из политико-экономического, современного факта.
+- Wir gehn = Мы исходим
+- von einem nationalökonomischen = из политико-экономического,
+- gegenwärtigen Faktum aus = современного факта
++ gehn aus = исходим ~ von etwas ausgehen
+
+[669] = Рабочий становится тем беднее, чем больше богатства он производит, чем больше растут мощь и объём его производства.
+! Arbeiter < Arbeiten
+- Der Arbeiter wird = Рабочий становится
+- um so ärmer = тем беднее
+- je mehr Reichtum er produziert = чем больше богатства он производит
+- je mehr seine Produktion = чем больше его производство
+- an Macht und Umfang zunimmt = в мощи и объёме растёт
++ um so je = тем … чем ~ je mehr …, um so … ~ здесь главная часть стоит впереди
+
+[670] = Рабочий становится тем более дешёвым товаром, чем больше товаров он создаёт.
+! er schafft < en schafft
+- Der Arbeiter wird = Рабочий становится
+- eine um so wohlfeilere Ware = тем более дешёвым товаром
+- je mehr Waren er schafft = чем больше товаров он создаёт
+
+[671] = Вместе с ростом стоимости мира вещей прямо пропорционально растёт обесценение мира людей.
+- Mit der Verwertung der Sachenwelt = С возрастанием стоимости мира вещей
+- nimmt die Entwertung der Menschenwelt = обесценение мира людей
+- in direktem Verhältnis zu = прямо пропорционально растёт
++ nimmt zu = растёт ~ zunehmen
+
+[672] = Труд производит не только товары: он производит самого себя и рабочего как товар, и притом в той же мере, в какой он вообще производит товары.
+- Die Arbeit produziert nicht nur Waren = Труд производит не только товары
+- sie produziert sich selbst = он производит самого себя
+- und den Arbeiter als eine Ware = и рабочего как товар
+- und zwar in dem Verhältnis = и притом в той мере,
+- in welchem sie überhaupt Waren produziert = в какой он вообще производит товары
+* sie = он (труд) | | местоим. | die Arbeit — ж. р., по-русски «труд» — м. р.
+
+[673] = Этот факт выражает лишь следующее: предмет, производимый трудом, его продукт, противостоит труду как некое чуждое существо, как сила, не зависящая от производителя.
+! ihm < ihn
+- Dies Faktum drückt = Этот факт выражает
+- weiter nichts aus als = не что иное, как
+- Der Gegenstand = предмет,
+- den die Arbeit produziert = производимый трудом,
+- ihr Produkt = его продукт,
+- tritt ihm = противостоит ему
+- als ein fremdes Wesen = как чуждое существо
+- als eine von dem Produzenten unabhängige Macht = как сила, не зависящая от производителя
+- gegenüber = (противостоит)
++ drückt aus = выражает ~ ausdrücken
++ tritt gegenüber = противостоит ~ jemandem gegenübertreten
+
+[674] = Продукт труда — это труд, закреплённый в предмете, ставший вещным; это опредмечивание труда.
+- Das Produkt der Arbeit = Продукт труда
+- ist die Arbeit = есть труд,
+- die sich in einem Gegenstand fixiert = который закрепился в предмете,
+- sachlich gemacht hat = овеществился
+- es ist die Vergegenständlichung der Arbeit = это опредмечивание труда
+* vergegenständlichung = опредмечивание | die Vergegenständlichung | сущ. | ключевой термин: труд воплощается в предмете
+
+[675] = Осуществление труда есть его опредмечивание.
+- Die Verwirklichung der Arbeit = Осуществление труда
+- ist ihre Vergegenständlichung = есть его опредмечивание
+
+[676] = При политико-экономическом положении дел это осуществление труда выступает как выключение рабочего из действительности, опредмечивание — как утрата предмета и рабство у него, освоение — как отчуждение, как отчуждение-отчуждённость (Entäußerung).
+- Diese Verwirklichung der Arbeit = Это осуществление труда
+- erscheint in dem nationalökonomischen Zustand = выступает при политико-экономическом положении дел
+- als Entwirklichung des Arbeiters = как выключение рабочего из действительности
+- die Vergegenständlichung = опредмечивание —
+- als Verlust und Knechtschaft des Gegenstandes = как утрата предмета и рабство у предмета
+- die Aneignung = освоение —
+- als Entfremdung = как отчуждение,
+- als Entäußerung = как отчуждение (овнешнение)
+* entwirklichung = выключение из действительности, «развеществление» | die Entwirklichung | сущ. | антоним Verwirklichung: человек теряет свою действительность
+* entäußerung = отчуждение, овнешнение | die Entäußerung | сущ. | Entäußerung — «выход вовне, отдача себя»; Entfremdung — «становление чужим». В русских переводах оба часто «отчуждение»
+
+[677] = Осуществление труда выступает настолько как выключение из действительности, что рабочий выключается из действительности вплоть до голодной смерти.
+- Die Verwirklichung der Arbeit = Осуществление труда
+- erscheint so sehr als Entwirklichung = выступает настолько как выключение из действительности,
+- daß der Arbeiter = что рабочий
+- bis zum Hungertod = вплоть до голодной смерти
+- entwirklicht wird = выключается из действительности
+
+[678] = Опредмечивание выступает настолько как утрата предмета, что рабочий лишён самых необходимых предметов — не только для жизни, но и для труда.
+- Die Vergegenständlichung erscheint = Опредмечивание выступает
+- so sehr als Verlust des Gegenstandes = настолько как утрата предмета,
+- daß der Arbeiter = что рабочий
+- der notwendigsten Gegenstände = самых необходимых предметов
+- nicht nur des Lebens = не только жизненных,
+- sondern auch der Arbeitsgegenstände = но и предметов труда
+- beraubt ist = лишён
++ der beraubt ist = лишён чего-то ~ einer Sache beraubt sein ~ управляет родительным падежом
+
+[679] = Более того, сам труд становится предметом, которым он может овладеть лишь с величайшим напряжением и с самыми нерегулярными перерывами.
+- Ja, die Arbeit selbst = Более того, сам труд
+- wird zu einem Gegenstand = становится предметом,
+- dessen er nur = которым он лишь
+- mit der größten Anstrengung = с величайшим напряжением
+- und mit den unregelmäßigsten Unterbrechungen = и с самыми нерегулярными перерывами
+- sich bemächtigen kann = может овладеть
++ dessen sich bemächtigen = овладеть чем-то ~ sich einer Sache bemächtigen ~ с родительным падежом
+
+[680] = Освоение предмета выступает настолько как отчуждение, что чем больше предметов производит рабочий, тем меньше он может иметь в собственности и тем больше попадает под власть своего продукта — капитала.
+- Die Aneignung des Gegenstandes = Освоение предмета
+- erscheint so sehr als Entfremdung = выступает настолько как отчуждение,
+- daß, je mehr Gegenstände = что чем больше предметов
+- der Arbeiter produziert = производит рабочий,
+- er um so weniger besitzen kann = тем меньше он может иметь
+- und um so mehr = и тем больше
+- unter die Herrschaft seines Produkts = под власть своего продукта,
+- des Kapitals = капитала,
+- gerät = попадает
++ unter die Herrschaft gerät = попадает под власть ~ unter die Herrschaft geraten
+
+[681] = Все эти следствия заключены в том определении, что рабочий относится к продукту своего труда как к чужому предмету.
+- In der Bestimmung = В определении,
+- daß der Arbeiter = что рабочий
+- zum Produkt seiner Arbeit = к продукту своего труда
+- als einem fremden Gegenstand = как к чужому предмету
+- sich verhält = относится,
+- liegen alle diese Konsequenzen = заключены все эти следствия
++ zum sich verhält = относится к ~ sich zu etwas verhalten
+
+[682] = Ведь при этой предпосылке ясно: чем больше рабочий выкладывается в труде, тем могущественнее становится чуждый, предметный мир, который он создаёт против себя, тем беднее становится он сам, его внутренний мир, тем меньше ему принадлежит.
+- Denn es ist = Ведь
+- nach dieser Voraussetzung klar = при этой предпосылке ясно
+- Je mehr der Arbeiter = чем больше рабочий
+- sich ausarbeitet = выкладывается в труде
+- um so mächtiger wird = тем могущественнее становится
+- die fremde, gegenständliche Welt = чуждый, предметный мир,
+- die er sich gegenüber schafft = который он создаёт напротив себя
+- um so ärmer wird er selbst = тем беднее становится он сам,
+- seine innre Welt = его внутренний мир,
+- um so weniger gehört ihm zu eigen = тем меньше принадлежит ему как его собственное
++ gehört zu eigen = принадлежит как собственное ~ jemandem zu eigen gehören
+
+[683] = Так же обстоит дело и в религии.
+- Es ist ebenso in der Religion = Так же и в религии
+
+[684] = Чем больше человек вкладывает в Бога, тем меньше он сохраняет в самом себе.
+- Je mehr der Mensch = Чем больше человек
+- in Gott setzt = вкладывает в Бога
+- je weniger behält er = тем меньше сохраняет он
+- in sich selbst = в самом себе
++ Je je = чем …, тем … ~ je …, je … (= je …, desto …)
+
+[685] = Рабочий вкладывает в предмет свою жизнь, но теперь она принадлежит уже не ему, а предмету.
+- Der Arbeiter legt sein Leben = Рабочий вкладывает свою жизнь
+- in den Gegenstand = в предмет
+- aber nun gehört es = но теперь она принадлежит
+- nicht mehr ihm = уже не ему,
+- sondern dem Gegenstand = а предмету
+
+[686] = Итак, чем больше эта деятельность, тем беднее предметами рабочий.
+- Je größer also diese Tätigkeit = Итак, чем больше эта деятельность,
+- um so gegenstandsloser ist der Arbeiter = тем беднее предметами рабочий
+
+[687] = Чем является продукт его труда, тем он сам не является.
+- Was das Produkt seiner Arbeit ist = Чем является продукт его труда,
+- ist er nicht = тем не является он
+
+[688] = Итак, чем больше этот продукт, тем меньше он сам.
+- Je größer also dieses Produkt = Итак, чем больше этот продукт,
+- je weniger ist er selbst = тем меньше он сам
+
+[689] = Отчуждение рабочего в его продукте означает не только то, что его труд становится предметом, внешним существованием, но и то, что труд существует вне его, независимо от него, как нечто чуждое ему, и становится противостоящей ему самостоятельной силой; что жизнь, которую он сообщил предмету, выступает против него как враждебная и чуждая.
+- Die Entäußrung des Arbeiters = Отчуждение рабочего
+- in seinem Produkt = в его продукте
+- hat die Bedeutung = означает
+- nicht nur, daß seine Arbeit = не только то, что его труд
+- zu einem Gegenstand = предметом,
+- zu einer äußern Existenz wird = внешним существованием становится
+- sondern daß sie außer ihm = но и то, что он вне его,
+- unabhängig, fremd von ihm existiert = независимо, чуждо ему существует
+- und eine selbständige Macht = и самостоятельной силой
+- ihm gegenüber wird = противостоящей ему становится
+- daß das Leben = что жизнь,
+- was er dem Gegenstand verliehn hat = которую он сообщил предмету,
+- ihm feindlich und fremd = ему враждебно и чуждо
+- gegenübertritt = противостоит
++ hat die Bedeutung = означает ~ die Bedeutung haben, daß …
+
+[690] = Рассмотрим теперь подробнее опредмечивание, производство рабочего и в нём — отчуждение, утрату предмета, его продукта.
+- Betrachten wir nun näher = Рассмотрим теперь подробнее
+- die Vergegenständlichung = опредмечивание,
+- die Produktion des Arbeiters = производство рабочего
+- und in ihr die Entfremdung = и в нём отчуждение,
+- den Verlust des Gegenstandes = утрату предмета,
+- seines Produkts = его продукта
+
+[691] = Рабочий ничего не может создать без природы, без чувственного внешнего мира.
+- Der Arbeiter kann nichts schaffen = Рабочий ничего не может создать
+- ohne die Natur = без природы,
+- ohne die sinnliche Außenwelt = без чувственного внешнего мира
+
+[692] = Она — тот материал, на котором осуществляется его труд, в котором он действует, из которого и посредством которого он производит.
+- Sie ist der Stoff = Она — материал,
+- an welchem sich seine Arbeit verwirklicht = на котором осуществляется его труд,
+- in welchem sie tätig ist = в котором он действует,
+- aus welchem und mittelst welchem = из которого и посредством которого
+- sie produziert = он производит
+
+[693] = Но как природа доставляет труду жизненные средства в том смысле, что труд не может жить без предметов, к которым он прилагается, так она доставляет, с другой стороны, и жизненные средства в более узком смысле, то есть средства физического существования самого рабочего.
+- Wie aber die Natur = Но как природа
+- [die] Lebensmittel der Arbeit darbietet = доставляет труду средства жизни
+- in dem Sinn = в том смысле,
+- daß die Arbeit nicht leben kann = что труд не может жить
+- ohne Gegenstände = без предметов,
+- an denen sie ausgeübt wird = к которым он прилагается,
+- so bietet sie andrerseits = так она, с другой стороны,
+- auch d[ie] Lebensmittel = и средства жизни
+- in dem engern Sinn dar = в более узком смысле доставляет
+- nämlich die Mittel = а именно средства
+- der physischen Subsistenz = физического существования
+- des Arbeiters selbst = самого рабочего
++ bietet dar = доставляет, предлагает ~ darbieten
+* lebensmittel = средства к жизни | das Lebensmittel | сущ. | у Маркса буквально «средства жизни», а не «продукты питания»
+
+[694] = Итак, чем больше рабочий своим трудом осваивает внешний мир, чувственную природу, тем больше он лишает себя жизненных средств в двояком отношении: во-первых, чувственный внешний мир всё больше перестаёт быть предметом, принадлежащим его труду, жизненным средством его труда; во-вторых, он всё больше перестаёт быть жизненным средством в непосредственном смысле — средством для физического существования рабочего.
+! hin < bin
+- Je mehr also der Arbeiter = Итак, чем больше рабочий
+- die Außenwelt = внешний мир,
+- die sinnliche Natur = чувственную природу,
+- durch seine Arbeit sich aneignet = своим трудом осваивает,
+- um so mehr entzieht er sich Lebensmittel = тем больше он лишает себя средств жизни
+- nach der doppelten Seite hin = в двояком отношении
+- erstens, daß immer mehr = во-первых, всё больше
+- die sinnliche Außenwelt aufhört = чувственный внешний мир перестаёт
+- ein seiner Arbeit angehöriger Gegenstand = (быть) предметом, принадлежащим его труду,
+- ein Lebensmittel seiner Arbeit zu sein = средством жизни его труда
+- zweitens, daß sie immer mehr aufhört = во-вторых, что он всё больше перестаёт
+- Lebensmittel im unmittelbaren Sinn = (быть) средством жизни в непосредственном смысле,
+- Mittel für die physische Subsistenz = средством для физического существования
+- des Arbeiters zu sein = рабочего
++ entzieht sich = лишает себя ~ sich (D) etwas entziehen
++ aufhört zu sein = перестаёт быть ~ aufhören, etwas zu sein
+
+[695] = Итак, в этом двояком отношении рабочий становится рабом своего предмета: во-первых, тем, что он получает предмет труда, т. е. получает работу, и, во-вторых, тем, что он получает средства существования.
+! hin < bin
+- Nach dieser doppelten Seite hin = В этом двояком отношении
+- wird der Arbeiter also = рабочий, таким образом, становится
+- ein Knecht seines Gegenstandes = рабом своего предмета
+- erstens, daß er einen Gegenstand der Arbeit = во-первых, тем, что он предмет труда,
+- d. h. = т. е.
+- daß er Arbeit erhält = что он получает работу
+- und zweitens = и, во-вторых,
+- daß er Subsistenzmittel erhält = что он получает средства существования
+
+[696] = Во-первых, тем, что он может существовать как рабочий, и, во-вторых, как физический субъект.
+- Erstens also = Итак, во-первых,
+- daß er als Arbeiter = что он как рабочий,
+- und zweitens = и, во-вторых,
+- daß er als physisches Subjekt = что он как физический субъект
+- existieren kann = может существовать
+
+[697] = Вершина этого рабства — в том, что он может поддерживать своё существование как физический субъект, лишь будучи рабочим, и является рабочим лишь как физический субъект.
+- Die Spitze dieser Knechtschaft ist = Вершина этого рабства в том,
+- daß er nur mehr als Arbeiter = что он лишь как рабочий
+- sich als physisches Subjekt = себя как физический субъект
+- erhalten [kann] = может поддерживать
+- und nur mehr als physisches Subjekt = и лишь как физический субъект
+- Arbeiter ist = является рабочим
+
+[698] = (Отчуждение рабочего в его предмете выражается по законам политической экономии так: чем больше рабочий производит, тем меньше он может потреблять; чем больше ценностей он создаёт, тем больше сам обесценивается и лишается достоинства; чем лучше оформлен его продукт, тем больше изуродован рабочий; чем культурнее его предмет, тем более похож на варвара рабочий; чем могущественнее труд, тем бессильнее рабочий; чем больше ума в труде, тем больше рабочий лишается ума и становится рабом природы.)
+- Die Entfremdung des Arbeiters = Отчуждение рабочего
+- in seinem Gegenstand = в его предмете
+- drückt sich = выражается
+- nach nationalökonomischen Gesetzen = по законам политической экономии
+- so aus = так:
+- daß, je mehr der Arbeiter produziert = чем больше рабочий производит,
+- er um so weniger zu konsumieren hat = тем меньше ему достаётся потреблять
+- daß, je mehr Werte er schafft = чем больше ценностей он создаёт,
+- er um so wertloser = тем более он обесценен,
+- um so unwürdiger wird = тем более лишён достоинства
+- daß, je geformter sein Produkt = чем лучше оформлен его продукт,
+- um so mißförmiger der Arbeiter = тем уродливее рабочий
+- daß, je zivilisierter sein Gegenstand = чем культурнее его предмет,
+- um so barbarischer der Arbeiter = тем больше варвар рабочий
+- daß, um so mächtiger die Arbeit = чем могущественнее труд,
+- um so ohnmächtiger der Arbeiter wird = тем бессильнее становится рабочий
+- daß, je geistreicher die Arbeit = чем больше ума в труде,
+- um so mehr geistloser = тем больше лишён ума
+- und Naturknecht der Arbeiter wird = и тем больше раб природы рабочий
++ drückt sich aus = выражается ~ sich ausdrücken
+
+[699] = Политическая экономия скрывает отчуждение в самой сущности труда тем, что не рассматривает непосредственного отношения между рабочим (трудом) и производством.
+! das < des
+- Die Nationalökonomie verbirgt = Политическая экономия скрывает
+- die Entfremdung in dem Wesen der Arbeit = отчуждение в сущности труда
+- dadurch, daß sie nicht = тем, что не
+- das unmittelbare Verhältnis = непосредственное отношение
+- zwischen dem Arbeiter = между рабочим
+- der Arbeit = (трудом)
+- und der Produktion betrachtet = и производством рассматривает
+
+[700] = Конечно.
+- Allerdings = Конечно
+
+[701] = Труд производит чудесные вещи для богатых, но он же производит обнищание рабочего.
+- Die Arbeit produziert Wunderwerke = Труд производит чудеса
+- für die Reichen = для богатых,
+- aber sie produziert Entblößung = но он производит обнищание
+- für den Arbeiter = для рабочего
+* entblößung = обнищание, «оголение» | die Entblößung | сущ. | буквально «обнажение» — лишённость всего
+
+[702] = Он создаёт дворцы, но также и трущобы для рабочих.
+- Sie produziert Paläste = Он создаёт дворцы,
+- aber Höhlen für den Arbeiter = но пещеры для рабочего
+
+[703] = Он творит красоту, но также и уродует рабочего.
+- Sie produziert Schönheit = Он создаёт красоту,
+- aber Verkrüppelung für den Arbeiter = но увечье для рабочего
+
+[704] = Он заменяет труд машинами, но при этом отбрасывает часть рабочих назад к варварскому труду, а другую часть рабочих превращает в машину.
+- Sie ersetzt die Arbeit = Он заменяет труд
+- durch Maschinen = машинами,
+- aber sie wirft einen Teil der Arbeiter = но отбрасывает часть рабочих
+- zu einer barbarischen Arbeit zurück = назад к варварскому труду
+- und macht den andren Teil = и делает другую часть
+- zur Maschine = машиной
++ wirft zurück = отбрасывает назад ~ zurückwerfen
+
+[705] = Он производит ум, но также и слабоумие, кретинизм как удел рабочего.
+- Sie produziert Geist = Он производит ум,
+- aber sie produziert Blödsinn = но производит слабоумие,
+- Kretinismus für den Arbeiter = кретинизм для рабочего
+
+[706] = Непосредственное отношение труда к его продуктам есть отношение рабочего к предметам его производства.
+! das < des
+- Das unmittelbare Verhältnis der Arbeit = Непосредственное отношение труда
+- zu ihren Produkten = к его продуктам
+- ist das Verhältnis des Arbeiters = есть отношение рабочего
+- zu den Gegenständen seiner Produktion = к предметам его производства
+
+[707] = Отношение имущего к предметам производства и к самому производству есть лишь следствие этого первого отношения.
+- Das Verhältnis des Vermögenden = Отношение имущего
+- zu den Gegenständen der Produktion = к предметам производства
+- und zu ihr selbst = и к самому производству
+- ist nur eine Konsequenz = есть лишь следствие
+- dieses ersten Verhältnisses = этого первого отношения
+
+[708] = И подтверждает его.
+- Und bestätigt es = И подтверждает его
+
+[709] = Эту другую сторону мы рассмотрим позже.
+- Wir werden diese andre Seite = Эту другую сторону мы
+- später betrachten = рассмотрим позже
+
+[710] = Итак, когда мы спрашиваем, каково существенное отношение труда, мы спрашиваем об отношении рабочего к производству.
+- Wenn wir also fragen = Итак, когда мы спрашиваем:
+- Welches ist das wesentliche Verhältnis der Arbeit = каково существенное отношение труда,
+- so fragen wir = то мы спрашиваем
+- nach dem Verhältnis des Arbeiters = об отношении рабочего
+- zur Produktion = к производству
++ fragen nach = спрашиваем о ~ nach etwas fragen
+
+[711] = До сих пор мы рассматривали отчуждение рабочего лишь с одной стороны, а именно его отношение к продуктам своего труда.
+! hin < bin
+- Wir haben bisher = Мы до сих пор
+- die Entfremdung = отчуждение,
+- die Entäußerung des Arbeiters = отчуждение рабочего
+- nur nach der einen Seite hin betrachtet = рассматривали лишь с одной стороны
+- nämlich sein Verhältnis = а именно его отношение
+- zu den Produkten seiner Arbeit = к продуктам своего труда
+
+[712] = Но отчуждение проявляется не только в результате, но и в акте производства, внутри самой производящей деятельности.
+- Aber die Entfremdung zeigt sich = Но отчуждение проявляется
+- nicht nur im Resultat = не только в результате,
+- sondern im Akt der Produktion = но и в акте производства,
+- innerhalb der produzierenden Tätigkeit selbst = внутри самой производящей деятельности
++ zeigt sich = проявляется ~ sich zeigen
+
+[713] = Как мог бы рабочий противостоять продукту своей деятельности как чему-то чуждому, если бы в самом акте производства он не отчуждал себя от самого себя?
+- Wie würde der Arbeiter = Как мог бы рабочий
+- dem Produkt seiner Tätigkeit = продукту своей деятельности
+- fremd gegenübertreten können = как чуждому противостоять,
+- wenn er im Akt der Produktion selbst = если бы он в самом акте производства
+- sich nicht sich selbst entfremdete = не отчуждал себя от самого себя
+
+[714] = Ведь продукт — это лишь итог деятельности, производства.
+- Das Produkt ist ja nur = Продукт ведь лишь
+- das Resümee der Tätigkeit = итог деятельности,
+- der Produktion = производства
+
+[715] = Если продукт труда есть отчуждение, то и само производство должно быть деятельным отчуждением, отчуждением деятельности, деятельностью отчуждения.
+- Wenn also das Produkt der Arbeit = Итак, если продукт труда
+- die Entäußerung ist = есть отчуждение,
+- so muß die Produktion selbst = то само производство должно
+- die tätige Entäußerung = (быть) деятельным отчуждением,
+- die Entäußerung der Tätigkeit = отчуждением деятельности,
+- die Tätigkeit der Entäußerung sein = деятельностью отчуждения
+
+[716] = В отчуждении предмета труда лишь подытоживается отчуждение в самой деятельности труда.
+- In der Entfremdung des Gegenstandes der Arbeit = В отчуждении предмета труда
+- resümiert sich nur = подытоживается лишь
+- die Entfremdung = отчуждение,
+- die Entäußerung in der Tätigkeit der Arbeit selbst = отчуждение в самой трудовой деятельности
+
+[717] = В чём же заключается отчуждение труда?
+- Worin besteht nun = В чём же заключается
+- die Entäußerung der Arbeit = отчуждение труда
++ Worin besteht = в чём заключается ~ in etwas bestehen
+
+[718] = Во-первых, в том, что труд является для рабочего чем-то внешним, т. е. не принадлежит к его сущности; что он поэтому в своём труде не утверждает себя, а отрицает, чувствует себя не счастливым, а несчастным, не развивает свободно свою физическую и духовную энергию, а изнуряет свою плоть и разрушает свой дух.
+- Erstens, daß die Arbeit = Во-первых, в том, что труд
+- dem Arbeiter äußerlich ist = для рабочего есть нечто внешнее
+- d. h. nicht zu seinem Wesen gehört = т. е. не принадлежит к его сущности
+- daß er sich daher = что он поэтому
+- in seiner Arbeit = в своём труде
+- nicht bejaht, sondern verneint = не утверждает себя, а отрицает
+- nicht wohl, sondern unglücklich fühlt = чувствует себя не хорошо, а несчастным
+- keine freie physische und geistige Energie entwickelt = не развивает свободной физической и духовной энергии,
+- sondern seine Physis abkasteit = а изнуряет свою плоть
+- und seinen Geist ruiniert = и разрушает свой дух
++ zu gehört = принадлежит к ~ zu etwas gehören
++ sich fühlt = чувствует себя ~ sich fühlen
+
+[719] = Поэтому рабочий только вне труда чувствует себя у себя, а в труде — вне себя.
+- Der Arbeiter fühlt sich daher = Поэтому рабочий чувствует себя
+- erst außer der Arbeit bei sich = лишь вне труда у себя (самим собой)
+- und in der Arbeit außer sich = а в труде — вне себя
++ bei sich = у себя, самим собой ~ bei sich sein
++ außer sich = вне себя ~ außer sich sein
+
+[720] = Он дома, когда не работает, а когда работает, он не дома.
+- Zu Hause ist er = Дома он,
+- wenn er nicht arbeitet = когда не работает,
+- und wenn er arbeitet = а когда работает,
+- ist er nicht zu Haus = он не дома
++ Zu Hause = дома ~ zu Hause sein

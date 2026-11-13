@@ -139,7 +139,7 @@ export function Card({ doc, p, sel, anchor, onClose }: Props) {
         </div>
         <div className="card-ru">{g?.ru ?? (single ? chunk?.ru : undefined) ?? <span className="card-pos">нет перевода</span>}</div>
         {g?.n && <div className="card-note">{g.n}</div>}
-        {orig && <div className="card-note">В записи распознано как «{orig}»</div>}
+        {orig && <div className="card-note">В исходном тексте было «{orig}»</div>}
 
         {chunk && !single && (
           <div className="card-sec">
