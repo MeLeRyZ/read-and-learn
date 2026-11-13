@@ -1,0 +1,743 @@
+[431] = Земельная рента
+- Grundrente = Земельная рента
+
+[432] = Право земельных собственников ведёт своё происхождение от грабежа.
+! vom Raub < vorn Raub
+- Das Recht der Grundeigentümer = Право земельных собственников
+- leitet seinen Ursprung vom Raub = ведёт своё происхождение от грабежа
+
+[433] = Сэй, т. I, с. 136, примечание.
+- Say, t.I, p.136, not = Сэй, т. I, с. 136, примечание
+* not = примечание | nota | сокр.
+
+[434] = Земельные собственники, как и все люди, любят пожинать там, где не сеяли, и требуют ренты даже за естественный продукт земли.
+! selbst für < salbst für
+- Die Grundeigentümer lieben = Земельные собственники любят,
+- wie alle Menschen = как и все люди,
+- da zu ernten = там пожинать,
+- wo sie nicht gesät haben = где они не сеяли,
+- und sie verlangen eine Rente = и они требуют ренты
+- selbst für das natürliche Produkt der Erde = даже за естественный продукт земли
+
+[435] = Смит, т. I, с. 99.
+- Smith, t.I, p.99 = Смит, т. I, с. 99
+
+[436] = «Можно было бы представить себе, что земельная рента есть лишь прибыль на капитал, затраченный собственником на улучшение земли…
+! der Eigentümer < dar Eigentümer
+- Man könnte sich vorstellen = «Можно было бы представить,
+- die Grundrente sei nur der Gewinn des Kapitals = что земельная рента — лишь прибыль на капитал,
+- welches der Eigentümer = который собственник
+- zur Verbesserung des Bodens benutzt hat = на улучшение земли употребил…
+
+[437] = Бывают случаи, когда земельная рента отчасти может этим быть… но земельный собственник требует, во-первых, ренты даже за неулучшенную землю, а то, что можно считать процентом или прибылью на издержки по улучшению, есть по большей части лишь добавка к этой первоначальной ренте; во-вторых, кроме того, эти улучшения не всегда делаются на средства земельных собственников, а иногда на средства арендатора; тем не менее, когда речь идёт о возобновлении аренды, земельный собственник обычно требует такого повышения ренты, как если бы все эти улучшения были сделаны на его собственные средства; в-третьих, он требует иногда ренты даже за то, что совершенно не поддаётся никакому улучшению человеческими руками».
+! Grundeigentümer fordert < Grundeigentürner fordert
+- Es gibt Fälle = Бывают случаи,
+- wo die Grundrente dies zum Teil sein kann = когда земельная рента отчасти может этим быть…
+- aber der Grundeigentümer fordert = но земельный собственник требует,
+- 1. eine Rente selbst für die nicht verbesserte Erde = 1) ренты даже за неулучшенную землю,
+- und was man als Interesse oder Gewinn = а то, что можно как процент или прибыль
+- auf die Verbesserungskosten betrachten kann = на издержки по улучшению рассматривать,
+- ist meistens nur eine Zutat = есть обычно лишь добавка
+- Addition = (Addition)
+- zu dieser primitiven Rente = к этой первоначальной ренте;
+- 2. überdem sind diese Verbesserungen = 2) кроме того, эти улучшения
+- nicht immer mit den fonds der Grundeigentümer gemacht = не всегда сделаны на средства земельных собственников,
+- sondern manchmal mit denen des Pächters = а иногда на средства арендатора;
+- nichtsdestoweniger = тем не менее,
+- wenn es sich darum handelt = когда речь идёт о том,
+- die Pacht zu erneuen = чтобы возобновить аренду,
+- verlangt der Grundeigentümer gewöhnlich = земельный собственник обычно требует
+- eine solche Erhöhung der Rente = такого повышения ренты,
+- als wenn alle diese Verbesserungen = как если бы все эти улучшения
+- mit seinen eignen fonds gemacht wären = на его собственные средства были сделаны;
+- 3. ja, er verlangt manchmal selbst = 3) более того, он требует иногда даже
+- eine Rente für das = ренты за то,
+- was durchaus unfähig der geringsten Verbesserung = что совершенно не поддаётся малейшему улучшению
+- durch Menschenhand ist = человеческой рукой»
++ es sich darum handelt = речь идёт о том ~ es handelt sich darum, …
+
+[438] = Смит, т. I, с. 300, 301.
+- Smith, t.I, p.300, 301 = Смит, т. I, с. 300, 301
+
+[439] = В качестве примера последнего случая Смит приводит солерос (морскую траву, salicorne),
+- Smith führt als Beispiel für letztren Fall = Смит приводит как пример последнего случая
+- das Salzkraut = солерос
+- Seekrapp, salicorne = (морская трава, salicorne)
+- an = (приводит)
++ führt an = приводит ~ anführen
+* salicorne = солерос | la salicorne | сущ. | франц.
+
+[440] = вид морского растения, которое после сжигания даёт щелочную соль, пригодную для изготовления стекла, мыла и т. д.
+- eine Art von Seepflanze = вид морского растения,
+- welche nach der Verbrennung = которое после сжигания
+- ein alkalisches Salz gibt = даёт щелочную соль,
+- womit man Glas, Seife etc. machen kann = из которой можно делать стекло, мыло и т. д.
+
+[441] = Оно растёт в Великобритании, особенно в Шотландии, в разных местах, но только на скалах, лежащих в полосе прилива и отлива (высокого прилива, marée), два раза в день покрываемых морскими волнами, так что его продукт никогда не увеличивался человеческим трудом.
+- Es wächst in Großbritannien = Оно растёт в Великобритании,
+- vorzüglich in Schottland = особенно в Шотландии,
+- an verschiednen Plätzen = в разных местах,
+- aber nur auf Felsen = но только на скалах,
+- die unter der Ebbe und Flut liegen = которые лежат в полосе отлива и прилива
+- hohen Flut, marée = (высокого прилива, marée),
+- 2mal des Tags = два раза в день
+- durch die Seewellen bedeckt sind = морскими волнами покрываются,
+- und deren Produkt also niemals = и чей продукт, следовательно, никогда
+- durch die menschliche Industrie vermehrt worden ist = человеческим трудом не увеличивался
+* marée = прилив | la marée | сущ. | франц.
+
+[442] = Тем не менее собственник такого участка, где растёт этот вид растения, требует ренты точно так же, как с хлебного поля.
+- Dennoch verlangt der Eigentümer = Тем не менее требует собственник
+- eines solchen Grundstücks = такого участка,
+- wo diese Art von Pflanze wächst = где растёт этот вид растения,
+- eine Rente ebensogut = ренты точно так же,
+- wie von Getreideboden = как с хлебной земли
+
+[443] = Близ Шетландских островов море необычайно богато.
+- In der Nähe der Inseln von Shetland = Близ Шетландских островов
+- ist das Meer außerordentlich reich = море необычайно богато
+
+[444] = Значительная часть их жителей живёт рыболовством.
+- Ein großer Teil ihrer Einwohner = Значительная часть их жителей
+- lebt vom Fischfang = живёт рыболовством
+
+[445] = Но чтобы извлекать доход из продуктов моря, надо иметь жилище на соседней земле.
+- Um aber Gewinn vom Meerprodukt zu ziehn = Но чтобы извлекать доход из продуктов моря,
+- muß man eine Wohnung = надо иметь жилище
+- auf dem benachbarten Lande haben = на соседней земле
+
+[446] = Земельная рента пропорциональна не тому, что арендатор может сделать с землёй, а тому, что он может сделать с землёй и морем вместе.
+- Die Grundrente steht im Verhältnis = Земельная рента пропорциональна
+- nicht zu dem, was der Pächter mit der Erde = не тому, что арендатор с землёй,
+- sondern zu dem, was er mit der Erde und dem Meer = а тому, что он с землёй и морем
+- zusammen machen kann = вместе может сделать
+
+[447] = Смит, т. I, с. 301, 302.
+! p.301 < p.30l
+- Smith, t.I, p.301, 302 = Смит, т. I, с. 301, 302
+
+[448] = «Земельную ренту можно рассматривать как продукт силы природы, пользование которой собственник предоставляет арендатору.
+- Man kann die Grundrente = «Можно земельную ренту
+- als das Produkt der Naturmacht betrachten = рассматривать как продукт силы природы,
+- deren Gebrauch der Eigentümer dem Pächter leiht = пользование которой собственник одалживает арендатору
+
+[449] = Этот продукт больше или меньше в зависимости от размеров этой силы, или, другими словами, от размеров естественного или искусственного плодородия земли.
+- Dies Produkt ist mehr oder weniger groß = Этот продукт больше или меньше
+- je nach dem Umfang dieser Macht = в зависимости от размеров этой силы,
+- oder, in andern Worten = или, другими словами,
+- nach dem Umfang der natürlichen oder künstlichen Fruchtbarkeit der Erde = от размеров естественного или искусственного плодородия земли
+
+[450] = Это произведение природы, которое остаётся за вычетом или за балансом всего того, что можно считать произведением человека». Смит, т. II, с. 377, 378.
+- Es ist das Werk der Natur = Это произведение природы,
+- welches übrigbleibt = которое остаётся
+- nach Abziehung oder nach der Balance = после вычета или баланса
+- alles dessen = всего того,
+- was man als das Werk des Menschen betrachten kann = что можно считать произведением человека»
+- Smith. t.II, p.377, 378 = Смит, т. II, с. 377, 378
+
+[451] = «Земельная рента, рассматриваемая как цена, которую платят за пользование землёй, есть, следовательно, естественно монопольная цена.
+- Die Grundrente als Preis betrachtet = «Земельная рента, рассматриваемая как цена,
+- den man für den Gebrauch der Erde zahlt = которую платят за пользование землёй,
+- ist also natürlich ein Monopolpreis = есть, следовательно, естественно монопольная цена
+
+[452] = Она вовсе не пропорциональна улучшениям, которые земельный собственник вложил в землю, или тому, что он должен взять, чтобы не потерять, а тому, что арендатор может дать, не теряя». Т. I, с. 302. Смит.
+- Sie steht durchaus nicht im Verhältnis = Она вовсе не пропорциональна
+- zu den Verbesserungen = улучшениям,
+- die der Grundeigentümer an die Erde gewandt hat = которые земельный собственник вложил в землю,
+- oder mit dem, was er nehmen muß = или тому, что он должен взять,
+- um nicht zu verlieren = чтобы не потерять,
+- sondern mit dem, was der Pächter = а тому, что арендатор
+- möglicherweise geben kann = может дать,
+- ohne zu verlieren = не теряя».
+- t.I, p.302. Smith = Т. I, с. 302. Смит
+
+[453] = «Из трёх производительных классов класс земельных собственников — тот, которому его доход не стоит ни труда, ни забот, а приходит, так сказать, сам собой, без всякого с его стороны намерения или плана».
+- Von den 3 produktiven Klassen = «Из трёх производительных классов
+- ist die der Grundeigentümer diejenige = класс земельных собственников — тот,
+- der ihre Revenue weder Arbeit noch Sorge kostet = которому его доход не стоит ни труда, ни заботы,
+- sondern der sie sozusagen von selbst kömmt = а приходит к нему, так сказать, сам собой,
+- und ohne daß sie irgendeine Absicht = и без того, чтобы он какое-либо намерение
+- oder einen Plan hinzutut = или план добавлял»
+
+[454] = Смит, т. II, с. 161.
+- Smith. t.II, p.161 = Смит, т. II, с. 161
+
+[455] = Мы уже слышали, что величина земельной ренты зависит от степени плодородия почвы.
+- Wir haben schon gehört = Мы уже слышали,
+- daß die Quantität der Grundrente = что величина земельной ренты
+- von dem Verhältnis der Fruchtbarkeit des Bodens abhängt = зависит от степени плодородия почвы
+
+[456] = Другой момент, определяющий её, — местоположение.
+- Ein andres Moment ihrer Bestimmung = Другой момент её определения
+- ist die Lage = — местоположение
+
+[457] = «Рента меняется в зависимости от плодородия земли, каков бы ни был её продукт, и от местоположения, каково бы ни было плодородие».
+- Die Rente wechselt = «Рента меняется
+- nach der Fruchtbarkeit der Erde = по плодородию земли,
+- welches auch immer ihr Produkt sei = каков бы ни был её продукт,
+- und nach der Lage = и по местоположению,
+- welches auch immer die Fruchtbarkeit sei = каково бы ни было плодородие»
+
+[458] = Смит, т. I, с. 306.
+- Smith, t.I, p,306 = Смит, т. I, с. 306
+
+[459] = «Если земли, рудники, рыбные промыслы одинаково плодородны, то их продукт будет пропорционален размерам капиталов, применяемых для их обработки и эксплуатации, а также более или менее искусному способу применения капиталов.
+- Sind Ländereien, Minen, Fischereien = «Если земли, рудники, рыбные промыслы
+- von gleicher Fruchtbarkeit = одинаково плодородны,
+- so wird ihr Produkt im Verhältnis = то их продукт будет пропорционален
+- zur Ausdehnung der Kapitalien stehn = размерам капиталов,
+- welche man zu ihrer Kultur und Exploitation anwendet = которые применяют для их обработки и эксплуатации,
+- wie zu der mehr oder minder geschickten Weise = а также более или менее искусному способу
+- der Anwendung der Kapitalien = применения капиталов
+
+[460] = Если капиталы равны и применены одинаково искусно, то продукт будет пропорционален естественному плодородию земель, рыбных промыслов и рудников». Т. II, с. 210.
+- Sind die Kapitalien gleich = Если капиталы равны
+- und gleich geschickt angewandt = и одинаково искусно применены,
+- so wird das Produkt im Verhältnis = то продукт будет пропорционален
+- zur natürlichen Fruchtbarkeit = естественному плодородию
+- der Ländereien, Fischereien und Minen stehn = земель, рыбных промыслов и рудников».
+- t.II, p.210 = Т. II, с. 210
+
+[461] = Эти положения Смита важны, потому что при одинаковых издержках производства и одинаковом объёме они сводят земельную ренту к большему или меньшему плодородию земли.
+- Diese Sätze von Smith sind wichtig = Эти положения Смита важны,
+- weil sie bei gleichen Produktionskosten = потому что они при одинаковых издержках производства
+- und gleichem Umfang = и одинаковом объёме
+- die Grundrente auf die größere oder kleinere Fruchtbarkeit der Erde = земельную ренту к большему или меньшему плодородию земли
+- reduzieren = сводят
+
+[462] = Тем самым ясно доказано извращение понятий в политической экономии, которая превращает плодородие земли в свойство землевладельца.
+- Also deutlich die Verkehrung der Begriffe = Тем самым ясно извращение понятий
+- in der Nationalökonomie bewiesen = в политической экономии доказано,
+- welche Fruchtbarkeit der Erde = которая плодородие земли
+- in eine Eigenschaft des Grundbesitzers verwandelt = превращает в свойство землевладельца
+
+[463] = Но рассмотрим теперь земельную ренту такой, какой она складывается в действительном обороте.
+- Betrachten wir aber nun die Grundrente = Но рассмотрим теперь земельную ренту,
+- wie sie sich im wirklichen Verkehr gestaltet = как она складывается в действительном обороте
+
+[464] = Земельная рента устанавливается борьбой между арендатором и земельным собственником.
+- Die Grundrente wird festgesetzt = Земельная рента устанавливается
+- durch den Kampf zwischen Pächter und Grundeigentümer = борьбой между арендатором и земельным собственником
+
+[465] = Повсюду в политической экономии мы находим враждебную противоположность интересов, борьбу, войну признанными в качестве основы общественной организации.
+! der Interessen < dem Interessen
+- Überall in der Nationalökonomie finden wir = Повсюду в политической экономии мы находим
+- den feindlichen Gegensatz der Interessen = враждебную противоположность интересов,
+- den Kampf, den Krieg = борьбу, войну
+- als die Grundlage der gesellschaftlichen Organisation = как основу общественной организации
+- anerkannt = признанными
+
+[466] = Посмотрим теперь, как относятся друг к другу земельный собственник и арендатор.
+- Sehn wir nun = Посмотрим теперь,
+- wie Grundeigentümer und Pächter zueinander stehn = как земельный собственник и арендатор относятся друг к другу
+
+[467] = «При заключении условий аренды земельный собственник старается по возможности оставить арендатору не больше, чем нужно для возмещения капитала, который доставляет семена, оплачивает труд, покупает и содержит скот и другие орудия и, сверх того, приносит обычную прибыль прочих аренд в округе.
+! außerdem < außerdern
+- Der Grundeigentümer sucht = «Земельный собственник старается
+- bei der Stipulation der Pachtklauseln = при заключении условий аренды
+- möglicherweise dem Pächter nicht mehr zu lassen = по возможности арендатору не больше оставить,
+- als hinreicht = чем достаточно,
+- um das Kapital zu ersetzen = чтобы возместить капитал,
+- welches den Samen liefert = который доставляет семена,
+- die Arbeit bezahlt = оплачивает труд,
+- Tiere und andre Instrumente kauft und unterhält = скот и другие орудия покупает и содержит
+- und außerdem den gewöhnlichen Gewinn = и, сверх того, обычную прибыль
+- der übrigen Pachtungen im Kanton abwirft = прочих аренд в округе приносит
+
+[468] = Очевидно, это наименьшая доля, которой арендатор может удовольствоваться, не впадая в убыток, и земельный собственник редко склонен оставлять ему больше.
+- Offenbar ist dies der kleinste Teil = Очевидно, это наименьшая доля,
+- womit der Pächter sich befriedigen kann = которой арендатор может удовольствоваться,
+- ohne in Verlust zu geraten = не впадая в убыток,
+- und der Grundeigentümer = и земельный собственник
+- ist selten der Ansicht = редко склонен
+- ihm mehr zu lassen = оставлять ему больше
+
+[469] = Всё, что от продукта или его цены остаётся сверх этой доли, каков бы ни был этот остаток, собственник старается удержать за собой в качестве земельной ренты — самой высокой, какую арендатор в состоянии заплатить при нынешнем состоянии земли.
+! der Pächter bei dem < der Richter bei dem
+- Alles, was vom Produkt oder seinem Preise = Всё, что от продукта или его цены
+- über diese Portion bleibt = сверх этой доли остаётся,
+- wie auch der Rest beschaffen sei = каков бы ни был остаток,
+- sucht sich der Proprietär = старается собственник
+- als Grundrente zu reservieren = как земельную ренту удержать за собой,
+- die stärkste = самую высокую,
+- die der Pächter bei dem jetzigen Zustand der Erde = которую арендатор при нынешнем состоянии земли
+- zahlen kann = может заплатить
+
+[470] = Этот излишек всегда можно рассматривать как естественную земельную ренту, или как ренту, за которую большинство участков естественно сдаётся внаём».
+- Dieses surplus kann immer = Этот излишек можно всегда
+- als die natürliche Grundrente betrachtet werden = рассматривать как естественную земельную ренту,
+- oder als die Rente = или как ренту,
+- zu welcher die meisten Grundstücke = за которую большинство участков
+- natürlicherweise vermietet werden = естественно сдаётся внаём»
+
+[471] = Смит, т. I, с. 299, 300.
+- Smith. t.I, p.299, 300 = Смит, т. I, с. 299, 300
+
+[472] = «Земельные собственники, — говорит Сэй, — осуществляют своего рода монополию по отношению к арендаторам.
+- Die Grundeigentümer = «Земельные собственники, —
+- sagt Say = говорит Сэй, —
+- üben eine gewisse Art von Monopol = осуществляют своего рода монополию
+- gegen die Pächter = по отношению к арендаторам
+
+[473] = Спрос на их товар, землю, может расти беспредельно; но количество их товара простирается лишь до известной точки…
+- Die Nachfrage nach ihrer Ware = Спрос на их товар,
+- dem Grund und Boden = землю,
+- kann sich unaufhörlich ausdehnen = может беспрестанно расширяться;
+- aber die Quantität ihrer Ware = но количество их товара
+- erstreckt sich nur bis zu einem gewissen Punkt = простирается лишь до известной точки…
++ Grund und Boden = земля, земельная собственность ~ устойчивое выражение
+
+[474] = Сделка, которая заключается между земельным собственником и арендатором, всегда так выгодна, как только возможно, для первого… помимо выгоды, которую он извлекает из природы вещей, он извлекает другую из своего положения, большего богатства, кредита, авторитета; но уже одной первой достаточно, чтобы он всегда был в состоянии один воспользоваться благоприятными обстоятельствами, связанными с землёй.
+- Der Handel = Сделка,
+- der sich zwischen Grundeigentümer und Pächter abschließt = которая между земельным собственником и арендатором заключается,
+- ist immer so vorteilhaft wie möglich für den ersten = всегда так выгодна, как только возможно, для первого…
+- außer dem Vorteil = помимо выгоды,
+- den er aus der Natur der Dinge zieht = которую он извлекает из природы вещей,
+- zieht er einen andern aus seiner Stellung = он извлекает другую из своего положения,
+- größerem Vermögen, Kredit, Ansehn = большего богатства, кредита, авторитета;
+- allein schon der erste reicht dazu hin = но уже первой достаточно для того,
+- daß er immer befähigt ist = чтобы он всегда был в состоянии
+- allein von den günstigen Umständen = один из благоприятных обстоятельств
+- des Grund und Bodens zu profitieren = земли извлекать выгоду
++ reicht hin = достаточно ~ hinreichen
+
+[475] = Открытие канала, дороги, рост населения и благосостояния округа всегда повышают арендную плату…
+- Die Eröffnung eines Kanals, Wegs = Открытие канала, дороги,
+- der Fortschritt der Bevölkerung = рост населения
+- und des Wohlstandes eines Kantons = и благосостояния округа
+- erheben immer den Pachtpreis = всегда повышают арендную плату…
+
+[476] = Арендатор сам, правда, может улучшить землю за свой счёт; но выгоду из этого капитала он извлекает лишь в продолжение срока аренды, а по его истечении она остаётся земельному собственнику; с этого момента тот получает с неё проценты, не сделав авансов, ибо арендная плата теперь соответственно повышается».
+- Der Pächter selbst kann zwar = Арендатор сам может, правда,
+- den Boden auf seine Kosten verbessern = землю на свой счёт улучшить;
+- aber von diesem Kapital zieht er nur Vorteil = но из этого капитала он извлекает выгоду лишь
+- während der Dauer seiner Pacht = в продолжение срока своей аренды,
+- und mit ihrem Ablauf = а с её истечением
+- bleibt es dem Grundeigentümer = он остаётся земельному собственнику;
+- von diesem Moment an = с этого момента
+- zieht dieser die Interessen davon = тот извлекает проценты с него,
+- ohne die Avancen gemacht zu haben = не сделав авансов,
+- denn die Miete erhebt sich nun verhältnismäßig = ибо арендная плата теперь соответственно повышается»
+
+[477] = Сэй, т. II, с. [
+- Say. t.II, p.[ = Сэй, т. II, с. [
+
+[478] = 142,] 143.
+- 142,] 143 = 142,] 143
+
+[479] = «Земельная рента, рассматриваемая как цена, уплачиваемая за пользование землёй, есть поэтому естественно наивысшая цена, какую арендатор в состоянии заплатить при данных условиях земли».
+- Die Grundrente = «Земельная рента,
+- betrachtet als der Preis = рассматриваемая как цена,
+- der für den Gebrauch der Erde bezahlt wird = которая уплачивается за пользование землёй,
+- ist daher natürlicherweise der höchste Preis = есть поэтому естественно наивысшая цена,
+- den der Pächter zu zahlen imstande ist = которую арендатор в состоянии заплатить
+- unter den gegenwärtigen Verhältnissen des Grund und Bodens = при нынешних условиях земли»
+
+[480] = Смит, т. I, с. 299.
+- Smith. t.I, p.299 = Смит, т. I, с. 299
+
+[481] = «Поэтому земельная рента с поверхности земли составляет обычно лишь третью часть всего продукта, и обычно это рента твёрдая и не зависящая от случайных колебаний урожая».
+- Die Grundrente der Oberfläche der Erde = «Земельная рента с поверхности земли
+- beträgt daher meistens nur = составляет поэтому обычно лишь
+- den 3ten Teil des Gesamtprodukts = третью часть всего продукта,
+- und meistens ist das eine fixe = и обычно это твёрдая
+- und von den zufälligen Schwankungen der Ernte = и от случайных колебаний урожая
+- unabhängige Rente = независимая рента»
+
+[482] = Смит, т. I, с. 351. «Редко эта рента составляет меньше четверти всего продукта». Там же, т. II, с. 378.
+! beträgt diese < betragt diese
+- Smith, t.I, p.351 = Смит, т. I, с. 351.
+- Selten beträgt diese Rente = «Редко эта рента составляет
+- weniger als ¼ des Gesamtprodukts = меньше ¼ всего продукта».
+- ib., t.II, p.378 = Там же, т. II, с. 378
+* ¼ = четверть | | числ.
+
+[483] = Не со всех товаров можно платить земельную ренту.
+- Nicht bei allen Waren = Не со всех товаров
+- kann die Grundrente bezahlt werden = может быть уплачена земельная рента
+
+[484] = Например, в некоторых местностях за камни не платят никакой земельной ренты.
+- Z.B. in manchen Gegenden = Например, в некоторых местностях
+- wird für Steine keine Grundrente bezahlt = за камни не платят земельной ренты
+
+[485] = «Обычно на рынок можно доставлять лишь те продукты земли, те части земного продукта, обычная цена которых достаточна для возмещения капитала, необходимого для этой перевозки, и обычной прибыли на этот капитал.
+- Gewöhnlich kann man nur die Produkte der Erde = «Обычно можно лишь те продукты земли
+- auf den Markt bringen = на рынок доставлять,
+- die Teile des Erdproduktes = те части продукта земли,
+- deren gewöhnlicher Preis hinreicht = чья обычная цена достаточна,
+- um das Kapital = чтобы капитал,
+- welches man zu dieser Transportation braucht = который нужен для этой перевозки,
+- und die gewöhnlichen Gewinne dieses Kapitals zu ersetzen = и обычные прибыли на этот капитал возместить
+
+[486] = Если цена более чем достаточна для этого, излишек естественно идёт в земельную ренту.
+- Reicht der Preis mehr als aus hierfür = Если цена более чем достаточна для этого,
+- so geht das surplus natürlich zur Grundrente = то излишек естественно идёт в земельную ренту
++ Reicht aus = достаточна ~ ausreichen
+
+[487] = Если же она только достаточна, то товар, конечно, можно доставить на рынок, но его не хватает, чтобы заплатить землевладельцу земельную ренту.
+- Ist er nur hinreichend = Если она лишь достаточна,
+- so kann die Ware wohl auf den Markt gebracht werden = то товар, конечно, можно доставить на рынок,
+- aber sie reicht nicht hin = но его не хватает,
+- um dem Landbesitzer die Grundrente zu zahlen = чтобы заплатить землевладельцу земельную ренту
+
+[488] = Будет ли цена более чем достаточной или нет?
+- Wird oder wird nicht der Preis = Будет или не будет цена
+- mehr als hinreichend sein = более чем достаточной?
+
+[489] = Это зависит от спроса».
+- Das hängt von der Nachfrage ab = Это зависит от спроса»
+
+[490] = Смит, т. I, с. 302, 303.
+- Smith, t.I, p.302, 303 = Смит, т. I, с. 302, 303
+
+[491] = «Земельная рента входит в состав цены товаров совсем иначе, чем заработная плата и прибыль на капитал.
+- Die Grundrente geht in die Komposition = «Земельная рента входит в состав
+- des Preises der Waren = цены товаров
+- auf eine ganz andere Art ein = совсем иным образом,
+- als der Arbeitslohn und der Gewinn des Kapitals = чем заработная плата и прибыль на капитал
++ geht ein = входит ~ in etwas eingehen
+
+[492] = Высокая или низкая ставка заработной платы и прибыли — причина высокой или низкой цены товаров; высокая или низкая ставка земельной ренты — следствие цены». Т. I, с. 303[, 304], Смит.
+- Die hohe oder niedre Taxe = Высокая или низкая ставка
+- der Salaire und Gewinne = заработной платы и прибыли
+- ist die Ursache = есть причина
+- des hohen oder niedern Preises der Waren = высокой или низкой цены товаров:
+- die hohe oder niedre Taxe der Grundrente = высокая или низкая ставка земельной ренты
+- ist die Wirkung des Preises = есть следствие цены».
+- t.I, p.303[, 304], Smith = Т. I, с. 303[, 304], Смит
+
+[493] = К продуктам, которые всегда приносят земельную ренту, относится пища.
+- Zu den Produkten = К продуктам,
+- die immer eine Grundrente bringen = которые всегда приносят земельную ренту,
+- gehört die Nahrung = относится пища
+
+[494] = «Так как люди, подобно всем животным, размножаются пропорционально своим средствам существования, то всегда существует больший или меньший спрос на пищу.
+- Da die Menschen, wie alle Tiere = «Так как люди, как все животные,
+- sich im Verhältnis zu ihren Subsistenzmitteln vermehren = размножаются пропорционально своим средствам существования,
+- so gibt es immer mehr oder weniger Nachfrage nach Nahrung = то всегда есть больший или меньший спрос на пищу
+
+[495] = Пищей всегда можно будет купить большее или меньшее количество труда, и всегда найдутся люди, готовые что-то делать, чтобы её получить.
+- Die Nahrung wird immer = Пищей всегда можно будет
+- einen größern oder kleinern Teil von Arbeit kaufen können = большее или меньшее количество труда купить,
+- und es werden sich immer Leute aufgelegt finden = и всегда найдутся люди, расположенные
+- etwas zu tun = что-то делать,
+- um sie zu gewinnen = чтобы её получить
+
+[496] = Количество труда, которое пища может купить, правда, не всегда равно количеству труда, которое могло бы ею жить, если бы она распределялась самым экономным образом, — и это из-за порой высокой заработной платы.
+- Die Arbeit, welche die Nahrung kaufen kann = Труд, который пища может купить,
+- ist zwar nicht immer gleich der Arbeit = правда, не всегда равен труду,
+- die von ihr subsistieren könnte = который мог бы ею жить,
+- wenn sie auf die ökonomischste Weise verteilt wäre = если бы она самым экономным образом распределялась,
+- und dies wegen der zuweilen hohen Arbeitssalaire = и это из-за порой высокой заработной платы
+
+[497] = Но пищей всегда можно купить столько труда, сколько она может содержать по той ставке, по какой этот вид труда обычно оплачивается в стране.
+! im Lande steht < im Linde steht
+- Aber die Nahrung kann immer soviel Arbeit kaufen = Но пищей всегда можно купить столько труда,
+- als sie nach der Taxe = сколько она по ставке,
+- auf welche diese Arbeitsart gewöhnlich im Lande steht = по какой этот вид труда обычно стоит в стране,
+- Arbeit subsistieren machen kann = может содержать
+
+[498] = Земля почти при всех возможных условиях производит больше пищи, чем нужно для содержания всего труда, который участвует в доставке этой пищи на рынок.
+! beiträgt < beitragt
+- Die Erde produziert = Земля производит
+- fast in allen möglichen Situationen = почти при всех возможных условиях
+- mehr Nahrung = больше пищи,
+- als zur Subsistenz aller Arbeit nötig = чем нужно для содержания всего труда,
+- welche dazu beiträgt = который способствует тому,
+- diese Nahrung auf den Markt zu bringen = чтобы доставить эту пищу на рынок
+
+[499] = Излишек этой пищи всегда более чем достаточен, чтобы с прибылью возместить капитал, который приводит этот труд в движение.
+- Das Mehr dieser Nahrung = Излишек этой пищи
+- ist immer mehr als hinreichend = всегда более чем достаточен,
+- um mit Gewinn das Kapital zu ersetzen = чтобы с прибылью возместить капитал,
+- welches diese Arbeit in Bewegung setzt = который приводит этот труд в движение
+
+[500] = Значит, всегда что-то остаётся, чтобы дать земельному собственнику ренту». Т. I, с. 305, 306. Смит.
+- Also bleibt immer etwas = Значит, всегда остаётся что-то,
+- um dem Grundeigentümer eine Rente zu geben = чтобы дать земельному собственнику ренту».
+- t.I, p.305, 306. Smith = Т. I, с. 305, 306. Смит
+
+[501] = «Земельная рента не только берёт своё первоначальное происхождение от пищи, но и если какая-либо другая часть продукта земли впоследствии начинает приносить ренту, рента обязана этим прибавлением стоимости росту той силы, которую труд приобрёл для производства пищи посредством обработки и улучшения земли». С. 345, т. I, Смит.
+- Die Grundrente zieht nicht nur ihren ersten Ursprung = «Земельная рента не только берёт своё первоначальное происхождение
+- von der Nahrung = от пищи,
+- sondern auch wenn ein anderer Teil des Erdproduktes = но и если другая часть продукта земли
+- in der Folge dazu kömmt = впоследствии начинает
+- eine Rente abzuwerfen = приносить ренту,
+- so verdankt die Rente diese Zufügung von Wert = то рента обязана этим прибавлением стоимости
+- dem Wachstum der Macht = росту силы,
+- welche die Arbeit erlangt hat = которую труд приобрёл,
+- um Nahrung zu produzieren = чтобы производить пищу,
+- vermittelst = посредством
+- au moyen = (au moyen)
+- der Kultur und Verbesserung der Erde = обработки и улучшения земли».
+- p.345. t.I, Smith = С. 345, т. I, Смит
+
+[502] = «Пищи для людей, следовательно, всегда хватает для уплаты земельной ренты». Т. I, с. 337. «Страны заселяются не соразмерно числу людей, которых их продукт может одеть и дать им жильё, а соразмерно тому, сколько людей их продукт может прокормить».
+- Die Nahrung der Menschen = «Пищи людей
+- reicht also immer zur Zahlung der Grundrente aus = следовательно, всегда хватает для уплаты земельной ренты».
+- t.I, p.337 = Т. I, с. 337.
+- Die Länder bevölkern sich nicht = «Страны заселяются не
+- im Verhältnis der Zahl = соразмерно числу,
+- welches ihr Produkt kleiden und logieren kann = которое их продукт может одеть и поселить,
+- sondern im Verhältnis dessen = а соразмерно тому,
+- was ihr Produkt nähren kann = что их продукт может прокормить»
+
+[503] = Смит, т. I, с. 342.
+- Smith, t.I, p.342 = Смит, т. I, с. 342
+
+[504] = «Две величайшие человеческие потребности после пищи — это одежда, жилище, отопление.
+- Die 2 größten menschlichen Bedürfnisse = «Две величайшие человеческие потребности
+- nach der Nahrung = после пищи —
+- sind Kleidung, Logis, Heizung = одежда, жилище, отопление
+
+[505] = Они обычно приносят земельную ренту, но не всегда обязательно». Т. I, там же, с. 288.
+- Sie werfen meistens eine Grundrente ab = Они обычно приносят земельную ренту,
+- nicht immer notwendig = не всегда обязательно».
+- t.I, ib., p.288 = Т. I, там же, с. 288
++ werfen ab = приносят ~ abwerfen
+
+[506] = Посмотрим теперь, как земельный собственник эксплуатирует все выгоды общества.
+- Sehn wir nun = Посмотрим теперь,
+- wie der Grundeigentümer = как земельный собственник
+- alle Vorteile der Gesellschaft exploitiert = все выгоды общества эксплуатирует
+
+[507] = 1) Земельная рента растёт вместе с населением.
+- 1. Die Grundrente vermehrt sich = 1) Земельная рента растёт
+- mit der Bevölkerung = вместе с населением
+
+[508] = Смит, т. I, с. 335.
+- Smith, t.I, p.335 = Смит, т. I, с. 335
+
+[509] = 2) Мы уже слышали от Сэя, как земельная рента растёт с железными дорогами и т. д., с улучшением, надёжностью и умножением средств сообщения.
+- 2. Wir haben schon von Say gehört = 2) Мы уже слышали от Сэя,
+- wie die Grundrente = как земельная рента
+- mit Eisenbahnen etc. = с железными дорогами и т. д.,
+- mit der Verbesserung und Sicherheit = с улучшением и надёжностью
+- und Vervielfachung der Kommunikationsmittel steigt = и умножением средств сообщения растёт
+
+[510] = 3) «Всякое улучшение в состоянии общества стремится прямо или косвенно повысить земельную ренту, увеличить реальное богатство собственника, т. е. его власть покупать чужой труд или его продукт…
+- 3. Jede Verbesserung im Zustand der Gesellschaft = 3) «Всякое улучшение в состоянии общества
+- strebt entweder direkt oder indirekt = стремится прямо или косвенно
+- die Grundrente zu steigern = повысить земельную ренту,
+- den Realreichtum des Proprietärs zu erhöhn = увеличить реальное богатство собственника,
+- d.i. seine Macht = т. е. его власть
+- fremde Arbeit oder ihr Produkt zu kaufen = покупать чужой труд или его продукт…
+
+[511] = Рост улучшения земель и обработки непосредственно ведёт к этому.
+- Die Zunahme in Verbesserung der Ländereien = Рост улучшения земель
+- und der Kultur = и обработки
+- strebt direkt dahin = прямо ведёт к этому
+
+[512] = Доля собственника в продукте неизбежно растёт с ростом продукта…
+- Der Teil des Proprietärs am Produkt = Доля собственника в продукте
+- vermehrt sich notwendig = неизбежно растёт
+- mit der Vermehrung des Produkts = с ростом продукта…
+
+[513] = Повышение реальной цены этих видов сырья, например повышение цены скота, тоже непосредственно ведёт к повышению земельной ренты, притом в ещё большей пропорции.
+- Das Steigen in dem Realpreis = Повышение реальной цены
+- dieser Arten von Rohstoffen = этих видов сырья,
+- z.B. das Steigen im Preis des Viehs = например повышение цены скота,
+- strebt auch direkt dahin = тоже прямо ведёт к тому,
+- die Grundrente zu steigern = чтобы повысить земельную ренту,
+- und in einer noch stärkeren Proportion = притом в ещё большей пропорции
+
+[514] = Не только реальная стоимость доли земельного собственника — реальная власть над чужим трудом, которую ему даёт эта доля, — неизбежно растёт с реальной стоимостью продукта, но и величина этой доли по отношению ко всему продукту растёт с этой стоимостью.
+! ihm dieser Teil auf fremde Arbeit gibt < ihm dieser Teil auf fremde Arbeit gilt
+- Nicht nur vermehrt sich = Не только растёт
+- der Realwert des Teils des Grundeigentümers = реальная стоимость доли земельного собственника,
+- die reale Macht = реальная власть,
+- die ihm dieser Teil auf fremde Arbeit gibt = которую ему эта доля даёт над чужим трудом,
+- notwendig mit dem Realwert des Produkts = неизбежно с реальной стоимостью продукта,
+- sondern auch die Größe dieses Teils = но и величина этой доли
+- im Verhältnis zum Totalprodukt = по отношению ко всему продукту
+- vermehrt sich mit diesem Wert = растёт с этой стоимостью
+
+[515] = После того как реальная цена этого продукта выросла, для его доставки и возмещения применённого капитала вместе с обычной прибылью не требуется большего труда.
+- Nachdem der Realpreis dieses Produkts gestiegen ist = После того как реальная цена этого продукта выросла,
+- erfordert es keine größere Arbeit = не требуется большего труда,
+- um geliefert zu werden = чтобы он был доставлен
+- und um das angewandte Kapital = и чтобы применённый капитал
+- samt seinen gewöhnlichen Gewinnen zu ersetzen = вместе с его обычной прибылью возместить
+
+[516] = Следовательно, оставшаяся часть продукта, которая принадлежит земельному собственнику, будет по отношению ко всему продукту гораздо больше, чем была прежде».
+! viel größer < vie1 größer
+- Der übrigbleibende Teil des Produkts = Оставшаяся часть продукта,
+- welcher dem Grundeigentümer gehört = которая принадлежит земельному собственнику,
+- wird also in bezug auf das Gesamtprodukt = будет, следовательно, по отношению ко всему продукту
+- viel größer sein = гораздо больше,
+- als er vorher war = чем была прежде»
+
+[517] = Смит, т. II, с. 157–159.
+- Smith, t.II, p.157-159 = Смит, т. II, с. 157–159
+
+[518] = Больший спрос на сырые продукты и, следовательно, повышение их стоимости может проистекать отчасти из роста населения и роста его потребностей.
+- Die größre Nachfrage nach Rohprodukten = Больший спрос на сырые продукты
+- und daher die Erhöhung des Werts = и, следовательно, повышение стоимости
+- kann teils aus der Vermehrung der Bevölkerung = может отчасти из роста населения
+- und aus der Vermehrung ihrer Bedürfnisse hervorgehn = и из роста его потребностей проистекать
+
+[519] = Но всякое новое изобретение, всякое новое применение, которое мануфактура находит для до сих пор совсем не использовавшегося или мало использовавшегося сырья, увеличивает земельную ренту.
+- Aber jede neue Erfindung = Но всякое новое изобретение,
+- jede neue Anwendung = всякое новое применение,
+- welche die Manufaktur = которое мануфактура
+- von einem bisher gar nicht oder wenig gebrauchten Rohstoff macht = из до сих пор совсем не или мало использовавшегося сырья делает,
+- vermehrt die Grundrente = увеличивает земельную ренту
+
+[520] = Так, например, рента с угольных копей с появлением железных дорог, пароходов и т. д. неимоверно выросла.
+- So ist z.B. die Rente der Kohlengruben = Так, например, рента с угольных копей
+- mit den Eisenbahnen, Dampfschiffen etc. = с железными дорогами, пароходами и т. д.
+- ungeheuer gestiegen = неимоверно выросла
+
+[521] = Помимо этой выгоды, которую земельный собственник извлекает из мануфактуры, открытий, труда, мы сейчас увидим ещё одну.
+- Außer diesem Vorteil = Помимо этой выгоды,
+- den der Grundeigentümer von der Manufaktur = которую земельный собственник из мануфактуры,
+- den Entdeckungen, der Arbeit zieht = открытий, труда извлекает,
+- werden wir gleich noch einen andern sehn = мы сейчас увидим ещё одну
+
+[522] = 4) «Те виды улучшений производительной силы труда, которые прямо направлены на понижение реальной цены мануфактурных продуктов, косвенно стремятся повысить реальную земельную ренту.
+- 4. Die Arten von Verbesserungen = 4) «Виды улучшений
+- in der Produktivkraft der Arbeit = в производительной силе труда,
+- welche direkt darauf zielen = которые прямо направлены на то,
+- den Realpreis der Manufakturprodukte zu erniedrigen = чтобы понизить реальную цену мануфактурных продуктов,
+- streben indirekt dahin = косвенно стремятся к тому,
+- die reale Grundrente zu erhöhn = чтобы повысить реальную земельную ренту
+
+[523] = Ведь на мануфактурный продукт земельный собственник обменивает ту часть своего сырья, которая превышает его личное потребление, или цену этой части.
+- Gegen Manufakturprodukt = На мануфактурный продукт
+- vertauscht nämlich der Grundeigentümer = обменивает ведь земельный собственник
+- den Teil seines Rohstoffes = ту часть своего сырья,
+- der seine persönliche Konsumtion überschreitet = которая превышает его личное потребление,
+- oder den Preis dieses Teils = или цену этой части
+
+[524] = Всё, что уменьшает реальную цену первого вида продукта, увеличивает реальную цену второго.
+- Alles, was den Realpreis = Всё, что реальную цену
+- der ersten Art von Produkt vermindert = первого вида продукта уменьшает,
+- vermehrt den Realpreis der 2ten = увеличивает реальную цену второго
+
+[525] = Одно и то же количество сырого продукта соответствует отныне большему количеству мануфактурного продукта, и земельный собственник получает возможность доставить себе большее количество удобств, украшений и предметов роскоши».
+- Dieselbe Quantität von Rohprodukt = Одно и то же количество сырого продукта
+- entspricht von nun an = соответствует отныне
+- einer größeren Quantität von Manufakturprodukt = большему количеству мануфактурного продукта,
+- und der Grundeigentümer findet sich befähigt = и земельный собственник получает возможность
+- eine größere Quantität = большее количество
+- von Bequemlichkeits-, Schmuck- und Luxussachen = удобств, украшений и предметов роскоши
+- sich zu verschaffen = себе доставить»
+
+[526] = Смит, т. II, с. 159.
+- Smith. t.II, p.159 = Смит, т. II, с. 159
+
+[527] = Но если Смит из того, что земельный собственник эксплуатирует все выгоды общества, заключает (с. 161, т. II), что интерес земельного собственника всегда тождествен интересу общества, то это нелепо.
+- Wenn aber nun Smith daraus = Но если Смит из того,
+- daß der Grundeigentümer = что земельный собственник
+- alle Vorteile der Gesellschaft exploitiert = все выгоды общества эксплуатирует,
+- darauf schließt = заключает
+- p.161, t.II = (с. 161, т. II),
+- daß das Interesse des Grundeigentümers = что интерес земельного собственника
+- immer mit dem der Gesellschaft identisch ist = всегда тождествен интересу общества,
+- so ist das albern = то это нелепо
+
+[528] = В политической экономии, при господстве частной собственности, интерес, который кто-то имеет в обществе, находится как раз в обратном отношении к интересу, который общество имеет в нём, — подобно тому как интерес ростовщика к моту отнюдь не тождествен интересу мота.
+- In der Nationalökonomie = В политической экономии,
+- unter der Herrschaft des Privateigentums = при господстве частной собственности,
+- ist das Interesse = интерес,
+- was einer an der Gesellschaft hat = который кто-то имеет в обществе,
+- grad im umgekehrten Verhältnis = находится как раз в обратном отношении
+- zu dem Interesse = к интересу,
+- was die Gesellschaft an ihm hat = который общество имеет в нём, —
+- wie das Interesse des Wucherers an dem Verschwender = как интерес ростовщика к моту
+- durchaus nicht identisch = отнюдь не тождествен
+- mit dem Interesse des Verschwenders ist = интересу мота
+
+[529] = Лишь мимоходом упомянем о монополистических устремлениях земельного собственника против земельной собственности чужих стран, откуда, например, ведут начало хлебные законы.
+- Wir erwähnen nur im Vorübergehn = Мы упомянем лишь мимоходом
+- die Monopolsucht des Grundeigentümers = о жажде монополии земельного собственника
+- gegen das Grundeigentum fremder Länder = против земельной собственности чужих стран,
+- woher z.B. die Korngesetze datieren = откуда, например, ведут начало хлебные законы
+
+[530] = Точно так же мы обходим здесь средневековое крепостничество, рабство в колониях, нищету сельских жителей, подёнщиков в Великобритании.
+- Ebenso übergehn wir hier = Точно так же мы обходим здесь
+- die mittelaltrige Leibeigenschaft = средневековое крепостничество,
+- die Sklaverei auf den Kolonien = рабство в колониях,
+- das Elend der Landleute, Taglöhner = нищету сельских жителей, подёнщиков
+- in Großbritannien = в Великобритании
+
+[531] = Будем держаться положений самой политической экономии.
+- Halten wir uns an die Sätze = Будем держаться положений
+- der Nationalökonomie selbst = самой политической экономии
++ Halten wir uns an = будем держаться ~ sich an etwas halten
+
+[532] = 1) Земельный собственник заинтересован в благе
+- 1. Der Grundeigentümer ist am Wohl der = 1) Земельный собственник заинтересован в благе
+
+[533] = общества — это, по принципам политической экономии, значит: он заинтересован в росте его населения, искусственного производства, в умножении его потребностей, одним словом, в росте богатства, а этот рост, согласно нашим предыдущим рассуждениям, тождествен росту нищеты и рабства.
+! Wachstum des Elends < Wachsturn des Elends
+- Gesellschaft interessiert = общества
+- heißt nach nationalökonomischen Grundsätzen = — это значит, по политико-экономическим принципам:
+- er ist an ihrer fortschreitenden Bevölkerung = он заинтересован в росте его населения,
+- Kunstproduktion = искусственного производства,
+- Vermehrung ihrer Bedürfnisse = умножении его потребностей,
+- mit einem Wort = одним словом,
+- am Wachstum des Reichtums interessiert = в росте богатства,
+- und dies Wachstum ist = а этот рост
+- nach unseren bisherigen Betrachtungen = по нашим предыдущим рассуждениям
+- identisch mit dem Wachstum des Elends und der Sklaverei = тождествен росту нищеты и рабства
+
+[534] = Растущее отношение квартирной платы к нищете — пример интереса земельного собственника к обществу, ибо с квартирной платой растёт земельная рента, процент с земли, на которой стоит дом.
+- Das wachsende Verhältnis der Miete mit dem Elend = Растущее отношение квартирной платы к нищете
+- ist ein Beispiel vom Interesse des Grundeigentümers = — пример интереса земельного собственника
+- an der Gesellschaft = к обществу,
+- denn mit der Miete wächst die Grundrente = ибо с квартирной платой растёт земельная рента,
+- der Zins des Bodens = процент с земли,
+- worauf das Haus steht = на которой стоит дом
+
+[535] = 2) По словам самих политэкономов, интерес земельного собственника есть враждебная противоположность интересу арендатора, т. е. уже значительной части общества.
+- 2. Nach den Nationalökonomen selbst = 2) По самим политэкономам,
+- ist das Interesse des Grundeigentümers = интерес земельного собственника есть
+- der feindliche Gegensatz des Interesses des Pächters = враждебная противоположность интересу арендатора;
+- also schon eines bedeutenden Teils der Gesellschaft = т. е. уже значительной части общества
+
+[536] = 3) Так как земельный собственник может требовать от арендатора тем больше ренты, чем меньше заработной платы платит арендатор, и так как арендатор тем больше снижает заработную плату, чем больше земельной ренты требует собственник, то интерес земельного собственника так же враждебен интересу батраков, как интерес фабрикантов — их рабочим.
+- 3. Da der Grundeigentümer [von] dem Pächter = 3) Так как земельный собственник от арендатора
+- um so mehr Rente fordern kann = тем больше ренты может требовать,
+- um so weniger Arbeitslohn der Pächter zahlt = чем меньше заработной платы арендатор платит,
+- und da der Pächter = и так как арендатор
+- um so mehr den Arbeitslohn herabdrückt = тем больше снижает заработную плату,
+- je mehr Grundrente der Eigentümer fordert = чем больше земельной ренты требует собственник,
+- so steht das Interesse des Grundeigentümers = то интерес земельного собственника
+- grade so feindlich zum Interesse der Ackerknechte = так же враждебен интересу батраков,
+- wie das der Manufakturherrn zu ihren Arbeitern = как интерес фабрикантов — их рабочим
+
+[537] = Он точно так же сводит заработную плату к минимуму.
+- Er drückt ebenfalls den Arbeitslohn = Он тоже снижает заработную плату
+- auf ein Minimum = до минимума
+
+[538] = 4) Так как реальное понижение цены мануфактурных продуктов повышает земельную ренту, то землевладелец непосредственно заинтересован в снижении заработной платы мануфактурных рабочих, в конкуренции между капиталистами, в перепроизводстве, во всей мануфактурной нищете.
+- 4. Da die reale Erniedrigung = 4) Так как реальное понижение
+- im Preis der Manufakturprodukte = цены мануфактурных продуктов
+- die Grundrente erhöht = повышает земельную ренту,
+- so hat also der Grundbesitzer = то землевладелец имеет
+- ein direktes Interesse = прямой интерес
+- an der Herabdrückung des Arbeitslohns der Manufakturarbeiter = в снижении заработной платы мануфактурных рабочих,
+- an der Konkurrenz unter den Kapitalisten = в конкуренции между капиталистами,
+- an der Überproduktion = в перепроизводстве,
+- am ganzen Manufakturelend = во всей мануфактурной нищете
+
+[539] = 5) Итак, если интерес земельного собственника, вовсе не тождественный интересу общества, находится во враждебной противоположности к интересам арендаторов, батраков, мануфактурных рабочих и капиталистов, то даже интерес одного земельного собственника не тождествен интересу другого — из-за конкуренции, которую мы теперь рассмотрим.
+! einmal das Interesse < einma1 das Interesse
+- 5. Wenn also das Interesse des Grundeigentümers = 5) Итак, если интерес земельного собственника,
+- weit entfernt = отнюдь не будучи
+- mit dem Interesse der Gesellschaft identisch zu sein = тождественным интересу общества,
+- im feindlichen Gegensatz = во враждебной противоположности
+- mit dem Interesse der Pächter = к интересу арендаторов,
+- der Ackerknechte = батраков,
+- der Manufakturarbeiter und der Kapitalisten steht = мануфактурных рабочих и капиталистов находится,
+- so ist nicht einmal das Interesse = то даже интерес
+- des einen Grundeigentümers = одного земельного собственника
+- mit dem des andern identisch = не тождествен интересу другого
+- von wegen der Konkurrenz = из-за конкуренции,
+- die wir nun betrachten wollen = которую мы теперь хотим рассмотреть
+
+[540] = Вообще крупная и мелкая земельная собственность относятся друг к другу уже как крупный и мелкий капитал.
+- Allgemein schon = Вообще уже
+- verhalten sich großes Grundeigentum und kleines = относятся крупная земельная собственность и мелкая
+- wie großes und kleines Kapital = как крупный и мелкий капитал

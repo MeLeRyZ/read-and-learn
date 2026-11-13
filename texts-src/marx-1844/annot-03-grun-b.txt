@@ -1,0 +1,725 @@
+[541] = Но присоединяются ещё особые обстоятельства, которые безусловно ведут к накоплению крупной земельной собственности и поглощению ею мелкой.
+- Es kommen aber noch spezielle Umstände hinzu = Но присоединяются ещё особые обстоятельства,
+- welche die Akkumulation des großen Grundeigentums = которые к накоплению крупной земельной собственности
+- und die Verschlingung des kleinen durch dasselbe = и к поглощению ею мелкой
+- unbedingt herbeiführen = безусловно ведут
++ kommen hinzu = присоединяются ~ hinzukommen
+
+[542] = 1) Нигде относительное число рабочих и орудий не уменьшается с ростом фондов больше, чем в землевладении.
+- 1. nimmt nirgends mehr = 1) нигде больше не уменьшается
+- die verhältnismäßige Arbeiter- und Instrumentenzahl = относительное число рабочих и орудий
+- mit der Größe der fonds ab = с величиной фондов,
+- als beim Grundbesitz = чем в землевладении
++ nimmt ab = уменьшается ~ abnehmen
+
+[543] = Точно так же нигде возможность всестороннего использования, экономии издержек производства и искусного разделения труда не растёт с размером фондов больше, чем в землевладении.
+- Ebenso nimmt nirgend mehr = Точно так же нигде больше не растёт
+- die Möglichkeit der allseitigen Ausbeutung = возможность всестороннего использования,
+- Ersparung der Produktionskosten = экономии издержек производства
+- und geschickte Arbeitsteilung = и искусного разделения труда
+- mit der Größe der fonds mehr zu = с величиной фондов,
+- als beim Grundbesitz = чем в землевладении
++ nimmt zu = растёт ~ zunehmen
+
+[544] = Как бы мал ни был участок, необходимые ему орудия труда — плуг, пила и т. д. — достигают известного предела, ниже которого их уже нельзя уменьшить, тогда как малость землевладения может выходить далеко за этот предел.
+! Säge < Sage
+- Ein Acker mag so klein sein, wie er will = Как бы ни был мал участок,
+- die Arbeitsinstrumente = орудия труда,
+- die er nötig macht = которые ему нужны,
+- wie Pflug, Säge etc. = как плуг, пила и т. д.,
+- erreichen eine gewisse Grenze = достигают известного предела,
+- an der sie nicht mehr vermindert werden können = ниже которого их уже нельзя уменьшить,
+- während die Kleinheit des Grundbesitzes = тогда как малость землевладения
+- weit über diese Grenze hinausgehn kann = далеко за этот предел может выходить
+
+[545] = 2) Крупное землевладение накопляет себе проценты, которые капитал арендатора вложил в улучшение земли.
+- 2. Der große Grundbesitz akkumuliert sich die Zinsen = 2) Крупное землевладение накопляет себе проценты,
+- die das Kapital des Pächters = которые капитал арендатора
+- auf die Verbesserung des Grund und Bodens angewandt hat = на улучшение земли затратил
+
+[546] = Мелкое же землевладение должно применять свой собственный капитал. Для него, значит, вся эта прибыль отпадает.
+- Der kleine Grundbesitz muß = Мелкое землевладение должно
+- sein eignes Kapital anwenden = свой собственный капитал применять.
+- Für ihn fällt dieser ganze Profit also weg = Для него, значит, вся эта прибыль отпадает
++ fällt weg = отпадает ~ wegfallen
+
+[547] = 3) В то время как всякое общественное улучшение идёт на пользу крупной земельной собственности, мелкой оно вредит, потому что требует от неё всё больше наличных денег.
+- 3. Während jede gesellschaftliche Verbesserung = 3) В то время как всякое общественное улучшение
+- dem großen Grundeigentum nützt = крупной земельной собственности полезно,
+- schadet sie dem kleinen = оно вредит мелкой,
+- weil sie ihm immer mehr bares Geld nötig macht = потому что требует от неё всё больше наличных денег
+
+[548] = 4) Для этой конкуренции надо рассмотреть ещё два важных закона:
+- 4. Es sind noch 2 wichtige Gesetze = 4) Ещё 2 важных закона
+- für diese Konkurrenz zu betrachten = для этой конкуренции надо рассмотреть:
+
+[549] = α) Рента с земель, которые обрабатываются для производства пищи людей, регулирует ренту большинства прочих обрабатываемых земель.
+- α) Die Rente der Ländereien = α) Рента с земель,
+- die zur Produktion von Nahrungsmitteln der Menschen = которые для производства пищи людей
+- kultiviert werden = обрабатываются,
+- regelt die Rente der Mehrzahl = регулирует ренту большинства
+- der übrigen angebauten Ländereien = прочих обрабатываемых земель
+
+[550] = Смит, т. I, с. 331.
+- Smith, t.1, p.331 = Смит, т. I, с. 331
+
+[551] = Средства питания, как скот и т. д., в конце концов может производить только крупное землевладение.
+- Nahrungsmittel, wie Vieh etc. = Средства питания, как скот и т. д.,
+- kann zuletzt nur der große Grundbesitz produzieren = может в конце концов производить только крупное землевладение
+
+[552] = Оно, следовательно, регулирует ренту прочих земель и может снизить её до минимума.
+- Er regelt also die Rente der übrigen Ländereien = Оно регулирует, следовательно, ренту прочих земель
+- und kann sie auf ein Minimum herabdrücken = и может снизить её до минимума
+
+[553] = Мелкий земельный собственник, сам обрабатывающий свою землю, находится тогда по отношению к крупному земельному собственнику в положении ремесленника, владеющего собственным орудием, по отношению к фабриканту.
+- Der kleine selbstarbeitende Grundeigentümer = Мелкий, сам работающий земельный собственник
+- befindet sich dann zu dem großen Grundeigentümer = находится тогда по отношению к крупному земельному собственнику
+- in dem Verhältnis eines Handwerkers = в положении ремесленника,
+- der ein eignes Instrument besitzt = который владеет собственным орудием,
+- zu dem Fabrikherrn = по отношению к фабриканту
+
+[554] = Мелкое землевладение стало простым орудием труда.
+! bloßen < bloflen
+- Der kleine Grundbesitz = Мелкое землевладение
+- ist zum bloßen Arbeitsinstrument geworden = стало простым орудием труда
+
+[555] = Земельная рента совсем исчезает для мелкого землевладельца, у него остаётся в лучшем случае процент на его капитал и его заработная плата; ибо конкуренция может довести земельную ренту до того, что она будет лишь процентом на капитал, вложенный не им самим.
+- Die Grundrente verschwindet ganz = Земельная рента совсем исчезает
+- für den kleinen Grundbesitzer = для мелкого землевладельца,
+- es bleibt ihm höchstens = у него остаётся самое большее
+- der Zins seines Kapitals und sein Arbeitslohn = процент на его капитал и его заработная плата;
+- denn die Grundrente kann durch die Konkurrenz = ибо земельная рента может конкуренцией
+- dahin getrieben werden = быть доведена до того,
+- daß sie eben nur noch = что она будет лишь
+- der Zins des nicht selbst angelegten Kapitals ist = процентом на капитал, вложенный не им самим
+
+[556] = β) Впрочем, мы уже слышали, что при одинаковом плодородии и одинаково искусной эксплуатации земель, рудников и рыбных промыслов продукт пропорционален размеру капиталов.
+- β) Wir haben übrigens schon gehört = β) Мы, впрочем, уже слышали,
+- daß bei gleicher Fruchtbarkeit = что при одинаковом плодородии
+- und gleich geschickter Exploitation = и одинаково искусной эксплуатации
+- der Ländereien, Minen und Fischereien = земель, рудников и рыбных промыслов
+- das Produkt im Verhältnis zur Ausdehnung der Kapitalien steht = продукт пропорционален размеру капиталов
+
+[557] = Значит, победа крупного земельного собственника.
+- Also Sieg des großen Grundeigentümers = Значит, победа крупного земельного собственника
+
+[558] = Точно так же при равных капиталах — пропорционально плодородию.
+- Ebenso bei gleichen Kapitalien = Точно так же при равных капиталах
+- im Verhältnis zur Fruchtbarkeit = пропорционально плодородию
+
+[559] = Значит, при равных капиталах побеждает собственник более плодородной земли.
+- Also bei gleichen Kapitalien = Значит, при равных капиталах
+- siegt der Grundeigentümer des fruchtbareren Bodens = побеждает собственник более плодородной земли
+
+[560] = γ) «О руднике вообще можно сказать, что он плодороден или неплодороден в зависимости от того, больше или меньше количество минерала, которое можно добыть из него известным количеством труда, чем количество, которое тот же труд может добыть из большинства других рудников того же рода». Т. I, с. 345, 346. Смит.
+! welche aus ihr < weiche aus ihr
+! größer oder kleiner < großer oder kleiner
+- γ) Man kann von einer Mine = γ) «О руднике можно
+- im allgemeinen sagen = вообще сказать,
+- daß sie fruchtbar oder unfruchtbar ist = что он плодороден или неплодороден,
+- je nachdem die Quantität des Minerals = смотря по тому, количество минерала,
+- welche aus ihr = которое из него
+- durch eine gewisse Quantität Arbeit gezogen werden kann = известным количеством труда может быть добыто,
+- größer oder kleiner ist = больше или меньше,
+- als dieselbe Quantität Arbeit = чем то же количество труда
+- aus der Mehrzahl der andren Minen von derselben Art = из большинства других рудников того же рода
+- ziehen kann = может добыть».
+- t.I, p.345, 346. Smith = Т. I, с. 345, 346. Смит
+
+[561] = «Цена самых плодородных рудников регулирует цену угля для всех других рудников по соседству.
+- Der Preis der fruchtbarsten Minen = «Цена самых плодородных рудников
+- regelt den Preis der Kohle = регулирует цену угля
+- für alle andren Minen der Nachbarschaft = для всех других рудников по соседству
+
+[562] = Земельный собственник и предприниматель оба находят, что один получит более высокую ренту, другой — более высокую прибыль, если они будут продавать товар дешевле своих соседей.
+- Grundeigentümer und Unternehmer finden beide = Земельный собственник и предприниматель оба находят,
+- daß sie, der eine eine stärkere Rente = что они — один более высокую ренту,
+- der andre einen stärkern Profit haben werden = другой более высокую прибыль получат,
+- wenn sie die Sache niedriger = если они товар дешевле,
+- als ihre Nachbarn verkaufen = чем их соседи, продадут
+
+[563] = Соседи тогда вынуждены продавать по той же цене, хотя они в меньшей мере на это способны и хотя эта цена всё больше уменьшается и порой отнимает у них всю ренту и всю прибыль.
+- Die Nachbarn sind nun gezwungen = Соседи теперь вынуждены
+- zu demselben Preis zu verkaufen = по той же цене продавать,
+- obgleich sie weniger dazu imstande sind = хотя они менее способны на это
+- und obgleich dieser Preis = и хотя эта цена
+- sich immer mehr vermindert = всё больше уменьшается
+- und ihnen manchmal die ganze Rente = и у них порой всю ренту
+- und den ganzen Profit fortnimmt = и всю прибыль отнимает
+
+[564] = Некоторые разработки оказываются тогда совсем заброшенными, другие больше не приносят ренты и могут разрабатываться дальше только самим земельным собственником». С. 350, т. I.
+- Einige Exploitations = Некоторые разработки
+- finden sich dann ganz verlassen = оказываются тогда совсем заброшенными,
+- andere tragen keine Rente mehr = другие не приносят больше ренты
+- und können nur weiter bearbeitet werden = и могут разрабатываться дальше лишь
+- durch den Grundeigentümer selbst = самим земельным собственником».
+- p.350, t.I = С. 350, т. I
+
+[565] = Смит.
+- Smith = Смит
+
+[566] = «После открытия перуанских рудников большинство серебряных рудников Европы было заброшено…
+- Nach der Entdeckung der Minen von Peru = «После открытия рудников Перу
+- wurden die meisten Silberminen von Europa aufgegeben = большинство серебряных рудников Европы было заброшено…
+
+[567] = То же самое произошло с рудниками Кубы и Санто-Доминго и даже со старыми перуанскими рудниками после открытия рудников Потоси». С. 353, т. I.
+- Das-selbe geschah = То же самое произошло
+- in bezug auf die Minen von Cuba und St. Domingo = с рудниками Кубы и Санто-Доминго
+- und selbst in bezug auf die alten Minen von Peru = и даже со старыми рудниками Перу
+- nach der Entdeckung derer von Potosi = после открытия рудников Потоси».
+- p.353. t.I = С. 353, т. I
+
+[568] = Точно то же, что Смит говорит здесь о рудниках, более или менее верно и для землевладения вообще.
+- Ganz dasselbe = Точно то же,
+- was Smith hier von den Minen sagt = что Смит здесь о рудниках говорит,
+- gilt mehr oder weniger = верно более или менее
+- von dem Grundbesitz überhaupt = и для землевладения вообще
+
+[569] = δ) «Надо заметить, что рыночная цена земель всегда зависит от текущей нормы процента…
+- δ) Es ist zu bemerken = δ) «Надо заметить,
+- daß immer der Preiscourant der Ländereien = что рыночная цена земель всегда
+- von der couranten Taxe des Zinsfußes abhängt = зависит от текущей нормы процента…
+* δ = δ (дельта) | | сокр. | нумерация пунктов
+
+[570] = Если бы земельная рента упала ниже денежного процента на очень большую разницу, никто не захотел бы покупать земли, что вскоре снова восстановило бы их рыночную цену.
+- Fiele die Grundrente unter den Geldzins = Если бы земельная рента упала ниже денежного процента
+- um eine sehr starke Differenz = на очень большую разницу,
+- so würde niemand Länder kaufen wollen = то никто не захотел бы покупать земли,
+- was bald wieder ihren Preiscourant zurückführen würde = что вскоре снова восстановило бы их рыночную цену
+
+[571] = Напротив, если бы выгоды земельной ренты с лихвой превышали денежный процент, все захотели бы покупать земли, что тоже вскоре восстановило бы их рыночную цену». Т. II, с. [
+! viel mehr < vie1 mehr
+- Im Gegenteil = Напротив,
+- würden die Vorteile der Grundrente = если бы выгоды земельной ренты
+- den Geldzins viel mehr als kompensieren = денежный процент с большой лихвой возмещали,
+- so würde alle Welt Länder kaufen wollen = то все захотели бы покупать земли,
+- was ebenfalls ihren Courantpreis = что тоже их рыночную цену
+- bald wiederherstellen würde = вскоре восстановило бы».
+- t.II, p.[ = Т. II, с. [
+
+[572] = 367,] 368.
+- 367,] 368 = 367,] 368
+
+[573] = Из этого отношения земельной ренты к денежному проценту следует, что земельная рента должна всё больше падать, так что в конце концов жить на земельную ренту смогут лишь самые богатые.
+- Aus diesem Verhältnis der Grundrente zum Geldzins = Из этого отношения земельной ренты к денежному проценту
+- folgt, daß die Grundrente immer mehr fallen muß = следует, что земельная рента должна всё больше падать,
+- so daß zuletzt nur noch die reichsten Leute = так что в конце концов лишь самые богатые люди
+- von der Grundrente leben können = могут жить на земельную ренту
+
+[574] = Следовательно, конкуренция между земельными собственниками, не сдающими землю в аренду, всё усиливается.
+- Also die Konkurrenz = Следовательно, конкуренция
+- unter den nichtverpachtenden Grundeigentümern = между не сдающими в аренду земельными собственниками
+- immer größer = всё больше
+
+[575] = Разорение части из них.
+- Ruin eines Teils derselben = Разорение части из них
+
+[576] = Новое накопление крупной земельной собственности.
+- Abermalige Akkumulation des großen Grundeigentums = Повторное накопление крупной земельной собственности
+
+[577] = Эта конкуренция имеет далее следствием то, что значительная часть земельной собственности переходит в руки капиталистов и капиталисты становятся одновременно земельными собственниками, подобно тому как вообще уже мелкие земельные собственники — это лишь капиталисты.
+- Diese Konkurrenz hat ferner zur Folge = Эта конкуренция имеет далее следствием,
+- daß ein großer Teil des Grundeigentums = что значительная часть земельной собственности
+- in die Hände der Kapitalisten fällt = попадает в руки капиталистов,
+- und die Kapitalisten so zugleich Grundeigentümer werden = и капиталисты так одновременно становятся земельными собственниками,
+- wie denn überhaupt schon = как и вообще уже
+- die kleineren Grundeigentümer nur mehr Kapitalisten sind = мелкие земельные собственники — лишь капиталисты
++ hat zur Folge = имеет следствием ~ etwas zur Folge haben
+
+[578] = Точно так же часть крупной земельной собственности становится одновременно промышленной.
+- Ebenso wird ein Teil des großen Grundeigentums = Точно так же часть крупной земельной собственности
+- zugleich industriell = становится одновременно промышленной
+
+[579] = Последнее следствие, значит, — исчезновение различия между капиталистом и земельным собственником, так что в целом остаются лишь два класса населения: рабочий класс и класс капиталистов.
+! Auflösung < Auflosung
+- Die letzte Folge ist also = Последнее следствие, значит, —
+- die Auflösung des Unterschieds = растворение различия
+- zwischen Kapitalist und Grundeigentümer = между капиталистом и земельным собственником,
+- so daß es also im ganzen = так что в целом
+- nur mehr 2 Klassen der Bevölkerung gibt = остаются лишь два класса населения:
+- die Arbeiterklasse und die Klasse der Kapitalisten = рабочий класс и класс капиталистов
+
+[580] = Это превращение земельной собственности в предмет торгашества, превращение её в товар — последнее падение старой и окончательное утверждение денежной аристократии.
+- Diese Verschacherung des Grundeigentums = Это превращение земельной собственности в предмет торга,
+- die Verwandlung des Grundeigentums in eine Ware = превращение земельной собственности в товар
+- ist der letzte Sturz der alten = есть последнее падение старой
+- und die letzte Vollendung der Geldaristokratie = и окончательное завершение денежной аристократии
+
+[581] = 1) Сентиментальных слёз, которые проливает по этому поводу романтика, мы не разделяем.
+- 1. Die sentimentalen Tränen = 1) Сентиментальных слёз,
+- welche die Romantik hierüber weint = которые романтика по этому поводу проливает,
+- teilen wir nicht = мы не разделяем
+
+[582] = Она всегда смешивает гнусность, заключающуюся в торгашестве землёй, с вполне разумным, необходимым и желательным в рамках частной собственности следствием, которое заключено в превращении частной собственности на землю в предмет торга.
+- Sie verwechselt immer = Она всегда смешивает
+- die Schändlichkeit = гнусность,
+- die in der Verschacherung der Erde liegt = которая заключена в торгашестве землёй,
+- mit der ganz vernünftigen = с вполне разумным,
+- innerhalb des Privateigentums notwendigen = в рамках частной собственности необходимым
+- und wünschenswerten Konsequenz = и желательным следствием,
+- welche in der Verschacherung des Privateigentums an der Erde = которое в превращении частной собственности на землю в предмет торга
+- enthalten ist = заключено
+
+[583] = Во-первых, феодальная земельная собственность уже по своей сущности есть земля, ставшая предметом торга, отчуждённая от человека и потому противостоящая ему в образе немногих крупных господ.
+- Erstens ist das feudale Grundeigentum = Во-первых, феодальная земельная собственность
+- schon seinem Wesen nach = уже по своей сущности
+- die verschacherte Erde = есть земля, ставшая предметом торга,
+- die dem Menschen entfremdete = отчуждённая от человека
+- und daher in der Gestalt einiger weniger großen Herrn = и потому в образе немногих крупных господ
+- ihm gegenübertretende Erde = противостоящая ему земля
+
+[584] = Уже в феодальном землевладении заключено господство земли как чуждой силы над людьми.
+- Schon im Feudalgrundbesitz liegt = Уже в феодальном землевладении заключено
+- die Herrschaft der Erde = господство земли
+- als einer fremden Macht über die Menschen = как чуждой силы над людьми
+
+[585] = Крепостной — это акциденция земли.
+- Der Leibeigene ist das Akzidens der Erde = Крепостной — акциденция земли
+* akzidens = акциденция (случайная принадлежность) | das Akzidens | сущ. | философ.: несущественное свойство вещи
+
+[586] = Точно так же майоратный владелец, первородный сын, принадлежит земле.
+- Ebenso gehört der Majoratsherr = Точно так же принадлежит майоратный владелец,
+- der erstgeborene Sohn = первородный сын,
+- der Erde = земле
+
+[587] = Она наследует его.
+- Sie erbt ihn = Она наследует его
+
+[588] = Вообще с землевладения начинается господство частной собственности, оно — её основа.
+! fängt mit < fangt mit
+- Überhaupt fängt mit dem Grundbesitz = Вообще с землевладения начинается
+- die Herrschaft des Privateigentums an = господство частной собственности,
+- er ist seine Basis = оно — её основа
++ fängt an = начинается ~ anfangen
+
+[589] = Но в феодальном землевладении господин по крайней мере кажется королём землевладения.
+- Aber im feudalen Grundbesitz = Но в феодальном землевладении
+- scheint wenigstens der Herr = кажется по крайней мере господин
+- als König des Grundbesitzes = королём землевладения
+
+[590] = Точно так же существует ещё видимость более интимного отношения между владельцем и землёй, чем отношение простого вещного богатства.
+- Ebenso existiert noch der Schein = Точно так же существует ещё видимость
+- eines innigern Verhältnisses = более интимного отношения
+- zwischen dem Besitzer und der Erde = между владельцем и землёй,
+- als das des bloßen sachlichen Reichtums ist = чем отношение простого вещного богатства
+
+[591] = Земельный участок индивидуализируется вместе со своим господином, он имеет его ранг, он баронский или графский вместе с ним, имеет свои привилегии, свою юрисдикцию, своё политическое положение и т. д. Он выступает как неорганическое тело своего господина.
+- Das Grundstück individualisiert sich = Земельный участок индивидуализируется
+- mit seinem Herrn = вместе со своим господином,
+- es hat seinen Rang = он имеет его ранг,
+- ist freiherrlich oder gräflich mit ihm = баронский или графский вместе с ним,
+- hat seine Privilegien = имеет свои привилегии,
+- seine Gerichtsbarkeit = свою юрисдикцию,
+- sein politisches Verhältnis etc. = своё политическое положение и т. д.
+- Es erscheint als der unorganische Leib seines Herrn = Он выступает как неорганическое тело своего господина
+
+[592] = Отсюда поговорка: «нет земли без господина», в которой выражено срастание знатности и землевладения.
+- Daher das Sprichwort = Отсюда поговорка:
+- nulle terre sans maître = «нет земли без господина»,
+- worin das Verwachsensein der Herrlichkeit = в которой срастание знатности
+- und des Grundbesitzes ausgesprochen ist = и землевладения выражено
+* nulle = никакая | nul | франц.
+
+[593] = Точно так же господство земельной собственности выступает не непосредственно как господство простого капитала.
+- Ebenso erscheint die Herrschaft des Grundeigentums = Точно так же господство земельной собственности выступает
+- nicht unmittelbar als Herrschaft des bloßen Kapitals = не непосредственно как господство простого капитала
+
+[594] = Принадлежащие к нему люди относятся к нему скорее как к своему отечеству.
+! mehr zu ihm < rnehr zu ihm
+- Seine Zugehörigen stehn = Принадлежащие к нему стоят
+- mehr zu ihm = скорее к нему
+- im Verhältnis ihres Vaterlandes = в отношении как к своему отечеству
+
+[595] = Это своего рода узколобая национальность.
+- Es ist eine engbrüstige Art von Nationalität = Это узкогрудая разновидность национальности
+
+[596] = Точно так же феодальная земельная собственность даёт имя своему господину, как королевство — своему королю.
+- Ebenso gibt das feudale Grundeigentum = Точно так же феодальная земельная собственность даёт
+- den Namen seinem Herrn = имя своему господину,
+- wie ein Königreich seinem König = как королевство своему королю
+
+[597] = Его семейная история, история его рода и т. д. — всё это индивидуализирует для него землевладение и формально превращает его в его дом, в личность.
+- Seine Familiengeschichte = Его семейная история,
+- die Geschichte seines Hauses etc. = история его рода и т. д., —
+- alles dies individualisiert ihm den Grundbesitz = всё это индивидуализирует для него землевладение
+- und macht ihn förmlich zu seinem Haus = и делает его буквально его домом,
+- zu einer Person = личностью
+
+[598] = Точно так же работающие на земле находятся не в положении подёнщиков, а отчасти сами являются её собственностью, как крепостные, отчасти состоят к ней в отношении почтения, подданства и обязанностей.
+- Ebenso haben die Bearbeiter des Grundbesitzes = Точно так же обрабатывающие землевладение имеют
+- nicht das Verhältnis von Taglöhnern = не положение подёнщиков,
+- sondern teils sind sie selbst sein Eigentum = а отчасти они сами его собственность,
+- wie die Leibeignen = как крепостные,
+- teils stehn sie in Respekts-, Untertan- und Pflichtverhältnis = отчасти они состоят в отношении почтения, подданства и обязанностей
+- zu ihm = к нему
+
+[599] = Поэтому его отношение к ним непосредственно политическое и имеет также душевную сторону.
+- Seine Stellung zu ihnen = Его отношение к ним
+- ist daher unmittelbar politisch = поэтому непосредственно политическое
+- und hat ebenso eine gemütliche Seite = и имеет также душевную сторону
+
+[600] = Нравы, характер и т. д. меняются от одного участка к другому и кажутся единым целым с участком, тогда как позже человека связывает с участком лишь его кошелёк, а не его характер, его индивидуальность.
+- Sitten, Charakter etc. = Нравы, характер и т. д.
+- ändern sich von einem Grundstück zum andern = меняются от одного участка к другому
+- und scheinen mit der Parzelle eins = и кажутся единым целым с участком,
+- während später nur mehr der Beutel des Menschen = тогда как позже лишь кошелёк человека,
+- nicht sein Charakter, seine Individualität = а не его характер, его индивидуальность,
+- ihn auf das Grundstück beziehn = связывает его с участком
+
+[601] = Наконец, он не стремится извлечь из своего землевладения как можно большую выгоду.
+- Endlich sucht er nicht = Наконец, он не стремится
+- den möglichsten Vorteil = как можно большую выгоду
+- von seinem Grundbesitz zu ziehn = из своего землевладения извлечь
+
+[602] = Скорее он потребляет то, что есть, а заботу о добывании спокойно предоставляет крепостным и арендаторам.
+- Vielmehr verzehrt er, was da ist = Скорее он потребляет то, что есть,
+- und überläßt die Sorge des Herbeischaffens = и предоставляет заботу о добывании
+- ruhig den Leibeignen und Pächtern = спокойно крепостным и арендаторам
+
+[603] = Таково дворянское отношение землевладения, которое бросает романтический ореол на его господина.
+- Das ist das adlige Verhältnis des Grundbesitzes = Таково дворянское отношение землевладения,
+- welches eine romantische Glorie = которое романтический ореол
+- auf seinen Herrn wirft = бросает на его господина
+
+[604] = Необходимо, чтобы эта видимость была упразднена, чтобы земельная собственность, корень частной собственности, была полностью втянута в движение частной собственности и стала товаром, чтобы господство собственника выступило как чистое господство частной собственности, капитала, без всякой политической окраски, чтобы отношение между собственником и рабочим свелось к политико-экономическому отношению эксплуататора и эксплуатируемого, чтобы […] личное отношение собственника к своей собственности прекратилось и она стала лишь вещным, материальным богатством, чтобы на место брака чести с землёй встал брак по расчёту и земля так же опустилась до торговой стоимости, как и человек.
+- Es ist nötig = Необходимо,
+- daß dieser Schein aufgehoben wird = чтобы эта видимость была упразднена,
+- daß das Grundeigentum = чтобы земельная собственность,
+- die Wurzel des Privateigentums = корень частной собственности,
+- ganz in die Bewegung des Privateigentums hereingerissen = целиком в движение частной собственности втянута
+- und zur Ware wird = и стала товаром,
+- daß die Herrschaft des Eigentümers = чтобы господство собственника
+- als die reine Herrschaft des Privateigentums = как чистое господство частной собственности,
+- des Kapitals = капитала,
+- abgezogen von aller politischen Tinktur = очищенное от всякой политической окраски,
+- erscheint = выступило,
+- daß das Verhältnis zwischen Eigentümer und Arbeiter = чтобы отношение между собственником и рабочим
+- sich auf das nationalökonomische Verhältnis = свелось к политико-экономическому отношению
+- von Exploiteur und Exploitiertem reduziert = эксплуататора и эксплуатируемого,
+- daß das [...] persönliche Verhältnis des Eigentümers = чтобы […] личное отношение собственника
+- mit seinem Eigentum aufhört = к своей собственности прекратилось
+- und dasselbe zum nun sachlichen, materiellen Reichtum wird = и она стала теперь вещным, материальным богатством,
+- daß an die Stelle der Ehrenehe mit der Erde = чтобы на место брака чести с землёй
+- die Ehe des Interesses tritt = встал брак по расчёту
+- und die Erde ebenso zum Schacherwert herabsinkt = и земля так же опустилась до торговой стоимости,
+- wie der Mensch = как и человек
++ an die Stelle tritt = встаёт на место ~ an die Stelle von etwas treten
+
+[605] = Необходимо, чтобы то, что есть корень земельной собственности, — грязное своекорыстие, — выступило и в своём циничном виде.
+- Es ist notwendig = Необходимо,
+- daß, was die Wurzel des Grundeigentums ist = чтобы то, что есть корень земельной собственности, —
+- der schmutzige Eigennutz = грязное своекорыстие, —
+- auch in seiner zynischen Gestalt erscheint = выступило и в своём циничном виде
+
+[606] = Необходимо, чтобы неподвижная монополия превратилась в подвижную и беспокойную монополию — конкуренцию, а праздное наслаждение чужим кровавым потом — в деловую торговлю им.
+! umschlägt < umschlagt
+- Es ist notwendig = Необходимо,
+- daß das ruhende Monopol = чтобы покоящаяся монополия
+- in das bewegte und beunruhigte Monopol = в подвижную и беспокойную монополию,
+- die Konkurrenz = конкуренцию,
+- der nichtstuende Genuß des fremden Blutschweißes = праздное наслаждение чужим кровавым потом —
+- in den des geschäftigen Handels mit demselben = в деловую торговлю им
+- umschlägt = превратилось
+
+[607] = Необходимо, наконец, чтобы в этой конкуренции земельная собственность в образе капитала показала своё господство как над рабочим классом, так и над самими собственниками, поскольку законы движения капитала разоряют или возвышают их.
+- Es ist endlich notwendig = Необходимо, наконец,
+- daß in dieser Konkurrenz das Grundeigentum = чтобы в этой конкуренции земельная собственность
+- unter der Gestalt des Kapitals = в образе капитала
+- seine Herrschaft sowohl über die Arbeiterklasse = своё господство как над рабочим классом,
+- als über die Eigentümer selbst zeigt = так и над самими собственниками показала,
+- indem die Gesetze der Bewegung des Kapitals = поскольку законы движения капитала
+- sie ruinieren oder erheben = их разоряют или возвышают
+
+[608] = Тогда на место средневековой поговорки «нет земли без сеньора» встаёт современная поговорка «у денег нет хозяина», в которой выражено полное господство умерщвлённой материи над людьми.
+- Damit tritt dann an die Stelle = Тем самым встаёт тогда на место
+- des mittelaltrigen Sprichworts = средневековой поговорки
+- nulle terre sans seigneur = «нет земли без сеньора»
+- das moderne Sprichwort = современная поговорка:
+- l’argent n’a pas de maître = «у денег нет хозяина»,
+- worin die ganze Herrschaft = в которой полное господство
+- der totgeschlagnen Materie über die Menschen = умерщвлённой материи над людьми
+- ausgesprochen ist = выражено
+
+[609] = 2) Что касается спора о разделе или неразделе землевладения, то надо заметить следующее.
+- 2. Was den Streit betrifft = 2) Что касается спора
+- über Teilung oder Nichtteilung des Grundbesitzes = о разделе или неразделе землевладения,
+- so ist folgendes zu bemerken = то надо заметить следующее
+
+[610] = Раздел землевладения отрицает великую монополию земельной собственности, упраздняет её, но лишь тем, что обобщает эту монополию.
+- Die Teilung des Grundbesitzes = Раздел землевладения
+- verneint das große Monopol des Grundeigentums = отрицает великую монополию земельной собственности,
+- hebt es auf = упраздняет её,
+- aber nun dadurch = но лишь тем,
+- daß sie dieses Monopol verallgemeinert = что эту монополию обобщает
++ hebt auf = упраздняет, снимает ~ aufheben ~ у Гегеля и Маркса: снять — упразднить, сохранив
+
+[611] = Он не упраздняет основы монополии — частной собственности.
+- Sie hebt den Grund des Monopols = Он не упраздняет основы монополии,
+- das Privateigentum, nicht auf = частной собственности
++ hebt nicht auf = не упраздняет ~ aufheben
+
+[612] = Он посягает на существование, но не на сущность монополии.
+- Sie greift die Existenz = Он посягает на существование,
+- aber nicht das Wesen des Monopols an = но не на сущность монополии
++ greift an = посягает, нападает ~ angreifen
+
+[613] = Следствием этого оказывается то, что он становится жертвой законов частной собственности.
+- Die Folge davon ist = Следствие этого —
+- daß sie den Gesetzen des Privateigentums = что он законам частной собственности
+- zum Opfer fällt = становится жертвой
++ zum Opfer fällt = становится жертвой ~ einer Sache zum Opfer fallen
+
+[614] = Раздел землевладения соответствует ведь движению конкуренции в промышленной области.
+- Die Teilung des Grundbesitzes entspricht nämlich = Раздел землевладения соответствует ведь
+- der Bewegung der Konkurrenz auf industriellem Gebiet = движению конкуренции в промышленной области
+
+[615] = Помимо политико-экономических невыгод этого раздела орудий и разобщённого труда (его надо хорошо отличать от разделения труда: труд не распределяется между многими, а один и тот же труд выполняется каждым для себя, это умножение одного и того же труда), этот раздел, как и та конкуренция, неизбежно снова превращается в накопление.
+! derselben Arbeit < denselben Arbeit
+- Außer den nationalökonomischen Nachteilen = Помимо политико-экономических невыгод
+- dieser Teilung von Instrumenten = этого раздела орудий
+- und der voneinander getrennten Arbeit = и разобщённого труда
+- wohl zu unterscheiden von der Teilung der Arbeit = (его надо хорошо отличать от разделения труда;
+- die Arbeit wird nicht unter viele verteilt = труд не распределяется между многими,
+- sondern dieselbe Arbeit = а один и тот же труд
+- von jedem für sich betrieben = каждым для себя выполняется,
+- es ist eine Vervielfachung derselben Arbeit = это умножение одного и того же труда),
+- schlägt diese Teilung, wie jene Konkurrenz = этот раздел, как и та конкуренция,
+- notwendig wieder in Akkumulation um = неизбежно снова превращается в накопление
++ schlägt um = превращается ~ in etwas umschlagen
+
+[616] = Поэтому там, где происходит раздел землевладения, не остаётся ничего иного, как вернуться к монополии в ещё более ненавистной форме или отрицать, упразднить сам раздел землевладения.
+- Wo also die Teilung des Grundbesitzes stattfindet = Поэтому там, где раздел землевладения происходит,
+- bleibt nichts übrig = не остаётся ничего иного,
+- als zum Monopol in noch gehässigerer Gestalt zurückzukehren = как вернуться к монополии в ещё более ненавистной форме
+- oder die Teilung des Grundbesitzes selbst = или сам раздел землевладения
+- zu negieren, aufzuheben = отрицать, упразднить
++ bleibt übrig = остаётся ~ übrigbleiben
+
+[617] = А это есть не возврат к феодальному владению, а упразднение частной собственности на землю вообще.
+- Das ist eben nicht die Rückkehr zum Feudalbesitz = Это как раз не возврат к феодальному владению,
+- sondern die Aufhebung des Privateigentums = а упразднение частной собственности
+- an Grund und Boden überhaupt = на землю вообще
+
+[618] = Первое упразднение монополии — это всегда её обобщение, расширение её существования.
+- Die erste Aufhebung des Monopols = Первое упразднение монополии
+- ist immer seine Verallgemeinerung = — всегда её обобщение,
+- die Erweiterung seiner Existenz = расширение её существования
+
+[619] = Упразднение монополии, достигшей как можно более широкого и всеобъемлющего существования, есть её полное уничтожение.
+- Die Aufhebung des Monopols = Упразднение монополии,
+- welches seine möglichst breite und umfassende Existenz erlangt hat = которая достигла как можно более широкого и всеобъемлющего существования,
+- ist seine vollständige Vernichtung = есть её полное уничтожение
+
+[620] = Ассоциация, применённая к земле, разделяет с крупным землевладением его политико-экономические преимущества и впервые осуществляет первоначальную тенденцию раздела — а именно равенство; она также восстанавливает душевную связь человека с землёй разумным путём, уже не опосредствованным крепостничеством, господством и нелепой мистикой собственности: земля перестаёт быть предметом торгашества и благодаря свободному труду и свободному наслаждению снова становится подлинной, личной собственностью человека.
+! indem die Erde aufhört < indem die Ende aufhört
+- Die Assoziation = Ассоциация,
+- auf Grund und Boden angewandt = применённая к земле,
+- teilt den Vorteil des großen Grundbesitzes = разделяет преимущество крупного землевладения
+- in nationalökonomischer Hinsicht = в политико-экономическом отношении
+- und realisiert erst = и впервые осуществляет
+- die ursprüngliche Tendenz der Teilung = первоначальную тенденцию раздела,
+- nämlich die Gleichheit = а именно равенство,
+- wie sie denn auch = как и она также
+- auf eine vernünftige = разумным
+- und nicht mehr durch Leibeigenschaft, Herrschaft = и уже не крепостничеством, господством
+- und eine alberne Eigentumsmystik vermittelte Weise = и нелепой мистикой собственности опосредствованным путём
+- die gemütliche Beziehung des Menschen zur Erde herstellt = душевную связь человека с землёй восстанавливает,
+- indem die Erde aufhört = поскольку земля перестаёт
+- ein Gegenstand des Schachers zu sein = быть предметом торгашества
+- und durch die freie Arbeit und den freien Genuß = и благодаря свободному труду и свободному наслаждению
+- wieder ein wahres, persönliches Eigentum des Menschen wird = снова становится подлинной, личной собственностью человека
+* assoziation = ассоциация, объединение | die Assoziation | сущ. | у Маркса — свободное объединение производителей
+
+[621] = Большое преимущество раздела в том, что его масса гибнет от собственности иначе, чем масса промышленности, — масса, которая больше не может решиться на рабство.
+- Ein großer Vorteil der Teilung ist = Большое преимущество раздела в том,
+- daß seine Masse in andrer Weise = что его масса иным образом,
+- als die [der] Industrie = чем масса промышленности,
+- am Eigentum zugrunde geht = от собственности гибнет, —
+- eine Masse = масса,
+- welche nicht mehr zur Knechtschaft sich entschließen kann = которая больше не может решиться на рабство
++ zugrunde geht = гибнет ~ zugrunde gehen
+
+[622] = Что касается крупного землевладения, то его защитники всегда софистически отождествляли политико-экономические преимущества, которые даёт крупное земледелие, с крупной земельной собственностью, как будто бы это преимущество не получило бы своего наибольшего распространения и не стало бы впервые общественно полезным как раз благодаря упразднению собственности.
+! dieser Vorteil nicht < diesen Vorteil nicht
+- Was den großen Grundbesitz angeht = Что касается крупного землевладения,
+- so haben seine Verteidiger immer = то его защитники всегда
+- auf eine sophistische Weise = софистическим образом
+- die nationalökonomischen Vorteile = политико-экономические преимущества,
+- welche die Agrikultur im großen darbietet = которые даёт крупное земледелие,
+- mit dem großen Grundeigentum identifiziert = с крупной земельной собственностью отождествляли,
+- als wenn dieser Vorteil nicht = как будто это преимущество не
+- eben erst durch die Aufhebung des Eigentums = как раз благодаря упразднению собственности
+- teils seine möglichst große Ausdehnung erhielte = отчасти получило бы наибольшее распространение,
+- teils erst von sozialem Nutzen wurde = отчасти впервые стало бы общественно полезным
++ Was angeht = что касается ~ was … angeht
+
+[623] = Точно так же они нападали на торгашеский дух мелкого землевладения, как будто бы крупное землевладение, уже в своей феодальной форме, не содержало в себе скрыто торгашества, не говоря уже о современной английской форме, где феодализм землевладельца соединён с торгашеством и промышленностью арендатора.
+- Ebenso haben sie den Verschacherungsgeist = Точно так же они торгашеский дух
+- des kleinen Grundbesitzes angegriffen = мелкого землевладения атаковали,
+- als wenn nicht der große Grundbesitz = как будто крупное землевладение,
+- selbst schon in seiner feudalen Form = уже в своей феодальной форме,
+- den Schacher in sich latent enthielte = не содержало в себе скрыто торгашества,
+- gar nicht zu reden von der modernen englischen Form = не говоря уже о современной английской форме,
+- wo Feudalismus des Grundherrn = где феодализм землевладельца
+- und Schacher und Industrie des Pächters verbunden sind = и торгашество и промышленность арендатора соединены
+
+[624] = Подобно тому как крупная земельная собственность может вернуть упрёк в монополии, который ей делает раздел землевладения, поскольку и раздел основан на монополии частной собственности, так раздел землевладения может вернуть крупному землевладению упрёк в разделе, ибо и здесь господствует раздел, лишь в застывшей, замёрзшей форме.
+- Wie das große Grundeigentum = Как крупная земельная собственность
+- den Vorwurf des Monopols = упрёк в монополии,
+- den ihm die Teilung des Grundbesitzes macht = который ей делает раздел землевладения,
+- zurückgeben kann = может вернуть,
+- da auch die Teilung = поскольку и раздел
+- auf dem Monopol des Privateigentums basiert = основан на монополии частной собственности,
+- so kann die Teilung des Grundbesitzes = так раздел землевладения может
+- dem großen Grundbesitz den Vorwurf der Teilung zurückgeben = крупному землевладению упрёк в разделе вернуть,
+- denn auch hier herrscht die Teilung = ибо и здесь господствует раздел,
+- nur in starrer, festgefrorner Form = лишь в застывшей, замёрзшей форме
+
+[625] = Вообще ведь частная собственность основана на разделённости.
+- Überhaupt beruht ja = Вообще ведь основана
+- das Privateigentum auf dem Geteiltsein = частная собственность на разделённости
++ beruht auf = основана на ~ auf etwas beruhen
+
+[626] = Впрочем, подобно тому как раздел землевладения приводит обратно к крупному землевладению как богатству капитала, так и феодальная земельная собственность неизбежно должна перейти к разделу или по крайней мере попасть в руки капиталистов, как бы она ни вертелась.
+- Übrigens = Впрочем,
+- wie die Teilung des Grundbesitzes = как раздел землевладения
+- zum großen Grundbesitz als Kapitalreichtum zurückführt = к крупному землевладению как богатству капитала приводит обратно,
+- so muß das feudale Grundeigentum = так и феодальная земельная собственность должна
+- notwendig zur Teilung fortgehn = неизбежно перейти к разделу
+- oder wenigstens in die Hände der Kapitalisten fallen = или по крайней мере попасть в руки капиталистов,
+- es mag sich drehn oder wenden, wie es will = как бы она ни вертелась
++ mag sich drehn oder wenden = как ни вертись ~ sich drehen und wenden
+
+[627] = Ибо крупная земельная собственность, как в Англии, толкает подавляющее большинство населения в объятия промышленности и доводит своих собственных рабочих до полной нищеты.
+- Denn das große Grundeigentum, wie in England = Ибо крупная земельная собственность, как в Англии,
+- treibt die überwiegende Mehrzahl der Bevölkerung = толкает подавляющее большинство населения
+- der Industrie in die Arme = в объятия промышленности
+- und reduziert seine eignen Arbeiter = и доводит своих собственных рабочих
+- auf völliges Elend = до полной нищеты
+
+[628] = Тем самым она порождает и увеличивает силу своего врага — капитала, промышленности, отбрасывая на другую сторону бедняков и всю деятельность страны.
+- Es erzeugt und vergrößert also = Она порождает и увеличивает, следовательно,
+- die Macht seines Feindes = силу своего врага,
+- des Kapitals, der Industrie = капитала, промышленности,
+- indem es Arme = отбрасывая бедняков
+- und eine völlige und ganze Tätigkeit des Landes = и полную и целую деятельность страны
+- auf die andre Seite wirft = на другую сторону
+
+[629] = Она делает большинство страны промышленным, т. е. противником крупной земельной собственности.
+- Es macht die Majorität des Landes industriell = Она делает большинство страны промышленным,
+- also zum Gegner des großen Grundeigentums = т. е. противником крупной земельной собственности
+
+[630] = Если промышленность достигла большой силы, как теперь в Англии, она постепенно вынуждает крупную земельную собственность отказаться от монополии против заграницы и бросает её в конкуренцию с землевладением заграницы.
+- Hat die Industrie nun eine hohe Macht erreicht = Если промышленность достигла большой силы,
+- wie jetzt in England = как теперь в Англии,
+- so zwingt sie nach und nach = она постепенно вынуждает
+- dem großen Grundeigentum sein Monopol gegen das Ausland ab = крупную земельную собственность отказаться от монополии против заграницы
+- und wirft es in die Konkurrenz = и бросает её в конкуренцию
+- mit dem Grundbesitz des Auslandes = с землевладением заграницы
++ zwingt ab = вынуждает отдать ~ jemandem etwas abzwingen
+
+[631] = Ведь при господстве промышленности земельная собственность могла обеспечивать своё феодальное величие лишь монополиями против заграницы, чтобы оградить себя так от всеобщих законов торговли, противоречащих её феодальной сущности.
+- Unter der Herrschaft der Industrie = При господстве промышленности
+- konnte das Grundeigentum nämlich = могла земельная собственность ведь
+- seine feudale Größe nun durch Monopole gegen das Ausland sichern = своё феодальное величие лишь монополиями против заграницы обеспечивать,
+- um sich so vor den allgemeinen Gesetzen des Handels = чтобы так от всеобщих законов торговли,
+- die seinem Feudalwesen widersprechen = которые противоречат её феодальной сущности,
+- zu schützen = оградить себя
+
+[632] = Брошенная однажды в конкуренцию, она следует законам конкуренции, как всякий другой товар, подчинённый ей.
+- Einmal in die Konkurrenz geworfen = Однажды брошенная в конкуренцию,
+- folgt es den Gesetzen der Konkurrenz = она следует законам конкуренции,
+- wie jede andre Ware = как всякий другой товар,
+- die ihr unterworfen ist = который ей подчинён
+
+[633] = Она становится столь же неустойчивой, убывающей и растущей, перелетающей из рук в руки, и никакой закон больше не может удержать её в немногих предопределённых руках.
+- Es wird ebenso schwankend = Она становится столь же неустойчивой,
+- ab- und zunehmend = убывающей и растущей,
+- aus einer Hand in die andre fliegend = из одних рук в другие перелетающей,
+- und kein Gesetz kann es mehr = и никакой закон не может её больше
+- in wenigen prädestinierten Händen erhalten = в немногих предопределённых руках удержать
+
+[634] = Непосредственное следствие — раздробление между многими руками, во всяком случае переход во власть промышленных капиталов.
+- Die unmittelbare Folge ist = Непосредственное следствие —
+- Zersplittrung in viele Hände = раздробление между многими руками,
+- jedenfalls Anheimfall an die Macht der industriellen Kapitalien = во всяком случае переход во власть промышленных капиталов
+
+[635] = Наконец, крупное землевладение, которое было таким образом насильственно сохранено и породило рядом с собой грозную промышленность, ведёт к кризису ещё быстрее, чем раздел землевладения, рядом с которым сила промышленности всегда остаётся второстепенной.
+! welcher dergestalt < welchen dergestalt
+- Endlich führt der große Grundbesitz = Наконец, крупное землевладение,
+- welcher dergestalt gewaltsam erhalten worden ist = которое таким образом насильственно было сохранено
+- und neben sich eine furchtbare Industrie erzeugt hat = и рядом с собой грозную промышленность породило,
+- noch schneller zur Krise = ведёт ещё быстрее к кризису,
+- wie die Teilung des Grundbesitzes = чем раздел землевладения,
+- neben welcher die Macht der Industrie = рядом с которым сила промышленности
+- immer von zweitem Rang bleibt = всегда остаётся второстепенной
+
+[636] = Крупное землевладение, как мы видим в Англии, уже постольку сбросило свой феодальный характер и приняло промышленный, поскольку хочет нажить как можно больше денег.
+! als er möglichst viel Geld < als en möglichst vie1 Geld
+- Der große Grundbesitz hat = Крупное землевладение,
+- wie wir in England sehn = как мы видим в Англии,
+- seinen feudalen Charakter schon insofern abgelegt = свой феодальный характер уже постольку сбросило
+- und einen industriellen Charakter angenommen = и промышленный характер приняло,
+- als er möglichst viel Geld machen will = поскольку хочет нажить как можно больше денег
+
+[637] = Оно даёт собственнику как можно большую земельную ренту, арендатору — как можно большую прибыль с его капитала.
+! dem Pächter den möglichsten < dem Richter den möglichsten
+- Er [gibt] dem Eigentümer = Оно даёт собственнику
+- die möglichste Grundrente = как можно большую земельную ренту,
+- dem Pächter den möglichsten Profit = арендатору как можно большую прибыль
+- von seinem Kapital = с его капитала
+
+[638] = Поэтому сельские рабочие уже сведены к минимуму, а класс арендаторов уже внутри землевладения представляет силу промышленности и капитала.
+- Die Landarbeiter sind daher bereits = Сельские рабочие поэтому уже
+- auf das Minimum reduziert = к минимуму сведены,
+- und die Pächterklasse vertritt schon = а класс арендаторов уже представляет
+- innerhalb des Grundbesitzes = внутри землевладения
+- die Macht der Industrie und des Kapitals = силу промышленности и капитала
+
+[639] = Из-за конкуренции с заграницей земельная рента в большей части перестаёт быть самостоятельным доходом.
+- Durch die Konkurrenz mit dem Ausland = Из-за конкуренции с заграницей
+- hört die Grundrente größtenteils auf = земельная рента большей частью перестаёт
+- ein selbständiges Einkommen bilden zu können = быть способной составлять самостоятельный доход
++ hört auf = перестаёт ~ aufhören
+
+[640] = Значительной части земельных собственников приходится стать на место арендаторов, которые таким образом […] отчасти опускаются в пролетариат.
+! der Pächter treten < der Richter treten
+- Ein großer Teil der Grundeigentümer = Значительная часть земельных собственников
+- muß an die Stelle der Pächter treten = должна встать на место арендаторов,
+- die auf diese Weise [...] = которые таким образом […]
+- teilweise zum Proletariat herabsinken = отчасти опускаются в пролетариат
+
+[641] = С другой стороны, многие арендаторы овладеют земельной собственностью; ибо крупные собственники, которые при своих удобных доходах большей частью предались расточительству и в большинстве своём непригодны к руководству крупным земледелием, отчасти не обладают ни капиталом, ни способностью эксплуатировать землю.
+! bei ihren bequemen < bei ihnen bequemen
+- Andrerseits werden sich auch viele Pächter = С другой стороны, и многие арендаторы
+- des Grundeigentums bemächtigen = земельной собственностью овладеют;
+- denn die großen Eigentümer = ибо крупные собственники,
+- die bei ihren bequemen Revenue = которые при своих удобных доходах
+- sich größtenteils der Verschwendung ergeben haben = большей частью предались расточительству
+- und meistens auch unbrauchbar = и в большинстве также непригодны
+- zur Leitung der Agrikultur im großen sind = к руководству крупным земледелием,
+- besitzen teilweise weder Kapital noch Befähigung = отчасти не имеют ни капитала, ни способности
+- um den Grund und Boden zu exploitieren = эксплуатировать землю
++ der Verschwendung ergeben = предались расточительству ~ sich einer Sache ergeben
+
+[642] = Значит, и часть из них полностью разоряется.
+- Also auch ein Teil von diesen = Значит, и часть из них
+- wird vollständig ruiniert = полностью разоряется
+
+[643] = Наконец, сведённая к минимуму заработная плата должна быть ещё больше снижена, чтобы выдержать новую конкуренцию.
+- Endlich muß der auf ein Minimum reduzierte Arbeitslohn = Наконец, сведённая к минимуму заработная плата должна
+- noch mehr reduziert werden = ещё больше быть снижена,
+- um die neue Konkurrenz zu bestehen = чтобы выдержать новую конкуренцию
+
+[644] = Это неизбежно ведёт к революции.
+- Das führt dann notwendig zur Revolution = Это ведёт тогда неизбежно к революции
+
+[645] = Земельная собственность должна была развиться обоими путями, чтобы на обоих пережить свою неизбежную гибель, подобно тому как и промышленность должна была разорить себя и в форме монополии, и в форме конкуренции, чтобы научиться верить в человека.
+- Das Grundeigentum mußte sich = Земельная собственность должна была
+- auf jede der beiden Weisen entwickeln = каждым из обоих путей развиться,
+- um in beiden seinen notwendigen Untergang zu erleben = чтобы на обоих пережить свою неизбежную гибель,
+- wie auch die Industrie = как и промышленность
+- in der Form des Monopols und in der Form der Konkurrenz = в форме монополии и в форме конкуренции
+- sich ruinieren mußte = должна была разорить себя,
+- um an den Menschen glauben zu lernen = чтобы научиться верить в человека
++ an glauben = верить в ~ an etwas glauben
