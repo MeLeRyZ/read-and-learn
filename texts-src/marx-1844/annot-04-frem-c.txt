@@ -1,0 +1,515 @@
+[791] = Некоему иному, чем я, существу.
+- Einem andern Wesen als mir = Иному существу, чем я
+
+[792] = Кто же это существо?
+- Wer ist dies Wesen = Кто это существо?
+
+[793] = Боги?
+- Die Götter = Боги?
+
+[794] = Правда, в древнейшие времена главное производство — например, строительство храмов и т. п. в Египте, Индии, Мексике — шло на службу богам, и продукт тоже принадлежал богам.
+- Allerdings erscheint = Правда, выступает
+- in den ersten Zeiten = в древнейшие времена
+- die Hauptproduktion = главное производство,
+- wie z. B. der Tempelbau etc. = например строительство храмов и т. д.
+- in Ägypten, Indien, Mexiko = в Египте, Индии, Мексике,
+- sowohl im Dienst der Götter = как на службе богов,
+- wie auch das Produkt = так и продукт
+- den Göttern gehört = принадлежит богам
+
+[795] = Однако одни боги никогда не были хозяевами труда.
+- Allein = Однако
+- die Götter allein = одни лишь боги
+- waren nie die Arbeitsherrn = никогда не были хозяевами труда
+
+[796] = Так же как и природа.
+- Ebensowenig die Natur = Так же не была и природа
+
+[797] = Да и каким противоречием было бы, если бы человек, чем больше он подчиняет себе природу своим трудом и чем больше чудеса богов становятся излишними благодаря чудесам промышленности, должен был бы в угоду этим силам отказываться от радости производства и от наслаждения продуктом.
+- Und welcher Widerspruch wäre es auch = И каким противоречием было бы,
+- daß, je mehr der Mensch = если бы, чем больше человек
+- die Natur durch seine Arbeit = природу своим трудом
+- sich unterwirft = себе подчиняет,
+- je mehr die Wunder der Götter = чем больше чудеса богов
+- überflüssig werden = становятся излишними
+- durch die Wunder der Industrie = благодаря чудесам промышленности,
+- der Mensch diesen Mächten zulieb = человек в угоду этим силам
+- auf die Freude an der Produktion = от радости производства
+- und auf den Genuß des Produktes = и от наслаждения продуктом
+- verzichten sollte = должен был бы отказываться
++ auf verzichten = отказываться от ~ auf etwas verzichten
+
+[798] = Чуждым существом, которому принадлежат труд и продукт труда, на службе у которого состоит труд и для наслаждения которого существует продукт труда, может быть лишь сам человек.
+- Das fremde Wesen = Чуждое существо,
+- dem die Arbeit und das Produkt der Arbeit gehört = которому принадлежат труд и продукт труда,
+- in dessen Dienst die Arbeit = на службе которого труд
+- und zu dessen Genuß = и для наслаждения которого
+- das Produkt der Arbeit steht = продукт труда находится,
+- kann nur der Mensch selbst sein = может быть только сам человек
+
+[799] = Если продукт труда не принадлежит рабочему, если он противостоит ему как чуждая сила, то это возможно лишь потому, что он принадлежит другому человеку, не рабочему.
+- Wenn das Produkt der Arbeit = Если продукт труда
+- nicht dem Arbeiter gehört = не принадлежит рабочему,
+- eine fremde Macht ihm gegenüber ist = есть противостоящая ему чуждая сила,
+- so ist dies nur dadurch möglich = то это возможно лишь благодаря тому,
+- daß es einem andern Menschen = что он другому человеку,
+- außer dem Arbeiter gehört = кроме рабочего, принадлежит
+
+[800] = Если деятельность рабочего для него мука, то она должна доставлять наслаждение и жизненную радость кому-то другому.
+- Wenn seine Tätigkeit ihm Qual ist = Если его деятельность для него мука,
+- so muß sie einem andern Genuß = то она должна быть другому наслаждением
+- und die Lebensfreude eines andern sein = и жизненной радостью другого
+
+[801] = Не боги и не природа, а только сам человек может быть этой чуждой силой, властвующей над человеком.
+- Nicht die Götter, nicht die Natur = Не боги, не природа,
+- nur der Mensch selbst = лишь сам человек
+- kann diese fremde Macht = может быть этой чуждой силой
+- über d[en] Menschen sein = над человеком
+
+[802] = Вспомним ещё высказанное ранее положение, что отношение человека к самому себе становится для него предметным, действительным лишь через его отношение к другому человеку.
+- Man bedenke noch = Вспомним ещё
+- den vorher aufgestellten Satz = высказанное ранее положение,
+- daß das Verhältnis des Menschen zu sich selbst = что отношение человека к самому себе
+- ihm erst gegenständlich, wirklich ist = становится для него предметным, действительным лишь
+- durch sein Verhältnis zu dem andern Menschen = через его отношение к другому человеку
++ Man bedenke = вспомним, учтём ~ bedenken ~ Konjunktiv I: «пусть читатель вспомнит»
+
+[803] = Итак, если он относится к продукту своего труда, к своему опредмеченному труду как к предмету чуждому, враждебному, могущественному, от него не зависящему, то он относится к нему так, что хозяином этого предмета является другой, чуждый ему, враждебный, могущественный, от него не зависящий человек.
+- Wenn er sich also = Итак, если он
+- zu dem Produkt seiner Arbeit = к продукту своего труда,
+- zu seiner vergegenständlichten Arbeit = к своему опредмеченному труду,
+- als einem fremden, feindlichen, mächtigen = как к чуждому, враждебному, могущественному,
+- von ihm unabhängigen Gegenstand verhält = от него не зависящему предмету относится,
+- so verhält er sich zu ihm so = то он относится к нему так,
+- daß ein andrer, ihm fremder = что другой, ему чуждый,
+- feindlicher, mächtiger = враждебный, могущественный,
+- von ihm unabhängiger Mensch = от него не зависящий человек
+- der Herr dieses Gegenstandes ist = хозяин этого предмета
+
+[804] = Если он относится к своей собственной деятельности как к несвободной, то он относится к ней как к деятельности, находящейся на службе другого человека, под его властью, принуждением и игом.
+- Wenn er sich zu seiner eignen Tätigkeit = Если он к своей собственной деятельности
+- als einer unfreien verhält = как к несвободной относится,
+- so verhält er sich zu ihr = то он относится к ней
+- als der Tätigkeit im Dienst = как к деятельности на службе,
+- unter der Herrschaft = под властью,
+- dem Zwang und dem Joch = принуждением и игом
+- eines andern Menschen = другого человека
+
+[805] = Всякое самоотчуждение человека от самого себя и от природы проявляется в том отношении, в которое он ставит себя и природу к другим, отличным от него людям.
+! unterschiednen < .unterschiednen
+- Jede Selbstentfremdung des Menschen = Всякое самоотчуждение человека
+- von sich und der Natur = от себя и природы
+- erscheint in dem Verhältnis = проявляется в отношении,
+- welches er sich und der Natur = которое он себе и природе
+- zu andern, von ihm unterschiednen Menschen gibt = к другим, отличным от него людям придаёт
+
+[806] = Поэтому религиозное самоотчуждение необходимо проявляется в отношении мирянина к священнику или также — так как здесь речь идёт об интеллектуальном мире — к посреднику и т. д. В практическом действительном мире самоотчуждение может проявиться лишь через практическое действительное отношение к другим людям.
+- Daher die religiöse Selbstentfremdung = Поэтому религиозное самоотчуждение
+- notwendig in dem Verhältnis = необходимо в отношении
+- des Laien zum Priester erscheint = мирянина к священнику проявляется,
+- oder auch = или также,
+- da es sich hier = поскольку здесь
+- von der intellektuellen Welt handelt = речь идёт об интеллектуальном мире,
+- zu einem Mittler etc. = к посреднику и т. д.
+- In der praktischen wirklichen Welt = В практическом действительном мире
+- kann die Selbstentfremdung nur = самоотчуждение может лишь
+- durch das praktische, wirkliche Verhältnis = через практическое, действительное отношение
+- zu andern Menschen erscheinen = к другим людям проявиться
++ es sich handelt = речь идёт ~ es handelt sich um (здесь von) etwas
+
+[807] = Средство, посредством которого происходит отчуждение, само есть практическое средство.
+- Das Mittel = Средство,
+- wodurch die Entfremdung vorgeht = посредством которого происходит отчуждение,
+- ist selbst ein praktisches = само — практическое
+
+[808] = Следовательно, посредством отчуждённого труда человек порождает не только своё отношение к предмету и акту производства как к чуждым и враждебным ему силам — он порождает также отношение, в котором другие люди находятся к его производству и его продукту, и отношение, в котором он сам находится к этим другим людям.
+- Durch die entfremdete Arbeit = Посредством отчуждённого труда
+- erzeugt der Mensch also nicht nur = человек, таким образом, порождает не только
+- sein Verhältnis zu dem Gegenstand = своё отношение к предмету
+- und dem Akt der Produktion = и акту производства
+- als fremden und ihm feindlichen Mächten = как к чуждым и враждебным ему силам;
+- er erzeugt auch das Verhältnis = он порождает и отношение,
+- in welchem andre Menschen = в котором другие люди
+- zu seiner Produktion und seinem Produkt stehn = к его производству и его продукту стоят,
+- und das Verhältnis = и отношение,
+- in welchem er zu diesen andern Menschen steht = в котором он к этим другим людям стоит
+
+[809] = Подобно тому как он превращает своё собственное производство в своё выключение из действительности, в свою кару, а свой собственный продукт — в утрату, в продукт, ему не принадлежащий, так он порождает и господство того, кто не производит, над производством и над продуктом.
+- Wie er seine eigne Produktion = Как он своё собственное производство
+- zu seiner Entwirklichung = в своё выключение из действительности,
+- zu seiner Strafe = в свою кару,
+- wie er sein eignes Produkt = как он свой собственный продукт
+- zu dem Verlust = в утрату,
+- zu einem ihm nicht gehörigen Produkt = в продукт, ему не принадлежащий, (превращает,)
+- so erzeugt er die Herrschaft dessen = так он порождает господство того,
+- der nicht produziert = кто не производит,
+- auf die Produktion und auf das Produkt = над производством и над продуктом
+
+[810] = Подобно тому как он отчуждает от себя свою собственную деятельность, он присваивает чужому деятельность, которая этому чужому не свойственна.
+- Wie er seine eigne Tätigkeit = Как он свою собственную деятельность
+- sich entfremdet = от себя отчуждает,
+- so eignet er dem Fremden = так он присваивает чужому
+- die ihm nicht eigne Tätigkeit an = не свойственную тому деятельность
++ eignet an = присваивает ~ aneignen ~ здесь «присваивает (кому-то)»
+
+[811] = До сих пор мы рассматривали это отношение только со стороны рабочего; позже мы рассмотрим его также и со стороны нерабочего.
+- Wir haben bis jetzt = Мы до сих пор
+- das Verhältnis nur = отношение лишь
+- von seiten des Arbeiters = со стороны рабочего,
+- und wir werden es später = а позже мы его
+- auch von seiten des Nichtarbeiters betrachten = рассмотрим и со стороны нерабочего
++ haben betrachten = (рассматривали) ~ здесь глагол betrachtet опущен
+
+[812] = Итак, посредством отчуждённого труда рабочий порождает отношение к этому труду некоего человека, чуждого труду и стоящего вне труда.
+- Also durch die entfremdete, entäußerte Arbeit = Итак, посредством отчуждённого труда
+- erzeugt der Arbeiter das Verhältnis = рабочий порождает отношение
+- eines der Arbeit fremden = чуждого труду
+- und außer ihr stehenden Menschen = и стоящего вне его человека
+- zu dieser Arbeit = к этому труду
+
+[813] = Отношение рабочего к труду порождает отношение к тому же труду капиталиста — или как бы там ни называли хозяина труда.
+- Das Verhältnis des Arbeiters zur Arbeit = Отношение рабочего к труду
+- erzeugt das Verhältnis des Kapitalisten = порождает отношение капиталиста
+- zu derselben = к нему же,
+- oder wie man sonst = или как бы иначе
+- den Arbeitsherrn nennen will = ни называли хозяина труда
+
+[814] = Следовательно, частная собственность есть продукт, результат, необходимое следствие отчуждённого труда, внешнего отношения рабочего к природе и к самому себе.
+- Das Privateigentum ist also = Итак, частная собственность есть
+- das Produkt, das Resultat = продукт, результат,
+- die notwendige Konsequenz = необходимое следствие
+- der entäußerten Arbeit = отчуждённого труда,
+- des äußerlichen Verhältnisses des Arbeiters = внешнего отношения рабочего
+- zu der Natur und zu sich selbst = к природе и к самому себе
+
+[815] = Таким образом, путём анализа частная собственность выводится из понятия отчуждённого труда, т. е. отчуждённого человека, отчуждённой жизни, отчуждённого человека.
+- Das Privateigentum ergibt sich also = Итак, частная собственность получается
+- durch Analyse = путём анализа
+- aus dem Begriff der entäußerten Arbeit = из понятия отчуждённого труда,
+- d. i. des entäußerten Menschen = т. е. отчуждённого человека,
+- der entfremdeten Arbeit = отчуждённого труда,
+- des entfremdeten Lebens = отчуждённой жизни,
+- des entfremdeten Menschen = отчуждённого человека
++ ergibt sich = получается, следует ~ sich ergeben
+* i = (то есть) | | сокр. | d. i. = das ist — «то есть»
+
+[816] = Правда, понятие отчуждённого труда (отчуждённой жизни) мы получили из политической экономии как результат движения частной собственности.
+- Wir haben allerdings = Мы, правда,
+- den Begriff der entäußerten Arbeit = понятие отчуждённого труда
+- des entäußerten Lebens = (отчуждённой жизни)
+- aus der Nationalökonomie = из политической экономии
+- als Resultat aus der Bewegung des Privateigentums = как результат движения частной собственности
+- gewonnen = получили
+
+[817] = Но анализ этого понятия показывает, что хотя частная собственность и выступает как основание, как причина отчуждённого труда, в действительности она, напротив, его следствие, подобно тому как и боги первоначально суть не причина, а следствие заблуждения человеческого рассудка.
+- Aber es zeigt sich = Но оказывается
+- bei Analyse dieses Begriffes = при анализе этого понятия,
+- daß, wenn das Privateigentum = что если частная собственность
+- als Grund, als Ursache = как основание, как причина
+- der entäußerten Arbeit erscheint = отчуждённого труда выступает,
+- es vielmehr eine Konsequenz derselben ist = она скорее его следствие,
+- wie auch die Götter ursprünglich = как и боги первоначально
+- nicht die Ursache = не причина,
+- sondern die Wirkung = а следствие
+- der menschlichen Verstandesverirrung sind = заблуждения человеческого рассудка
+
+[818] = Позднее же это отношение превращается во взаимодействие.
+- Später schlägt dies Verhältnis = Позже это отношение
+- in Wechselwirkung um = превращается во взаимодействие
++ schlägt um = переходит, превращается ~ in etwas umschlagen
+
+[819] = Лишь в последней, кульминационной точке развития частной собственности снова обнаруживается эта её тайна: что она, с одной стороны, есть продукт отчуждённого труда, а во-вторых, что она есть средство, посредством которого труд отчуждается, — осуществление этого отчуждения.
+- Erst auf dem letzten Kulminationspunkt = Лишь в последней кульминационной точке
+- der Entwicklung des Privateigentums = развития частной собственности
+- tritt dieses sein Geheimnis wieder hervor = снова выступает эта его тайна,
+- nämlich einerseits = а именно, с одной стороны,
+- daß es das Produkt der entäußerten Arbeit = что она — продукт отчуждённого труда,
+- und zweitens = а во-вторых,
+- daß es das Mittel ist = что она — средство,
+- durch welches sich die Arbeit entäußert = посредством которого труд отчуждается,
+- die Realisation dieser Entäußerung = осуществление этого отчуждения
+
+[820] = Это развитие сразу проливает свет на различные до сих пор не разрешённые коллизии.
+- Diese Entwicklung gibt sogleich Licht = Это развитие сразу проливает свет
+- über verschiedne bisher ungelöste Kollisionen = на различные доныне нерешённые коллизии
+
+[821] = 1) Политическая экономия исходит из труда как подлинной души производства, и тем не менее труду она не даёт ничего, а частной собственности — всё.
+- 1. Die Nationalökonomie geht = 1) Политическая экономия исходит
+- von der Arbeit = из труда
+- als der eigentlichen Seele der Produktion aus = как подлинной души производства,
+- und dennoch gibt sie = и всё же даёт она
+- der Arbeit nichts = труду ничего,
+- und dem Privateigentum alles = а частной собственности всё
++ geht aus = исходит ~ von etwas ausgehen
+
+[822] = Прудон сделал из этого противоречия вывод в пользу труда и против частной собственности.
+- Proudhon hat aus diesem Widerspruch = Прудон из этого противоречия
+- zugunsten der Arbeit = в пользу труда
+- wider das Privateigentum = против частной собственности
+- geschlossen = сделал вывод
+* geschlossen = сделал вывод, заключил | schließen | гл. | aus etwas schließen — заключать из
+* proudhon = Прудон | | имя собств. | Пьер-Жозеф Прудон (1809–1865), французский социалист
+
+[823] = Мы же видим, что это кажущееся противоречие есть противоречие отчуждённого труда с самим собой и что политическая экономия лишь высказала законы отчуждённого труда.
+- Wir aber sehn ein = Мы же понимаем,
+- daß dieser scheinbare Widerspruch = что это кажущееся противоречие
+- der Widerspruch der entfremdeten Arbeit = есть противоречие отчуждённого труда
+- mit sich selbst ist = с самим собой
+- und daß die Nationalökonomie nur = и что политическая экономия лишь
+- die Gesetze der entfremdeten Arbeit = законы отчуждённого труда
+- ausgesprochen hat = высказала
++ sehn ein = понимаем, осознаём ~ einsehen
+
+[824] = Поэтому мы видим также, что заработная плата и частная собственность тождественны: ведь заработная плата, где продукт, предмет труда оплачивает сам труд, есть лишь необходимое следствие отчуждения труда, и в заработной плате труд выступает не как самоцель, а как слуга заработка.
+- Wir sehn daher auch ein = Поэтому мы понимаем и то,
+- daß Arbeitslohn und Privateigentum = что заработная плата и частная собственность
+- identisch sind = тождественны:
+- denn der Arbeitslohn = ведь заработная плата,
+- wo das Produkt = где продукт,
+- der Gegenstand der Arbeit = предмет труда
+- die Arbeit selbst besoldet = оплачивает сам труд,
+- ist nur eine notwendige Konsequenz = есть лишь необходимое следствие
+- von der Entfremdung der Arbeit = отчуждения труда,
+- wie denn im Arbeitslohn auch = как и в заработной плате
+- die Arbeit nicht als Selbstzweck = труд не как самоцель,
+- sondern als der Diener des Lohns erscheint = а как слуга заработка выступает
+
+[825] = Позднее мы это разовьём, а сейчас сделаем лишь ещё несколько выводов.
+- Wir werden dies später ausführen = Мы позже это разовьём
+- und ziehen jetzt nur noch = и сделаем сейчас лишь ещё
+- einige Konsequenzen = несколько выводов
+
+[826] = Насильственное повышение заработной платы (не говоря уже обо всех прочих трудностях и о том, что такое повышение, как аномалию, можно было бы удерживать лишь насильно) было бы, следовательно, не чем иным, как лучшей оплатой рабов, и не завоевало бы ни рабочему, ни труду их человеческого назначения и достоинства.
+! gewaltsam < gewa1tsam
+! hätte weder < hatte weder
+- Eine gewaltsame Erhöhung des Arbeitslohns = Насильственное повышение заработной платы
+- von allen andren Schwierigkeiten abgesehn = не говоря обо всех прочих трудностях,
+- abgesehn davon = не говоря о том,
+- daß sie als eine Anomalie = что его как аномалию
+- auch nur gewaltsam = тоже лишь насильно
+- aufrechtzuerhalten wäre = можно было бы удерживать
+- wäre also nichts als = было бы, следовательно, лишь
+- eine bessere Salairierung der Sklaven = лучшей оплатой рабов
+- und hätte weder dem Arbeiter = и не завоевало бы ни рабочему,
+- noch der Arbeit = ни труду
+- ihre menschliche Bestimmung und Würde = их человеческого назначения и достоинства
+- erobert = (завоевало бы)
++ von abgesehn = не говоря о ~ von etwas abgesehen
+* salairierung = оплата (жалованьем) | die Salairierung | сущ. | от франц. salaire — заработная плата
+
+[827] = Даже равенство заработной платы, которого требует Прудон, лишь превращает отношение нынешнего рабочего к его труду в отношение всех людей к труду.
+- Ja selbst die Gleichheit der Salaire = Даже равенство заработной платы,
+- wie sie Proudhon fordert = которого требует Прудон,
+- verwandelt nur das Verhältnis = превращает лишь отношение
+- des jetzigen Arbeiters zu seiner Arbeit = нынешнего рабочего к своему труду
+- in das Verhältnis aller Menschen zur Arbeit = в отношение всех людей к труду
+
+[828] = Общество мыслится тогда как абстрактный капиталист.
+- Die Gesellschaft wird dann = Общество тогда
+- als abstrakter Kapitalist gefaßt = понимается как абстрактный капиталист
+
+[829] = Заработная плата есть непосредственное следствие отчуждённого труда, а отчуждённый труд есть непосредственная причина частной собственности.
+- Arbeitslohn ist eine unmittelbare Folge = Заработная плата — непосредственное следствие
+- der entfremdeten Arbeit = отчуждённого труда,
+- und die entfremdete Arbeit = а отчуждённый труд —
+- ist die unmittelbare Ursache des Privateigentums = непосредственная причина частной собственности
+
+[830] = Поэтому с падением одной стороны должна пасть и другая.
+- Mit der einen = С одной
+- muß daher auch die andere Seite fallen = поэтому должна пасть и другая сторона
+
+[831] = 2) Из отношения отчуждённого труда к частной собственности следует далее, что эмансипация общества от частной собственности и т. д., от кабалы, выражается в политической форме эмансипации рабочих, причём дело не в том, что речь идёт только об их эмансипации, а в том, что в их эмансипации заключена общечеловеческая эмансипация; а заключена она в ней потому, что всё человеческое рабство вовлечено в отношение рабочего к производству и все кабальные отношения суть лишь видоизменения и следствия этого отношения.
+! zur Produktion < Zur Produktion
+- 2. Aus dem Verhältnis der entfremdeten Arbeit = 2) Из отношения отчуждённого труда
+- zum Privateigentum folgt ferner = к частной собственности следует далее,
+- daß die Emanzipation der Gesellschaft = что эмансипация общества
+- vom Privateigentum etc. = от частной собственности и т. д.,
+- von der Knechtschaft = от кабалы,
+- in der politischen Form = в политической форме
+- der Arbeiteremanzipation sich ausspricht = эмансипации рабочих выражается,
+- nicht als wenn es sich nur = не так, будто речь идёт лишь
+- um ihre Emanzipation handelte = об их эмансипации,
+- sondern weil in ihrer Emanzipation = а потому, что в их эмансипации
+- die allgemein menschliche enthalten ist = заключена общечеловеческая,
+- diese ist aber darin enthalten = а она заключена в ней потому,
+- weil die ganze menschliche Knechtschaft = что всё человеческое рабство
+- in dem Verhältnis des Arbeiters = в отношение рабочего
+- zur Produktion involviert ist = к производству вовлечено
+- und alle Knechtschaftsverhältnisse = и все кабальные отношения
+- nur Modifikationen und Konsequenzen = лишь видоизменения и следствия
+- dieses Verhältnisses sind = этого отношения
++ es sich um handelte = речь шла о ~ es handelt sich um etwas ~ Konjunktiv II после als wenn
+
+[832] = Подобно тому как мы путём анализа вывели понятие частной собственности из понятия отчуждённого труда, так с помощью этих двух факторов можно развить все политико-экономические категории, и в каждой категории, например в торгашестве, конкуренции, капитале, деньгах, мы найдём лишь определённое и развёрнутое выражение этих первых основ.
+- Wie wir aus dem Begriff = Как мы из понятия
+- der entfremdeten, entäußerten Arbeit = отчуждённого труда
+- den Begriff des Privateigentums = понятие частной собственности
+- durch Analyse gefunden haben = путём анализа нашли,
+- so können mit Hülfe dieser beiden Faktoren = так с помощью этих двух факторов могут
+- alle nationalökonomischen Kategorien = все политико-экономические категории
+- entwickelt werden = быть развиты,
+- und wir werden in jeder Kategorie = и мы в каждой категории,
+- wie z. B. dem Schacher = например в торгашестве,
+- der Konkurrenz, dem Kapital, dem Geld = конкуренции, капитале, деньгах,
+- nur einen bestimmten und entwickelten Ausdruck = лишь определённое и развитое выражение
+- dieser ersten Grundlagen wiederfinden = этих первых основ найдём вновь
+
+[833] = Но прежде чем рассматривать это формирование, попытаемся решить ещё две задачи.
+- Bevor wir jedoch = Однако прежде чем мы
+- diese Gestaltung betrachten = рассмотрим это формирование,
+- suchen wir noch = попытаемся ещё
+- zwei Aufgaben zu lösen = решить две задачи
+
+[834] = 1) Определить всеобщую сущность частной собственности, как она получилась в результате отчуждённого труда, в её отношении к подлинно человеческой и социальной собственности.
+- 1. Das allgemeine Wesen des Privateigentums = 1) Всеобщую сущность частной собственности,
+- wie es sich als Resultat = как она в качестве результата
+- der entfremdeten Arbeit ergeben hat = отчуждённого труда получилась,
+- in seinem Verhältnis = в её отношении
+- zum wahrhaft menschlichen und sozialen Eigentum = к подлинно человеческой и социальной собственности
+- zu bestimmen = определить
+
+[835] = 2) Мы приняли отчуждение труда как факт и проанализировали этот факт.
+- 2. Wir haben die Entfremdung der Arbeit = 2) Мы отчуждение труда,
+- ihre Entäußrung = его овнешнение,
+- als ein Faktum angenommen = как факт приняли
+- und dies Faktum analysiert = и этот факт проанализировали
+
+[836] = Как же, спрашиваем мы теперь, человек приходит к тому, чтобы отчуждать свой труд?
+- Wie, fragen wir nun = Как, спрашиваем мы теперь,
+- kömmt der Mensch dazu = человек приходит к тому,
+- seine Arbeit zu entäußern = чтобы овнешнять свой труд,
+- zu entfremden = отчуждать
++ kömmt dazu = приходит к тому ~ dazu kommen, etwas zu tun
+
+[837] = Как это отчуждение обосновано в сущности человеческого развития?
+- Wie ist diese Entfremdung = Как это отчуждение
+- im Wesen der menschlichen Entwicklung = в сущности человеческого развития
+- begründet = обосновано?
+
+[838] = Мы уже многого достигли для решения задачи тем, что превратили вопрос о происхождении частной собственности в вопрос об отношении отчуждённого труда к ходу развития человечества.
+! viel < vie1
+! Lösung < Losung
+- Wir haben schon viel = Мы уже многое
+- für die Lösung der Aufgabe gewonnen = для решения задачи выиграли,
+- indem wir die Frage = тем, что вопрос
+- nach dem Ursprung des Privateigentums = о происхождении частной собственности
+- in die Frage nach dem Verhältnis = в вопрос об отношении
+- der entäußerten Arbeit = отчуждённого труда
+- zum Entwicklungsgang der Menschheit = к ходу развития человечества
+- verwandelt haben = превратили
+
+[839] = Ведь когда говорят о частной собственности, то думают, что имеют дело с чем-то, что находится вне человека.
+- Denn wenn man von Privateigentum spricht = Ведь когда говорят о частной собственности,
+- so glaubt man = то думают,
+- es mit einer Sache außer dem Menschen = с вещью вне человека
+- zu tun zu haben = иметь дело
++ es mit zu tun zu haben = иметь дело с ~ es mit etwas zu tun haben
+
+[840] = Когда же говорят о труде, то имеют дело непосредственно с самим человеком.
+- Wenn man von der Arbeit spricht = Когда говорят о труде,
+- so hat man es unmittelbar = то имеют дело непосредственно
+- mit dem Menschen selbst zu tun = с самим человеком
++ hat es mit zu tun = имеет дело с ~ es mit etwas zu tun haben
+
+[841] = Эта новая постановка вопроса уже включает в себя его решение.
+- Diese neue Stellung der Frage = Эта новая постановка вопроса
+- ist inklusive schon ihre Lösung = уже включает его решение
+
+[842] = К пункту 1. Всеобщая сущность частной собственности и её отношение к подлинно человеческой собственности.
+- ad 1. = К пункту 1.
+- Allgemeines Wesen des Privateigentums = Всеобщая сущность частной собственности
+- und sein Verhältnis = и её отношение
+- zum wahrhaft menschlichen Eigentum = к подлинно человеческой собственности
+
+[843] = Отчуждённый труд распался у нас на две составные части, которые взаимно обусловливают друг друга или представляют собой лишь различные выражения одного и того же отношения: освоение выступает как отчуждение, как овнешнение, а овнешнение — как освоение, отчуждение — как подлинное приобщение.
+- In zwei Bestandteile = На две составные части,
+- die sich wechselseitig bedingen = которые взаимно обусловливают друг друга
+- oder die nur verschiedne Ausdrücke = или которые лишь различные выражения
+- eines und desselben Verhältnisses sind = одного и того же отношения,
+- hat sich uns die entäußerte Arbeit aufgelöst = распался у нас отчуждённый труд:
+- die Aneignung erscheint als Entfremdung = освоение выступает как отчуждение,
+- als Entäußerung = как овнешнение,
+- und die Entäußerung als Aneignung = а овнешнение — как освоение,
+- die Entfremdung als die wahre Einbürgerung = отчуждение — как подлинное приобщение
+* einbürgerung = приобщение, «обретение гражданства» | die Einbürgerung | сущ. | буквально «натурализация»
+
+[844] = Одну сторону мы рассмотрели — отчуждённый труд в отношении самого рабочего, т. е. отношение отчуждённого труда к самому себе.
+- Wir haben die eine Seite betrachtet = Мы рассмотрели одну сторону:
+- die entäußerte Arbeit = отчуждённый труд
+- in bezug auf den Arbeiter selbst = в отношении самого рабочего,
+- d. h. das Verhältnis der entäußerten Arbeit = т. е. отношение отчуждённого труда
+- zu sich selbst = к самому себе
++ in bezug auf = в отношении, касательно ~ in Bezug auf etwas
+
+[845] = Как продукт, как необходимый результат этого отношения мы нашли отношение собственности нерабочего к рабочему и к труду.
+- Als Produkt = Как продукт,
+- als notwendiges Resultat dieses Verhältnisses = как необходимый результат этого отношения,
+- haben wir das Eigentumsverhältnis = мы нашли отношение собственности
+- des Nichtarbeiters zum Arbeiter = нерабочего к рабочему
+- und der Arbeit gefunden = и к труду
+
+[846] = Частная собственность как материальное, сводное выражение отчуждённого труда охватывает оба отношения: отношение рабочего к труду, к продукту своего труда и к нерабочему, и отношение нерабочего к рабочему и к продукту его труда.
+- Das Privateigentum = Частная собственность
+- als der materielle, resümierte Ausdruck = как материальное, сводное выражение
+- der entäußerten Arbeit = отчуждённого труда
+- umfaßt beide Verhältnisse = охватывает оба отношения:
+- das Verhältnis des Arbeiters zur Arbeit = отношение рабочего к труду,
+- und zum Produkt seiner Arbeit = к продукту своего труда
+- und zum Nichtarbeiter = и к нерабочему,
+- und das Verhältnis des Nichtarbeiters = и отношение нерабочего
+- zum Arbeiter und dem Produkt seiner Arbeit = к рабочему и к продукту его труда
+
+[847] = Мы видели, что в отношении рабочего, который своим трудом осваивает природу, освоение выступает как отчуждение, самодеятельность — как деятельность для другого и как деятельность другого, жизнедеятельность — как жертвование жизнью, производство предмета — как утрата предмета в пользу чуждой силы, чуждого человека; рассмотрим теперь отношение этого чуждого труду и рабочему человека к рабочему, к труду и его предмету.
+! zur Arbeit < Zur Arbeit
+- Wenn wir nun gesehn haben = Если мы теперь увидели,
+- daß in bezug auf den Arbeiter = что в отношении рабочего,
+- welcher sich durch die Arbeit = который трудом
+- die Natur aneignet = осваивает природу,
+- die Aneignung als Entfremdung erscheint = освоение выступает как отчуждение,
+- die Selbsttätigkeit = самодеятельность —
+- als Tätigkeit für einen andern = как деятельность для другого
+- und als Tätigkeit eines andern = и как деятельность другого,
+- die Lebendigkeit = жизненность —
+- als Aufopferung des Lebens = как жертвование жизнью,
+- die Produktion des Gegenstandes = производство предмета —
+- als Verlust des Gegenstandes = как утрата предмета
+- an eine fremde Macht = в пользу чуждой силы,
+- an einen fremden Menschen = чуждого человека,
+- so betrachten wir nun das Verhältnis = то рассмотрим теперь отношение
+- dieses der Arbeit und dem Arbeiter fremden Menschen = этого чуждого труду и рабочему человека
+- zum Arbeiter = к рабочему,
+- zur Arbeit und ihrem Gegenstand = к труду и его предмету
+
+[848] = Прежде всего надо заметить, что всё, что у рабочего выступает как деятельность отчуждения, у нерабочего выступает как состояние отчуждения.
+- Zunächst ist zu bemerken = Прежде всего надо заметить,
+- daß alles = что всё,
+- was bei dem Arbeiter = что у рабочего
+- als Tätigkeit der Entäußerung = как деятельность овнешнения,
+- der Entfremdung = отчуждения,
+- bei dem Nichtarbeiter = у нерабочего
+- als Zustand der Entäußerung = как состояние овнешнения,
+- der Entfremdung = отчуждения,
+- erscheint = выступает
++ ist zu bemerken = следует заметить ~ sein + zu + Infinitiv
+
+[849] = Во-вторых, что действительное, практическое поведение рабочего в производстве и по отношению к продукту (как душевное состояние) выступает у противостоящего ему нерабочего как теоретическое отношение.
+- Zweitens, daß das wirkliche = Во-вторых, что действительное,
+- praktische Verhalten des Arbeiters = практическое поведение рабочего
+- in der Produktion und zum Produkt = в производстве и по отношению к продукту
+- als Gemütszustand = (как душевное состояние)
+- bei dem ihm gegenüberstehenden Nichtarbeiter = у противостоящего ему нерабочего
+- als theoretisches Verhalten erscheint = выступает как теоретическое отношение
+
+[850] = В-третьих.
+- Drittens = В-третьих
+
+[851] = Нерабочий делает против рабочего всё то, что рабочий делает против самого себя, но не делает против самого себя того, что он делает против рабочего.
+- Der Nichtarbeiter tut alles = Нерабочий делает всё
+- gegen den Arbeiter = против рабочего,
+- was der Arbeiter gegen sich selbst tut = что рабочий делает против себя самого,
+- aber er tut nicht gegen sich selbst = но не делает против себя самого,
+- was er gegen den Arbeiter tut = того, что делает против рабочего
+
+[852] = Рассмотрим подробнее эти три отношения.
+- Betrachten wir näher = Рассмотрим подробнее
+- diese drei Verhältnisse = эти три отношения

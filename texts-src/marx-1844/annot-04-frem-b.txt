@@ -1,0 +1,538 @@
+[721] = Поэтому его труд не добровольный, а вынужденный: это принудительный труд.
+- Seine Arbeit ist daher = Поэтому его труд
+- nicht freiwillig = не добровольный,
+- sondern gezwungen = а вынужденный,
+- Zwangsarbeit = принудительный труд
+
+[722] = Поэтому он есть не удовлетворение потребности, а лишь средство для удовлетворения потребностей вне труда.
+- Sie ist daher nicht = Поэтому он не
+- die Befriedigung eines Bedürfnisses = удовлетворение потребности,
+- sondern sie ist nur ein Mittel = а лишь средство,
+- um Bedürfnisse außer ihr zu befriedigen = чтобы удовлетворять потребности вне его
+
+[723] = Его чуждость ясно выступает в том, что, как только прекращается физическое или иное принуждение, от труда бегут, как от чумы.
+- Ihre Fremdheit = Его чуждость
+- tritt darin rein hervor = в том ясно выступает,
+- daß, sobald kein physischer = что, как только никакого физического
+- oder sonstiger Zwang existiert = или иного принуждения нет,
+- die Arbeit als eine Pest = от труда, как от чумы,
+- geflohen wird = бегут
++ tritt hervor = выступает, проявляется ~ hervortreten
+
+[724] = Внешний труд, труд, в котором человек себя отчуждает, есть труд самопожертвования, самоистязания.
+- Die äußerliche Arbeit = Внешний труд,
+- die Arbeit = труд,
+- in welcher der Mensch sich entäußert = в котором человек себя отчуждает,
+- ist eine Arbeit der Selbstaufopferung = есть труд самопожертвования,
+- der Kasteiung = самоистязания
+
+[725] = Наконец, внешний характер труда проявляется для рабочего в том, что труд принадлежит не ему, а другому; что в труде он принадлежит не себе, а другому.
+- Endlich erscheint = Наконец, проявляется
+- die Äußerlichkeit der Arbeit = внешний характер труда
+- für den Arbeiter darin = для рабочего в том,
+- daß sie nicht sein eigen = что он не его собственный,
+- sondern eines andern ist = а чей-то чужой
+- daß sie ihm nicht gehört = что он ему не принадлежит,
+- daß er in ihr nicht sich selbst = что он в нём не себе самому,
+- sondern einem andern angehört = а другому принадлежит
+
+[726] = Подобно тому как в религии самодеятельность человеческой фантазии, человеческого мозга и человеческого сердца воздействует на индивида независимо от него, т. е. как чужая, божественная или дьявольская деятельность, так и деятельность рабочего не есть его самодеятельность.
+- Wie in der Religion = Как в религии
+- die Selbsttätigkeit der menschlichen Phantasie = самодеятельность человеческой фантазии,
+- des menschlichen Hirns = человеческого мозга
+- und des menschlichen Herzens = и человеческого сердца
+- unabhängig vom Individuum = независимо от индивида,
+- d. h. als eine fremde = т. е. как чужая,
+- göttliche oder teuflische Tätigkeit = божественная или дьявольская деятельность,
+- auf es wirkt = на него действует,
+- so ist die Tätigkeit des Arbeiters = так деятельность рабочего
+- nicht seine Selbsttätigkeit = не его самодеятельность
++ auf es wirkt = действует на него ~ auf etwas wirken
+* selbsttätigkeit = самодеятельность (собственная активность) | die Selbsttätigkeit | сущ. | свободная деятельность самого человека
+
+[727] = Она принадлежит другому, она есть утрата им самого себя.
+- Sie gehört einem andren = Она принадлежит другому,
+- sie ist der Verlust seiner selbst = она — утрата им самого себя
+
+[728] = В результате получается так, что человек (рабочий) чувствует себя свободно действующим только при исполнении своих животных функций — еды, питья, полового акта, в лучшем случае ещё жилища, украшений и т. п., — а в своих человеческих функциях чувствует себя только животным.
+- Es kömmt daher zu dem Resultat = Поэтому дело приходит к результату,
+- daß der Mensch = что человек
+- der Arbeiter = (рабочий)
+- nur mehr in seinen tierischen Funktionen = лишь в своих животных функциях —
+- Essen, Trinken und Zeugen = еде, питье и деторождении,
+- höchstens noch Wohnung, Schmuck etc. = самое большее ещё в жилище, украшениях и т. д., —
+- sich als freitätig fühlt = чувствует себя свободно действующим,
+- und in seinen menschlichen Funktionen = а в своих человеческих функциях
+- nur mehr als Tier = лишь животным
++ kömmt zu dem Resultat = приходит к результату ~ zu einem Resultat kommen
+
+[729] = Животное становится человеческим, а человеческое — животным.
+- Das Tierische wird das Menschliche = Животное становится человеческим,
+- und das Menschliche das Tierische = а человеческое — животным
+
+[730] = Еда, питьё, деторождение и т. д. — это, конечно, тоже подлинно человеческие функции.
+- Essen, Trinken und Zeugen etc. = Еда, питьё и деторождение и т. д.
+- sind zwar auch = — это, правда, тоже
+- echt menschliche Funktionen = подлинно человеческие функции
+
+[731] = Но в абстракции, отделяющей их от прочего круга человеческой деятельности и превращающей их в последние и единственные конечные цели, они носят животный характер.
+- In der Abstraktion aber = Но в абстракции,
+- die sie von dem übrigen Umkreis = которая их от прочего круга
+- menschlicher Tätigkeit trennt = человеческой деятельности отделяет
+- und zu letzten und alleinigen Endzwecken macht = и делает последними и единственными конечными целями,
+- sind sie tierisch = они животны
+
+[732] = Мы рассмотрели акт отчуждения практической человеческой деятельности, труда, с двух сторон.
+! hin < bin
+- Wir haben den Akt der Entfremdung = Мы рассмотрели акт отчуждения
+- der praktischen menschlichen Tätigkeit = практической человеческой деятельности,
+- die Arbeit = труда,
+- nach zwei Seiten hin betrachtet = с двух сторон
+
+[733] = 1. Отношение рабочего к продукту труда как к чуждому и господствующему над ним предмету.
+- 1. Das Verhältnis des Arbeiters = 1. Отношение рабочего
+- zum Produkt der Arbeit = к продукту труда
+- als fremden und über ihn mächtigen Gegenstand = как к чуждому и властвующему над ним предмету
+
+[734] = Это отношение есть в то же время отношение к чувственному внешнему миру, к предметам природы как к чуждому, враждебно противостоящему ему миру.
+- Dies Verhältnis ist zugleich = Это отношение есть одновременно
+- das Verhältnis zur sinnlichen Außenwelt = отношение к чувственному внешнему миру,
+- zu den Naturgegenständen = к предметам природы
+- als einer fremden = как к чуждому,
+- ihm feindlich gegenüberstehenden Welt = враждебно противостоящему ему миру
+
+[735] = 2. Отношение труда к акту производства внутри труда.
+- 2. Das Verhältnis der Arbeit = 2. Отношение труда
+- zum Akt der Produktion = к акту производства
+- innerhalb der Arbeit = внутри труда
+
+[736] = Это отношение есть отношение рабочего к его собственной деятельности как к чему-то чуждому, ему не принадлежащему; деятельность как страдание, сила как бессилие, зачатие как оскопление, собственная физическая и духовная энергия рабочего, его личная жизнь — ведь что такое жизнь, как не деятельность? — как деятельность, повёрнутая против него самого, от него не зависящая, ему не принадлежащая.
+- Dies Verhältnis ist das Verhältnis des Arbeiters = Это отношение есть отношение рабочего
+- zu seiner eignen Tätigkeit = к его собственной деятельности
+- als einer fremden, ihm nicht angehörigen = как к чуждой, ему не принадлежащей
+- die Tätigkeit als Leiden = деятельность как страдание,
+- die Kraft als Ohnmacht = сила как бессилие,
+- die Zeugung als Entmannung = зачатие как оскопление,
+- die eigne physische und geistige Energie des Arbeiters = собственная физическая и духовная энергия рабочего,
+- sein persönliches Leben = его личная жизнь —
+- denn was ist Leben [anderes] als Tätigkeit = ведь что есть жизнь, как не деятельность? —
+- als eine wider ihn selbst gewendete = как деятельность, обращённая против него самого,
+- von ihm unabhängige = от него независимая,
+- ihm nicht gehörige Tätigkeit = ему не принадлежащая
+
+[737] = Самоотчуждение — как выше отчуждение вещи.
+- Die Selbstentfremdung = Самоотчуждение,
+- wie oben die Entfremdung der Sache = как выше отчуждение вещи
+
+[738] = Теперь нам предстоит вывести из двух уже рассмотренных третье определение отчуждённого труда.
+- Wir haben nun noch = Теперь нам ещё предстоит
+- eine dritte Bestimmung der entfremdeten Arbeit = третье определение отчуждённого труда
+- aus den beiden bisherigen zu ziehn = из двух прежних вывести
+
+[739] = Человек есть родовое существо не только в том смысле, что он практически и теоретически делает своим предметом род — как свой собственный, так и род прочих вещей, — но и (а это лишь другое выражение того же самого) в том смысле, что он относится к самому себе как к наличному живому роду, относится к себе как к существу универсальному и потому свободному.
+- Der Mensch ist ein Gattungswesen = Человек есть родовое существо
+- nicht nur indem er = не только потому, что он
+- praktisch und theoretisch die Gattung = практически и теоретически род,
+- sowohl seine eigne = как свой собственный,
+- als die der übrigen Dinge = так и род прочих вещей,
+- zu seinem Gegenstand macht = делает своим предметом,
+- sondern = но —
+- und dies ist nur ein andrer Ausdruck = и это лишь другое выражение
+- für dieselbe Sache = того же самого —
+- sondern auch indem er = но и потому, что он
+- sich zu sich selbst = относится к самому себе
+- als der gegenwärtigen, lebendigen Gattung verhält = как к наличному, живому роду,
+- indem er sich zu sich = что он к себе
+- als einem universellen, darum freien Wesen verhält = как к универсальному и потому свободному существу относится
+* gattungswesen = родовое существо | das Gattungswesen | сущ. | термин Фейербаха: человек как сознающий свою принадлежность к роду (Gattung — род, вид)
+
+[740] = Родовая жизнь как у человека, так и у животного физически состоит прежде всего в том, что человек (как и животное) живёт неорганической природой, и чем универсальнее человек по сравнению с животным, тем универсальнее сфера неорганической природы, которой он живёт.
+- Das Gattungsleben = Родовая жизнь
+- sowohl beim Menschen als beim Tier = как у человека, так и у животного
+- besteht physisch einmal darin = физически состоит прежде всего в том,
+- daß der Mensch = что человек
+- wie das Tier = (как и животное)
+- von der unorganischen Natur lebt = живёт неорганической природой,
+- und um so universeller der Mensch als das Tier = и чем универсальнее человек по сравнению с животным,
+- um so universeller ist der Bereich = тем универсальнее сфера
+- der unorganischen Natur = неорганической природы,
+- von der er lebt = которой он живёт
++ besteht darin = состоит в том ~ darin bestehen, daß …
+
+[741] = Как растения, животные, камни, воздух, свет и т. д. теоретически составляют часть человеческого сознания — отчасти как предметы естествознания, отчасти как предметы искусства, его духовную неорганическую природу, духовную пищу, которую он должен ещё приготовить для наслаждения и усвоения, — так они практически составляют часть человеческой жизни и человеческой деятельности.
+- Wie Pflanzen, Tiere, Steine = Как растения, животные, камни,
+- Luft, Licht etc. = воздух, свет и т. д.
+- theoretisch einen Teil = теоретически часть
+- des menschlichen Bewußtseins = человеческого сознания,
+- teils als Gegenstände der Naturwissenschaft = отчасти как предметы естествознания,
+- teils als Gegenstände der Kunst = отчасти как предметы искусства,
+- bilden = составляют —
+- seine geistige unorganische Natur = его духовную неорганическую природу,
+- geistige Lebensmittel = духовную пищу,
+- die er erst zubereiten muß = которую он должен ещё приготовить
+- zum Genuß und zur Verdauung = для наслаждения и усвоения, —
+- so bilden sie auch praktisch = так и практически они составляют
+- einen Teil des menschlichen Lebens = часть человеческой жизни
+- und der menschlichen Tätigkeit = и человеческой деятельности
+
+[742] = Физически человек живёт только этими продуктами природы, выступают ли они в форме пищи, отопления, одежды, жилища и т. д.
+- Physisch lebt der Mensch = Физически человек живёт
+- nur von diesen Naturprodukten = лишь этими продуктами природы,
+- mögen sie nun = выступают ли они
+- in der Form der Nahrung = в форме пищи,
+- Heizung, Kleidung, Wohnung etc. = отопления, одежды, жилища и т. д.
+- erscheinen = (выступают)
++ mögen erscheinen = пусть выступают, выступают ли ~ mögen + Infinitiv ~ уступительное «какими бы ни»
+
+[743] = Практически универсальность человека проявляется как раз в той универсальности, которая превращает всю природу в его неорганическое тело, поскольку она служит, во-первых, непосредственным жизненным средством, а во-вторых, материей, предметом и орудием его жизнедеятельности.
+- Die Universalität des Menschen = Универсальность человека
+- erscheint praktisch eben in der Universalität = проявляется практически именно в той универсальности,
+- die die ganze Natur = которая всю природу
+- zu seinem unorganischen Körper macht = делает его неорганическим телом,
+- sowohl insofern sie 1. = как поскольку она 1)
+- ein unmittelbares Lebensmittel = непосредственное средство жизни,
+- als inwiefern sie [2.] = так и поскольку она 2)
+- die Materie, der Gegenstand = материя, предмет
+- und das Werkzeug seiner Lebenstätigkeit ist = и орудие его жизнедеятельности
+
+[744] = Природа есть неорганическое тело человека, а именно та природа, которая сама не есть человеческое тело.
+- Die Natur ist der unorganische Leib des Menschen = Природа — неорганическое тело человека,
+- nämlich die Natur = а именно природа
+- soweit sie nicht selbst = поскольку она сама не есть
+- menschlicher Körper ist = человеческое тело
+
+[745] = Человек живёт природой — это значит: природа есть его тело, с которым он должен оставаться в процессе постоянного общения, чтобы не умереть.
+- Der Mensch lebt von der Natur = Человек живёт природой
+- heißt = — это значит:
+- Die Natur ist sein Leib = природа — его тело,
+- mit dem er in beständigem Prozeß = с которым он в постоянном процессе (обмена)
+- bleiben muß = должен оставаться,
+- um nicht zu sterben = чтобы не умереть
+
+[746] = То, что физическая и духовная жизнь человека связана с природой, означает не что иное, как то, что природа связана сама с собой, ибо человек есть часть природы.
+- Daß das physische und geistige Leben des Menschen = То, что физическая и духовная жизнь человека
+- mit der Natur zusammenhängt = связана с природой,
+- hat keinen andren Sinn = не имеет иного смысла,
+- als daß die Natur = кроме того, что природа
+- mit sich selbst zusammenhängt = связана сама с собой,
+- denn der Mensch = ибо человек
+- ist ein Teil der Natur = есть часть природы
+
+[747] = Отчуждённый труд, отчуждая от человека 1) природу и 2) его самого, его собственную деятельную функцию, его жизнедеятельность, тем самым отчуждает от человека род: он превращает для человека родовую жизнь в средство индивидуальной жизни.
+- Indem die entfremdete Arbeit dem Menschen = Отчуждённый труд, отчуждая от человека
+- 1. die Natur entfremdet = 1) природу,
+- 2. sich selbst = 2) его самого,
+- seine eigne tätige Funktion = его собственную деятельную функцию,
+- seine Lebenstätigkeit = его жизнедеятельность,
+- so entfremdet sie dem Menschen die Gattung = тем самым отчуждает от человека род;
+- sie macht ihm das Gattungsleben = он делает для него родовую жизнь
+- zum Mittel des individuellen Lebens = средством индивидуальной жизни
++ entfremdet = отчуждает (что-то от кого-то) ~ jemandem etwas entfremden ~ кому (D) что (A)
+
+[748] = Во-первых, он отчуждает родовую жизнь и индивидуальную жизнь, а во-вторых, делает индивидуальную жизнь в её абстрактной форме целью родовой жизни, тоже в её абстрактной и отчуждённой форме.
+- Erstens entfremdet sie = Во-первых, он отчуждает
+- das Gattungsleben und das individuelle Leben = родовую и индивидуальную жизнь,
+- und zweitens macht sie = а во-вторых, делает
+- das letztere in seiner Abstraktion = последнюю в её абстракции
+- zum Zweck des ersten = целью первой,
+- ebenfalls in seiner abstrakten = тоже в её абстрактной
+- und entfremdeten Form = и отчуждённой форме
+
+[749] = Ибо, во-первых, сам труд, жизнедеятельность, производительная жизнь оказываются для человека лишь средством для удовлетворения одной потребности — потребности в сохранении физического существования.
+- Denn erstens erscheint dem Menschen = Ибо, во-первых, человеку представляется
+- die Arbeit = труд,
+- die Lebenstätigkeit = жизнедеятельность,
+- das produktive Leben selbst = сама производительная жизнь
+- nur als ein Mittel = лишь как средство
+- zur Befriedigung eines Bedürfnisses = для удовлетворения потребности,
+- des Bedürfnisses der Erhaltung = потребности в сохранении
+- der physischen Existenz = физического существования
+
+[750] = А производительная жизнь и есть родовая жизнь.
+- Das produktive Leben ist aber = Производительная жизнь же есть
+- das Gattungsleben = родовая жизнь
+
+[751] = Это жизнь, порождающая жизнь.
+- Es ist das Leben erzeugende Leben = Это жизнь, порождающая жизнь
+
+[752] = В характере жизнедеятельности заключается весь характер данного вида, его родовой характер, а свободная сознательная деятельность как раз и составляет родовой характер человека.
+- In der Art der Lebenstätigkeit = В характере жизнедеятельности
+- liegt der ganze Charakter einer species = заключён весь характер вида,
+- ihr Gattungscharakter = его родовой характер,
+- und die freie bewußte Tätigkeit = а свободная сознательная деятельность
+- ist der Gattungscharakter des Menschen = есть родовой характер человека
+* species = вид (биол.) | die Species | сущ. | лат. «вид»
+
+[753] = Сама жизнь оказывается лишь средством к жизни.
+- Das Leben selbst erscheint = Сама жизнь выступает
+- nur als Lebensmittel = лишь как средство к жизни
+
+[754] = Животное непосредственно едино со своей жизнедеятельностью.
+- Das Tier ist unmittelbar eins = Животное непосредственно едино
+- mit seiner Lebenstätigkeit = со своей жизнедеятельностью
+
+[755] = Оно не отличает себя от неё.
+- Es unterscheidet sich nicht von ihr = Оно не отличает себя от неё
++ unterscheidet sich von = отличается от ~ sich von etwas unterscheiden
+
+[756] = Оно есть эта жизнедеятельность.
+- Es ist sie = Оно и есть она
+
+[757] = Человек же делает самоё свою жизнедеятельность предметом своей воли и своего сознания.
+- Der Mensch macht seine Lebenstätigkeit selbst = Человек делает саму свою жизнедеятельность
+- zum Gegenstand seines Wollens = предметом своей воли
+- und seines Bewußtseins = и своего сознания
+
+[758] = Его жизнедеятельность — сознательная.
+- Er hat bewußte Lebenstätigkeit = У него сознательная жизнедеятельность
+
+[759] = Это не такая определённость, с которой он непосредственно сливается воедино.
+- Es ist nicht eine Bestimmtheit = Это не определённость,
+- mit der er unmittelbar zusammenfließt = с которой он непосредственно сливается
+
+[760] = Сознательная жизнедеятельность непосредственно отличает человека от животной жизнедеятельности.
+- Die bewußte Lebenstätigkeit = Сознательная жизнедеятельность
+- unterscheidet den Menschen unmittelbar = непосредственно отличает человека
+- von der tierischen Lebenstätigkeit = от животной жизнедеятельности
+
+[761] = Именно лишь благодаря этому он есть родовое существо.
+- Eben nur dadurch = Именно лишь благодаря этому
+- ist er ein Gattungswesen = он — родовое существо
+
+[762] = Или, иначе говоря, он есть сознательное существо, т. е. его собственная жизнь есть для него предмет, именно потому, что он родовое существо.
+- Oder er ist nur ein bewußtes Wesen = Или: он есть сознательное существо,
+- d. h. = т. е.
+- sein eignes Leben ist ihm Gegenstand = его собственная жизнь для него предмет,
+- eben weil er ein Gattungswesen ist = именно потому, что он родовое существо
+
+[763] = Только поэтому его деятельность есть свободная деятельность.
+- Nur darum ist seine Tätigkeit = Только поэтому его деятельность
+- freie Tätigkeit = свободная деятельность
+
+[764] = Отчуждённый труд переворачивает это отношение так, что человек именно потому, что он существо сознательное, превращает свою жизнедеятельность, свою сущность только в средство для поддержания своего существования.
+- Die entfremdete Arbeit = Отчуждённый труд
+- kehrt das Verhältnis dahin um = переворачивает отношение так,
+- daß der Mensch eben = что человек именно
+- weil er ein bewußtes Wesen ist = потому, что он сознательное существо,
+- seine Lebenstätigkeit, sein Wesen = свою жизнедеятельность, свою сущность
+- nur zu einem Mittel = лишь средством
+- für seine Existenz macht = для своего существования делает
++ kehrt um = переворачивает ~ umkehren
+
+[765] = Практическое созидание предметного мира, переработка неорганической природы есть самоутверждение человека как сознательного родового существа, т. е. такого существа, которое относится к роду как к своей собственной сущности или к самому себе как к родовому существу.
+- Das praktische Erzeugen einer gegenständlichen Welt = Практическое созидание предметного мира,
+- die Bearbeitung der unorganischen Natur = переработка неорганической природы
+- ist die Bewahrung des Menschen = есть самоутверждение человека
+- als eines bewußten Gattungswesens = как сознательного родового существа,
+- d. h. eines Wesens = т. е. существа,
+- das sich zu der Gattung = которое к роду
+- als seinem eignen Wesen = как к своей собственной сущности
+- oder zu sich als Gattungswesen verhält = или к себе как к родовому существу относится
+* bewahrung = самоутверждение, проверка на деле | die Bewährung | сущ. | в MEW напечатано Bewahrung, по смыслу — Bewährung: «доказательство себя на деле»
+
+[766] = Правда, животное тоже производит.
+- Zwar produziert auch das Tier = Правда, животное тоже производит
+
+[767] = Оно строит себе гнездо или жилище, как это делают пчела, бобр, муравей и т. д. Но животное производит лишь то, в чём непосредственно нуждается оно само или его детёныш; оно производит односторонне, тогда как человек производит универсально; животное производит лишь под властью непосредственной физической потребности, тогда как человек производит, даже будучи свободен от физической потребности, и в истинном смысле слова только тогда и производит, когда свободен от неё; животное производит только самого себя, тогда как человек воспроизводит всю природу; продукт животного непосредственно связан с его физическим организмом, тогда как человек свободно противостоит своему продукту.
+! vom < vorn
+- Es baut sich ein Nest = Оно строит себе гнездо,
+- Wohnungen = жилища,
+- wie die Biene, Biber, Ameise etc. = как пчела, бобр, муравей и т. д.
+- Allein es produziert nur = Но оно производит лишь
+- was es unmittelbar = то, в чём оно непосредственно
+- für sich oder sein Junges bedarf = для себя или своего детёныша нуждается;
+- es produziert einseitig = оно производит односторонне,
+- während der Mensch universell produziert = тогда как человек производит универсально;
+- es produziert nur = оно производит лишь
+- unter der Herrschaft = под властью
+- des unmittelbaren physischen Bedürfnisses = непосредственной физической потребности,
+- während der Mensch selbst = тогда как человек даже
+- frei vom physischen Bedürfnis produziert = свободным от физической потребности производит
+- und erst wahrhaft produziert = и лишь тогда подлинно производит,
+- in der Freiheit von demselben = когда свободен от неё;
+- es produziert nur sich selbst = оно производит лишь само себя,
+- während der Mensch = тогда как человек
+- die ganze Natur reproduziert = воспроизводит всю природу;
+- sein Produkt gehört unmittelbar = его продукт непосредственно принадлежит
+- zu seinem physischen Leib = его физическому телу,
+- während der Mensch frei = тогда как человек свободно
+- seinem Produkt gegenübertritt = противостоит своему продукту
++ bedarf = нуждается ~ einer Sache bedürfen
+* allein = но, однако | | союз | allein в начале фразы — «но»
+
+[768] = Животное строит только сообразно мерке и потребности того вида, к которому оно принадлежит, тогда как человек умеет производить по меркам любого вида и всюду умеет прилагать к предмету присущую ему мерку; поэтому человек строит также и по законам красоты.
+- Das Tier formiert nur = Животное формирует лишь
+- nach dem Maß und dem Bedürfnis der species = по мерке и потребности вида,
+- der es angehört = к которому принадлежит,
+- während der Mensch = тогда как человек
+- nach dem Maß jeder species = по мерке любого вида
+- zu produzieren weiß = умеет производить
+- und überall das inhärente Maß = и всюду присущую мерку
+- dem Gegenstand anzulegen weiß = к предмету умеет прикладывать;
+- der Mensch formiert daher auch = поэтому человек формирует также
+- nach den Gesetzen der Schönheit = и по законам красоты
++ zu produzieren weiß = умеет производить ~ zu tun wissen
+
+[769] = Поэтому именно в переработке предметного мира человек впервые действительно утверждает себя как родовое существо.
+- Eben in der Bearbeitung = Именно в переработке
+- der gegenständlichen Welt = предметного мира
+- bewährt sich der Mensch daher = поэтому человек утверждает себя
+- erst wirklich als ein Gattungswesen = впервые действительно как родовое существо
++ bewährt sich = подтверждает себя, проявляет себя на деле ~ sich bewähren
+
+[770] = Это производство есть его деятельная родовая жизнь.
+- Diese Produktion = Это производство
+- ist sein werktätiges Gattungsleben = — его деятельная родовая жизнь
+
+[771] = Благодаря ему природа оказывается его произведением и его действительностью.
+- Durch sie erscheint die Natur = Благодаря ему природа выступает
+- als sein Werk und seine Wirklichkeit = как его произведение и его действительность
+
+[772] = Поэтому предмет труда есть опредмечивание родовой жизни человека: человек удваивает себя уже не только интеллектуально, как в сознании, но и деятельно, действительно, и созерцает самого себя в созданном им мире.
+! wie im Bewußtsein < eine im BewuI3tsein
+- Der Gegenstand der Arbeit ist daher = Поэтому предмет труда есть
+- die Vergegenständlichung = опредмечивание
+- des Gattungslebens des Menschen = родовой жизни человека:
+- indem er sich nicht nur = человек удваивает себя не только,
+- wie im Bewußtsein = как в сознании,
+- intellektuell = интеллектуально,
+- sondern werktätig, wirklich = но и деятельно, действительно,
+- verdoppelt = удваивает себя
+- und sich selbst daher = и потому самого себя
+- in einer von ihm geschaffnen Welt = в созданном им мире
+- anschaut = созерцает
+
+[773] = Поэтому отчуждённый труд, отнимая у человека предмет его производства, тем самым отнимает у него его родовую жизнь, его действительную родовую предметность, а преимущество, которое человек имеет перед животным, превращает в недостаток: у человека отнимают его неорганическое тело, природу.
+- Indem daher die entfremdete Arbeit = Поэтому отчуждённый труд, отнимая
+- dem Menschen den Gegenstand seiner Produktion = у человека предмет его производства,
+- entreißt = вырывая,
+- entreißt sie ihm sein Gattungsleben = отнимает у него его родовую жизнь,
+- seine wirkliche Gattungsgegenständlichkeit = его действительную родовую предметность
+- und verwandelt seinen Vorzug vor dem Tier = и превращает его преимущество перед животным
+- in den Nachteil = в недостаток:
+- daß sein unorganischer Leib = что его неорганическое тело,
+- die Natur = природа,
+- ihm entzogen wird = у него отнимается
+
+[774] = Точно так же, принижая самодеятельность, свободную деятельность до степени средства, отчуждённый труд превращает родовую жизнь человека в средство для поддержания его физического существования.
+- Ebenso indem die entfremdete Arbeit = Точно так же отчуждённый труд, низводя
+- die Selbsttätigkeit = самодеятельность,
+- die freie Tätigkeit = свободную деятельность,
+- zum Mittel herabsetzt = до средства,
+- macht sie das Gattungsleben des Menschen = делает родовую жизнь человека
+- zum Mittel seiner physischen Existenz = средством его физического существования
+
+[775] = Сознание, которое человек имеет о своём роде, превращается, следовательно, вследствие отчуждения в то, что родовая жизнь становится для него лишь средством.
+- Das Bewußtsein = Сознание,
+- welches der Mensch von seiner Gattung hat = которое человек имеет о своём роде,
+- verwandelt sich durch die Entfremdung = превращается вследствие отчуждения
+- also dahin = таким образом в то,
+- daß das Gattungs[leben] = что родовая жизнь
+- ihm zum Mittel wird = становится для него средством
+
+[776] = Таким образом, отчуждённый труд превращает:
+- Die entfremdete Arbeit macht also = Итак, отчуждённый труд делает:
+
+[777] = 3) родовую сущность человека — как природу, так и его духовную родовую способность — в чуждую ему сущность, в средство для поддержания его индивидуального существования.
+- 3. das Gattungswesen des Menschen = 3) родовую сущность человека —
+- sowohl die Natur = как природу,
+- als sein geistiges Gattungsvermögen = так и его духовную родовую способность —
+- zu einem ihm fremden Wesen = чуждой ему сущностью,
+- zum Mittel seiner individuellen Existenz = средством его индивидуального существования
+
+[778] = Он отчуждает от человека его собственное тело, как и природу вне его, как и его духовную сущность, его человеческую сущность.
+- Sie entfremdet dem Menschen = Он отчуждает от человека
+- seinen eignen Leib = его собственное тело,
+- wie die Natur außer ihm = как и природу вне его,
+- wie sein geistiges Wesen = как и его духовную сущность,
+- sein menschliches Wesen = его человеческую сущность
+
+[779] = 4) Непосредственным следствием того, что человек отчуждён от продукта своего труда, от своей жизнедеятельности, от своей родовой сущности, является отчуждение человека от человека.
+- 4. Eine unmittelbare Konsequenz davon = 4) Непосредственное следствие того,
+- daß der Mensch = что человек
+- dem Produkt seiner Arbeit = от продукта своего труда,
+- seiner Lebenstätigkeit = от своей жизнедеятельности,
+- seinem Gattungswesen = от своей родовой сущности
+- entfremdet ist = отчуждён,
+- ist die Entfremdung des Menschen = есть отчуждение человека
+- von dem Menschen = от человека
+
+[780] = Когда человек противостоит самому себе, ему противостоит и другой человек.
+- Wenn der Mensch sich selbst gegenübersteht = Когда человек противостоит самому себе,
+- so steht ihm der andre Mensch gegenüber = то ему противостоит другой человек
++ steht gegenüber = противостоит ~ gegenüberstehen
+
+[781] = То, что верно об отношении человека к своему труду, к продукту своего труда и к самому себе, верно и об отношении человека к другому человеку, а также к труду и к предмету труда другого человека.
+- Was von dem Verhältnis des Menschen = Что (верно) об отношении человека
+- zu seiner Arbeit = к своему труду,
+- zum Produkt seiner Arbeit = к продукту своего труда
+- und zu sich selbst = и к самому себе,
+- das gilt von dem Verhältnis des Menschen = то верно об отношении человека
+- zum andren Menschen = к другому человеку,
+- wie zu der Arbeit und dem Gegenstand der Arbeit = как и к труду и предмету труда
+- des andren Menschen = другого человека
++ gilt von = верно относительно ~ von etwas gelten
+
+[782] = Вообще положение о том, что человек отчуждён от своей родовой сущности, означает, что один человек отчуждён от другого, как и каждый из них отчуждён от человеческой сущности.
+- Überhaupt = Вообще,
+- der Satz = положение,
+- daß der Mensch = что человек
+- seinem Gattungswesen entfremdet ist = от своей родовой сущности отчуждён,
+- heißt = означает,
+- daß ein Mensch dem andern = что один человек от другого,
+- wie jeder von ihnen = как и каждый из них
+- dem menschlichen Wesen entfremdet ist = от человеческой сущности отчуждён
+
+[783] = Отчуждение человека и вообще всякое отношение, в котором человек находится к самому себе, впервые осуществляется, находит своё выражение в отношении, в котором человек находится к другому человеку.
+- Die Entfremdung des Menschen = Отчуждение человека,
+- überhaupt jedes Verhältnis = вообще всякое отношение,
+- in dem der Mensch zu sich selbst [steht] = в котором человек стоит к самому себе,
+- ist erst verwirklicht = впервые осуществляется,
+- drückt sich aus = выражается
+- in dem Verhältnis = в отношении,
+- in welchem der Mensch = в котором человек
+- zu d[em] andren Menschen steht = к другому человеку стоит
+
+[784] = Следовательно, в отношении отчуждённого труда каждый человек рассматривает другого по мерке и в том отношении, в которых находится он сам как рабочий.
+- Also betrachtet = Итак, рассматривает
+- in dem Verhältnis der entfremdeten Arbeit = в отношении отчуждённого труда
+- jeder Mensch den andren = каждый человек другого
+- nach dem Maßstab und dem Verhältnis = по мерке и в отношении,
+- in welchem er selbst als Arbeiter = в котором он сам как рабочий
+- sich befindet = находится
+
+[785] = Мы исходили из политико-экономического факта — отчуждения рабочего и его производства.
+- Wir gingen aus = Мы исходили
+- von einem nationalökonomischen Faktum = из политико-экономического факта —
+- der Entfremdung des Arbeiters = отчуждения рабочего
+- und seiner Produktion = и его производства
++ gingen aus = исходили ~ von etwas ausgehen
+
+[786] = Мы выразили понятие этого факта: отчуждённый, отчуждённо-овнешнённый труд.
+- Wir haben den Begriff dieses Faktums = Мы понятие этого факта
+- ausgesprochen = выразили:
+- die entfremdete, entäußerte Arbeit = отчуждённый, овнешнённый труд
+
+[787] = Мы проанализировали это понятие, то есть проанализировали всего лишь политико-экономический факт.
+- Wir haben diesen Begriff analysiert = Мы проанализировали это понятие,
+- also bloß ein nationalökonomisches Faktum = то есть всего лишь политико-экономический факт
+- analysiert = проанализировали
+
+[788] = Посмотрим теперь, как понятие отчуждённого труда должно выразить и обнаружить себя в действительности.
+- Sehn wir nun weiter = Посмотрим теперь дальше,
+- wie sich der Begriff = как понятие
+- der entfremdeten, entäußerten Arbeit = отчуждённого труда
+- in der Wirklichkeit = в действительности
+- aussprechen und darstellen muß = должно выразить и обнаружить себя
+
+[789] = Если продукт труда мне чужд, если он противостоит мне как чуждая сила, то кому же он принадлежит?
+- Wenn das Produkt der Arbeit = Если продукт труда
+- mir fremd ist = мне чужд,
+- mir als fremde Macht gegenübertritt = мне как чуждая сила противостоит,
+- wem gehört es dann = то кому он принадлежит?
+
+[790] = Если моя собственная деятельность принадлежит не мне, если она — деятельность чуждая, вынужденная, то кому же она принадлежит?
+- Wenn meine eigne Tätigkeit = Если моя собственная деятельность
+- nicht mir gehört = мне не принадлежит,
+- eine fremde, eine erzwungne Tätigkeit ist = есть чуждая, вынужденная деятельность,
+- wem gehört sie dann = то кому она принадлежит?
