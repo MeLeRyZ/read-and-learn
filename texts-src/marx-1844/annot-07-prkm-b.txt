@@ -1,0 +1,631 @@
+[1041] = Поэтому потребность и пользование утратили свою эгоистическую природу, а природа — свою голую полезность, поскольку польза стала человеческой пользой.
+- Das Bedürfnis oder der Genuß = Потребность или пользование
+- haben darum ihre egoistische Natur = утратили поэтому свою эгоистическую природу,
+- und die Natur ihre bloße Nützlichkeit verloren = а природа — свою голую полезность,
+- indem der Nutzen = поскольку польза
+- zum menschlichen Nutzen geworden ist = стала человеческой пользой
+
+[1042] = Точно так же чувства и наслаждения других людей стали моим собственным достоянием.
+- Ebenso sind die Sinne = Точно так же чувства
+- und der Genuß der andren Menschen = и наслаждение других людей
+- meine eigne Aneignung geworden = стали моим собственным достоянием
+
+[1043] = Поэтому, помимо этих непосредственных органов, образуются общественные органы, в форме общества; так, например, деятельность в непосредственном общении с другими и т. д. стала органом проявления моей жизни и способом освоения человеческой жизни.
+- Außer diesen unmittelbaren Organen = Помимо этих непосредственных органов
+- bilden sich daher gesellschaftliche Organe = образуются поэтому общественные органы,
+- in der Form der Gesellschaft = в форме общества,
+- also z.B. die Tätigkeit = так, например, деятельность
+- unmittelbar in Gesellschaft mit andren etc. = непосредственно в общении с другими и т. д.
+- ist ein Organ meiner Lebensäußerung geworden = стала органом проявления моей жизни
+- und eine Weise der Aneignung des menschlichen Lebens = и способом освоения человеческой жизни
+
+[1044] = Само собой понятно, что человеческий глаз воспринимает и наслаждается иначе, чем грубый, нечеловеческий глаз, человеческое ухо — иначе, чем грубое ухо, и т. д.
+- Es versteht sich = Само собой понятно,
+- daß das menschliche Auge anders genießt = что человеческий глаз наслаждается иначе,
+- als das rohe, unmenschliche Auge = чем грубый, нечеловеческий глаз,
+- das menschliche Ohr anders als das rohe Ohr etc. = человеческое ухо — иначе, чем грубое ухо, и т. д.
+
+[1045] = Мы видели.
+- Wir haben gesehn = Мы видели
+
+[1046] = Человек не теряет себя в своём предмете лишь в том случае, если этот предмет становится для него человеческим предметом, или предметным человеком.
+- Der Mensch verliert sich nur dann nicht = Человек лишь тогда не теряет себя
+- in seinem Gegenstand = в своём предмете,
+- wenn dieser ihm als menschlicher Gegenstand = когда этот для него как человеческий предмет
+- oder gegenständlicher Mensch wird = или предметный человек становится
+
+[1047] = Это возможно лишь тогда, когда предмет становится для него общественным предметом, сам он становится для себя общественным существом, а общество становится для него сущностью в этом предмете.
+- Dies ist nur möglich = Это возможно лишь,
+- indem er ihm als gesellschaftlicher Gegenstand = когда он для него как общественный предмет,
+- und er selbst sich als gesellschaftliches Wesen = и он сам для себя как общественное существо,
+- wie die Gesellschaft als Wesen für ihn = как и общество как сущность для него
+- in diesem Gegenstand wird = в этом предмете становится
+
+[1048] = Поэтому, поскольку, с одной стороны, для человека в обществе предметная действительность повсюду становится действительностью человеческих сущностных сил, человеческой действительностью и, следовательно, действительностью его собственных сущностных сил, постольку все предметы становятся для него опредмечиванием самого себя, утверждающими и осуществляющими его индивидуальность предметами, его предметами, т. е.
+- Indem daher überall einerseits = Поскольку поэтому повсюду, с одной стороны,
+- dem Menschen in der Gesellschaft = для человека в обществе
+- die gegenständliche Wirklichkeit = предметная действительность
+- als Wirklichkeit der menschlichen Wesenskräfte = как действительность человеческих сущностных сил,
+- als menschliche Wirklichkeit = как человеческая действительность
+- und darum als Wirklichkeit seiner eignen Wesenskräfte wird = и потому как действительность его собственных сущностных сил становится,
+- werden ihm alle Gegenstände = становятся для него все предметы
+- als die Vergegenständlichung seiner selbst = опредмечиванием его самого,
+- als die seine Individualität bestätigenden = утверждающими его индивидуальность
+- und verwirklichenden Gegenstände = и осуществляющими предметами,
+- als seine Gegenstände = его предметами,
+- d.h. = т. е.
+* wesenskräfte = сущностные силы | die Wesenskraft, -kräfte | сущ. | способности, в которых проявляется сущность человека
+
+[1049] = предметом становится он сам.
+- Gegenstand wird er selbst = предметом становится он сам
+
+[1050] = Как они становятся для него его предметами, это зависит от природы предмета и природы соответствующей ему сущностной силы; ибо именно определённость этого отношения образует особый, действительный способ утверждения.
+- Wie sie ihm als seine werden = Как они становятся для него его,
+- das hängt von der Natur des Gegenstandes = это зависит от природы предмета
+- und der Natur der ihr entsprechenden Wesenskraft ab = и природы соответствующей ему сущностной силы;
+- denn eben die Bestimmtheit dieses Verhältnisses = ибо именно определённость этого отношения
+- bildet die besondre, wirkliche Weise der Bejahung = образует особый, действительный способ утверждения
+
+[1051] = Для глаза предмет становится иным, чем для уха, и предмет глаза — иной, чем предмет уха.
+- Dem Auge wird ein Gegenstand anders = Для глаза предмет становится иным,
+- als dem Ohr = чем для уха,
+- und der Gegenstand des Auges = и предмет глаза
+- ist ein andrer als der des Ohrs = иной, чем предмет уха
+
+[1052] = Своеобразие каждой сущностной силы — это как раз её своеобразная сущность, а значит, и своеобразный способ её опредмечивания, её предметно-действительного, живого бытия.
+- Die Eigentümlichkeit jeder Wesenskraft = Своеобразие каждой сущностной силы
+- ist grade ihr eigentümliches Wesen = есть как раз её своеобразная сущность,
+- also auch die eigentümliche Weise = а значит, и своеобразный способ
+- ihrer Vergegenständlichung = её опредмечивания,
+- ihres gegenständlich-wirklichen, lebendigen Seins = её предметно-действительного, живого бытия
+
+[1053] = Поэтому человек утверждается в предметном мире не только в мышлении, но и всеми чувствами.
+- Nicht nur im Denken = Не только в мышлении,
+- sondern mit allen Sinnen = но и всеми чувствами
+- wird daher der Mensch = утверждается поэтому человек
+- in der gegenständlichen Welt bejaht = в предметном мире
+
+[1054] = С другой стороны, если взять субъективную сторону: лишь музыка пробуждает музыкальное чувство человека; для немузыкального уха самая прекрасная музыка не имеет смысла, не является предметом, потому что мой предмет может быть лишь утверждением одной из моих сущностных сил, т. е. может существовать для меня лишь так, как существует для себя моя сущностная сила как субъективная способность, потому что смысл предмета для меня (он имеет смысл лишь для соответствующего ему чувства) простирается ровно настолько, насколько простирается моё чувство; поэтому чувства общественного человека — иные чувства, чем чувства необщественного; лишь благодаря предметно развёрнутому богатству человеческой сущности частью впервые развивается, частью впервые порождается богатство субъективной человеческой чувственности: музыкальное ухо, глаз, ощущающий красоту формы, — короче говоря, чувства, способные к человеческим наслаждениям и утверждающие себя как человеческие сущностные силы.
+- Andrerseits = С другой стороны:
+- Subjektiv gefaßt = если взять субъективно:
+- Wie erst die Musik = как лишь музыка
+- den musikalischen Sinn des Menschen erweckt = музыкальное чувство человека пробуждает,
+- wie für das unmusikalische Ohr = как для немузыкального уха
+- die schönste Musik keinen Sinn hat = самая прекрасная музыка не имеет смысла,
+- [kein] Gegenstand ist = не является предметом,
+- weil mein Gegenstand nur die Bestätigung = потому что мой предмет может быть лишь утверждением
+- einer meiner Wesenskräfte sein kann = одной из моих сущностных сил,
+- also nur so für mich sein kann = т. е. может существовать для меня лишь так,
+- wie meine Wesenskraft = как моя сущностная сила
+- als subjektive Fähigkeit für sich ist = как субъективная способность существует для себя,
+- weil der Sinn eines Gegenstandes für mich = потому что смысл предмета для меня
+- nur Sinn für einen ihm entsprechenden Sinn hat = (имеет смысл лишь для соответствующего ему чувства)
+- grade so weit geht = простирается ровно настолько,
+- als mein Sinn geht = насколько простирается моё чувство,
+- darum sind die Sinne des gesellschaftlichen Menschen = поэтому чувства общественного человека —
+- andre Sinne wie die des ungesellschaftlichen = иные чувства, чем чувства необщественного;
+- erst durch den gegenständlich entfalteten Reichtum = лишь благодаря предметно развёрнутому богатству
+- des menschlichen Wesens = человеческой сущности
+- wird der Reichtum der subjektiven menschlichen Sinnlichkeit = (становится) богатство субъективной человеческой чувственности,
+- wird ein musikalisches Ohr = музыкальное ухо,
+- ein Auge für die Schönheit der Form = глаз для красоты формы,
+- kurz, werden erst menschlicher Genüsse fähige Sinne = короче, чувства, способные к человеческим наслаждениям,
+- Sinne, welche als menschliche Wesenskräfte = чувства, которые как человеческие сущностные силы
+- sich bestätigen = себя утверждают,
+- teils erst ausgebildet = частью впервые развиваются,
+- teils erst erzeugt = частью впервые порождаются
+* sinn = чувство; смысл | der Sinn | сущ. | здесь игра значений: «чувство» и «смысл»
+
+[1055] = Ибо не только пять внешних чувств, но и так называемые духовные чувства, практические чувства (воля, любовь и т. д.), — одним словом, человеческое чувство, человечность чувств возникают лишь благодаря наличию соответствующего предмета, благодаря очеловеченной природе.
+- Denn nicht nur die 5 Sinne = Ибо не только пять чувств,
+- sondern auch die sogenannten geistigen Sinne = но и так называемые духовные чувства,
+- die praktischen Sinne = практические чувства
+- Wille, Liebe etc. = (воля, любовь и т. д.),
+- mit einem Wort der menschliche Sinn = одним словом, человеческое чувство,
+- die Menschlichkeit der Sinne = человечность чувств
+- wird erst durch das Dasein seines Gegenstandes = возникает лишь благодаря существованию его предмета,
+- durch die vermenschlichte Natur = благодаря очеловеченной природе
+
+[1056] = Образование пяти внешних чувств — это работа всей предшествующей всемирной истории.
+- Die Bildung der 5 Sinne = Образование пяти чувств
+- ist eine Arbeit der ganzen bisherigen Weltgeschichte = есть работа всей предшествующей всемирной истории
+
+[1057] = Чувство, находящееся в плену грубой практической потребности, обладает лишь ограниченным смыслом.
+- Der unter dem rohen praktischen Bedürfnis = Находящееся под грубой практической потребностью,
+- befangene Sinn = скованное чувство
+- hat auch nur einen bornierten Sinn = имеет лишь ограниченный смысл
+
+[1058] = Для изголодавшегося человека не существует человеческой формы пищи, а существует только её абстрактное бытие как пищи; она с таким же успехом могла бы существовать в самой грубой форме, и невозможно сказать, чем отличается это поглощение пищи от поглощения пищи животным.
+- Für den ausgehungerten Menschen = Для изголодавшегося человека
+- existiert nicht die menschliche Form der Speise = не существует человеческой формы пищи,
+- sondern nur ihr abstraktes Dasein als Speise = а лишь её абстрактное бытие как пищи;
+- ebensogut könnte sie in rohster Form vorliegen = с тем же успехом она могла бы быть в самой грубой форме,
+- und es ist nicht zu sagen = и нельзя сказать,
+- wodurch sich diese Nahrungstätigkeit = чем это питание
+- von der tierischen Nahrungstätigkeit unterscheide = от питания животного отличается
+
+[1059] = Удручённый заботами нуждающийся человек нечувствителен даже к самому прекрасному зрелищу; торговец минералами видит только меркантильную стоимость, а не красоту и своеобразную природу минерала; у него нет минералогического чувства; таким образом, опредмечивание человеческой сущности — как в теоретическом, так и в практическом отношении — необходимо как для того, чтобы очеловечить чувства человека, так и для того, чтобы создать человеческое чувство, соответствующее всему богатству человеческой и природной сущности.
+- Der sorgenvolle, bedürftige Mensch = Удручённый заботами, нуждающийся человек
+- hat keinen Sinn für das schönste Schauspiel = не имеет чувства для самого прекрасного зрелища;
+- der Mineralienkrämer sieht nur = торговец минералами видит лишь
+- den merkantilischen Wert = меркантильную стоимость,
+- aber nicht die Schönheit = а не красоту
+- und eigentümliche Natur des Minerals = и своеобразную природу минерала;
+- er hat keinen mineralogischen Sinn = у него нет минералогического чувства;
+- also die Vergegenständlichung des menschlichen Wesens = итак, опредмечивание человеческой сущности,
+- sowohl in theoretischer als praktischer Hinsicht = как в теоретическом, так и в практическом отношении,
+- gehört dazu = нужно для того,
+- sowohl um die Sinne des Menschen menschlich zu machen = как чтобы чувства человека сделать человеческими,
+- als um für den ganzen Reichtum = так и чтобы для всего богатства
+- des menschlichen und natürlichen Wesens = человеческой и природной сущности
+- entsprechenden menschlichen Sinn zu schaffen = соответствующее человеческое чувство создать
+
+[1060] = Подобно тому как благодаря движению частной собственности, её богатства и нищеты — материального и духовного богатства и нищеты — возникающее общество находит для такого образования весь материал, так и возникшее общество производит человека во всём этом богатстве его сущности, богатого, всесторонне и глубоко чувствующего человека как свою постоянную действительность. — Мы видим, как субъективизм и объективизм, спиритуализм и материализм, деятельность и страдание лишь в общественном состоянии утрачивают свою противоположность, а тем самым и своё бытие в качестве таких противоположностей; (мы видим, как разрешение теоретических противоположностей возможно только практическим путём, только посредством практической энергии человека, и поэтому их разрешение отнюдь не является задачей только познания, а представляет собой действительную жизненную задачу, которую философия не могла разрешить именно потому, что она видела в ней только теоретическую задачу. —
+! ihre Lösung daher < ihre Losung daher
+- Wie durch die Bewegung des Privateigentums = Как благодаря движению частной собственности
+- und seines Reichtums wie Elends = и её богатства, как и нищеты, —
+- des materiellen und geistigen Reichtums und Elends = материального и духовного богатства и нищеты —
+- die werdende Gesellschaft = становящееся общество
+- zu dieser Bildung alles Material vorfindet = для этого образования весь материал находит,
+- so produziert die gewordne Gesellschaft = так ставшее общество производит
+- den Menschen in diesem ganzen Reichtum seines Wesens = человека во всём этом богатстве его сущности,
+- den reichen all- und tiefsinnigen Menschen = богатого, всесторонне и глубоко чувствующего человека
+- als ihre stete Wirklichkeit = как свою постоянную действительность. —
+- Man sieht = Видно,
+- wie Subjektivismus und Objektivismus = как субъективизм и объективизм,
+- Spiritualismus und Materialismus = спиритуализм и материализм,
+- Tätigkeit und Leiden = деятельность и страдание
+- erst im gesellschaftlichen Zustand = лишь в общественном состоянии
+- ihren Gegensatz = свою противоположность
+- und damit ihr Dasein als solche Gegensätze verlieren = и тем самым своё бытие как таких противоположностей утрачивают;
+- man sieht = (видно,
+- wie die Lösung der theoretischen Gegensätze selbst = как разрешение самих теоретических противоположностей
+- nur auf eine praktische Art = лишь практическим путём,
+- nur durch die praktische Energie des Menschen möglich ist = лишь практической энергией человека возможно,
+- und ihre Lösung daher keineswegs = и их разрешение поэтому отнюдь не
+- nur eine Aufgabe der Erkenntnis = лишь задача познания,
+- sondern eine wirkliche Lebensaufgabe ist = а действительная жизненная задача,
+- welche die Philosophie nicht lösen konnte = которую философия не могла разрешить,
+- eben weil sie dieselbe = именно потому, что она её
+- als nur theoretische Aufgabe faßte = понимала лишь как теоретическую задачу. —
+
+[1061] = Мы видим, что история промышленности и сложившееся предметное бытие промышленности являются раскрытой книгой человеческих сущностных сил, чувственно представшей перед нами человеческой психологией, которую до сих пор рассматривали не в её связи с сущностью человека, а всегда лишь под углом зрения какой-нибудь внешней полезности, потому что, двигаясь в рамках отчуждения, люди умели понимать как действительность человеческих сущностных сил, как человеческие родовые действия только всеобщее бытие человека — религию или историю в её абстрактно-всеобщей сущности как политику, искусство, литературу и т. д.
+- Man sieht = Видно,
+- wie die Geschichte der Industrie = как история промышленности
+- und das gewordne gegenständliche Dasein der Industrie = и ставшее предметное бытие промышленности
+- das aufgeschlagne Buch der menschlichen Wesenskräfte = есть раскрытая книга человеческих сущностных сил,
+- die sinnlich vorliegende menschliche Psychologie ist = чувственно представшая человеческая психология,
+- die bisher nicht in ihrem Zusammenhang = которую до сих пор не в её связи
+- mit dem Wesen des Menschen = с сущностью человека,
+- sondern immer nur in einer äußern Nützlichkeitsbeziehung = а всегда лишь во внешнем отношении полезности
+- gefaßt wurde = понимали,
+- weil man = потому что люди —
+- innerhalb der Entfremdung sich bewegend = двигаясь в рамках отчуждения —
+- nur das allgemeine Dasein des Menschen = лишь всеобщее бытие человека,
+- die Religion = религию,
+- oder die Geschichte in ihrem abstrakt-allgemeinen Wesen = или историю в её абстрактно-всеобщей сущности,
+- als Politik, Kunst, Literatur etc. = как политику, искусство, литературу и т. д.,
+- als Wirklichkeit der menschlichen Wesenskräfte = как действительность человеческих сущностных сил
+- und als menschliche Gattungsakte = и как человеческие родовые действия
+- zu fassen wußte = умели понимать
+
+[1062] = В обыкновенной, материальной промышленности (которую можно рассматривать и как часть того всеобщего движения, и как особую часть промышленности, поскольку вся человеческая деятельность до сих пор была трудом, т. е. промышленностью, отчуждённой от самой себя деятельностью) мы имеем перед собой опредмеченные сущностные силы человека в форме чувственных, чуждых, полезных предметов, в форме отчуждения.
+- In der gewöhnlichen, materiellen Industrie = В обыкновенной, материальной промышленности
+- die man ebensowohl = (которую можно с тем же успехом
+- als einen Teil jener allgemeinen Bewegung fassen = как часть того всеобщего движения понимать,
+- wie man sie selbst = как и её саму
+- als einen besondern Teil der Industrie fassen kann = как особую часть промышленности понимать можно,
+- da alle menschliche Tätigkeit bisher Arbeit = поскольку вся человеческая деятельность до сих пор была трудом,
+- also Industrie = т. е. промышленностью,
+- sich selbst entfremdete Tätigkeit war = отчуждённой от себя деятельностью)
+- haben wir unter der Form = мы имеем в форме
+- sinnlicher, fremder, nützlicher Gegenstände = чувственных, чуждых, полезных предметов,
+- unter der Form der Entfremdung = в форме отчуждения,
+- die vergegenständlichten Wesenskräfte des Menschen = опредмеченные сущностные силы человека
+- vor uns = перед собой
+
+[1063] = Такая психология, для которой эта книга, т. е. как раз чувственно наиболее осязаемая, наиболее доступная часть истории, закрыта, не может стать действительно содержательной и реальной наукой.
+- Eine Psychologie = Психология,
+- für welche dies Buch = для которой эта книга,
+- also grade der sinnlich gegenwärtigste = т. е. как раз чувственно наиболее наличная,
+- zugänglichste Teil der Geschichte = наиболее доступная часть истории,
+- zugeschlagen ist = закрыта,
+- kann nicht zur wirklichen inhaltvollen = не может стать действительно содержательной
+- und reellen Wissenschaft werden = и реальной наукой
+
+[1064] = Что вообще думать о науке, которая высокомерно абстрагируется от этой огромной части человеческого труда и не чувствует своей собственной неполноты, пока такое широко раскинувшееся богатство человеческой деятельности ничего ей не говорит, кроме разве того, что можно выразить одним словом: «потребность», «обыденная потребность»? — Естественные науки развили колоссальную деятельность и накопили всё возрастающий материал.
+! großen Teil < grollen Teil
+- Was soll man überhaupt = Что вообще следует
+- von einer Wissenschaft denken = о науке думать,
+- die von diesem großen Teil der menschlichen Arbeit = которая от этой большой части человеческого труда
+- vornehm abstrahiert = высокомерно абстрагируется
+- und nicht in sich selbst ihre Unvollständigkeit fühlt = и не чувствует в себе своей неполноты,
+- solange ein so ausgebreiteter Reichtum = пока такое обширное богатство
+- des menschlichen Wirkens ihr nichts sagt = человеческой деятельности ничего ей не говорит,
+- als etwa = кроме разве того,
+- was man in einem Wort sagen kann = что можно одним словом сказать:
+- Bedürfnis = «потребность»,
+- gemeines Bedürfnis = «обыденная потребность»! —
+- Die Naturwissenschaften haben = Естественные науки
+- eine enorme Tätigkeit entwickelt = колоссальную деятельность развили
+- und sich ein stets wachsendes Material angeeignet = и освоили постоянно растущий материал
+
+[1065] = Однако философия осталась для них столь же чуждой, как и они оставались чуждыми философии.
+- Die Philosophie ist ihnen indessen = Философия, однако, осталась для них
+- ebenso fremd geblieben = столь же чуждой,
+- wie sie der Philosophie fremd blieben = как и они оставались чуждыми философии
+
+[1066] = Кратковременный союз с ней был лишь фантастической иллюзией.
+- Die momentane Vereinigung = Кратковременное соединение
+- war nur eine phantastische Illusion = было лишь фантастической иллюзией
+
+[1067] = Воля была, но способности не хватило.
+- Der Wille war da = Воля была,
+- aber das Vermögen fehlte = но способности не хватало
+
+[1068] = Само историописание принимает во внимание естествознание лишь мимоходом, как момент просвещения, полезности, отдельных великих открытий.
+- Die Geschichtschreibung selbst = Само историописание
+- nimmt auf die Naturwissenschaft = принимает естествознание
+- nur beiläufig Rücksicht = лишь мимоходом во внимание,
+- als Moment der Aufklärung, Nützlichkeit = как момент просвещения, полезности,
+- einzelner großer Entdeckungen = отдельных великих открытий
++ nimmt auf Rücksicht = принимает во внимание ~ auf etwas Rücksicht nehmen
+
+[1069] = Но зато тем более практически естествознание посредством промышленности вторглось в человеческую жизнь, преобразовало её и подготовило человеческую эмансипацию, хотя непосредственно ему приходилось завершать обесчеловечивание.
+- Aber desto praktischer = Но тем практичнее
+- hat die Naturwissenschaft vermittelst der Industrie = естествознание посредством промышленности
+- in das menschliche Leben eingegriffen = вторглось в человеческую жизнь
+- und es umgestaltet = и преобразовало её
+- und die menschliche Emanzipation vorbereitet = и подготовило человеческую эмансипацию,
+- sosehr sie unmittelbar = хотя ему непосредственно
+- die Entmenschung vervollständigen mußte = приходилось довершать обесчеловечивание
+
+[1070] = Промышленность есть действительное историческое отношение природы, а следовательно, и естествознания, к человеку; поэтому, если её рассматривать как экзотерическое раскрытие человеческих сущностных сил, то и человеческая сущность природы, или природная сущность человека, станет понятной; в результате естествознание утратит своё абстрактно материальное, или, вернее, идеалистическое направление и станет основой человеческой науки, подобно тому как оно уже теперь, хотя и в отчуждённой форме, стало основой действительно человеческой жизни; а иметь одну основу для жизни, другую для науки — это значит с самого начала допускать ложь.
+- Die Industrie ist das wirkliche geschichtliche Verhältnis = Промышленность есть действительное историческое отношение
+- der Natur und daher der Naturwissenschaft = природы, а потому и естествознания,
+- zum Menschen = к человеку;
+- wird sie daher als exoterische Enthüllung = если её поэтому как экзотерическое раскрытие
+- der menschlichen Wesenskräfte gefaßt = человеческих сущностных сил понимать,
+- so wird auch das menschliche Wesen der Natur = то и человеческая сущность природы
+- oder das natürliche Wesen des Menschen verstanden = или природная сущность человека будет понята,
+- daher die Naturwissenschaft = поэтому естествознание
+- ihre abstrakt materielle = своё абстрактно материальное
+- oder vielmehr idealistische Richtung verlieren = или, скорее, идеалистическое направление утратит
+- und die Basis der menschlichen Wissenschaft werden = и станет основой человеческой науки,
+- wie sie jetzt schon = как оно уже теперь —
+- obgleich in entfremdeter Gestalt = хотя и в отчуждённой форме —
+- zur Basis des wirklich menschlichen Lebens geworden ist = стало основой действительно человеческой жизни,
+- und eine andre Basis für das Leben = а одна основа для жизни,
+- eine andre für die Wissenschaft = другая для науки
+- ist von vornherein eine Lüge = есть с самого начала ложь
+* exoterische = экзотерическое, внешне явное | exoterisch | прил. | противоположность «эзотерического»: открытое всем
+
+[1071] = (Природа, становящаяся в человеческой истории — в акте возникновения человеческого общества, — есть действительная природа человека; поэтому природа, какой она становится — хотя и в отчуждённой форме — благодаря промышленности, есть подлинная антропологическая природа. — Чувственность (см. Фейербаха) должна быть основой всякой науки.
+- Die in der menschlichen Geschichte = (Становящаяся в человеческой истории —
+- dem Entstehungsakt der menschlichen Gesellschaft = в акте возникновения человеческого общества —
+- werdende Natur = природа
+- ist die wirkliche Natur des Menschen = есть действительная природа человека,
+- darum die Natur = поэтому природа,
+- wie sie durch die Industrie = какой она через промышленность,
+- wenn auch in entfremdeter Gestalt wird = хотя и в отчуждённой форме, становится,
+- die wahre anthropologische Natur ist = есть подлинная антропологическая природа. —
+- Die Sinnlichkeit = Чувственность
+- siehe Feuerbach = (см. Фейербаха)
+- muß die Basis aller Wissenschaft sein = должна быть основой всякой науки
+
+[1072] = Лишь тогда, когда наука исходит из чувственности в её двоякой форме — чувственного сознания и чувственной потребности, — т. е. лишь тогда, когда наука исходит из природы, она есть действительная наука.
+- Nur, wenn sie von ihr = Лишь когда она из неё,
+- in der doppelten Gestalt = в двоякой форме
+- sowohl des sinnlichen Bewußtseins = как чувственного сознания,
+- als des sinnlichen Bedürfnisses = так и чувственной потребности,
+- ausgeht = исходит —
+- also nur wenn die Wissenschaft = т. е. лишь когда наука
+- von der Natur ausgeht = из природы исходит, —
+- ist sie wirkliche Wissenschaft = она действительная наука
+
+[1073] = Вся история является подготовкой, историей развития к тому, чтобы «человек» стал предметом чувственного сознания и чтобы потребность «человека как человека» стала потребностью.
+- Damit der Mensch = Чтобы «человек»
+- zum Gegenstand des sinnlichen Bewußtseins = предметом чувственного сознания
+- und das Bedürfnis des Menschen als Menschen = и потребность «человека как человека»
+- zum Bedürfnis werde = потребностью стала,
+- dazu ist die ganze Geschichte = для этого вся история есть
+- die Vorbereitungs- Entwicklungsgeschichte = подготовительная история развития
+
+[1074] = Сама история является действительной частью истории природы, становления природы человеком.
+- Die Geschichte selbst ist ein wirklicher Teil = Сама история есть действительная часть
+- der Naturgeschichte = истории природы,
+- des Werdens der Natur zum Menschen = становления природы человеком
+
+[1075] = Впоследствии естествознание включит в себя науку о человеке в такой же мере, в какой наука о человеке включит в себя естествознание: это будет одна наука.
+- Die Naturwissenschaft wird später = Естествознание позже
+- ebensowohl die Wissenschaft von dem Menschen = так же и науку о человеке,
+- wie die Wissenschaft von dem Menschen = как и наука о человеке
+- die Naturwissenschaft = естествознание,
+- unter sich subsumieren = под себя подведёт:
+- es wird eine Wissenschaft sein = это будет одна наука
+
+[1076] = Человек есть непосредственный предмет естествознания; ибо непосредственная чувственная природа для человека есть непосредственно человеческая чувственность (тождественное выражение) непосредственно в виде другого, чувственно наличного для него человека; ибо его собственная чувственность существует для него самого как человеческая чувственность лишь через другого человека.
+- Der Mensch ist der unmittelbare Gegenstand = Человек есть непосредственный предмет
+- der Naturwissenschaft = естествознания;
+- denn die unmittelbare sinnliche Natur für den Menschen = ибо непосредственная чувственная природа для человека
+- ist unmittelbar die menschliche Sinnlichkeit = есть непосредственно человеческая чувственность
+- ein identischer Ausdruck = (тождественное выражение),
+- unmittelbar als der andere = непосредственно как другой,
+- sinnlich für ihn vorhandene Mensch = чувственно для него наличный человек;
+- denn seine eigne Sinnlichkeit = ибо его собственная чувственность
+- ist erst durch den andren Menschen = лишь через другого человека
+- als menschliche Sinnlichkeit für ihn selbst = как человеческая чувственность для него самого
+
+[1077] = Но природа есть непосредственный предмет науки о человеке.
+- Aber die Natur ist der unmittelbare Gegenstand = Но природа есть непосредственный предмет
+- der Wissenschaft vom Menschen = науки о человеке
+
+[1078] = Первый предмет человека — человек — есть природа, чувственность, и особые человеческие чувственные сущностные силы, находящие своё предметное осуществление лишь в природных предметах, могут найти своё самопознание лишь в науке о природе вообще.
+! finden < linden
+- Der erste Gegenstand des Menschen = Первый предмет человека —
+- der Mensch = человек —
+- ist Natur, Sinnlichkeit = есть природа, чувственность,
+- und die besondren menschlichen sinnlichen Wesenskräfte = и особые человеческие чувственные сущностные силы,
+- wie sie nur in natürlichen Gegenständen = как они лишь в природных предметах
+- ihre gegenständliche Verwirklichung = своё предметное осуществление (находят),
+- können nur in der Wissenschaft des Naturwesens überhaupt = могут лишь в науке о природном вообще
+- ihre Selbsterkenntnis finden = своё самопознание найти
+
+[1079] = Сам элемент мышления, элемент проявления жизни мысли — язык — имеет чувственную природу.
+- Das Element des Denkens selbst = Сам элемент мышления,
+- das Element der Lebensäußerung des Gedankens = элемент проявления жизни мысли,
+- die Sprache ist sinnlicher Natur = язык — чувственной природы
+
+[1080] = Общественная действительность природы и человеческое естествознание, или естественная наука о человеке, — тождественные выражения. — Мы видим, как на место политико-экономического богатства и политико-экономической нищеты становится богатый человек и богатая человеческая потребность.
+- Die gesellschaftliche Wirklichkeit der Natur = Общественная действительность природы
+- und die menschliche Naturwissenschaft = и человеческое естествознание,
+- oder die natürliche Wissenschaft vom Menschen = или естественная наука о человеке, —
+- sind identische Ausdrücke = тождественные выражения. —
+- Man sieht = Видно,
+- wie an die Stelle des nationalökonomischen Reichtums = как на место политико-экономического богатства
+- und Elendes = и нищеты
+- der reiche Mensch = богатый человек
+- und das reiche menschliche Bedürfnis tritt = и богатая человеческая потребность становится
+
+[1081] = Богатый человек — это вместе с тем человек, нуждающийся во всей полноте человеческих проявлений жизни.
+- Der reiche Mensch ist zugleich = Богатый человек есть вместе с тем
+- der einer Totalität der menschlichen Lebensäußerung = нуждающийся в полноте человеческого проявления жизни
+- bedürftige Mensch = человек
+
+[1082] = Человек, в котором его собственное осуществление существует как внутренняя необходимость, как нужда.
+- Der Mensch = Человек,
+- in dem seine eigne Verwirklichung = в котором его собственное осуществление,
+- als innere Notwendigkeit = как внутренняя необходимость,
+- als Not existiert = как нужда существует
+
+[1083] = Не только богатство, но и бедность человека получает в равной мере — при предпосылке социализма — человеческое и потому общественное значение.
+- Nicht nur der Reichtum = Не только богатство,
+- auch die Armut des Menschen = но и бедность человека
+- erhält gleichmäßig = получает в равной мере —
+- unter Voraussetzung des Sozialismus = при предпосылке социализма —
+- eine menschliche und daher gesellschaftliche Bedeutung = человеческое и потому общественное значение
+
+[1084] = Она есть пассивная связь, заставляющая человека ощущать потребность в величайшем богатстве — в другом человеке.
+- Sie ist das passive Band = Она есть пассивная связь,
+- welches den Menschen den größten Reichtum = которая человеку величайшее богатство,
+- den andren Menschen = другого человека,
+- als Bedürfnis empfinden läßt = как потребность ощущать позволяет
+
+[1085] = Господство предметной сущности во мне, чувственное проявление моей сущностной деятельности есть страсть, которая тем самым становится здесь деятельностью моей сущности. —
+- Die Herrschaft des gegenständlichen Wesens in mir = Господство предметной сущности во мне,
+- der sinnliche Ausbruch meiner Wesenstätigkeit = чувственный порыв моей сущностной деятельности
+- ist die Leidenschaft = есть страсть,
+- welche hier damit die Tätigkeit meines Wesens wird = которая здесь тем самым становится деятельностью моей сущности. —
+
+[1086] = 5) Какое-либо существо считает себя самостоятельным лишь тогда, когда оно стоит на своих собственных ногах, а на своих собственных ногах оно стоит лишь тогда, когда оно обязано своим существованием самому себе.
+- 5. Ein Wesen gilt sich erst als selbständiges = 5) Существо считает себя самостоятельным лишь,
+- sobald es auf eignen Füßen steht = когда оно стоит на собственных ногах,
+- und es steht erst auf eignen Füßen = а на собственных ногах оно стоит лишь,
+- sobald es sein Dasein sich selbst verdankt = когда оно своим существованием обязано самому себе
++ auf eignen Füßen steht = стоит на собственных ногах ~ auf eigenen Füßen stehen
+
+[1087] = Человек, живущий милостью другого, считает себя существом зависимым.
+- Ein Mensch, der von der Gnade eines andern lebt = Человек, который живёт милостью другого,
+- betrachtet sich als ein abhängiges Wesen = считает себя зависимым существом
+
+[1088] = Но я живу целиком милостью другого, если я обязан ему не только поддержанием моей жизни, но если он, сверх того, ещё и создал мою жизнь, если он — источник моей жизни; а моя жизнь непременно имеет такую причину вне себя, если она не есть моё собственное творение.
+- Ich lebe aber vollständig = Но я живу целиком
+- von der Gnade eines andern = милостью другого,
+- wenn ich ihm nicht nur die Unterhaltung meines Lebens verdanke = если я ему не только поддержанием моей жизни обязан,
+- sondern wenn er noch außerdem mein Leben geschaffen hat = но если он ещё и мою жизнь создал,
+- wenn er der Quell meines Lebens ist = если он источник моей жизни,
+- und mein Leben hat notwendig = а моя жизнь непременно имеет
+- einen solchen Grund außer sich = такую причину вне себя,
+- wenn es nicht meine eigne Schöpfung ist = если она не моё собственное творение
+
+[1089] = Поэтому творение есть представление, которое очень трудно вытеснить из народного сознания.
+- Die Schöpfung ist daher = Творение есть поэтому
+- eine sehr schwer aus dem Volksbewußtsein = очень трудно из народного сознания
+- zu verdrängende Vorstellung = вытесняемое представление
+
+[1090] = Для народного сознания непостижимо через-себя-бытие природы и человека, потому что оно противоречит всем осязаемым фактам практической жизни.
+- Das Durchsichselbstsein der Natur und des Menschen = Через-себя-бытие природы и человека
+- ist ihm unbegreiflich = ему непостижимо,
+- weil es allen Handgreiflichkeiten des praktischen Lebens widerspricht = потому что оно противоречит всем осязаемым фактам практической жизни
+
+[1091] = Представление о сотворении Земли получило сокрушительный удар со стороны геогнозии, т. е. науки, изображающей образование Земли, становление Земли как процесс, как самопорождение.
+- Die Erdschöpfung hat einen gewaltigen Stoß erhalten = Представление о сотворении Земли получило мощный удар
+- durch die Geognosie = со стороны геогнозии,
+- d.h. durch die Wissenschaft = т. е. науки,
+- welche die Erdbildung = которая образование Земли,
+- das Werden der Erde = становление Земли,
+- als einen Prozeß, als Selbsterzeugung darstellte = как процесс, как самопорождение изобразила
+* geognosie = геогнозия | die Geognosie | сущ. | старое название геологии
+
+[1092] = Generatio aequivoca — единственное практическое опровержение теории творения.
+- Die generatio aequivoca = Самозарождение
+- ist die einzige praktische Widerlegung = есть единственное практическое опровержение
+- der Schöpfungstheorie = теории творения
+* generatio = зарождение | | сущ. | лат. generatio aequivoca — самопроизвольное зарождение
+* aequivoca = самопроизвольное | | прил. | лат.
+
+[1093] = Легко, конечно, сказать отдельному индивиду то, что говорил уже Аристотель: ты порождён твоим отцом и твоей матерью, значит, в тебе соединение двух человеческих существ, т. е. родовой акт людей, произвёл человека.
+- Nun ist es zwar leicht = Легко, правда,
+- dem einzelnen Individuum zu sagen = отдельному индивиду сказать,
+- was Aristoteles schon sagt = что говорит уже Аристотель:
+- Du bist gezeugt von deinem Vater und deiner Mutter = ты порождён твоим отцом и твоей матерью,
+- also hat in dir die Begattung zweier Menschen = значит, в тебе спаривание двух людей,
+- also ein Gattungsakt der Menschen = т. е. родовой акт людей,
+- den Menschen produziert = произвёл человека
+* aristoteles = Аристотель | | имя собств. | древнегреческий философ (384–322 до н. э.)
+
+[1094] = Ты видишь, следовательно, что и физически человек обязан своим существованием человеку.
+- Du siehst also = Ты видишь, следовательно,
+- daß der Mensch auch physisch = что человек и физически
+- sein Dasein dem Menschen verdankt = своим существованием обязан человеку
+
+[1095] = Значит, ты должен иметь в виду не только одну сторону — бесконечный прогресс, следуя которому ты спрашиваешь дальше: кто породил моего отца, кто его деда и т. д.?
+- Du mußt also nicht nur die eine Seite = Ты должен, следовательно, не только одну сторону
+- im Auge behalten = иметь в виду —
+- den unendlichen Progreß = бесконечный прогресс,
+- wonach du weiter fragst = по которому ты дальше спрашиваешь:
+- Wer hat meinen Vater = кто моего отца,
+- wer seinen Großvater etc. gezeugt = кто его деда и т. д. породил?
++ im Auge behalten = иметь в виду ~ etwas im Auge behalten
+
+[1096] = Ты должен удерживать в памяти и то круговое движение, чувственно наглядное в этом прогрессе, в силу которого человек в акте деторождения повторяет самого себя, т. е. человек всегда остаётся субъектом.
+- Du mußt auch die Kreisbewegung = Ты должен и круговое движение,
+- welche in jenem Progreß sinnlich anschaubar ist = которое в том прогрессе чувственно наглядно,
+- festhalten = удерживать,
+- wonach der Mensch in der Zeugung = по которому человек в деторождении
+- sich selbst wiederholt = себя самого повторяет,
+- also der Mensch immer Subjekt bleibt = т. е. человек всегда остаётся субъектом
+
+[1097] = Но ты ответишь: если я признаю это круговое движение, то признай и ты прогресс, который гонит меня всё дальше, пока я не спрошу: кто породил первого человека и природу вообще?
+- Allein du wirst antworten = Но ты ответишь:
+- Diese Kreisbewegung dir zugestanden = если тебе это круговое движение уступить,
+- so gestehe du mir den Progreß zu = то уступи и ты мне прогресс,
+- der mich immer weitertreibt = который гонит меня всё дальше,
+- bis ich frage = пока я не спрошу:
+- wer hat den ersten Menschen = кто первого человека
+- und die Natur überhaupt gezeugt = и природу вообще породил?
++ gestehe zu = уступи, признай ~ zugestehen
+
+[1098] = Я могу ответить тебе лишь одно: твой вопрос сам есть продукт абстракции.
+- Ich kann dir nur antworten = Я могу тебе лишь ответить:
+- Deine Frage ist selbst ein Produkt der Abstraktion = твой вопрос сам есть продукт абстракции
+
+[1099] = Спроси себя, как ты пришёл к этому вопросу; спроси себя, не задаёшь ли ты свой вопрос с такой точки зрения, на которую я не могу ответить, потому что она превратная?
+- Frage dich = Спроси себя,
+- wie du auf jene Frage kommst = как ты к тому вопросу приходишь;
+- frage dich = спроси себя,
+- ob deine Frage nicht = не исходит ли твой вопрос
+- von einem Gesichtspunkt aus geschieht = с такой точки зрения,
+- den ich nicht beantworten kann = на которую я не могу ответить,
+- weil er ein verkehrter ist = потому что она превратная?
+
+[1100] = Спроси себя, существует ли этот прогресс как таковой для разумного мышления.
+- Frage dich = Спроси себя,
+- ob jener Progreß als solcher = существует ли тот прогресс как таковой
+- für ein vernünftiges Denken existiert = для разумного мышления?
+
+[1101] = Если ты спрашиваешь о сотворении природы и человека, то ты тем самым абстрагируешься от человека и природы.
+- Wenn du nach der Schöpfung = Если ты о сотворении
+- der Natur und des Menschen fragst = природы и человека спрашиваешь,
+- so abstrahierst du also = то ты абстрагируешься, следовательно,
+- vom Menschen und der Natur = от человека и природы
+
+[1102] = Ты полагаешь их несуществующими и всё же хочешь, чтобы я доказал тебе их существование.
+! daß ich sie als seiend < daß sie ich als seiend
+- Du setzest sie als nichtseiend = Ты полагаешь их несуществующими
+- und willst doch = и всё же хочешь,
+- daß ich sie als seiend dir beweise = чтобы я их как существующие тебе доказал
+
+[1103] = Так вот я тебе говорю: откажись от своей абстракции — и ты откажешься от своего вопроса; если же ты хочешь держаться за свою абстракцию, то будь последователен, и если ты, мысля человека и природу несуществующими, мыслишь, то мысли несуществующим и самого себя, ибо ты ведь тоже природа и человек.
+- Ich sage dir nun = Говорю тебе теперь:
+- Gib deine Abstraktion auf = откажись от своей абстракции,
+- so gibst du auch deine Frage auf = тогда ты откажешься и от своего вопроса,
+- oder willst du an deiner Abstraktion festhalten = или если хочешь держаться своей абстракции,
+- so sei konsequent = то будь последователен,
+- und wenn du den Menschen und die Natur = и если ты человека и природу
+- als nichtseiend denkend, denkst = несуществующими мысля, мыслишь,
+- so denke dich selbst als nichtseiend = то мысли и себя самого несуществующим,
+- der du doch auch Natur und Mensch bist = ты, который ведь тоже природа и человек
++ Gib auf = откажись ~ aufgeben
+
+[1104] = Не мысли, не спрашивай меня, ибо, как только ты мыслишь и спрашиваешь, твоё абстрагирование от бытия природы и человека теряет всякий смысл.
+- Denke nicht, frage mich nicht = Не мысли, не спрашивай меня,
+- denn sobald du denkst und fragst = ибо как только ты мыслишь и спрашиваешь,
+- hat deine Abstraktion = твоя абстракция
+- von dem Sein der Natur und des Menschen = от бытия природы и человека
+- keinen Sinn = не имеет смысла
+
+[1105] = Или ты такой эгоист, что полагаешь всё как ничто, а сам хочешь существовать?
+- Oder bist du ein solcher Egoist = Или ты такой эгоист,
+- daß du alles als Nichts setzt = что всё полагаешь как ничто
+- und selbst sein willst = а сам хочешь существовать?
+
+[1106] = Ты можешь мне возразить: я вовсе не хочу полагать природу и т. д. как ничто; я спрашиваю тебя об акте её возникновения, как спрашиваю анатома об
+- Du kannst mir erwidern = Ты можешь мне возразить:
+- Ich will nicht das Nichts der Natur etc. setzen = я не хочу полагать ничто природы и т. д.;
+- ich frage dich nach ihrem Entstehungsakt = я спрашиваю тебя об акте её возникновения,
+- wie ich den Anatom nach den = как я анатома об
+
+[1107] = образовании костей и т. д.
+- Knochenbildungen frage, etc. = образованиях костей спрашиваю и т. д.
+
+[1108] = Но так как для социалистического человека вся так называемая всемирная история есть не что иное, как порождение человека человеческим трудом, становление природы для человека, то у него есть наглядное, неопровержимое доказательство своего порождения самим собой, своего процесса возникновения.
+- Indem aber für den sozialistischen Menschen = Но так как для социалистического человека
+- die ganze sogenannte Weltgeschichte = вся так называемая всемирная история
+- nichts anders ist als die Erzeugung des Menschen = есть не что иное, как порождение человека
+- durch die menschliche Arbeit = человеческим трудом,
+- als das Werden der Natur für den Menschen = как становление природы для человека,
+- so hat er also den anschaulichen, unwiderstehlichen Beweis = то у него есть наглядное, неопровержимое доказательство
+- von seiner Geburt durch sich selbst = своего рождения через самого себя,
+- von seinem Entstehungsprozeß = своего процесса возникновения
+
+[1109] = Поскольку сущностность человека и природы, поскольку человек для человека как бытие природы и природа для человека как бытие человека стали практически, чувственно наглядными, постольку вопрос о каком-то чуждом существе, о существе, стоящем над природой и человеком, — вопрос, заключающий в себе признание несущественности природы и человека, — стал практически невозможным.
+- Indem die Wesenhaftigkeit des Menschen und der Natur = Поскольку сущностность человека и природы,
+- indem der Mensch für den Menschen = поскольку человек для человека
+- als Dasein der Natur = как бытие природы
+- und die Natur für den Menschen = и природа для человека
+- als Dasein des Menschen = как бытие человека
+- praktisch, sinnlich anschaubar geworden ist = практически, чувственно наглядными стали,
+- ist die Frage nach einem fremden Wesen = вопрос о чуждом существе,
+- nach einem Wesen über der Natur und dem Menschen = о существе над природой и человеком —
+- eine Frage = вопрос,
+- welche das Geständnis von der Unwesentlichkeit = который признание несущественности
+- der Natur und des Menschen einschließt = природы и человека заключает, —
+- praktisch unmöglich geworden = практически невозможным стал
+
+[1110] = Атеизм как отрицание этой несущественности не имеет больше никакого смысла, ибо атеизм есть отрицание Бога и через это отрицание утверждает бытие человека; но социализм как социализм уже не нуждается в таком опосредствовании: он начинает с теоретически и практически чувственного сознания человека и природы как сущности.
+! keinen Sinn mehr < keinen Sein mehr
+- Der Atheismus = Атеизм,
+- als Leugnung dieser Unwesentlichkeit = как отрицание этой несущественности,
+- hat keinen Sinn mehr = не имеет больше смысла,
+- denn der Atheismus ist die Negation des Gottes = ибо атеизм есть отрицание Бога
+- und setzt durch diese Negation = и полагает через это отрицание
+- das Dasein des Menschen = бытие человека;
+- aber der Sozialismus als Sozialismus = но социализм как социализм
+- bedarf einer solchen Vermittlung nicht mehr = в таком опосредствовании больше не нуждается;
+- er beginnt von dem theoretisch und praktisch sinnlichen Bewußtsein = он начинает с теоретически и практически чувственного сознания
+- des Menschen und der Natur als des Wesens = человека и природы как сущности
+
+[1111] = Он есть положительное, уже не опосредствованное упразднением религии самосознание человека, подобно тому как действительная жизнь есть положительная, уже не опосредствованная упразднением частной собственности, коммунизмом, действительность человека.
+- Er ist positives = Он есть положительное,
+- nicht mehr durch die Aufhebung der Religion vermitteltes = уже не опосредствованное упразднением религии
+- Selbstbewußtsein des Menschen = самосознание человека,
+- wie das wirkliche Leben = как действительная жизнь
+- positive, nicht mehr durch die Aufhebung des Privateigentums = положительная, уже не упразднением частной собственности,
+- den Kommunismus = коммунизмом,
+- vermittelte Wirklichkeit des Menschen ist = опосредствованная действительность человека
+
+[1112] = Коммунизм есть позиция как отрицание отрицания, поэтому он является действительным, необходимым для ближайшего этапа исторического развития моментом эмансипации и обратного отвоевания человека.
+- Der Kommunismus ist die Position = Коммунизм есть позиция
+- als Negation der Negation = как отрицание отрицания,
+- darum das wirkliche = поэтому действительный,
+- für die nächste geschichtliche Entwicklung notwendige Moment = для ближайшего исторического развития необходимый момент
+- der menschlichen Emanzipation und Wiedergewinnung = человеческой эмансипации и обратного отвоевания
+* negation = отрицание | die Negation | сущ. | «отрицание отрицания» — гегелевская формула развития
+
+[1113] = Коммунизм есть необходимая форма и энергический принцип ближайшего будущего, но коммунизм как таковой не есть цель человеческого развития, форма человеческого общества. —
+- Der Kommunismus ist die notwendige Gestalt = Коммунизм есть необходимая форма
+- und das energische Prinzip der nächsten Zukunft = и энергический принцип ближайшего будущего,
+- aber der Kommunismus ist nicht als solcher = но коммунизм не есть как таковой
+- das Ziel der menschlichen Entwicklung = цель человеческого развития —
+- die Gestalt der menschlichen Gesellschaft = форма человеческого общества. —

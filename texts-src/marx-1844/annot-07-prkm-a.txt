@@ -1,0 +1,727 @@
+[958] = Частная собственность и коммунизм
+- Privateigentum und Kommunismus = Частная собственность и коммунизм
+
+[959] = * К странице
+- * ad pag = * К странице
+
+[960] = XXXIX.
+- XXXIX = XXXIX
+* xxxix = XXXIX (лист рукописи) | | числ.
+
+[961] = Но противоположность между отсутствием собственности и собственностью — это ещё безразличная противоположность, не понятая в её деятельном отношении, в её внутреннем соотношении, ещё не понятая как противоречие, пока она не понята как противоположность труда и капитала.
+- Aber der Gegensatz = Но противоположность
+- von Eigentumslosigkeit und Eigentum = отсутствия собственности и собственности
+- ist ein noch indifferenter = есть ещё безразличная,
+- nicht in seiner tätigen Beziehung = не в своём деятельном отношении,
+- seinem innern Verhältnis = своём внутреннем соотношении,
+- noch nicht als Widerspruch gefaßter Gegensatz = ещё не как противоречие понятая противоположность,
+- solange er nicht = пока она не
+- als der Gegensatz der Arbeit und des Kapitals = как противоположность труда и капитала
+- begriffen wird = понята
+
+[962] = Даже без развитого движения частной собственности — в Древнем Риме, в Турции и т. д. — эта противоположность может выражаться в первой форме.
+- Auch ohne die fortgeschrittne Bewegung = И без развитого движения
+- des Privateigentums = частной собственности,
+- im alten Rom, in der Türkei etc. = в Древнем Риме, в Турции и т. д.,
+- kann dieser Gegensatz = может эта противоположность
+- in der ersten Gestalt sich aussprechen = в первой форме выражаться
+
+[963] = Поэтому она ещё не выступает как положенная самой частной собственностью.
+- So erscheint er noch nicht = Поэтому она ещё не выступает
+- als durch das Privateigentum selbst gesetzt = как положенная самой частной собственностью
+
+[964] = Но труд, субъективная сущность частной собственности как исключение собственности, и капитал, объективный труд как исключение труда, — это частная собственность как развитое отношение противоречия, а потому энергическое, стремящееся к разрешению отношение.
+! Auflösung treibendes < Auflosung treibendes
+- Aber die Arbeit = Но труд,
+- das subjektive Wesen des Privateigentums = субъективная сущность частной собственности
+- als Ausschließung des Eigentums = как исключение собственности,
+- und das Kapital = и капитал,
+- die objektive Arbeit = объективный труд
+- als Ausschließung der Arbeit = как исключение труда,
+- ist das Privateigentum = есть частная собственность
+- als sein entwickeltes Verhältnis des Widerspruchs = как её развитое отношение противоречия,
+- darum ein energisches = потому энергическое,
+- zur Auflösung treibendes Verhältnis = к разрешению влекущее отношение
+
+[965] = ** Там же.
+- ** ad ibidem = ** Там же
+* ibidem = там же | | нареч. | лат.
+
+[966] = Упразднение самоотчуждения проходит тот же путь, что и самоотчуждение.
+- Die Aufhebung der Selbstentfremdung = Упразднение самоотчуждения
+- macht denselben Weg = проходит тот же путь,
+- wie die Selbstentfremdung = что и самоотчуждение
+
+[967] = Сначала частная собственность рассматривается лишь с её объективной стороны, — но всё же труд рассматривается как её сущность.
+- Erst wird das Privateigentum = Сначала частная собственность
+- nur in seiner objektiven Seite = лишь с её объективной стороны —
+- aber doch die Arbeit als sein Wesen = но всё же труд как её сущность —
+- betrachtet = рассматривается
+
+[968] = Поэтому формой её существования является капитал, который надо упразднить «как таковой» (Прудон).
+- Seine Daseinsform ist daher das Kapital = Форма её существования поэтому капитал,
+- das als solches aufzuheben ist = который «как таковой» следует упразднить
+- Proudhon = (Прудон)
++ aufzuheben ist = следует упразднить ~ sein + zu + Infinitiv
+
+[969] = Или же источником вредоносности частной собственности и её отчуждённого от человека существования объявляется особый вид труда — нивелированный, раздробленный и потому несвободный труд: Фурье, который, подобно физиократам, тоже снова считает земледельческий труд по крайней мере преимущественным, тогда как Сен-Симон, напротив, объявляет сущностью промышленный труд как таковой и теперь добивается также единовластия промышленников и улучшения положения рабочих.
+- Oder die besondre Weise der Arbeit = Или особый вид труда —
+- als nivellierte, parzellierte = как нивелированный, раздробленный
+- und darum unfreie Arbeit = и потому несвободный труд —
+- wird als die Quelle der Schädlichkeit = понимается как источник вредоносности
+- des Privateigentums = частной собственности
+- und seines menschenentfremdeten Daseins = и её отчуждённого от человека существования
+- gefaßt = (понимается) —
+- Fourier = Фурье,
+- der den Physiokraten entsprechend = который, подобно физиократам,
+- auch wieder die Landbauarbeit = тоже снова земледельческий труд
+- wenigstens als die ausgezeichnete faßt = по крайней мере как преимущественный понимает,
+- während St. Simon im Gegensatz = тогда как Сен-Симон, напротив,
+- die Industriearbeit als solche für das Wesen erklärt = промышленный труд как таковой сущностью объявляет
+- und nun auch die alleinige Herrschaft der Industriellen = и теперь также единовластия промышленников
+- und die Verbesserung der Lage der Arbeiter begehrt = и улучшения положения рабочих добивается
+* fourier = Фурье | | имя собств. | Шарль Фурье (1772–1837), французский социалист-утопист
+
+[970] = Наконец, коммунизм есть положительное выражение упразднённой частной собственности, прежде всего — всеобщая частная собственность.
+- Der Kommunismus endlich = Коммунизм, наконец,
+- ist der positive Ausdruck = есть положительное выражение
+- des aufgehobnen Privateigentums = упразднённой частной собственности,
+- zunächst das allgemeine Privateigentum = прежде всего — всеобщая частная собственность
+
+[971] = Беря это отношение в его всеобщности, он
+- Indem er dies Verhältnis = Поскольку он это отношение
+- in seiner Allgemeinheit faßt = в его всеобщности берёт,
+- ist er = он есть
+
+[972] = 1) в своём первом виде есть лишь обобщение и завершение этого отношения; как таковой он выступает в двояком виде: во-первых, господство вещественной собственности над ним так велико, что он хочет уничтожить всё, чем не могут обладать все как частной собственностью; он хочет насильственно абстрагироваться от таланта и т. д.
+- 1. in seiner ersten Gestalt = 1) в своём первом виде
+- nur eine Verallgemeinerung und Vollendung desselben = лишь обобщение и завершение его;
+- als solche zeigt er sich = как таковой он выступает
+- in doppelter Gestalt = в двояком виде:
+- einmal ist die Herrschaft des sachlichen Eigentums = во-первых, господство вещественной собственности
+- so groß ihm gegenüber = так велико над ним,
+- daß er alles vernichten will = что он всё хочет уничтожить,
+- was nicht fähig ist = что не способно
+- als Privateigentum von allen besessen [zu] werden = как частная собственность всеми быть обладаемо;
+- er will auf gewaltsame Weise = он хочет насильственно
+- von Talent etc. abstrahieren = от таланта и т. д. абстрагироваться
+
+[973] = Физическое, непосредственное обладание является для него единственной целью жизни и существования; определение рабочего не упраздняется, а распространяется на всех людей; отношение частной собственности остаётся отношением общности к миру вещей; наконец, это движение, противопоставляющее частной собственности всеобщую частную собственность, выражается в животной форме: браку (который, конечно, есть форма исключительной частной собственности) противопоставляется общность жён, где женщина, следовательно, становится общественной и общей собственностью.
+- Der physische, unmittelbare Besitz = Физическое, непосредственное обладание
+- gilt ihm als einziger Zweck des Lebens und Daseins = считается для него единственной целью жизни и существования;
+- die Bestimmung des Arbeiters wird nicht aufgehoben = определение рабочего не упраздняется,
+- sondern auf alle Menschen ausgedehnt = а на всех людей распространяется;
+- das Verhältnis des Privateigentums bleibt = отношение частной собственности остаётся
+- das Verhältnis der Gemeinschaft zur Sachenwelt = отношением общности к миру вещей;
+- endlich spricht sich diese Bewegung = наконец, это движение —
+- dem Privateigentum das allgemeine Privateigentum entgegenzustellen = противопоставить частной собственности всеобщую частную собственность —
+- in der tierischen Form aus = выражается в животной форме:
+- daß der Ehe = что браку
+- welche allerdings eine Form des exklusiven Privateigentums ist = (который, конечно, есть форма исключительной частной собственности)
+- die Weibergemeinschaft = общность жён,
+- wo also das Weib = где, следовательно, женщина
+- zu einem gemeinschaftlichen und gemeinen Eigentum wird = становится общественной и общей собственностью,
+- entgegengestellt wird = противопоставляется
++ spricht sich aus = выражается ~ sich aussprechen
+
+[974] = Можно сказать, что эта идея общности жён есть высказанная тайна этого ещё совершенно грубого и бездумного коммунизма.
+- Man darf sagen = Можно сказать,
+- daß dieser Gedanke der Weibergemeinschaft = что эта мысль об общности жён
+- das ausgesprochne Geheimnis = есть высказанная тайна
+- dieses noch ganz rohen und gedankenlosen Kommunismus ist = этого ещё совершенно грубого и бездумного коммунизма
+
+[975] = Подобно тому как женщина переходит от брака ко всеобщей проституции, так и весь мир богатства, т. е. предметной сущности человека, переходит от отношения исключительного брака с частным собственником к отношению всеобщей проституции с общностью.
+- Wie das Weib aus der Ehe = Как женщина из брака
+- in die allgemeine Prostitution = во всеобщую проституцию,
+- so tritt die ganze Welt des Reichtums = так переходит весь мир богатства,
+- d.h. des gegenständlichen Wesens des Menschen = т. е. предметной сущности человека,
+- aus dem Verhältnis der exklusiven Ehe = из отношения исключительного брака
+- mit dem Privateigentümer = с частным собственником
+- in das Verhältnis der universellen Prostitution = в отношение всеобщей проституции
+- mit der Gemeinschaft = с общностью
+
+[976] = Этот коммунизм, повсюду отрицая личность человека, есть как раз лишь последовательное выражение частной собственности, которая и есть это отрицание.
+- Dieser Kommunismus = Этот коммунизм,
+- indem er die Persönlichkeit des Menschen = отрицая личность человека
+- überall negiert = повсюду,
+- ist eben nur der konsequente Ausdruck = есть как раз лишь последовательное выражение
+- des Privateigentums = частной собственности,
+- welches diese Negation ist = которая и есть это отрицание
+
+[977] = Всеобщая и конституирующаяся как власть зависть — это скрытая форма, в которой алчность восстанавливает себя и лишь иным образом удовлетворяется.
+- Der allgemeine = Всеобщая
+- und als Macht sich konstituierende Neid = и как власть конституирующаяся зависть
+- ist die versteckte Form = есть скрытая форма,
+- in welcher die Habsucht sich herstellt = в которой алчность восстанавливается
+- und nur auf eine andre Weise sich befriedigt = и лишь иным образом удовлетворяется
+
+[978] = Мысль о всякой частной собственности как таковой по крайней мере обращена против более богатой частной собственности как зависть и стремление к уравниванию, так что они составляют даже сущность конкуренции.
+- Der Gedanke jedes Privateigentums = Мысль всякой частной собственности
+- als eines solchen = как таковой
+- ist wenigstens gegen das reichere Privateigentum = по крайней мере против более богатой частной собственности
+- als Neid und Nivellierungssucht gekehrt = как зависть и стремление к уравниванию обращена,
+- so daß diese sogar = так что они даже
+- das Wesen der Konkurrenz ausmachen = составляют сущность конкуренции
+
+[979] = Грубый коммунист — лишь завершение этой зависти и этого уравнивания, исходящее из представляемого минимума.
+- Der rohe Kommunist = Грубый коммунист —
+- ist nur die Vollendung = лишь завершение
+- dieses Neides und dieser Nivellierung = этой зависти и этого уравнивания
+- von dem vorgestellten Minimum aus = исходя из представляемого минимума
++ von aus = исходя из ~ von … aus
+
+[980] = У него определённая ограниченная мера.
+- Er hat ein bestimmtes begrenztes Maß = У него определённая ограниченная мера
+
+[981] = Как мало это упразднение частной собственности есть действительное освоение, доказывает как раз абстрактное отрицание всего мира культуры и цивилизации, возврат к неестественной простоте бедного, грубого и не имеющего потребностей человека, который не только не возвысился над частной собственностью, но даже не дорос ещё до неё.
+! einmal bei demselben < einma1 bei demselben
+- Wie wenig diese Aufhebung des Privateigentums = Как мало это упразднение частной собственности
+- eine wirkliche Aneignung ist = есть действительное освоение,
+- beweist eben die abstrakte Negation = доказывает как раз абстрактное отрицание
+- der ganzen Welt der Bildung und der Zivilisation = всего мира культуры и цивилизации,
+- die Rückkehr zur unnatürlichen Einfachheit = возврат к неестественной простоте
+- des armen, rohen und bedürfnislosen Menschen = бедного, грубого и не имеющего потребностей человека,
+- der nicht über das Privateigentum hinaus = который не за пределы частной собственности,
+- sondern noch nicht einmal = а ещё даже не
+- bei demselben angelangt ist = до неё дошёл
+
+[982] = Общность здесь — лишь общность труда и равенство заработной платы, выплачиваемой общим капиталом, общностью как всеобщим капиталистом.
+- Die Gemeinschaft ist nur = Общность — лишь
+- eine Gemeinschaft der Arbeit = общность труда
+- und die Gleichheit des Salairs = и равенство заработной платы,
+- den das gemeinschaftliche Kapital = которую общий капитал,
+- die Gemeinschaft als der allgemeine Kapitalist = общность как всеобщий капиталист,
+- auszahlt = выплачивает
+
+[983] = Обе стороны отношения возведены в представляемую всеобщность: труд — как определение, в котором положен каждый, капитал — как признанная всеобщность и власть общности.
+- Beide Seiten des Verhältnisses = Обе стороны отношения
+- sind in eine vorgestellte Allgemeinheit erhoben = возведены в представляемую всеобщность:
+- die Arbeit als die Bestimmung = труд как определение,
+- in welcher jeder gesetzt ist = в котором каждый положен,
+- das Kapital als die anerkannte Allgemeinheit = капитал как признанная всеобщность
+- und Macht der Gemeinschaft = и власть общности
+
+[984] = В отношении к женщине как к добыче и служанке общественного сладострастия выражена та бесконечная деградация, в которой человек существует для самого себя, ибо тайна этого отношения находит своё недвусмысленное, решительное, явное, обнажённое выражение в отношении мужчины к женщине и в том, как понимается непосредственное, естественное родовое отношение.
+- In dem Verhältnis zum Weib = В отношении к женщине
+- als dem Raub und der Magd = как к добыче и служанке
+- der gemeinschaftlichen Wollust = общественного сладострастия
+- ist die unendliche Degradation ausgesprochen = выражена бесконечная деградация,
+- in welcher der Mensch für sich selbst existiert = в которой человек существует для самого себя,
+- denn das Geheimnis dieses Verhältnisses = ибо тайна этого отношения
+- hat seinen unzweideutigen, entschiednen = имеет своё недвусмысленное, решительное,
+- offenbaren, enthüllten Ausdruck = явное, обнажённое выражение
+- in dem Verhältnisse des Mannes zum Weibe = в отношении мужчины к женщине
+- und in der Weise = и в том,
+- wie das unmittelbare, natürliche Gattungsverhältnis gefaßt wird = как непосредственное, естественное родовое отношение понимается
+
+[985] = Непосредственное, естественное, необходимое отношение человека к человеку — это отношение мужчины к женщине.
+- Das unmittelbare, natürliche, notwendige Verhältnis = Непосредственное, естественное, необходимое отношение
+- des Menschen zum Menschen = человека к человеку
+- ist das Verhältnis des Mannes zum Weibe = есть отношение мужчины к женщине
+
+[986] = В этом естественном родовом отношении отношение человека к природе есть непосредственно его отношение к человеку, подобно тому как отношение к человеку есть непосредственно его отношение к природе, его собственное природное определение.
+- In diesem natürlichen Gattungsverhältnis = В этом естественном родовом отношении
+- ist das Verhältnis des Menschen zur Natur = отношение человека к природе
+- unmittelbar sein Verhältnis zum Menschen = есть непосредственно его отношение к человеку,
+- wie das Verhältnis zum Menschen = как и отношение к человеку
+- unmittelbar sein Verhältnis zur Natur = есть непосредственно его отношение к природе,
+- seine eigne natürliche Bestimmung ist = его собственное природное определение
+
+[987] = Следовательно, в этом отношении чувственно, в виде наглядного факта, проявляется то, в какой мере человеческая сущность стала для человека природой или природа — человеческой сущностью человека.
+- In diesem Verhältnis erscheint also sinnlich = В этом отношении проявляется, следовательно, чувственно,
+- auf ein anschaubares Faktum reduziert = сведённое к наглядному факту,
+- inwieweit dem Menschen = в какой мере для человека
+- das menschliche Wesen zur Natur = человеческая сущность — природой
+- oder die Natur zum menschlichen Wesen des Menschen = или природа — человеческой сущностью человека
+- geworden ist = стала
+
+[988] = Поэтому по этому отношению можно судить о всей ступени развития человека.
+- Aus diesem Verhältnis kann man also = По этому отношению можно, следовательно,
+- die ganze Bildungsstufe des Menschen beurteilen = судить о всей ступени развития человека
+
+[989] = Из характера этого отношения следует, в какой мере человек как родовое существо, как человек стал собой и постиг себя; отношение мужчины к женщине есть естественнейшее отношение человека к человеку. Поэтому в нём обнаруживается, в какой мере естественное поведение человека стало человеческим или в какой мере человеческая сущность стала для него естественной сущностью, в какой мере его человеческая природа стала для него природой.
+- Aus dem Charakter dieses Verhältnisses folgt = Из характера этого отношения следует,
+- inwieweit der Mensch als Gattungswesen = в какой мере человек как родовое существо,
+- als Mensch sich geworden ist und erfaßt hat = как человек собой стал и себя постиг;
+- das Verhältnis des Mannes zum Weib = отношение мужчины к женщине
+- ist das natürlichste Verhältnis = есть естественнейшее отношение
+- des Menschen zum Menschen = человека к человеку.
+- in ihm zeigt sich also = В нём проявляется, следовательно,
+- in[wie]weit das natürliche Verhalten des Menschen = в какой мере естественное поведение человека
+- menschlich = человеческим (стало)
+- oder inwieweit das menschliche Wesen = или в какой мере человеческая сущность
+- ihm zum natürlichen Wesen = для него естественной сущностью,
+- inwieweit seine menschliche Natur = в какой мере его человеческая природа
+- ihm zur Natur geworden ist = для него природой стала
+
+[990] = В этом отношении обнаруживается также, в какой мере потребность человека стала человеческой потребностью, в какой мере, следовательно, другой человек как человек стал для него потребностью, в какой мере он в своём индивидуальнейшем существовании является вместе с тем общественным существом.
+- In diesem Verhältnis zeigt sich auch = В этом отношении проявляется также,
+- in[wie]weit das Bedürfnis des Menschen = в какой мере потребность человека
+- zum menschlichen Bedürfnis = человеческой потребностью (стала),
+- inwieweit ihm also der andre Mensch als Mensch = в какой мере, следовательно, другой человек как человек
+- zum Bedürfnis geworden ist = стал для него потребностью,
+- inwieweit er in seinem individuellsten Dasein = в какой мере он в своём индивидуальнейшем существовании
+- zugleich Gemeinwesen ist = вместе с тем общественное существо
+
+[991] = Таким образом, первое положительное упразднение частной собственности, грубый коммунизм, есть лишь форма проявления гнусности частной собственности, которая хочет утвердить себя как положительная общность.
+- Die erste positive Aufhebung des Privateigentums = Первое положительное упразднение частной собственности,
+- der rohe Kommunis-mus = грубый коммунизм,
+- ist also nur eine Erscheinungsform = есть, следовательно, лишь форма проявления
+- von der Niedertracht des Privateigentums = гнусности частной собственности,
+- das sich als das positive Gemeinwesen setzen will = которая хочет утвердить себя как положительная общность
+
+[992] = 2) Коммунизм а) ещё политического характера, демократический или деспотический; б) с упразднением государства, но вместе с тем ещё незавершённый и всё ещё находящийся под влиянием частной собственности, т. е. отчуждения человека.
+- 2. Der Kommunismus = 2) Коммунизм
+- a) noch politischer Natur = а) ещё политического характера,
+- demokratisch oder despotisch = демократический или деспотический;
+- b) mit Aufhebung des Staats = б) с упразднением государства,
+- aber zugleich noch unvollendetem = но вместе с тем с ещё незавершённой
+- und immer noch mit dem Privateigentum = и всё ещё частной собственностью,
+- d.h. der Entfremdung des Menschen = т. е. отчуждением человека,
+- affiziertem Wesen = затронутой сущностью
+* a = а) | | сокр. | нумерация
+* b = б) | | сокр. | нумерация
+
+[993] = В обеих формах коммунизм уже осознаёт себя как реинтеграцию или возвращение человека к себе, как упразднение человеческого самоотчуждения; но поскольку он ещё не постиг положительной сущности частной собственности и столь же мало понял человеческую природу потребности, он ещё находится в плену у неё и заражён ею.
+- In beiden Formen = В обеих формах
+- weiß sich der Kommunismus schon = знает себя коммунизм уже
+- als Reintegration oder Rückkehr des Menschen in sich = как реинтеграцию или возвращение человека в себя,
+- als Aufhebung der menschlichen Selbstentfremdung = как упразднение человеческого самоотчуждения,
+- aber indem er das positive Wesen des Privateigentums = но поскольку он положительной сущности частной собственности
+- noch nicht erfaßt hat = ещё не постиг
+- und ebensowenig die menschliche Natur des Bedürfnisses = и столь же мало человеческую природу потребности
+- verstanden hat = понял,
+- ist er auch noch von demselben befangen und infiziert = он ещё ею скован и заражён
+
+[994] = Он, правда, постиг своё понятие, но ещё не свою сущность.
+- Er hat zwar seinen Begriff erfaßt = Он, правда, своё понятие постиг,
+- aber noch nicht sein Wesen = но ещё не свою сущность
+
+[995] = 3) Коммунизм как положительное упразднение частной собственности — этого самоотчуждения человека — и потому как действительное освоение человеческой сущности человеком и для человека; а потому как полное, сознательное и совершившееся в рамках всего богатства предшествующего развития возвращение человека к самому себе как человеку общественному, т. е. человечному.
+- 3. Der Kommunismus = 3) Коммунизм
+- als positive Aufhebung des Privateigentums = как положительное упразднение частной собственности
+- als menschlicher Selbstentfremdung = как человеческого самоотчуждения
+- und darum als wirkliche Aneignung = и потому как действительное освоение
+- des menschlichen Wesens = человеческой сущности
+- durch und für den Menschen = человеком и для человека;
+- darum als vollständige, bewußt = потому как полное, сознательное
+- und innerhalb des ganzen Reichtums = и в рамках всего богатства
+- der bisherigen Entwicklung gewordne = предшествующего развития совершившееся
+- Rückkehr des Menschen für sich = возвращение человека к себе
+- als eines gesellschaftlichen = как общественного,
+- d.h. menschlichen Menschen = т. е. человечного человека
+
+[996] = Такой коммунизм как завершённый натурализм = гуманизму, а как завершённый гуманизм = натурализму; он есть подлинное разрешение противоречия между человеком и природой, человеком и человеком, подлинное разрешение спора между существованием и сущностью, между опредмечиванием и самоутверждением, между свободой и необходимостью, между индивидом и родом.
+! wahre Auflösung des Streits < wahre Auflosung des Streits
+- Dieser Kommunismus ist = Этот коммунизм есть
+- als vollendeter Naturalismus Humanismus = как завершённый натурализм — гуманизм,
+- als vollendeter Humanismus Naturalismus = как завершённый гуманизм — натурализм,
+- er ist die wahrhafte Auflösung des Widerstreites = он есть подлинное разрешение противоречия
+- zwischen dem Menschen mit der Natur = между человеком и природой
+- und mit dem Menschen = и человеком,
+- die wahre Auflösung des Streits = подлинное разрешение спора
+- zwischen Existenz und Wesen = между существованием и сущностью,
+- zwischen Vergegenständlichung und Selbstbestätigung = между опредмечиванием и самоутверждением,
+- zwischen Freiheit und Notwendigkeit = между свободой и необходимостью,
+- zwischen Individuum und Gattung = между индивидом и родом
+
+[997] = Он — решение загадки истории, и он знает, что он есть это решение.
+- Er ist das aufgelöste Rätsel der Geschichte = Он — разгаданная загадка истории
+- und weiß sich als diese Lösung = и знает себя как это решение
+
+[998] = Поэтому всё движение истории есть, с одной стороны, действительный акт порождения этого коммунизма — акт рождения его эмпирического существования, — а с другой стороны, для его мыслящего сознания оно есть постигнутое и познанное движение его становления; тогда как тот ещё незавершённый коммунизм ищет себе исторического доказательства в отдельных противостоящих частной собственности исторических образованиях, доказательства в существующем, выхватывая отдельные моменты из движения (Кабе, Вильгардель и др. особенно любят садиться на этого конька) и фиксируя их как доказательства своей исторической полноценности; но этим он как раз показывает, что несоразмерно большая часть этого движения противоречит его утверждениям и что если он когда-то существовал, то именно его прошедшее бытие опровергает претензию на сущность.
+! einmal gewesen < einma1 gewesen
+- Die ganze Bewegung der Geschichte ist daher = Всё движение истории есть поэтому,
+- wie sein wirklicher Zeugungsakt = как его действительный акт порождения —
+- der Geburtsakt seines empirischen Daseins = акт рождения его эмпирического существования, —
+- so auch für sein denkendes Bewußtsein = так и для его мыслящего сознания
+- die begriffne und gewußte Bewegung seines Werdens = постигнутое и познанное движение его становления,
+- während jener noch unvollendete Kommunismus = тогда как тот ещё незавершённый коммунизм
+- aus einzelnen dem Privateigentum entgegenstehenden Geschichtsgestalten = из отдельных противостоящих частной собственности исторических образований
+- einen historischen Beweis = историческое доказательство,
+- einen Beweis in dem Bestehenden für sich sucht = доказательство в существующем для себя ищет,
+- indem er einzelne Momente aus der Bewegung = выхватывая отдельные моменты из движения
+- Cabet, Villegardelle etc. = (Кабе, Вильгардель и др.
+- reiten besonders auf diesem Roß = особенно оседлали этого конька)
+- herausreißt = (выхватывая)
+- und als Beweise seiner historischen Vollblütigkeit fixiert = и как доказательства своей исторической полноценности фиксируя,
+- womit er eben dartut = чем он как раз показывает,
+- daß die unverhältnismäßig größre Partie = что несоразмерно большая часть
+- dieser Bewegung seinen Behauptungen widerspricht = этого движения противоречит его утверждениям
+- und daß, wenn er einmal gewesen ist = и что если он когда-то был,
+- eben sein vergangnes Sein = именно его прошедшее бытие
+- die Prätention des Wesens widerlegt = опровергает претензию на сущность
+* cabet = Кабе | | имя собств. | Этьен Кабе (1788–1856), французский утопический коммунист
+
+[999] = Нетрудно понять необходимость того, что всё революционное движение находит себе как эмпирическую, так и теоретическую основу в движении частной собственности, а именно в экономике.
+- Daß in der Bewegung des Privateigentums = Что в движении частной собственности,
+- eben der Ökonomie = как раз экономики,
+- die ganze revolutionäre Bewegung = всё революционное движение
+- sowohl ihre empirische als theoretische Basis findet = как эмпирическую, так и теоретическую основу находит,
+- davon ist die Notwendigkeit = необходимость этого
+- leicht einzusehn = нетрудно понять
+
+[1000] = Эта материальная, непосредственно чувственная частная собственность есть материальное, чувственное выражение отчуждённой человеческой жизни.
+- Dies materielle, unmittelbar sinnliche Privateigentum = Эта материальная, непосредственно чувственная частная собственность
+- ist der materielle sinnliche Ausdruck = есть материальное, чувственное выражение
+- des entfremdeten menschlichen Lebens = отчуждённой человеческой жизни
+
+[1001] = Её движение — производство и потребление — есть чувственное проявление движения всего предшествующего производства, т. е.
+- Seine Bewegung = Её движение —
+- die Produktion und Konsumtion = производство и потребление —
+- ist die sinnliche Offenbarung = есть чувственное проявление
+- von der Bewegung aller bisherigen Produktion = движения всего предшествующего производства,
+- d.h. = т. е.
+
+[1002] = осуществления или действительности человека.
+- Verwirklichung oder Wirklichkeit des Menschen = осуществления или действительности человека
+
+[1003] = Религия, семья, государство, право, мораль, наука, искусство и т. д. суть лишь особые виды производства и подчиняются его всеобщему закону.
+- Religion, Familie, Staat, Recht = Религия, семья, государство, право,
+- Moral, Wissenschaft, Kunst etc. = мораль, наука, искусство и т. д.
+- sind nur besondre Weisen der Produktion = суть лишь особые виды производства
+- und fallen unter ihr allgemeines Gesetz = и подпадают под его всеобщий закон
+
+[1004] = Поэтому положительное упразднение частной собственности как освоение человеческой жизни есть положительное упразднение всякого отчуждения, т. е. возвращение человека из религии, семьи, государства и т. д. к своему человеческому, т. е. общественному, бытию.
+! aller Entfremdung < alter Entfremdung
+- Die positive Aufhebung des Privateigentums = Положительное упразднение частной собственности,
+- als die Aneignung des menschlichen Lebens = как освоение человеческой жизни,
+- ist daher die positive Aufhebung aller Entfremdung = есть поэтому положительное упразднение всякого отчуждения,
+- also die Rückkehr des Menschen = т. е. возвращение человека
+- aus Religion, Familie, Staat etc. = из религии, семьи, государства и т. д.
+- in sein menschliches = к своему человеческому,
+- d.h. gesellschaftliches Dasein = т. е. общественному, бытию
+
+[1005] = Религиозное отчуждение как таковое происходит лишь в области сознания, внутреннего мира человека, а экономическое отчуждение есть отчуждение действительной жизни, — поэтому его упразднение охватывает обе стороны.
+- Die religiöse Entfremdung als solche = Религиозное отчуждение как таковое
+- geht nur in dem Gebiet des Bewußtseins = происходит лишь в области сознания
+- des menschlichen Innern vor = внутреннего мира человека,
+- aber die ökonomische Entfremdung = а экономическое отчуждение
+- ist die des wirklichen Lebens = есть отчуждение действительной жизни —
+- ihre Aufhebung umfaßt daher beide Seiten = его упразднение охватывает поэтому обе стороны
++ geht vor = происходит ~ vorgehen
+
+[1006] = Само собой понятно, что у разных народов движение берёт своё начало в зависимости от того, протекает ли подлинная признанная жизнь народа больше в сознании или во внешнем мире, является ли она больше идеальной или реальной.
+! ob das wahre < oh das wahre
+- Es versteht sich = Само собой понятно,
+- daß die Bewegung bei den verschiednen Völkern = что движение у разных народов
+- ihren ersten Beginn danach nimmt = берёт своё первое начало в зависимости от того,
+- ob das wahre anerkannte Leben des Volks = протекает ли подлинная признанная жизнь народа
+- mehr im Bewußtsein = больше в сознании
+- oder in der äußren Welt vor sich geht = или во внешнем мире,
+- mehr das ideelle oder reelle Leben ist = больше ли это идеальная или реальная жизнь
++ vor sich geht = происходит ~ vor sich gehen
+
+[1007] = Коммунизм начинает сразу же (Оуэн) с атеизма, а атеизм поначалу ещё весьма далёк от того, чтобы быть коммунизмом, поскольку тот атеизм ещё скорее абстракция. — Поэтому филантропия атеизма есть сначала лишь философская абстрактная филантропия, тогда как филантропия коммунизма сразу реальна и непосредственно направлена на действие. —
+- Der Kommunismus beginnt sogleich = Коммунизм начинает сразу
+- Owen = (Оуэн)
+- mit dem Atheismus = с атеизма,
+- der Atheismus ist zunächst noch weit entfernt = атеизм поначалу ещё далёк от того,
+- Kommunismus zu sein = чтобы быть коммунизмом,
+- wie jener Atheismus mehr noch eine Abstraktion ist = поскольку тот атеизм больше ещё абстракция. —
+- Die Philanthropie des Atheismus = Филантропия атеизма
+- ist daher zuerst nur = есть поэтому сначала лишь
+- eine philosophische abstrakte Philanthropie = философская абстрактная филантропия,
+- die des Kommunismus = а филантропия коммунизма
+- sogleich reell und unmittelbar = сразу реальна и непосредственно
+- zur Wirkung gespannt = на действие направлена. —
+* owen = Оуэн | | имя собств. | Роберт Оуэн (1771–1858), английский социалист-утопист
+
+[1008] = Мы видели, как при предпосылке положительно упразднённой частной собственности человек производит человека — самого себя и другого человека; как предмет, который есть непосредственное проявление его индивидуальности, есть вместе с тем его собственное существование для другого человека, существование этого другого и существование этого другого для него.
+- Wir haben gesehn = Мы видели,
+- wie unter Voraussetzung = как при предпосылке
+- des positiv aufgehobnen Privateigentums = положительно упразднённой частной собственности
+- der Mensch den Menschen produziert = человек производит человека,
+- sich selbst und den andren Menschen = самого себя и другого человека;
+- wie der Gegenstand = как предмет,
+- welcher die unmittelbare Betätigung seiner Individualität = который есть непосредственное проявление его индивидуальности,
+- zugleich sein eignes Dasein für den andern Menschen = вместе с тем его собственное существование для другого человека,
+- dessen Dasein = существование того
+- und dessen Dasein für ihn ist = и существование того для него
+
+[1009] = Но точно так же и материал труда, и человек как субъект являются и результатом, и исходным пунктом движения (и именно в том, что они должны быть этим исходным пунктом, заключается историческая необходимость частной собственности).
+- Ebenso sind aber sowohl das Material der Arbeit = Но точно так же и материал труда,
+- als der Mensch als Subjekt = и человек как субъект
+- wie Resultat so Ausgangspunkt der Bewegung = как результат, так и исходный пункт движения
+- und daß sie dieser Ausgangspunkt sein müssen = (и в том, что они должны быть этим исходным пунктом,
+- eben darin liegt = именно в этом заключается
+- die geschichtliche Notwendigkeit des Privateigentums = историческая необходимость частной собственности)
+
+[1010] = Итак, общественный характер есть всеобщий характер всего движения; как само общество производит человека как человека, так и оно производится им.
+- Also ist der gesellschaftliche Charakter = Итак, общественный характер есть
+- der allgemeine Charakter der ganzen Bewegung = всеобщий характер всего движения;
+- wie die Gesellschaft selbst = как само общество
+- den Menschen als Menschen produziert = человека как человека производит,
+- so ist sie durch ihn produziert = так и оно им производится
+
+[1011] = Деятельность и пользование как по своему содержанию, так и по способу существования общественны: это общественная деятельность и общественное пользование.
+- Die Tätigkeit und der Genuß = Деятельность и пользование
+- wie ihrem Inhalt = как по своему содержанию,
+- sind auch der Existenzweise nach gesellschaftlich = так и по способу существования общественны:
+- gesellschaftliche Tätigkeit = общественная деятельность
+- und gesellschaftlicher Genuß = и общественное пользование
+* genuß = пользование, наслаждение | der Genuss | сущ. | у Маркса Genuss — и наслаждение, и потребление, присвоение
+
+[1012] = Человеческая сущность природы существует только для общественного человека; ибо только здесь природа существует для него как связь с человеком, как бытие его для другого и другого для него, как жизненная стихия человеческой действительности; только здесь она существует как основа его собственного человеческого бытия.
+- Das menschliche Wesen der Natur = Человеческая сущность природы
+- ist erst da für den gesellschaftlichen Menschen = существует лишь для общественного человека;
+- denn erst hier ist sie für ihn da = ибо лишь здесь она существует для него
+- als Band mit dem Menschen = как связь с человеком,
+- als Dasein seiner für den andren = как бытие его для другого
+- und des andren für ihn = и другого для него,
+- wie als Lebenselement der menschlichen Wirklichkeit = как и жизненная стихия человеческой действительности,
+- erst hier ist sie da = лишь здесь она существует
+- als Grundlage seines eignen menschlichen Daseins = как основа его собственного человеческого бытия
+
+[1013] = Только здесь его природное бытие есть его человеческое бытие и природа стала для него человеком.
+- Erst hier ist ihm sein natürliches Dasein = Лишь здесь его природное бытие
+- sein menschliches Dasein = есть его человеческое бытие
+- und die Natur für ihn zum Menschen geworden = и природа для него стала человеком
+
+[1014] = [A*] Итак, общество есть законченное сущностное единство человека с природой, подлинное воскресение природы, осуществлённый натурализм человека и осуществлённый гуманизм природы. [A]
+- [A*] Also die Gesellschaft = [A*] Итак, общество
+- ist die vollendete Wesenseinheit des Menschen = есть завершённое сущностное единство человека
+- mit der Natur = с природой,
+- die wahre Resurrektion der Natur = подлинное воскресение природы,
+- der durchgeführte Naturalismus des Menschen = осуществлённый натурализм человека
+- und der durchgeführte Humanismus der Natur = и осуществлённый гуманизм природы.
+- [A] = [A]
+* a = A (пометка) | | сокр. | [A] — пометка в издании MEW
+
+[1015] = Общественная деятельность и общественное пользование существуют отнюдь не только в форме непосредственно коллективной деятельности и непосредственно коллективного пользования, хотя коллективная деятельность и коллективное пользование, т. е. такие, которые проявляются и утверждаются непосредственно в действительном общении с другими людьми, будут иметь место везде, где это непосредственное выражение общественности обосновано сущностью её содержания и соответствует его природе.
+- Die gesellschaftliche Tätigkeit = Общественная деятельность
+- und der gesellschaftliche Genuß = и общественное пользование
+- existieren keineswegs allein = существуют отнюдь не только
+- in der Form einer unmittelbar gemeinschaftlichen Tätigkeit = в форме непосредственно коллективной деятельности
+- und unmittelbar gemeinschaftlichen Genusses = и непосредственно коллективного пользования,
+- obgleich die gemeinschaftliche Tätigkeit = хотя коллективная деятельность
+- und der gemeinschaftliche Genuß = и коллективное пользование,
+- d.h. die Tätigkeit und der Genuß = т. е. деятельность и пользование,
+- die unmittelbar in wirklicher Gesellschaft = которые непосредственно в действительном общении
+- mit andren Menschen sich äußert und bestätigt = с другими людьми проявляются и утверждаются,
+- überall da stattfinden werden = будут иметь место везде,
+- wo jener unmittelbare Ausdruck der Gesellschaftlichkeit = где то непосредственное выражение общественности
+- im Wesen ihres Inhalts begründet = в сущности её содержания обосновано
+- und seiner Natur angemessen ist = и его природе соответствует
+
+[1016] = Но даже когда я занимаюсь научной и т. п. деятельностью — деятельностью, которую я лишь редко могу осуществлять в непосредственном общении с другими, — я занят общественной деятельностью, потому что я действую как человек.
+- Allein auch wenn ich wissenschaftlich etc. tätig bin = Но и когда я научно и т. д. деятелен,
+- eine Tätigkeit = — деятельностью,
+- die ich selten in unmittelbarer Gemeinschaft = которую я редко в непосредственной общности
+- mit andern ausführen kann = с другими могу осуществлять, —
+- so bin ich gesellschaftlich = то я общественен,
+- weil als Mensch tätig = потому что действую как человек
+
+[1017] = Мне дан как общественный продукт не только материал для моей деятельности — как и сам язык, на котором работает мыслитель, — но и моё собственное бытие есть общественная деятельность; поэтому то, что я делаю из себя, я делаю из себя для общества и с сознанием себя как общественного существа.
+- Nicht nur das Material meiner Tätigkeit ist mir = Не только материал моей деятельности мне —
+- wie selbst die Sprache = как и сам язык,
+- in der der Denker tätig ist = в котором мыслитель действует, —
+- als gesellschaftliches Produkt gegeben = как общественный продукт дан,
+- mein eignes Dasein ist gesellschaftliche Tätigkeit = моё собственное бытие есть общественная деятельность;
+- darum das, was ich aus mir mache = поэтому то, что я из себя делаю,
+- ich aus mir für die Gesellschaft mache = я из себя для общества делаю
+- und mit dem Bewußtsein meiner = и с сознанием себя
+- als eines gesellschaftlichen Wesens = как общественного существа
+
+[1018] = Моё всеобщее сознание есть лишь теоретическая форма того, живой формой чего является реальная общность, общественная сущность, тогда как в наши дни всеобщее сознание есть абстракция от действительной жизни и как таковое враждебно ей противостоит.
+- Mein allgemeines Bewußtsein ist nur = Моё всеобщее сознание есть лишь
+- die theoretische Gestalt dessen = теоретическая форма того,
+- wovon das reelle Gemeinwesen = чего реальная общность,
+- gesellschaftliche Wesen = общественная сущность,
+- die lebendige Gestalt ist = есть живая форма,
+- während heutzutag das allgemeine Bewußtsein = тогда как в наши дни всеобщее сознание
+- eine Abstraktion vom wirklichen Leben ist = есть абстракция от действительной жизни
+- und als solche ihm feindlich gegenübertritt = и как таковое враждебно ей противостоит
+
+[1019] = Поэтому и деятельность моего всеобщего сознания как таковая есть моё теоретическое бытие как общественного существа.
+- Daher ist auch die Tätigkeit = Поэтому и деятельность
+- meines allgemeinen Bewußtseins = моего всеобщего сознания —
+- als eine solche = как таковая —
+- mein theoretisches Dasein = есть моё теоретическое бытие
+- als gesellschaftliches Wesen = как общественного существа
+
+[1020] = Прежде всего следует избегать того, чтобы снова противопоставлять «общество» как абстракцию индивиду.
+- Es ist vor allem zu vermeiden = Прежде всего следует избегать,
+- die Gesellschaft = «общество»
+- wieder als Abstraktion = снова как абстракцию
+- dem Individuum gegenüber zu fixieren = индивиду противопоставлять
+
+[1021] = Индивид есть общественное существо.
+- Das Individuum = Индивид
+- ist das gesellschaftliche Wesen = есть общественное существо
+
+[1022] = Поэтому всякое проявление его жизни — даже если оно и не выступает в непосредственной форме коллективного, совершаемого совместно с другими, проявления жизни — есть проявление и утверждение общественной жизни.
+- Seine Lebensäußerung = Его проявление жизни —
+- erscheine sie auch nicht = пусть даже оно и не выступает
+- in der unmittelbaren Form = в непосредственной форме
+- einer gemeinschaftlichen = коллективного,
+- mit andern zugleich vollbrachten Lebensäußerung = вместе с другими совершаемого проявления жизни, —
+- ist daher eine Äußerung und Bestätigung = есть поэтому проявление и утверждение
+- des gesellschaftlichen Lebens = общественной жизни
+
+[1023] = Индивидуальная и родовая жизнь человека не являются чем-то различным, хотя — и это необходимо — способ существования индивидуальной жизни есть более особенный или более всеобщий способ родовой жизни, а родовая жизнь есть более особенная или всеобщая индивидуальная жизнь.
+- Das individuelle und das Gattungsleben des Menschen = Индивидуальная и родовая жизнь человека
+- sind nicht verschieden = не различны,
+- so sehr auch = как бы ни было,
+- und dies notwendig = — и это необходимо —
+- die Daseinsweise des individuellen Lebens = что способ существования индивидуальной жизни
+- eine mehr besondre oder mehr allgemeine Weise = есть более особенный или более всеобщий способ
+- des Gattungslebens ist = родовой жизни,
+- oder je mehr das Gattungsleben = или чем больше родовая жизнь
+- ein mehr besondres oder allgemeines individuelles Leben ist = есть более особенная или всеобщая индивидуальная жизнь
+
+[1024] = Как родовое сознание человек утверждает свою реальную общественную жизнь и лишь повторяет в мышлении своё действительное бытие, подобно тому как, наоборот, родовое бытие утверждает себя в родовом сознании и в своей всеобщности существует для себя как мыслящее существо.
+- Als Gattungsbewußtsein bestätigt der Mensch = Как родовое сознание человек утверждает
+- sein reelles Gesellschaftsleben = свою реальную общественную жизнь
+- und wiederholt nur sein wirkliches Dasein im Denken = и лишь повторяет своё действительное бытие в мышлении,
+- wie umgekehrt das Gattungssein = как, наоборот, родовое бытие
+- sich im Gattungsbewußtsein bestätigt = утверждает себя в родовом сознании
+- und in seiner Allgemeinheit = и в своей всеобщности,
+- als denkendes Wesen, für sich ist = как мыслящее существо, существует для себя
+
+[1025] = Поэтому человек, как бы он ни был особым индивидом — и именно его особенность делает его индивидом и действительным индивидуальным общественным существом, — в такой же мере есть и тотальность, идеальная тотальность, субъективное для-себя-бытие мыслимого и ощущаемого общества, подобно тому как и в действительности он существует и как созерцание и действительное пользование общественным бытием, и как тотальность человеческого проявления жизни.
+- Der Mensch = Человек —
+- so sehr er daher ein besondres Individuum ist = как бы он поэтому ни был особым индивидом,
+- und grade seine Besonderheit = и именно его особенность
+- macht ihn zu einem Individuum = делает его индивидом
+- und zum wirklichen individuellen Gemeinwesen = и действительным индивидуальным общественным существом —
+- ebensosehr ist er die Totalität = в той же мере он есть тотальность,
+- die ideale Totalität = идеальная тотальность,
+- das subjektive Dasein = субъективное бытие
+- der gedachten und empfundnen Gesellschaft für sich = мыслимого и ощущаемого общества для себя,
+- wie er auch in der Wirklichkeit = как и в действительности он
+- sowohl als Anschauung und wirklicher Genuß = как созерцание и действительное пользование
+- des gesellschaftlichen Daseins = общественным бытием,
+- wie als eine Totalität menschlicher Lebensäußerung da ist = так и как тотальность человеческого проявления жизни существует
+
+[1026] = Мышление и бытие, следовательно, хотя и отличны друг от друга, но в то же время находятся в единстве друг с другом.
+- Denken und Sein sind also zwar unterschieden = Мышление и бытие, следовательно, хотя и различны,
+- aber zugleich in Einheit miteinander = но вместе с тем в единстве друг с другом
+
+[1027] = Смерть кажется жестокой победой рода над определённым индивидом и как будто противоречит их единству; но определённый индивид есть лишь определённое родовое существо и как таковое смертен.
+- Der Tod scheint = Смерть кажется
+- als ein harter Sieg der Gattung = жестокой победой рода
+- über das bestimmte Individuum = над определённым индивидом
+- und ihrer Einheit zu widersprechen = и противоречащей их единству;
+- aber das bestimmte Individuum ist nur = но определённый индивид есть лишь
+- ein bestimmtes Gattungswesen = определённое родовое существо,
+- als solches sterblich = как таковое смертное
+
+[1028] = 4) Подобно тому как частная собственность есть лишь чувственное выражение того, что человек становится одновременно предметным для себя и одновременно, наоборот, чуждым и нечеловеческим предметом для себя, что проявление его жизни есть отчуждение его жизни, его осуществление — выключение из действительности, чуждая действительность, — так и положительное упразднение частной собственности, т. е. чувственное освоение человеком и для человека человеческой сущности и человеческой жизни, предметного человека, человеческих произведений, надо понимать не только в смысле непосредственного, одностороннего пользования, не только в смысле владения, в смысле обладания.
+- 4 . Wie das Privateigentum = 4) Как частная собственность
+- nur der sinnliche Ausdruck davon ist = есть лишь чувственное выражение того,
+- daß der Mensch zugleich gegenständlich für sich wird = что человек одновременно становится предметным для себя
+- und zugleich vielmehr = и одновременно, скорее,
+- sich als ein fremder und unmenschlicher Gegenstand wird = становится для себя чуждым и нечеловеческим предметом,
+- daß seine Lebensäußerung = что его проявление жизни
+- seine Lebensentäußerung ist = есть отчуждение жизни,
+- seine Verwirklichung seine Entwirklichung = его осуществление — выключение из действительности,
+- eine fremde Wirklichkeit ist = чуждая действительность,
+- so ist die positive Aufhebung des Privateigentums = так и положительное упразднение частной собственности,
+- d.h. die sinnliche Aneignung = т. е. чувственное освоение
+- des menschlichen Wesens und Lebens = человеческой сущности и жизни,
+- des gegenständlichen Menschen = предметного человека,
+- der menschlichen Werke = человеческих произведений
+- für und durch den Menschen = для и через человека,
+- nicht nur im Sinne des unmittelbaren = не только в смысле непосредственного,
+- einseitigen Genusses zu fassen = одностороннего пользования надо понимать,
+- nicht nur im Sinne des Besitzens = не только в смысле владения,
+- im Sinne des Habens = в смысле обладания
+
+[1029] = Человек присваивает себе свою всестороннюю сущность всесторонним образом, т. е. как целостный человек.
+- Der Mensch eignet sich = Человек присваивает себе
+- sein allseitiges Wesen = свою всестороннюю сущность
+- auf eine allseitige Art an = всесторонним образом,
+- also als ein totaler Mensch = т. е. как целостный человек
++ eignet sich an = присваивает себе ~ sich (D) etwas aneignen
+
+[1030] = Каждое из его человеческих отношений к миру — зрение, слух, обоняние, вкус, осязание, мышление, созерцание, ощущение, воля, деятельность, любовь, — словом, все органы его индивидуальности, как и органы, которые непосредственно в своей форме существуют как общественные органы, являются в своём предметном отношении, или в своём отношении к предмету, освоением этого предмета.
+- Jedes seiner menschlichen Verhältnisse zur Welt = Каждое из его человеческих отношений к миру —
+- Sehn, Hören, Riechen, Schmecken = зрение, слух, обоняние, вкус,
+- Fühlen, Denken, Anschauen, Empfinden = осязание, мышление, созерцание, ощущение,
+- Wollen, Tätigsein, Lieben = воля, деятельность, любовь,
+- kurz, alle Organe seiner Individualität = словом, все органы его индивидуальности,
+- wie die Organe = как и органы,
+- welche unmittelbar in ihrer Form = которые непосредственно в своей форме
+- als gemeinschaftliche Organe sind = существуют как общественные органы, —
+- sind in ihrem gegenständlichen Verhalten = являются в своём предметном отношении,
+- oder in ihrem Verhalten zum Gegenstand = или в своём отношении к предмету,
+- die Aneignung desselben = освоением этого предмета
+
+[1031] = Освоение человеческой действительности, её отношение к предмету — это проявление человеческой действительности [B]: человеческая действенность и человеческое страдание, ибо страдание, понятое по-человечески, есть самонаслаждение человека.
+- Die Aneignung der menschlichen Wirklichkeit = Освоение человеческой действительности,
+- ihr Verhalten zum Gegenstand = её отношение к предмету
+- ist die Betätigung der menschlichen Wirklichkeit [B] = есть проявление человеческой действительности [B];
+- menschliche Wirksamkeit und menschliches Leiden = человеческая действенность и человеческое страдание,
+- denn das Leiden, menschlich gefaßt = ибо страдание, понятое по-человечески,
+- ist ein Selbstgenuß des Menschen = есть самонаслаждение человека
+* b = B (пометка) | | сокр. | [B] — пометка в издании
+
+[1032] = Частная собственность сделала нас настолько глупыми и односторонними, что какой-нибудь предмет является нашим лишь тогда, когда мы им обладаем, т. е. когда он существует для нас как капитал или когда мы им непосредственно владеем, едим его, пьём, носим на своём теле, живём в нём и т. д., — короче говоря, когда мы его потребляем.
+- Das Privateigentum hat uns = Частная собственность сделала нас
+- so dumm und einseitig gemacht = такими глупыми и односторонними,
+- daß ein Gegenstand erst der unsrige ist = что предмет лишь тогда наш,
+- wenn wir ihn haben = когда мы им обладаем,
+- also als Kapital für uns existiert = т. е. когда он как капитал для нас существует
+- oder von uns unmittelbar besessen = или нами непосредственно владеем,
+- gegessen, getrunken = съеден, выпит,
+- an unsrem Leib getragen = на нашем теле ношен,
+- von uns bewohnt etc. = нами обитаем и т. д.,
+- kurz, gebraucht wird = короче, используется
+
+[1033] = Хотя частная собственность сама рассматривает все эти непосредственные осуществления владения опять-таки лишь как средства к жизни, а жизнь, которой они служат средством, — это жизнь частной собственности: труд и капитализация.
+! alle diese < alte diese
+- Obgleich das Privateigentum = Хотя частная собственность
+- alle diese unmittelbaren Verwirklichungen des Besitzes = все эти непосредственные осуществления владения
+- selbst wieder nur als Lebensmittel faßt = сама опять лишь как средства к жизни рассматривает,
+- und das Leben = а жизнь,
+- zu dessen Mittel sie dienen = средством которой они служат,
+- ist das Leben des Privateigentums = есть жизнь частной собственности:
+- Arbeit und Kapitalisierung = труд и капитализация
+
+[1034] = Поэтому на место всех физических и духовных чувств встало простое отчуждение всех этих чувств — чувство обладания.
+- An die Stelle aller physischen und geistigen Sinne = На место всех физических и духовных чувств
+- ist daher die einfache Entfremdung = встало поэтому простое отчуждение
+- aller dieser Sinne = всех этих чувств,
+- der Sinn des Habens getreten = чувство обладания
++ An die Stelle ist getreten = встало на место ~ an die Stelle treten
+* sinne = чувства | der Sinn, -e | сущ. | органы чувств и чувство как способность
+
+[1035] = До этой абсолютной бедности должна была быть сведена человеческая сущность, чтобы она могла породить из себя свой внутренний мир.
+- Auf diese absolute Armut = До этой абсолютной бедности
+- mußte das menschliche Wesen reduziert werden = должна была быть сведена человеческая сущность,
+- damit es seinen innern Reichtum = чтобы она своё внутреннее богатство
+- aus sich herausgebäre = из себя породила
+
+[1036] = (О категории обладания см. Гесс в «Двадцати одном листе».)
+- Über die Kategorie des Habens = (О категории обладания
+- siehe Heß in den 21 Bogen = см. Гесса в «21 листе»)
+
+[1037] = Поэтому упразднение частной собственности означает полную эмансипацию всех человеческих чувств и свойств; но оно является этой эмансипацией именно потому, что эти чувства и свойства стали человеческими как в субъективном, так и в объективном смысле.
+- Die Aufhebung des Privateigentums ist daher = Упразднение частной собственности есть поэтому
+- die vollständige Emanzipation = полная эмансипация
+- aller menschlichen Sinne und Eigenschaften = всех человеческих чувств и свойств;
+- aber sie ist diese Emanzipation grade dadurch = но оно есть эта эмансипация именно благодаря тому,
+- daß diese Sinne und Eigenschaften menschlich = что эти чувства и свойства человеческими,
+- sowohl subjektiv als objektiv = как субъективно, так и объективно,
+- geworden sind = стали
+
+[1038] = Глаз стал человеческим глазом точно так же, как его предмет стал общественным, человеческим предметом, созданным человеком для человека.
+- Das Auge ist zum menschlichen Auge geworden = Глаз стал человеческим глазом,
+- wie sein Gegenstand = как его предмет
+- zu einem gesellschaftlichen, menschlichen = общественным, человеческим,
+- vom Menschen für den Menschen herrührenden Gegenstand = от человека для человека исходящим предметом
+- geworden ist = стал
+
+[1039] = Поэтому чувства непосредственно в своей практике стали теоретиками.
+- Die Sinne sind daher unmittelbar = Чувства поэтому непосредственно
+- in ihrer Praxis Theoretiker geworden = в своей практике стали теоретиками
+
+[1040] = Они относятся к вещи ради вещи, но сама вещь есть предметное человеческое отношение к самой себе и к человеку [C], и наоборот.
+- Sie verhalten sich zu der Sache = Они относятся к вещи
+- um der Sache willen = ради вещи,
+- aber die Sache selbst ist = но сама вещь есть
+- ein gegenständliches menschliches Verhalten = предметное человеческое отношение
+- zu sich selbst und zum Menschen [C] = к самой себе и к человеку [C]
+- und umgekehrt = и наоборот
+* c = C (пометка) | | сокр. | [C] — пометка в издании
