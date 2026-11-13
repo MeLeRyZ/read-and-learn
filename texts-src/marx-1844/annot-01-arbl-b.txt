@@ -1,0 +1,629 @@
+[91] = Каково же тогда положение рабочего?
+- Welches ist nun die Lage des Arbeiters = Каково же положение рабочего?
+
+[92] = 3) «В стране, которая достигла бы последней возможной ступени своего богатства, и заработная плата, и процент на капитал были бы очень низки.
+- 3. In einem Land = 3) «В стране,
+- welches die letztmögliche Stufe = которая последней возможной ступени
+- seines Reichtums erreicht hätte = своего богатства достигла бы,
+- wären beide = были бы оба —
+- Arbeitslohn und Kapitalinteresse = заработная плата и процент на капитал —
+- sehr niedrig = очень низки
+
+[93] = Конкуренция между рабочими за получение работы была бы так велика, что заработная плата была бы сведена к тому, чего хватает для поддержания прежнего числа рабочих, а так как страна была бы уже достаточно заселена, это число не могло бы возрасти».
+- Die Konkurrenz unter den Arbeitern = Конкуренция между рабочими,
+- um Beschäftigung zu erhalten = чтобы получить работу,
+- wäre so groß = была бы так велика,
+- daß die Salaire auf das reduziert wären = что заработная плата была бы сведена к тому,
+- was zur Erhaltung der nämlichen Zahl von Arbeitern = что для поддержания того же числа рабочих
+- hinreicht = достаточно,
+- und da das Land sich schon = а так как страна уже
+- hinreichend bevölkert hätte = достаточно заселилась бы,
+- könnte sich diese Zahl nicht vermehren = это число не могло бы увеличиться»
+
+[94] = Излишек должен был бы умирать.
+- Das + müßte sterben = Излишек (+) должен был бы умереть
+* das = это; (то, что сверх) | | артикль | «Das +» — у Маркса знак плюса: «избыток, лишнее»
+
+[95] = Итак, при упадке общества — прогрессирующая нищета рабочего, при прогрессе — сложная нищета, при завершённом состоянии — неизменная нищета.
+- Also im abnehmenden Zustand der Gesellschaft = Итак, при убывающем состоянии общества
+- progressives Elend des Arbeiters = прогрессирующая нищета рабочего,
+- im fortschreitenden Zustand = при прогрессирующем состоянии
+- kompliziertes Elend = сложная нищета,
+- im vollendeten Zustand = при завершённом состоянии
+- stationäres Elend = неизменная нищета
+
+[96] = Но так как, по Смиту, общество не может быть счастливо, если большинство в нём страдает, а самое богатое состояние общества ведёт к такому страданию большинства, и так как политическая экономия (вообще общество частного интереса) ведёт к этому богатейшему состоянию, то, значит, несчастье общества и есть цель политической экономии.
+- Da aber nach Smith = Но так как, по Смиту,
+- eine Gesellschaft nicht glücklich ist = общество не счастливо,
+- wo die Majorität leidet = где большинство страдает,
+- da aber der reichste Zustand der Gesellschaft = а богатейшее состояние общества
+- zu diesem Leiden der Mehrzahl = к этому страданию большинства (ведёт)
+- und da die Nationalökonomie = и так как политическая экономия
+- überhaupt die Gesellschaft des Privatinteresses = (вообще общество частного интереса)
+- zu diesem reichsten Zustand führt = к этому богатейшему состоянию ведёт,
+- so ist also das Unglück der Gesellschaft = то несчастье общества есть
+- der Zweck der Nationalökonomie = цель политической экономии
+
+[97] = Об отношении между рабочим и капиталистом надо ещё заметить, что повышение заработной платы с лихвой возмещается капиталисту сокращением количества рабочего времени и что повышение заработной платы и повышение процента на капитал действуют на цену товара как простые и сложные проценты.
+- In bezug auf das Verhältnis = Касательно отношения
+- zwischen Arbeiter und Kapitalist = между рабочим и капиталистом
+- ist noch zu bemerken = надо ещё заметить,
+- daß die Erhöhung des Arbeitslohnes = что повышение заработной платы
+- dem Kapitalisten = капиталисту
+- durch die Verringerung der Quantität der Arbeitszeit = сокращением количества рабочего времени
+- mehr als kompensiert wird = с лихвой возмещается
+- und daß die Erhöhung des Arbeitslohns = и что повышение заработной платы
+- und die Erhöhung des Kapitalinteresses = и повышение процента на капитал
+- auf den Warenpreis = на цену товара
+- wie einfaches und zusammengesetztes Interesse wirken = действуют как простые и сложные проценты
+
+[98] = Встанем теперь целиком на точку зрения политэконома и сравним по нему теоретические и практические притязания рабочих.
+- Stellen wir uns nun ganz = Встанем теперь целиком
+- auf den Standpunkt des Nationalökonomen = на точку зрения политэконома
+- und vergleichen wir nach ihm = и сравним по нему
+- die theoretischen und seine praktischen Ansprüche = теоретические и его практические притязания
+- der Arbeiter = рабочих
+
+[99] = Он говорит нам, что первоначально и по понятию весь продукт труда принадлежит рабочему.
+- Er sagt uns = Он говорит нам,
+- daß ursprünglich und dem Begriff nach = что первоначально и по понятию
+- das ganze Produkt der Arbeit = весь продукт труда
+- dem Arbeiter gehört = принадлежит рабочему
+
+[100] = Но одновременно он говорит, что в действительности рабочему достаётся наименьшая и совершенно необходимая часть продукта — ровно столько, сколько нужно, чтобы он существовал не как человек, а как рабочий, и продолжал не человеческий род, а рабский класс рабочих.
+! Teil < TeiI
+- Aber er sagt uns zugleich = Но он говорит нам одновременно,
+- daß in der Wirklichkeit dem Arbeiter = что в действительности рабочему
+- der kleinste und allerunumgänglichste Teil = наименьшая и самая необходимая часть
+- des Produkts zukommt = продукта достаётся;
+- nur soviel als nötig ist = лишь столько, сколько нужно,
+- nicht damit er als Mensch = не чтобы он как человек,
+- sondern damit er als Arbeiter existiert = а чтобы он как рабочий существовал,
+- nicht damit er die Menschheit = не чтобы он человечество,
+- sondern damit er die Sklavenklasse der Arbeiter fortpflanzt = а чтобы он рабский класс рабочих продолжал
++ zukommt = достаётся ~ jemandem zukommen
+
+[101] = Политэконом говорит нам, что всё покупается трудом и что капитал есть не что иное, как накопленный труд, но одновременно говорит, что рабочий, отнюдь не будучи в состоянии всё купить, вынужден продавать самого себя и свою человечность.
+! daß der Arbeiter < da der Arbeiter
+- Der Nationalökonom sagt uns = Политэконом говорит нам,
+- daß alles mit Arbeit gekauft wird = что всё покупается трудом
+- und daß das Kapital = и что капитал
+- nichts als aufgehäufte Arbeit ist = не что иное, как накопленный труд,
+- aber er sagt uns zugleich = но он говорит нам одновременно,
+- daß der Arbeiter = что рабочий,
+- weit entfernt, alles kaufen zu können = отнюдь не будучи в состоянии всё купить,
+- sich selbst und seine Menschheit verkaufen muß = должен продавать себя и свою человечность
++ weit entfernt = отнюдь не ~ weit davon entfernt, etwas zu tun
+
+[102] = В то время как земельная рента ленивого землевладельца составляет обычно третью часть продукта земли, а прибыль деятельного капиталиста — даже вдвое больше денежного процента, то сверх необходимого, что рабочий зарабатывает в лучшем случае, столь мало, что из четверых его детей двое должны умереть с голоду.
+- Während die Grundrente = В то время как земельная рента
+- des trägen Landbesitzers = ленивого землевладельца
+- meistens den 3ten Teil des Erdproduktes = обычно третью часть продукта земли,
+- und der Profit des geschäftigen Kapitalisten = а прибыль деятельного капиталиста
+- sogar das Doppelte des Geldzinses beträgt = даже двойной денежный процент составляет,
+- beträgt das Mehr = составляет излишек,
+- was sich der Arbeiter = который рабочий
+- im besten Fall verdient = в лучшем случае зарабатывает,
+- so viel = столько,
+- daß auf 4 Kinder = что из 4 детей
+- ihm 2 verhungern und sterben müssen = у него 2 должны умереть с голоду
+
+[103] = В то время как, по политэконому, труд есть единственное, чем человек увеличивает стоимость продуктов природы, в то время как труд есть его деятельная собственность, — по той же политической экономии земельный собственник и капиталист, которые как таковые суть лишь привилегированные и праздные боги, повсюду стоят над рабочим и предписывают ему законы.
+- Während nach dem Nationalökonomen = В то время как, по политэконому,
+- die Arbeit das einzige ist = труд — единственное,
+- wodurch der Mensch = посредством чего человек
+- den Wert der Naturprodukte vergrößert = стоимость продуктов природы увеличивает,
+- während die Arbeit = в то время как труд
+- sein tätiges Eigentum ist = его деятельная собственность,
+- ist nach derselben Nationalökonomie = по той же политической экономии
+- der Grundeigentümer und Kapitalist = земельный собственник и капиталист,
+- die qua Grundeigentümer und Kapitalist = которые как земельный собственник и капиталист
+- bloß privilegierte und müßige Götter sind = лишь привилегированные и праздные боги,
+- überall dem Arbeiter überlegen = повсюду выше рабочего
+- und schreiben ihm Gesetze vor = и предписывают ему законы
++ schreiben vor = предписывают ~ vorschreiben
+* qua = как, в качестве | | предлог | лат.
+
+[104] = В то время как, по политэконому, труд есть единственная неизменная цена вещей, нет ничего более случайного, чем цена труда, ничто не подвержено бо́льшим колебаниям.
+- Während nach dem Nationalökonomen = В то время как, по политэконому,
+- die Arbeit der einzig unwandelbare Preis der Dinge ist = труд — единственно неизменная цена вещей,
+- ist nichts zufälliger als der Arbeitspreis = нет ничего случайнее цены труда,
+- nichts größeren Schwankungen ausgesetzt = ничто не подвержено бо́льшим колебаниям
++ Schwankungen ausgesetzt = подвержен колебаниям ~ einer Sache ausgesetzt sein
+
+[105] = В то время как разделение труда повышает производительную силу труда, богатство и утончённость общества, оно доводит рабочего до бедности машины.
+- Während die Teilung der Arbeit = В то время как разделение труда
+- die produktive Kraft der Arbeit = производительную силу труда,
+- den Reichtum und die Verfeinerung der Gesellschaft = богатство и утончённость общества
+- erhöht = повышает,
+- verarmt sie den Arbeiter = оно обедняет рабочего
+- bis zur Maschine = до положения машины
+
+[106] = В то время как труд вызывает накопление капиталов и тем самым растущее благосостояние общества, он делает рабочего всё более зависимым от капиталиста, ввергает его в более жестокую конкуренцию, гонит в погоню перепроизводства, за которой следует столь же сильный спад.
+- Während die Arbeit = В то время как труд
+- die Häufung der Kapitalien = накопление капиталов
+- und damit den zunehmenden Wohlstand der Gesellschaft = и тем самым растущее благосостояние общества
+- hervorruft = вызывает,
+- macht sie den Arbeiter = он делает рабочего
+- immer abhängiger vom Kapitalisten = всё более зависимым от капиталиста,
+- bringt ihn in eine größere Konkurrenz = ставит его в условия большей конкуренции,
+- treibt ihn in die Hetzjagd der Überproduktion = гонит его в погоню перепроизводства,
+- der eine ebensolche Erschlaffung folgt = за которой следует такой же спад
+
+[107] = В то время как, по политэконому, интерес рабочего никогда не противостоит интересу общества, общество всегда и неизбежно противостоит интересу рабочего.
+- Während das Interesse des Arbeiters = В то время как интерес рабочего,
+- nach dem Nationalökonomen = по политэконому,
+- nie dem Interesse der Gesellschaft gegenübersteht = никогда не противостоит интересу общества,
+- steht die Gesellschaft immer und notwendig = общество всегда и неизбежно
+- dem Interesse des Arbeiters gegenüber = противостоит интересу рабочего
+
+[108] = По политэконому, интерес рабочего никогда не противостоит интересу общества, во-первых, потому что повышение заработной платы с лихвой возмещается сокращением количества рабочего времени, не говоря о других развитых выше последствиях; и, во-вторых, потому что для общества весь валовой продукт есть чистый продукт и лишь для частного лица значение имеет чистый доход.
+- Nach dem Nationalökonomen = По политэконому,
+- steht das Interesse des Arbeiters nie = интерес рабочего никогда не
+- dem der Gesellschaft gegenüber = противостоит интересу общества,
+- 1. weil die Erhöhung des Arbeitslohns = 1) потому что повышение заработной платы
+- sich mehr als ersetzt = с лихвой возмещается
+- durch die Verminderung in der Quantität der Arbeitszeit = сокращением количества рабочего времени,
+- nebst den übrigen oben entwickelten Folgen = наряду с прочими изложенными выше последствиями;
+- und 2. weil in bezug auf die Gesellschaft = и 2) потому что для общества
+- das ganze Bruttoprodukt Nettoprodukt ist = весь валовой продукт есть чистый продукт
+- und nur in bezug auf den Privatmann = и лишь для частного лица
+- das Netto eine Bedeutung hat = чистый доход имеет значение
+
+[109] = А то, что сам труд — не только при нынешних условиях, но вообще постольку, поскольку его цель есть простое увеличение богатства, — что сам труд, говорю я, вреден и пагубен, следует, без ведома самого политэконома, из его же рассуждений.
+- Daß die Arbeit aber selbst = А то, что сам труд
+- nicht nur unter den jetzigen Bedingungen = не только при нынешних условиях,
+- sondern insofern überhaupt = но вообще постольку,
+- ihr Zweck die bloße Vergrößerung des Reichtums ist = поскольку его цель — простое увеличение богатства, —
+- ich sage = говорю я, —
+- daß die Arbeit selbst = что сам труд
+- schädlich, unheilvoll ist = вреден, пагубен,
+- das folgt = это следует,
+- ohne daß der Nationalökonom es weiß = без ведома политэконома,
+- aus seinen Entwicklungen = из его рассуждений
+
+[110] = По понятию, земельная рента и прибыль на капитал суть вычеты, которые терпит заработная плата.
+- Nach dem Begriff sind = По понятию,
+- Grundrente und Kapitalgewinn = земельная рента и прибыль на капитал —
+- Abzüge = вычеты,
+- die der Arbeitslohn erleidet = которые терпит заработная плата
+
+[111] = Но в действительности заработная плата — это вычет, который земля и капитал предоставляют рабочему, уступка из продукта труда рабочему, труду.
+- Aber in der Wirklichkeit = Но в действительности
+- ist der Arbeitslohn ein Abzug = заработная плата — это вычет,
+- den Erde und Kapital = который земля и капитал
+- dem Arbeiter zukommen lassen = рабочему уделяют,
+- eine Konzession des Produktes der Arbeit = уступка из продукта труда
+- an d[en] Arbeiter, an die Arbeit = рабочему, труду
++ zukommen lassen = уделять, предоставлять ~ jemandem etwas zukommen lassen
+
+[112] = При упадке общества рабочий страдает тяжелее всех.
+- Im verfallenden Zustand der Gesellschaft = При упадке общества
+- leidet der Arbeiter am schwersten = рабочий страдает тяжелее всех
+
+[113] = Особой тяжестью своего гнёта он обязан своему положению рабочего, а гнётом вообще — положению общества.
+- Er verdankt = Он обязан
+- die spezifische Schwere seines Drucks = особой тяжестью своего гнёта
+- seiner Stellung als Arbeiter = своему положению рабочего,
+- aber den Druck überhaupt = а гнётом вообще —
+- der Stellung der Gesellschaft = положению общества
+
+[114] = Но при прогрессе общества гибель и обнищание рабочего — это продукт его труда и произведённого им богатства.
+- Aber im fortschreitenden Zustand der Gesellschaft = Но при прогрессирующем состоянии общества
+- ist der Untergang und die Verarmung des Arbeiters = гибель и обнищание рабочего —
+- das Produkt seiner Arbeit = продукт его труда
+- und des von ihm produzierten Reichtums = и произведённого им богатства
+
+[115] = Нищета, которая, следовательно, вытекает из самой сущности нынешнего труда.
+- Das Elend = Нищета,
+- welches also aus dem Wesen = которая, следовательно, из сущности
+- der heutigen Arbeit selbst hervorgeht = самого нынешнего труда вытекает
+
+[116] = Богатейшее состояние общества — идеал, который, однако, приблизительно достигается и по крайней мере является целью как политической экономии, так и гражданского общества, — есть для рабочих неизменная нищета.
+- Der reichste Zustand der Gesellschaft = Богатейшее состояние общества,
+- ein Ideal = идеал,
+- das aber doch annähernd erreicht wird = который всё же приблизительно достигается,
+- wenigstens der Zweck der Nationalökonomie = по крайней мере цель политической экономии
+- wie der bürgerlichen Gesellschaft ist = как и гражданского общества, —
+- ist stationäres Elend für die Arbeiter = есть неизменная нищета для рабочих
+
+[117] = Само собой разумеется, что политическая экономия рассматривает пролетария, т. е. того, кто, не имея капитала и земельной ренты, живёт исключительно трудом, притом односторонним, абстрактным трудом, только как рабочего.
+- Es versteht sich von selbst = Само собой разумеется,
+- daß die Nationalökonomie den Proletarier = что политическая экономия пролетария,
+- d.h. den, der ohne Kapital und Grundrente = т. е. того, кто без капитала и земельной ренты
+- rein von der Arbeit = исключительно трудом
+- und einer einseitigen, abstrakten Arbeit lebt = и притом односторонним, абстрактным трудом живёт,
+- nur als Arbeiter betrachtet = рассматривает лишь как рабочего
++ versteht sich von selbst = само собой разумеется ~ sich von selbst verstehen
+
+[118] = Поэтому она может выдвинуть положение, что он, как и всякая лошадь, должен получать столько, чтобы быть в состоянии работать.
+- Sie kann daher den Satz aufstellen = Поэтому она может выдвинуть положение,
+- daß er ebensowohl, wie jedes Pferd = что он, точно так же как всякая лошадь,
+- soviel erwerben muß = должен получать столько,
+- um arbeiten zu können = чтобы быть в состоянии работать
++ den Satz aufstellen = выдвинуть положение ~ einen Satz aufstellen
+
+[119] = Она не рассматривает его в нерабочее время, как человека, а предоставляет это уголовной юстиции, врачам, религии, статистическим таблицам, политике и надзирателю за нищими.
+- Sie betrachtet ihn nicht = Она не рассматривает его
+- in seiner arbeitslosen Zeit = в его нерабочее время,
+- als Mensch = как человека,
+- sondern überläßt diese Betrachtung = а предоставляет это рассмотрение
+- der Kriminaljustiz, den Ärzten = уголовной юстиции, врачам,
+- der Religion, den statistischen Tabellen = религии, статистическим таблицам,
+- der Politik und dem Bettelvogt = политике и надзирателю за нищими
+
+[120] = Поднимемся теперь над уровнем политической экономии и попытаемся из предыдущего изложения, данного почти словами политэконома, ответить на два вопроса.
+- Erheben wir uns nun = Поднимемся теперь
+- über das Niveau der Nationalökonomie = над уровнем политической экономии
+- und suchen = и попытаемся
+- aus der bisherigen = из предыдущего,
+- fast mit den Worten des Nationalökonomen = почти словами политэконома
+- gegebnen Entwicklung = данного изложения
+- zwei Fragen zu beantworten = ответить на два вопроса
+
+[121] = 1) Какой смысл в развитии человечества имеет это сведение большей части человечества к абстрактному труду?
+- 1. Welchen Sinn = 1) Какой смысл
+- in der Entwicklung der Menschheit = в развитии человечества
+- hat diese Reduktion = имеет это сведение
+- des größten Teils der Menschheit = большей части человечества
+- auf die abstrakte Arbeit = к абстрактному труду?
+
+[122] = 2) Какие ошибки совершают реформаторы en détail, которые либо хотят повысить заработную плату и тем улучшить положение рабочего класса, либо (как Прудон) считают целью социальной революции равенство заработной платы?
+- 2. Welche Fehler begehn = 2) Какие ошибки совершают
+- die Reformatoren en détail = мелкие реформаторы,
+- die entweder den Arbeitslohn erhöhn = которые либо заработную плату повысить
+- und dadurch die Lage der Arbeiterklasse = и тем положение рабочего класса
+- verbessern wollen = улучшить хотят,
+- oder die Gleichheit des Arbeitslohns = либо равенство заработной платы
+- wie Proudhon = (как Прудон)
+- als den Zweck der sozialen Revolution betrachten = целью социальной революции считают?
+* en = в | | предлог | франц. en détail — «в розницу, по мелочам»
+* détail = детали; розница | | сущ. | франц.
+
+[123] = Труд выступает в политической экономии только в виде деятельности ради заработка.
+! kömmt < körnmt
+- Die Arbeit kömmt nur = Труд выступает лишь
+- unter der Gestalt der Erwerbstätigkeit = в образе деятельности ради заработка
+- in der Nationalökonomie vor = в политической экономии
++ kömmt vor = встречается, выступает ~ vorkommen
+
+[124] = «Можно утверждать, что занятия, требующие особых способностей или длительной подготовки, в целом стали доходнее, тогда как относительная плата за механически однообразную деятельность, которой быстро и легко можно обучить любого, при растущей конкуренции упала и неизбежно должна была упасть.
+- Das läßt sich behaupten = Можно утверждать,
+- daß solche Beschäftigungen = что такие занятия,
+- die spezifische Anlagen = которые особые способности
+- oder längere Vorbildung voraussetzen = или длительную подготовку предполагают,
+- im ganzen einträglicher geworden sind = в целом стали доходнее;
+- während der verhältnismäßige Lohn = тогда как относительная плата
+- für die mechanisch einförmige Tätigkeit = за механически однообразную деятельность,
+- auf welche der eine wie der andere = которой любого
+- schnell und leicht abgerichtet werden kann = быстро и легко можно обучить,
+- bei der wachsenden Konkurrenz = при растущей конкуренции
+- gefallen ist und notwendig fallen mußte = упала и неизбежно должна была упасть
++ läßt sich behaupten = можно утверждать ~ sich behaupten lassen
+
+[125] = А именно этот вид труда при нынешнем уровне его организации ещё и самый распространённый.
+- Und gerade diese Art der Arbeit = И как раз этот вид труда
+- ist bei dem jetzigen Stande ihrer Organisation = при нынешнем уровне его организации
+- noch weit die zahlreichste = пока что далеко самый распространённый
+
+[126] = Если, следовательно, рабочий первой категории теперь получает в семь раз больше, а рабочий второй — столько же, сколько лет 50 назад, то в среднем оба получают, конечно, в четыре раза больше.
+- Wenn also ein Arbeiter der ersten Kategorie = Итак, если рабочий первой категории
+- jetzt siebenmal soviel = теперь в семь раз больше,
+- ein anderer der zweiten ebensoviel erwirbt = другой, второй категории, столько же получает,
+- als etwa vor 50 Jahren = как лет 50 назад,
+- so erwerben beide im Durchschnitte = то оба в среднем получают
+- freilich 4mal soviel = конечно, в 4 раза больше
+
+[127] = Но если в стране первой категорией труда заняты всего 1000, а второй — миллион человек, то 999 000 живут не лучше, чем 50 лет назад, и даже хуже, если одновременно выросли цены на предметы первой необходимости.
+! als vor 50 Jahren < als 50 Jahren
+- Allein wenn in einem Lande = Но если в стране
+- die erste Kategorie der Arbeit = первая категория труда
+- mit nur 1000 = всего 1000,
+- die 2te mit einer Million Menschen besetzt ist = а вторая — миллионом людей занята,
+- so sind 999 000 nicht besser = то 999 000 живут не лучше,
+- als vor 50 Jahren daran = чем 50 лет назад,
+- und sie sind schlimmer daran = и им хуже,
+- wenn zugleich die Preise der Lebensbedürfnisse = если одновременно цены предметов необходимости
+- gestiegen sind = выросли
++ sind daran = обстоит дело (с кем-то) ~ gut/schlimm daran sein
+
+[128] = И такими поверхностными расчётами средних величин хотят обмануть себя насчёт самого многочисленного класса населения.
+- Und mit solchen oberflächlichen Durchschnittsberechnungen = И такими поверхностными расчётами средних
+- will man sich = хотят себя обмануть
+- über die zahlreichste Klasse der Bevölkerung = насчёт самого многочисленного класса населения
+- täuschen = (обмануть)
+
+[129] = Кроме того, размер заработной платы — лишь один момент в оценке дохода рабочего, ибо для его оценки существенно учитывать ещё и гарантированную продолжительность дохода, о которой в анархии так называемой свободной конкуренции с её вечно возвращающимися колебаниями и застоями вообще не может быть и речи.
+- Überdies ist die Größe des Arbeiterlohns = Кроме того, размер заработной платы рабочего
+- nur ein Moment = лишь один момент
+- für die Schätzung des Arbeitereinkommens = для оценки дохода рабочего,
+- weil für die Bemessung des letztren = ибо для его оценки
+- noch wesentlich die gesicherte Dauer desselben = ещё существенна гарантированная продолжительность его,
+- in Anschlag kommt = которая принимается в расчёт,
+- wovon doch in der Anarchie = о которой ведь в анархии
+- der sogenannten freien Konkurrenz = так называемой свободной конкуренции
+- mit ihren immer wiederkehrenden Schwankungen und Stockungen = с её вечно возвращающимися колебаниями и застоями
+- schlechthin keine Rede ist = вообще и речи нет
++ in Anschlag kommt = принимается в расчёт ~ in Anschlag kommen
++ keine Rede ist = не может быть и речи ~ von etwas ist keine Rede
+
+[130] = Наконец, надо принять во внимание прежнюю и нынешнюю обычную продолжительность рабочего дня.
+- Endlich ist noch = Наконец, надо ещё
+- die früher und die jetzt gewöhnliche Arbeitszeit = прежнюю и нынешнюю обычную продолжительность труда
+- ins Auge zu fassen = принять во внимание
++ ins Auge zu fassen = принять во внимание ~ etwas ins Auge fassen
+
+[131] = А она для английских рабочих хлопчатобумажной мануфактуры примерно за 25 лет — т. е. как раз с введения машин, сберегающих труд, — из-за жажды наживы предпринимателей возросла до 12–16 часов в день, и такое повышение в одной стране и одной отрасли промышленности должно было при всё ещё повсюду признанном праве безусловной эксплуатации бедных богатыми в той или иной мере дать о себе знать и в других местах».
+- Diese ist aber für die englischen Arbeiter = А она для английских рабочих
+- in der Baumwollenmanufaktur = в хлопчатобумажной мануфактуре
+- seit etwa 25 Jahren = примерно за 25 лет,
+- also grade seit Einführung = то есть как раз с введения
+- der Arbeit ersparenden Maschinen = машин, сберегающих труд,
+- durch die Erwerbsucht der Unternehmer = из-за жажды наживы предпринимателей
+- auf 12-16 Stunden täglich erhöht worden = выросла до 12–16 часов в день,
+- und die Steigerung in einem Lande = и рост в одной стране
+- und in einem Zweige der Industrie = и одной отрасли промышленности
+- mußte sich = должен был
+- bei dem überall noch anerkannten Rechte = при всё ещё повсюду признанном праве
+- einer unbedingten Ausbeutung = безусловной эксплуатации
+- der Armen durch die Reichen = бедных богатыми
+- mehr oder minder auch anderswo = в большей или меньшей мере и в других местах
+- geltend machen = дать о себе знать»
++ sich geltend machen = сказываться, давать о себе знать ~ sich geltend machen
+
+[132] = Шульц. «Движение производства», с. 65.
+- Schulz = Шульц.
+- Bewegung der Production = «Движение производства»,
+- p.65 = с. 65
+* schulz = Шульц | | имя собств. | Вильгельм Шульц (1797–1860), немецкий публицист
+* p = с. (страница) | | сокр. | лат. pagina
+
+[133] = «Но даже если бы было столь же верно, сколь это ложно, что средний доход всех классов общества увеличился, различия и относительные разрывы в доходах могли тем не менее вырасти, а противоположности богатства и бедности — выступить резче.
+- Allein selbst wenn es so wahr wäre = Но даже если бы было так же верно,
+- als es falsch ist = как это ложно,
+- daß sich das Durchschnittseinkommen = что средний доход
+- aller Klassen der Gesellschaft = всех классов общества
+- vergrößert hatte = увеличился,
+- können dennoch die Unterschiede = всё же могли различия
+- und verhältnismäßigen Abstände des Einkommens = и относительные разрывы в доходах
+- größer geworden sein = вырасти,
+- und hiernach die Gegensätze = и, следовательно, противоположности
+- des Reichtums und der Armut = богатства и бедности
+- schärfer hervortreten = резче проявиться
+
+[134] = Ведь именно потому, что общее производство растёт, и в той же мере, в какой это происходит, растут и потребности, желания и притязания, так что относительная бедность может увеличиваться, тогда как абсолютная уменьшается.
+- Denn grade weil die Gesamtproduktion steigt = Ведь именно потому, что общее производство растёт,
+- und in demselben Maße = и в той же мере,
+- als dies geschieht = в какой это происходит,
+- vermehren sich auch die Bedürfnisse = растут и потребности,
+- Gelüste und Ansprüche = желания и притязания,
+- und die relative Armut kann also zunehmen = и относительная бедность может расти,
+- während die absolute sich vermindert = тогда как абсолютная уменьшается
+
+[135] = Самоед не беден, питаясь ворванью и прогорклой рыбой, потому что в его замкнутом обществе у всех одинаковые потребности.
+- Der Samojede ist nicht arm = Самоед не беден
+- bei Tran und ranzigen Fischen = при ворвани и прогорклой рыбе,
+- weil in seiner abgeschloßnen Gesellschaft = потому что в его замкнутом обществе
+- alle die gleichen Bedürfnisse haben = у всех одинаковые потребности
+* samojede = самоед (ненец) | der Samojede | сущ. | устар. название северных народов
+
+[136] = Но в прогрессирующем государстве, которое, скажем, за десятилетие увеличивает своё общее производство по отношению к населению на треть, рабочий, получающий до и после этих 10 лет одинаково, не остался таким же зажиточным, а стал на треть беднее». Там же, с. 65, 66.
+- Aber in einem voranschreitenden Staate = Но в прогрессирующем государстве,
+- der etwa im Lauf eines Jahrzehntes = которое, скажем, за десятилетие
+- seine Gesamtproduktion = своё общее производство
+- im Verhältnis zur Gesellschaft = по отношению к обществу
+- um ein Dritteil vergrößert = на треть увеличивает,
+- ist der Arbeiter = рабочий,
+- der vor und nach 10 Jahren = который до и после 10 лет
+- gleich viel erwirbt = одинаково получает,
+- nicht ebenso wohlhabend geblieben = не остался таким же зажиточным,
+- sondern um ein Dritteil bedürftiger geworden = а стал на треть беднее»
+- ibid. p.65, 66 = Там же, с. 65, 66
+* ibid = там же | ibidem | сокр. | лат.
+
+[137] = Но политическая экономия знает рабочего лишь как рабочую скотину, как животное, сведённое к строжайшим телесным потребностям.
+- Aber die Nationalökonomie = Но политическая экономия
+- kennt den Arbeiter nur als Arbeitstier = знает рабочего лишь как рабочую скотину,
+- als ein auf die striktesten Leibesbedürfnisse = как сведённое к строжайшим телесным потребностям
+- reduziertes Vieh = животное
+
+[138] = «Чтобы народ мог духовно развиваться свободнее, он не должен больше находиться в рабстве у своих телесных потребностей, не должен быть крепостным собственного тела.
+- Ein Volk = Народ,
+- damit es sich geistig freier ausbilde = чтобы он духовно свободнее развивался,
+- darf nicht mehr = не должен больше
+- in der Sklaverei seiner körperlichen Bedürfnisse stehn = находиться в рабстве у своих телесных потребностей,
+- nicht mehr der Leibeigene des Leibes sein = не быть больше крепостным собственного тела
+
+[139] = У него прежде всего должно оставаться время, чтобы и духовно творить и духовно наслаждаться.
+- Es muß ihm vor allem Zeit bleiben = У него прежде всего должно оставаться время,
+- auch geistig schaffen = чтобы и духовно творить
+- und geistig genießen zu können = и духовно наслаждаться
+
+[140] = Успехи в организации труда выигрывают это время.
+- Die Fortschritte im Organismus der Arbeit = Успехи в организации труда
+- gewinnen diese Zeit = выигрывают это время
+
+[141] = Ведь теперь при новых движущих силах и усовершенствованных машинах один рабочий на хлопчатобумажных фабриках нередко выполняет работу 100, а то и 250–350 прежних рабочих.
+- Verrichtet doch jetzt = Ведь теперь выполняет
+- bei neuen Triebkräften = при новых движущих силах
+- und verbessertem Maschinenwesen = и усовершенствованных машинах
+- ein einziger Arbeiter = один-единственный рабочий
+- in den Baumwollefabriken = на хлопчатобумажных фабриках
+- nicht selten das Werk von 100 = нередко работу 100,
+- ja von 250-350 früheren Arbeitern = а то и 250–350 прежних рабочих
+
+[142] = Подобные последствия во всех отраслях производства, ибо внешние силы природы всё больше принуждаются участвовать в человеческом труде.
+- Ähnliche Folgen = Подобные последствия
+- in allen Zweigen der Produktion = во всех отраслях производства,
+- weil äußere Naturkräfte immer mehr = ибо внешние силы природы всё больше
+- zur Teilnahme an der menschlichen Arbeit = к участию в человеческом труде
+- gezwungen werden = принуждаются
+
+[143] = Если раньше для удовлетворения какого-то количества материальных потребностей требовалась затрата времени и человеческих сил, которая позже сократилась вдвое, то одновременно, без всякого ущерба для чувственного благополучия, простор для духовного творчества и наслаждения расширился на столько же. — Но и распределение добычи, которую мы отвоёвываем у самого старого Кроноса на его собственной территории, всё ещё решает игра в кости слепого, несправедливого случая.
+- War nun früher = Если раньше
+- zur Abfindung eines Quantums materieller Bedürfnisse = для удовлетворения некоторого количества материальных потребностей
+- ein Aufwand von Zeit und menschlicher Kraft = затрата времени и человеческой силы
+- erforderlich = требовалась,
+- der sich später um die Hälfte vermindert hat = которая позже уменьшилась вдвое,
+- so ist zugleich = то одновременно,
+- ohne irgendeine Einbuße = без какого-либо ущерба
+- an sinnlichem Wohlbehagen = для чувственного благополучия,
+- der Spielraum für geistiges Schaffen und Genießen = простор для духовного творчества и наслаждения
+- um soviel erweitert worden = на столько же расширился.
+- Aber auch über die Verteilung der Beute = Но и о распределении добычи,
+- die wir dem alten Kronos selbst = которую мы у самого старого Кроноса
+- auf seinem eigensten Gebiete abgewinnen = на его собственной территории отвоёвываем,
+- entscheidet noch = всё ещё решает
+- das Würfelspiel des blinden, ungerechten Zufalls = игра в кости слепого, несправедливого случая
+* kronos = Кронос (бог времени) | | имя собств. | здесь — само время
+
+[144] = Во Франции подсчитали, что при нынешнем уровне производства для удовлетворения всех материальных интересов общества хватило бы в среднем 5 часов работы в день на каждого трудоспособного…
+- Man hat in Frankreich berechnet = Во Франции подсчитали,
+- daß bei dem jetzigen Standpunkt der Produktion = что при нынешнем уровне производства
+- eine durchschnittliche Arbeitszeit = средней продолжительности труда
+- von täglich 5 Stunden = в 5 часов в день
+- auf jeden Arbeitsfähigen = на каждого трудоспособного
+- zur Befriedigung aller materiellen Interessen = для удовлетворения всех материальных интересов
+- der Gesellschaft ausreichen würde = общества хватило бы…
+
+[145] = Несмотря на экономию времени благодаря совершенствованию машин, продолжительность рабского труда на фабриках для многочисленного населения лишь увеличилась». Там же, с. 67, 68.
+- Ungeachtet der Zeitersparnisse = Несмотря на экономию времени
+- durch Vervollkommnung des Maschinenwesens = благодаря совершенствованию машин,
+- hat sich die Dauer der Sklavenarbeit = продолжительность рабского труда
+- in den Fabriken = на фабриках
+- für eine zahlreiche Bevölkerung = для многочисленного населения
+- nur vergrößert = лишь увеличилась».
+- p.67, 68 ibid = Там же, с. 67, 68
+
+[146] = «Переход от сложного ручного труда предполагает разложение его на простые операции.
+- Der Übergang von der zusammengesetzten Handarbeit = Переход от сложного ручного труда
+- setzt eine Zerlegung derselben = предполагает разложение его
+- in ihre einfachen Operationen voraus = на простые операции
+
+[147] = Но сначала лишь часть однообразно повторяющихся операций достанется машинам, другая же часть — людям.
+- Nun wird aber zunächst nur = Но сначала лишь
+- ein Teil der gleichförmig wiederkehrenden Operationen = часть однообразно повторяющихся операций
+- den Maschinen = машинам,
+- ein anderer Teil aber den Menschen = другая же часть — людям
+- anheimfallen = достанется
+
+[148] = По природе вещей и по согласному опыту такая продолжительная однообразная деятельность одинаково вредна и для духа, и для тела; и поэтому при таком соединении машинного производства с простым разделением труда между многочисленными руками должны проявиться и все недостатки последнего.
+- Nach der Natur der Sache = По природе вещей
+- und nach übereinstimmenden Erfahrungen = и по согласному опыту
+- ist eine solche anhaltend einförmige Tätigkeit = такая продолжительно однообразная деятельность
+- ebenso nachteilig für Geist als Körper = одинаково вредна для духа и тела;
+- und so müssen denn = и поэтому должны
+- bei dieser Verbindung des Maschinenwesens = при этом соединении машинного дела
+- mit der bloßen Teilung der Arbeit = с простым разделением труда
+- unter zahlreichere Menschenhände = между многочисленными руками
+- auch noch alle Nachteile der letztren = ещё и все недостатки последнего
+- zum Vorschein kommen = проявиться
++ zum Vorschein kommen = проявиться ~ zum Vorschein kommen
+
+[149] = Недостатки проявляются, среди прочего, в большей смертности фабричных рабочих…
+- Die Nachteile zeigen sich = Недостатки проявляются
+- unter andrem = среди прочего
+- in der größern Sterblichkeit = в большей смертности
+- der Fabrik-arbeiter = фабричных рабочих…
+
+[150] = Этого большого различия — насколько люди работают посредством машин или насколько они работают как машины — не учли».
+- Diesen großen Unterschied = Это большое различие,
+- wieweit die Menschen durch Maschinen = насколько люди посредством машин
+- oder wieweit sie als Maschinen arbeiten = или насколько они как машины работают,
+- hat man nicht ... berücksichtigt = не учли».
+- ibid. p.69 = Там же, с. 69
+
+[151] = «Для будущего жизни народов действующие в машинах лишённые разума силы природы будут нашими рабами и крепостными». Там же, с. 74.
+- Für die Zukunft des Völkerlebens aber = Для будущего жизни народов
+- werden die in den Maschinen wirkenden = действующие в машинах
+- verstandeslosen Naturkräfte = лишённые разума силы природы
+- unsere Sklaven und Leibeigenen sein = будут нашими рабами и крепостными».
+- ibid. p.74 = Там же, с. 74
+
+[152] = «На английских прядильных фабриках занято всего 158 818 мужчин и 196 818 женщин.
+- In den englischen Spinnereien = На английских прядильнях
+- sind nur 158.818 Männer = занято всего 158 818 мужчин
+- und 196.818 Weiber beschäftigt = и 196 818 женщин
+
+[153] = На каждые 100 рабочих на хлопчатобумажных фабриках графства Ланкастер приходится 103 работницы, а в Шотландии даже 209. На английских льняных фабриках Лидса насчитывалось на 100 рабочих-мужчин 147 женщин; в Данди и на восточном побережье Шотландии — даже 280. На английских шёлковых фабриках много работниц; на шерстяных, требующих большей силы, — больше мужчин.
+! Dundee < Druden
+- Auf je 100 Arbeiter = На каждые 100 рабочих
+- in den Baumwollfabriken der Grafschaft Lancaster = на хлопчатобумажных фабриках графства Ланкастер
+- kommen 103 Arbeiterinnen = приходится 103 работницы,
+- und in Schottland sogar 209 = а в Шотландии даже 209.
+- In den englischen Flachsfabriken von Leeds = На английских льняных фабриках Лидса
+- zählte man auf 100 männliche Arbeiter = насчитывали на 100 рабочих-мужчин
+- 147 weibliche = 147 женщин;
+- in Dundee und an der Ostküste Schottlands = в Данди и на восточном побережье Шотландии
+- sogar 280 = даже 280.
+- In den englischen Seidenfabriken = На английских шёлковых фабриках
+- viele Arbeiterinnen = много работниц;
+- in den Wollfabriken = на шерстяных фабриках,
+- die größere Arbeitskraft erfordern = которые требуют большей силы,
+- mehr Männer = больше мужчин
+
+[154] = И на североамериканских хлопчатобумажных фабриках в 1833 году наряду с 18 593 мужчинами было занято не менее 38 927 женщин.
+- Auch in den nordamerikanischen Baumwollfabriken = И на североамериканских хлопчатобумажных фабриках
+- waren im Jahre 1833 = было в 1833 году
+- nebst 18.593 Männern = наряду с 18 593 мужчинами
+- nicht weniger als 38.927 Weiber beschäftigt = не менее 38 927 женщин занято
+
+[155] = Благодаря изменениям в организации труда женскому полу открылся более широкий круг заработков… женщины получили экономически более самостоятельное положение… оба пола сблизились в своих социальных отношениях». С. 71, 72, там же.
+- Durch die Veränderungen im Organismus der Arbeit = Благодаря изменениям в организации труда
+- ist also dem weiblichen Geschlecht = женскому полу
+- ein weiterer Kreis von Erwerbstätigkeit = более широкий круг заработков
+- zugefallen = достался…
+- die Frauen = женщины
+- eine ökonomisch selbständigere Stellung = экономически более самостоятельное положение…
+- die beiden Geschlechter = оба пола
+- in ihren sozialen Verhältnissen = в своих социальных отношениях
+- einander nähergerückt = сблизились»
+- p.71, 72 ibid = С. 71, 72, там же
+
+[156] = «На приводимых паром и водой английских прядильнях в 1835 году работали 20 558 детей в возрасте 8–12 лет, 35 867 — 12–13 лет и, наконец, 108 208 — 13–18 лет…
+- In den von Dampf und Wasser getriebnen = На приводимых паром и водой
+- englischen Spinnereien = английских прядильнях
+- arbeiteten im Jahr 1835 = работали в 1835 году:
+- 20.558 Kinder zwischen 8-12 Jahren = 20 558 детей от 8 до 12 лет;
+- 35.867 zwischen 12-13 = 35 867 — от 12 до 13
+- und endlich 108.208 zwischen 13-18 Jahren = и, наконец, 108 208 — от 13 до 18 лет…
+
+[157] = Правда, дальнейшие успехи механики, отнимая у людей всё больше однообразных занятий, постепенно ведут к устранению этого зла.
+- Freilich wirken = Правда, действуют
+- die weiteren Fortschritte der Mechanik = дальнейшие успехи механики,
+- da sie alle einförmigen Beschäftigungen = так как все однообразные занятия
+- den Menschen mehr und mehr aus der Hand nehmen = у людей всё больше из рук забирают,
+- auf eine allmähliche Beseitigung des Mißstandes hin = в направлении постепенного устранения этого зла
++ wirken hin = способствуют ~ auf etwas hinwirken
+
+[158] = Но как раз этим более быстрым успехам мешает то обстоятельство, что капиталисты могут присваивать силы низших классов, вплоть до детского возраста, самым лёгким и дешёвым способом, чтобы использовать и расходовать их вместо вспомогательных средств механики». С. 70, 71. Шульц. «Движение производства».
+- Allein diesen rascheren Fortschritten selbst = Но именно этим более быстрым успехам
+- steht grade der Umstand im Wege = мешает как раз то обстоятельство,
+- daß sich die Kapitalisten = что капиталисты
+- die Kräfte der untern Klassen = силы низших классов,
+- bis in das Kindesalter hinein = вплоть до детского возраста,
+- auf die leichteste und wohlfeilste Weise = самым лёгким и дешёвым способом
+- aneignen können = могут присвоить,
+- um sie statt der Hilfsmittel der Mechanik = чтобы их вместо вспомогательных средств механики
+- zu brauchen und zu verbrauchen = использовать и расходовать».
+- p.70, 71 = С. 70, 71.
+- Schulz = Шульц.
+- Bewegung der Production = «Движение производства»
++ steht im Wege = мешает ~ einer Sache im Wege stehen
+
+[159] = «Призыв лорда Брума к рабочим: „Становитесь капиталистами!“
+- Lord Brougham’s Zuruf an die Arbeiter = Призыв лорда Брума к рабочим:
+- Werdet Kapitalisten = «Становитесь капиталистами!»
+* brougham’s = Брума (лорд Брум) | | имя собств. | Генри Брум (1778–1868), британский политик
+
+[160] = Это… то зло, что миллионы способны заработать себе скудное пропитание лишь изнурительным, физически разрушительным, нравственно и духовно калечащим трудом и что они даже вынуждены считать за счастье несчастье найти такую работу». С. 60, там же.
+- Das ... das Übel = Это… то зло,
+- daß Millionen nur = что миллионы лишь
+- durch anstrengende, körperlich zerrüttende = изнурительным, телесно разрушительным,
+- sittlich und geistig verkrüppelnde Arbeit = нравственно и духовно калечащим трудом
+- sich ein knappes Auskommen = себе скудное пропитание
+- zu erwerben vermögen = в состоянии заработать;
+- daß sie sogar das Unglück = что они даже несчастье
+- eine solche Arbeit gefunden zu haben = найти такую работу
+- für ein Glück halten müssen = вынуждены считать счастьем».
+- p.60 ibid = С. 60, там же

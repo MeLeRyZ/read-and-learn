@@ -1,0 +1,519 @@
+[21] = Первая рукопись
+- Erstes Manuskript = Первая рукопись
+
+[22] = Заработная плата
+- Arbeitslohn = Заработная плата
+
+[23] = Заработная плата определяется враждебной борьбой между капиталистом и рабочим.
+- Arbeitslohn wird bestimmt = Заработная плата определяется
+- durch den feindlichen Kampf = враждебной борьбой
+- zwischen Kapitalist und Arbeiter = между капиталистом и рабочим
+
+[24] = Победа неизбежно достаётся капиталисту.
+- Die Notwendigkeit des Siegs = Неизбежность победы
+- für den Kapitalisten = для капиталиста
+
+[25] = Капиталист может дольше прожить без рабочего, чем рабочий без него.
+! länger < langer
+- Kapitalist kann länger = Капиталист может дольше
+- ohne den Arbeiter leben = прожить без рабочего,
+- als dieser ohne jenen = чем этот без того
+
+[26] = Объединение капиталистов — дело обычное и действенное, объединение рабочих запрещено и имеет для них дурные последствия.
+- Verbindung unter den Kapitalisten = Объединение между капиталистами
+- habituell und von Effekt = обычно и действенно,
+- die der Arbeiter verboten = объединение рабочих запрещено
+- und von schlechten Folgen für sie = и с дурными последствиями для них
+
+[27] = Кроме того, земельный собственник и капиталист могут присоединять к своим доходам промышленные выгоды, а рабочий к своему промышленному заработку — ни земельной ренты, ни процентов на капитал.
+- Außerdem können = Кроме того, могут
+- der Grundeigentümer und Kapitalist = земельный собственник и капиталист
+- ihren Revenuen = к своим доходам
+- industrielle Vorteile hinzufügen = промышленные выгоды присоединять,
+- der Arbeiter seinem industriellen Einkommen = а рабочий к своему промышленному доходу
+- weder Grundrente noch Kapitalinteresse = ни земельной ренты, ни процентов на капитал
+
+[28] = Поэтому конкуренция между рабочими так велика.
+- Darum die Konkurrenz = Поэтому конкуренция
+- unter den Arbeitern so groß = между рабочими так велика
+
+[29] = Итак, только для рабочего отделение капитала, земельной собственности и труда друг от друга есть отделение необходимое, существенное и пагубное.
+- Also für den Arbeiter allein = Итак, лишь для рабочего
+- ist die Trennung = отделение
+- von Kapital, Grundeigentum und Arbeit = капитала, земельной собственности и труда
+- eine notwendige, wesentliche = есть необходимое, существенное
+- und schädliche Trennung = и пагубное отделение
+
+[30] = Капитал и земельная собственность не обязаны застревать в этой абстракции, а труд рабочего — обязан.
+- Kapital und Grundeigentum = Капитал и земельная собственность
+- brauchen nicht = не обязаны
+- in dieser Abstraktion stehnzubleiben = останавливаться в этой абстракции,
+- wohl aber die Arbeit des Arbeiters = а вот труд рабочего — да
++ brauchen nicht = не обязаны ~ nicht brauchen + zu + Infinitiv ~ здесь zu внутри слова stehnzubleiben
+
+[31] = Итак, для рабочего отделение капитала, земельной ренты и труда смертельно.
+- Für den Arbeiter also = Итак, для рабочего
+- die Trennung von Kapital, Grundrente und Arbeit = отделение капитала, земельной ренты и труда
+- tödlich = смертельно
+
+[32] = Самая низкая и единственно необходимая ставка заработной платы — это прожиточный минимум рабочего на время работы и ещё столько, чтобы он мог прокормить семью и рабочая порода не вымерла.
+- Die niedrigste = Самая низкая
+- und die einzig notwendige Taxe = и единственно необходимая ставка
+- für den Arbeitslohn = заработной платы
+- ist die Subsistenz des Arbeiters = — это пропитание рабочего
+- während der Arbeit = во время работы
+- und so viel mehr = и настолько больше,
+- daß er eine Familie ernähren kann = чтобы он мог прокормить семью
+- und die Arbeiterrace nicht ausstirbt = и рабочая порода не вымерла
+* taxe = ставка, расценка | die Taxe | сущ. | устар.: установленная цена
+
+[33] = Обычная заработная плата, по Смиту, — это самая низкая плата, совместимая с simple humanité, то есть со скотским существованием.
+- Der gewöhnliche Arbeitslohn = Обычная заработная плата
+- ist nach Smith = есть, по Смиту,
+- der niedrigste = самая низкая,
+- der mit der simple humanité = которая с «простой человечностью»,
+- nämlich einer viehischen Existenz = то есть со скотским существованием,
+- verträglich ist = совместима
+* simple = простая | | прил. | франц. simple humanité — «простая человечность», минимально человеческое
+* humanité = человечность | | сущ. | франц.
+
+[34] = Спрос на людей необходимо регулирует производство людей, как и всякого другого товара.
+- Die Nachfrage nach Menschen = Спрос на людей
+- regelt notwendig = необходимо регулирует
+- die Produktion der Menschen = производство людей,
+- wie jeder andren Ware = как и всякого другого товара
+
+[35] = Если предложение намного превышает спрос, то часть рабочих опускается до нищенства или голодной смерти.
+- Ist die Zufuhr = Если предложение
+- viel größer als die Nachfrage = намного больше спроса,
+- so sinkt ein Teil der Arbeiter = то часть рабочих опускается
+- in den Bettelstand = до нищенства
+- oder den Hungertod herab = или голодной смерти
++ sinkt herab = опускается ~ herabsinken
+* zufuhr = предложение (подвоз) | die Zufuhr | сущ. | экономич.: предложение на рынке
+
+[36] = Таким образом, существование рабочего сведено к условиям существования любого другого товара.
+- Die Existenz des Arbeiters = Существование рабочего
+- ist also = таким образом,
+- auf die Bedingung der Existenz = к условию существования
+- jeder andren Ware reduziert = любого другого товара сведено
+
+[37] = Рабочий стал товаром, и для него счастье, если он может найти себе покупателя.
+- Der Arbeiter ist zu einer Ware geworden = Рабочий стал товаром,
+- und es ist ein Glück für ihn = и для него счастье,
+- wenn er sich an den Mann bringen kann = если он может себя сбыть
++ sich an den Mann bringen = сбыть себя, найти покупателя ~ etwas an den Mann bringen
+
+[38] = А спрос, от которого зависит жизнь рабочего, зависит от прихоти богачей и капиталистов.
+- Und die Nachfrage = А спрос,
+- von der das Leben des Arbeiters abhängt = от которого зависит жизнь рабочего,
+- hängt von der Laune = зависит от прихоти
+- der Reichen und Kapitalisten ab = богачей и капиталистов
++ hängt ab = зависит ~ von etwas abhängen
+
+[39] = Если количество предложения превышает спрос, то одна из составных частей цены — прибыль, земельная рента, заработная плата — оплачивается ниже цены; часть этих услуг поэтому уходит из данного применения, и так рыночная цена тяготеет к естественной цене как к центру.
+- Üb[ertrifft die] Quantität der Zufuhr = Если количество предложения превышает
+- die Nachfrage = спрос,
+- so ist ein[er] = то одна
+- der den Preis konsti[tuierenden] Teile = из составляющих цену частей —
+- Profit, Grundrente, Arbeitslohn = прибыль, земельная рента, заработная плата —
+- unter dem Preis gezahlt = оплачивается ниже цены;
+- [ein Teil die]ser Leistungen = часть этих услуг
+- entzieht sich also dieser Anwendung = поэтому уходит из этого применения,
+- und so gravitiert der Marktpreis = и так рыночная цена тяготеет
+- [nach dem] natürlichen Preis = к естественной цене
+- als Zentralpunkt = как к центру
++ entzieht sich = уклоняется, уходит из ~ sich einer Sache entziehen
+
+[40] = Но, во-первых, при большом разделении труда рабочему труднее всего дать своему труду другое направление, во-вторых, при его подчинённом отношении к капиталисту невыгода прежде всего ударяет по нему.
+- Aber 1. ist es dem Arbeiter = Но, во-первых, рабочему
+- bei einer großen Teilung der Arbeit = при большом разделении труда
+- am schwersten = труднее всего
+- seiner Arbeit eine andere Richtung zu geben = дать своему труду другое направление;
+- 2. trifft ihn = во-вторых, бьёт по нему,
+- bei seinem subalternen Verhältnis zum Kapitalisten = при его подчинённом отношении к капиталисту,
+- zunächst der Nachteil = прежде всего невыгода
+
+[41] = Итак, при тяготении рыночной цены к естественной больше всего и безусловно теряет рабочий.
+- Bei der Gravitation des Marktpreises = При тяготении рыночной цены
+- zum natürlichen Preise = к естественной цене
+- verliert also der Arbeiter = теряет, таким образом, рабочий
+- am meisten und unbedingt = больше всего и безусловно
+
+[42] = И как раз способность капиталиста дать своему капиталу другое направление либо оставляет без хлеба рабочего (ouvrier), привязанного к определённой отрасли труда, либо вынуждает его подчиниться всем требованиям этого капиталиста.
+- Und grade die Fähigkeit des Kapitalisten = И как раз способность капиталиста
+- seinem Kapital eine andere Richtung zu geben = дать своему капиталу другое направление
+- macht den auf einen bestimmten Arbeitszweig = делает привязанного к определённой отрасли труда
+- eingeschränkten ouvrier = рабочего
+- entweder brotlos = либо безработным,
+- oder zwingt ihn = либо вынуждает его
+- sich allen Forderungen = всем требованиям
+- dieses Kapitalisten zu unterwerfen = этого капиталиста подчиниться
+* ouvrier = рабочий | | сущ. | франц.
+* brotlos = без хлеба, без заработка | | прил. | brotlos machen — лишить куска хлеба
+
+[43] = Случайные и внезапные колебания рыночной цены меньше задевают земельную ренту, чем ту часть цены, которая распадается на прибыль и заработную плату, но прибыль — меньше, чем заработную плату.
+- Die zufälligen und plötzlichen Schwankungen = Случайные и внезапные колебания
+- des Marktpreises = рыночной цены
+- treffen weniger die Grundrente = задевают меньше земельную ренту,
+- als den in Profit und Salaire aufgelösten Teil = чем распадающуюся на прибыль и заработную плату часть
+- des Preises = цены,
+- aber weniger den Profit = но меньше прибыль,
+- als den Arbeitslohn = чем заработную плату
+
+[44] = На одну растущую заработную плату приходится обычно одна, остающаяся неизменной, и одна, которая падает.
+! fällt < fallt
+- Auf einen Arbeitslohn, der steigt = На одну заработную плату, которая растёт,
+- kömmt meistens einer = приходится обычно одна,
+- der stationär bleibt = которая остаётся неизменной,
+- und einer, der fällt = и одна, которая падает
+
+[45] = Рабочий не обязательно выигрывает вместе с выигрышем капиталиста, но обязательно теряет вместе с ним.
+- Der Arbeit[er] braucht nicht notwendig = Рабочему не обязательно
+- zu gewinnen mit dem Gewinn des Kapitalisten = выигрывать вместе с выигрышем капиталиста,
+- aber er verliert notwendig mit ihm = но он обязательно проигрывает вместе с ним
+
+[46] = Так, рабочий ничего не выигрывает, если капиталист благодаря фабричной или торговой тайне, монополии или выгодному положению своего участка держит рыночную цену выше естественной.
+- So gewinnt der Arbeiter nicht = Так, рабочий не выигрывает,
+- wenn der Kapitalist = если капиталист
+- durch Fabrik- oder Handelsgeheimnis = благодаря фабричной или торговой тайне,
+- durch Monopol = монополии
+- oder günstige Lage seines Grundstücks = или выгодному положению своего участка
+- den Marktpreis über dem natürlichen Preis hält = держит рыночную цену выше естественной
+
+[47] = Далее: цены труда гораздо постояннее, чем цены жизненных средств.
+- Ferner = Далее:
+- Die Arbeitspreise sind viel konstanter = цены труда гораздо постояннее,
+- als die Preise der Lebensmittel = чем цены жизненных средств
+
+[48] = Часто они находятся в обратном отношении.
+- Oft stehn sie = Часто они находятся
+- in entgegengesetztem Verhältnis = в обратном отношении
+
+[49] = В дорогой год заработная плата понижается из-за сокращения спроса и повышается из-за подорожания жизненных средств.
+- In einem teuern Jahr = В дорогой год
+- Arbeitslohn vermindert = заработная плата понижена
+- wegen der Verminderung der Nachfrage = из-за уменьшения спроса,
+- erhöht = повышена
+- wegen der Erhöhung der Lebensmittel = из-за подорожания жизненных средств
+
+[50] = Значит, уравновешивается.
+- Also balanciert = Значит, уравновешено
+
+[51] = Во всяком случае, известное количество рабочих лишено хлеба.
+- Jedenfalls = Во всяком случае
+- eine Quantität Arbeiter = известное количество рабочих
+- außer Brot gesetzt = лишено хлеба
++ außer Brot gesetzt = лишён хлеба, заработка ~ außer Brot setzen
+
+[52] = В дешёвые годы заработная плата повышается из-за роста спроса и понижается из-за цен на жизненные средства.
+- In wohlfeilen Jahren = В дешёвые годы
+- Arbeitslohn erhöht = заработная плата повышена
+- wegen der Erhöhung der Nachfrage = из-за роста спроса,
+- vermindert = понижена
+- wegen der Preise der Lebensmittel = из-за цен на жизненные средства
+
+[53] = Значит, уравновешивается.
+- Also balanciert = Значит, уравновешено
+
+[54] = Ещё одна невыгода рабочего:
+- Ein andrer Nachteil des Arbeiters = Другая невыгода рабочего:
+
+[55] = цены труда различных категорий рабочих различаются гораздо сильнее, чем прибыли различных отраслей, в которые вкладывается капитал.
+! verschiedner < versehiedner
+! das Kapital < des Kapital
+- Arbeitspreise der verschiednen Arten von Arbeitern = Цены труда различных видов рабочих
+- sind viel verschiedner = гораздо более различны,
+- als die Gewinne der verschiednen Zweige = чем прибыли различных отраслей,
+- worauf das Kapital sich legt = в которые вкладывается капитал
+
+[56] = В труде проявляется всё природное, духовное и социальное различие индивидуальной деятельности и вознаграждается по-разному, тогда как мёртвый капитал всегда идёт одним и тем же шагом и безразличен к действительной индивидуальной деятельности.
+- Bei der Arbeit tritt = В труде выступает
+- die ganze natürliche, geistige und soziale Verschiedenheit = всё природное, духовное и социальное различие
+- der individuellen Tätigkeit heraus = индивидуальной деятельности
+- und wird verschieden belohnt = и по-разному вознаграждается,
+- während das tote Kapital = тогда как мёртвый капитал
+- immer denselben Tritt geht = всегда идёт одним и тем же шагом
+- und gleichgültig gegen = и безразличен к
+- die wirkliche individuelle Tätigkeit ist = действительной индивидуальной деятельности
++ tritt heraus = выступает наружу ~ heraustreten
+
+[57] = Вообще надо заметить, что там, где рабочий и капиталист страдают одинаково, рабочий страдает в своём существовании, а капиталист — в прибыли своего мёртвого маммоны.
+- Überhaupt ist zu bemerken = Вообще надо заметить,
+- daß da, wo Arbeiter und Kapitalist = что там, где рабочий и капиталист
+- gleich leiden = одинаково страдают,
+- der Arbeiter an seiner Existenz = рабочий страдает в своём существовании,
+- der Kapitalist am Gewinn = капиталист — в прибыли
+- seines toten Mammons leidet = своего мёртвого маммоны
+* mammons = маммоны (богатства) | der Mammon | сущ. | библ.: идол богатства
+
+[58] = Рабочему приходится бороться не только за физические средства к жизни, он должен бороться за то, чтобы получить работу, т. е. за возможность, за средства осуществлять свою деятельность.
+- Der Arbeiter muß nicht nur = Рабочий должен не только
+- um seine physischen Lebensmittel = за свои физические средства к жизни,
+- er muß um die Erwerbung von Arbeit = он должен за получение работы,
+- d.h. um die Möglichkeit = т. е. за возможность,
+- um die Mittel kämpfen = за средства бороться
+- seine Tätigkeit verwirklichen zu können = иметь возможность осуществлять свою деятельность
++ um kämpfen = бороться за ~ um etwas kämpfen
+
+[59] = Возьмём три основных состояния, в которых может находиться общество, и рассмотрим положение рабочего в нём.
+- Nehmen wir die 3 Hauptzustände = Возьмём 3 основных состояния,
+- in denen die Gesellschaft = в которых общество
+- sich befinden kann = может находиться,
+- und betrachten die Lage des Arbeiters in ihr = и рассмотрим положение рабочего в нём
+
+[60] = 1) Если богатство общества приходит в упадок, больше всего страдает рабочий, ибо, хотя рабочий класс не может выиграть столько, сколько класс собственников при процветании общества, ни один класс не страдает так жестоко от его упадка, как класс рабочих.
+- 1. Ist der Reichtum der Gesellschaft = 1) Если богатство общества
+- im Verfall = в упадке,
+- so leidet der Arbeiter am meisten = то больше всего страдает рабочий,
+- denn = ибо:
+- Obgleich die Arbeiterklasse = хотя рабочий класс
+- nicht soviel gewinnen kann = не может выиграть столько,
+- als die der Eigentümer = сколько класс собственников
+- im glücklichen Zustand der Gesellschaft = при благополучии общества,
+- aucune ne souffre aussi cruellement = ни один не страдает так жестоко
+- de son déclin = от его упадка,
+- que la classe des ouvriers = как класс рабочих
+* aucune = ни один (класс) | | местоим. | франц. aucune … ne — ни один не
+* ne = не | | частица | франц.
+* souffre = страдает | souffrir | гл. | франц.
+* aussi = так же | | нареч. | франц.
+* cruellement = жестоко | | нареч. | франц.
+* de = от | | предлог | франц.
+* son = его | | местоим. | франц.
+* déclin = упадка | le déclin | сущ. | франц.
+* que = как | | союз | франц.
+* la = (артикль) | | артикль | франц.
+* classe = класс | la classe | сущ. | франц.
+* des = (артикль мн. ч.) | | артикль | франц.
+
+[61] = 2) Возьмём теперь общество, в котором богатство растёт.
+- 2. Nehmen wir nun eine Gesellschaft = 2) Возьмём теперь общество,
+- in welcher der Reichtum fortschreitet = в котором богатство растёт
+
+[62] = Это состояние — единственное благоприятное для рабочего.
+- Dieser Zustand ist der einzige = Это состояние единственное,
+- dem Arbeiter günstige = благоприятное для рабочего
+
+[63] = Здесь между капиталистами возникает конкуренция.
+- Hier tritt Konkurrenz = Здесь наступает конкуренция
+- unter den Kapitalisten ein = между капиталистами
++ tritt ein = наступает ~ eintreten
+
+[64] = Спрос на рабочих превышает их предложение. Однако:
+- Die Nachfrage nach Arbeitern = Спрос на рабочих
+- überschreitet ihre Zufuhr = превышает их предложение.
+- Aber = Однако:
+
+[65] = Во-первых: повышение заработной платы ведёт к чрезмерному труду среди рабочих.
+- Einmal = Во-первых:
+- Die Erhöhung des Arbeitslohns = повышение заработной платы
+- führt Überarbeitung unter den Arbeitern herbei = ведёт к переутомлению среди рабочих
++ führt herbei = вызывает, приводит к ~ herbeiführen
+
+[66] = Чем больше они хотят заработать, тем больше должны жертвовать своим временем и, полностью отказываясь от всякой свободы, выполнять рабский труд на службе у алчности.
+- Je mehr sie verdienen wollen = Чем больше они хотят заработать,
+- je mehr müssen sie = тем больше должны они
+- ihre Zeit aufopfern = жертвовать своим временем
+- und vollständig aller Freiheit = и, полностью от всякой свободы
+- sich entäußernd = отказываясь,
+- im Dienst der Habsucht = на службе алчности
+- Sklavenarbeit vollziehn = рабский труд выполнять
+
+[67] = При этом они тем самым сокращают свою жизнь.
+- Dabei kürzen sie = При этом они сокращают
+- dadurch ihre Lebenszeit ab = тем самым своё время жизни
++ kürzen ab = сокращают ~ abkürzen
+
+[68] = Это сокращение продолжительности их жизни — благоприятное обстоятельство для рабочего класса в целом, ибо благодаря ему всё время требуется новый приток.
+- Diese Verkürzung ihrer Lebensdauer = Это сокращение продолжительности их жизни
+- ist ein günstiger Umstand = есть благоприятное обстоятельство
+- für die Arbeiterklasse im ganzen = для рабочего класса в целом,
+- weil dadurch immer neue Zufuhr = потому что благодаря этому всё новый приток
+- nötig wird = становится нужен
+
+[69] = Этот класс должен всё время приносить в жертву часть самого себя, чтобы не погибнуть целиком.
+- Diese Klasse muß immer = Этот класс должен всегда
+- einen Teil ihrer selbst opfern = приносить в жертву часть самого себя,
+- um nicht ganz zugrunde zu gehn = чтобы не погибнуть совсем
++ zugrunde zu gehn = погибнуть ~ zugrunde gehen
+
+[70] = Далее: когда общество находится в состоянии прогрессирующего обогащения?
+- Ferner = Далее:
+- Wann befindet sich eine Gesellschaft = когда находится общество
+- in fortschreitender Bereicherung = в прогрессирующем обогащении?
+
+[71] = С ростом капиталов и доходов страны.
+- Mit dem Wachstum = С ростом
+- von Kapitalien und Revenuen eines Landes = капиталов и доходов страны
+
+[72] = Но это возможно лишь
+- Dies ist aber nur möglich = Но это возможно лишь
+
+[73] = α) благодаря тому, что накапливается много труда, ибо капитал — это накопленный труд; следовательно, благодаря тому, что у рабочего отбирают из рук всё больше его продуктов, что его собственный труд всё больше противостоит ему как чужая собственность, а средства его существования и его деятельности всё больше сосредоточиваются в руках капиталиста.
+- α) dadurch = α) благодаря тому,
+- daß viele Arbeit zusammengehäuft wird = что накапливается много труда,
+- denn Kapital ist aufgehäufte Arbeit = ибо капитал есть накопленный труд;
+- also dadurch = следовательно, благодаря тому,
+- daß dem Arbeiter immer mehr = что у рабочего всё больше
+- von seinen Produkten = его продуктов
+- aus der Hand genommen wird = из рук забирается,
+- daß seine eigne Arbeit ihm immer mehr = что его собственный труд ему всё больше
+- als fremdes Eigentum gegenübertritt = как чужая собственность противостоит,
+- und die Mittel seiner Existenz = а средства его существования
+- und seiner Tätigkeit = и его деятельности
+- immer mehr in der Hand des Kapitalisten = всё больше в руках капиталиста
+- sich konzentrieren = сосредоточиваются
+* α = α (альфа) | | сокр. | нумерация пунктов
+
+[74] = β) Накопление капитала увеличивает разделение труда, разделение труда увеличивает число рабочих; и наоборот, число рабочих увеличивает разделение труда, как разделение труда увеличивает накопление капиталов.
+- β) Die Häufung des Kapitals = β) Накопление капитала
+- vermehrt die Teilung der Arbeit = увеличивает разделение труда,
+- die Teilung der Arbeit = разделение труда
+- vermehrt die Zahl der Arbeiter = увеличивает число рабочих;
+- umgekehrt vermehrt die Zahl der Arbeiter = наоборот, число рабочих увеличивает
+- die Teilung der Arbeit = разделение труда,
+- wie die Teilung der Arbeit = как разделение труда
+- die Aufhäufung der Kapitalien vermehrt = увеличивает накопление капиталов
+* β = β (бета) | | сокр. | нумерация пунктов
+
+[75] = С этим разделением труда, с одной стороны, и накоплением капиталов, с другой, рабочий становится всё более зависимым исключительно от труда, притом от определённого, очень одностороннего, машинообразного труда.
+- Mit dieser Teilung der Arbeit einerseits = С этим разделением труда, с одной стороны,
+- und der Häufung der Kapitalien andrerseits = и накоплением капиталов, с другой,
+- wird der Arbeiter immer mehr = рабочий становится всё более
+- rein von der Arbeit = исключительно от труда
+- und einer bestimmten, sehr einseitigen = и от определённого, очень одностороннего,
+- maschinenartigen Arbeit abhängig = машинообразного труда зависимым
+
+[76] = И подобно тому как он духовно и телесно низводится до положения машины и из человека превращается в абстрактную деятельность и желудок, так он становится всё более зависимым от всех колебаний рыночной цены, от применения капиталов и прихоти богачей.
+- Wie er also geistig und leiblich = Как он, следовательно, духовно и телесно
+- zur Maschine herabgedrückt = до машины низводится
+- und aus einem Menschen = и из человека
+- eine abstrakte Tätigkeit und ein Bauch wird = превращается в абстрактную деятельность и желудок,
+- so wird er auch immer abhängiger = так он становится и всё более зависимым
+- von allen Schwankungen des Marktpreises = от всех колебаний рыночной цены,
+- der Anwendung der Kapitalien = от применения капиталов
+- und der Laune der Reichen = и от прихоти богачей
+
+[77] = Точно так же рост класса людей, живущих только трудом, усиливает конкуренцию рабочих, а значит, понижает их цену.
+- Ebensosehr wird = В той же мере
+- durch die Zunahme der nur arbeitenden Menschenklasse = ростом класса людей, живущих только трудом,
+- die Konkurrenz der Arbeiter erhöht = конкуренция рабочих усиливается,
+- also ihr Preis erniedrigt = а значит, их цена понижается
+
+[78] = В фабричной системе это положение рабочего достигает своей высшей точки.
+- In dem Fabrikwesen = В фабричной системе
+- erreicht diese Stellung des Arbeiters = это положение рабочего достигает
+- ihren Gipfelpunkt = своей высшей точки
+
+[79] = γ) В обществе, которое находится в состоянии растущего благосостояния, жить на денежные проценты могут лишь самые богатые.
+- γ) In einer Gesellschaft = γ) В обществе,
+- welche sich in zunehmendem Wohlstand befindet = которое находится в растущем благосостоянии,
+- können nur mehr die Allerreichsten = могут лишь самые богатые
+- vom Geldzins leben = жить на денежный процент
+* γ = γ (гамма) | | сокр. | нумерация пунктов
+
+[80] = Все остальные должны вести со своим капиталом какое-то дело или вкладывать его в торговлю.
+- Alle übrigen müssen = Все остальные должны
+- mit ihrem Kapital ein Geschäft treiben = со своим капиталом вести дело
+- oder es in den Handel werfen = или бросить его в торговлю
+
+[81] = Благодаря этому конкуренция между капиталами растёт, концентрация капиталов растёт, крупные капиталисты разоряют мелких, и часть бывших капиталистов опускается в класс рабочих, который из-за этого притока отчасти снова терпит снижение заработной платы и попадает в ещё большую зависимость от немногих крупных капиталистов; поскольку число капиталистов уменьшилось, их конкуренция в отношении рабочих почти исчезла, а поскольку число рабочих возросло, их конкуренция между собой стала тем больше, неестественнее и ожесточённее.
+- Dadurch wird also = Благодаря этому, таким образом,
+- die Konkurrenz unter den Kapitalien größer = конкуренция между капиталами растёт,
+- die Konzentration der Kapitalien wird größer = концентрация капиталов растёт,
+- die großen Kapitalisten ruinieren die kleinen = крупные капиталисты разоряют мелких,
+- und ein Teil der ehemaligen Kapitalisten = и часть бывших капиталистов
+- sinkt zu der Klasse der Arbeiter herab = опускается в класс рабочих,
+- welche durch diese Zufuhr = который вследствие этого притока
+- teils wieder eine Herabdrückung des Arbeitslohns erleidet = отчасти снова терпит снижение заработной платы
+- und in eine noch größere Abhängigkeit = и в ещё большую зависимость
+- von den wenigen großen Kapitalisten gerät = от немногих крупных капиталистов попадает;
+- indem die Zahl der Kapitalisten = поскольку число капиталистов
+- sich vermindert hat = уменьшилось,
+- ist ihre Konkurrenz in bezug auf die Arbeiter = их конкуренция в отношении рабочих
+- fast nicht mehr vorhanden = почти исчезла,
+- und indem die Zahl der Arbeiter = а поскольку число рабочих
+- sich vermehrt hat = возросло,
+- ist ihre Konkurrenz unter sich = их конкуренция между собой
+- um so größer, unnatürlicher = стала тем больше, неестественнее
+- und gewaltsamer geworden = и ожесточённее
+
+[82] = Поэтому часть рабочего сословия так же неизбежно опускается до нищенства или голодной смерти, как часть средних капиталистов — в рабочее сословие.
+- Ein Teil von dem Arbeiterstand = Часть рабочего сословия
+- fällt daher ebenso notwendig = поэтому так же неизбежно попадает
+- in den Bettel- oder Verhungerungsstand = в состояние нищенства или голода,
+- wie ein Teil der mittleren Kapitalisten = как часть средних капиталистов
+- in den Arbeiterstand = в рабочее сословие
+
+[83] = Итак, даже в состоянии общества, наиболее благоприятном для рабочего, необходимым следствием для рабочего оказываются чрезмерный труд и ранняя смерть, низведение до машины, рабство у капитала, который опасно накапливается против него, новая конкуренция, голодная смерть или нищенство части рабочих.
+- Also selbst in dem Zustand der Gesellschaft = Итак, даже в том состоянии общества,
+- welcher dem Arbeiter am günstigsten ist = которое для рабочего благоприятнее всего,
+- ist die notwendige Folge für den Arbeiter = необходимым следствием для рабочего являются
+- Überarbeitung und früher Tod = переутомление и ранняя смерть,
+- Herabsinken zur Maschine = низведение до машины,
+- Knecht des Kapitals = рабство у капитала,
+- das sich ihm gefährlich gegenüber aufhäuft = который опасно накапливается против него,
+- neue Konkurrenz = новая конкуренция,
+- Hungertod oder Bettelei = голодная смерть или нищенство
+- eines Teils der Arbeiter = части рабочих
+
+[84] = Повышение заработной платы пробуждает в рабочем жажду обогащения, свойственную капиталисту, но удовлетворить её он может только ценой своего духа и тела.
+- Die Erhöhung des Arbeitslohns = Повышение заработной платы
+- erregt im Arbeiter = пробуждает в рабочем
+- die Bereicherungssucht des Kapitalisten = жажду обогащения капиталиста,
+- die er aber nur = которую он, однако, лишь
+- durch Aufopferung seines Geistes und Körpers = ценой своего духа и тела
+- befriedigen kann = может удовлетворить
+
+[85] = Повышение заработной платы предполагает накопление капитала и ведёт к нему; следовательно, оно делает продукт труда всё более чуждым рабочему.
+- Die Erhöhung des Arbeitslohns = Повышение заработной платы
+- setzt die Häufung des Kapitals voraus = предполагает накопление капитала
+- und führt sie herbei = и ведёт к нему;
+- stellt das Produkt der Arbeit also = ставит, следовательно, продукт труда
+- immer fremder dem Arbeiter gegenüber = всё более чуждым против рабочего
++ setzt voraus = предполагает ~ voraussetzen
++ stellt gegenüber = противопоставляет ~ gegenüberstellen
+
+[86] = Точно так же разделение труда делает рабочего всё более односторонним и зависимым, порождая конкуренцию не только людей, но и машин.
+- Ebenso macht die Teilung der Arbeit = Точно так же разделение труда делает
+- ihn immer einseitiger und abhängiger = его всё более односторонним и зависимым,
+- wie sie die Konkurrenz = поскольку оно конкуренцию
+- nicht nur der Menschen = не только людей,
+- sondern auch der Maschinen herbeiführt = но и машин порождает
+
+[87] = Так как рабочий низведён до машины, машина может выступать против него как конкурент.
+- Da der Arbeiter = Так как рабочий
+- zur Maschine herabgesunken ist = низведён до машины,
+- kann ihm die Maschine = может ему машина
+- als Konkurrent gegenübertreten = как конкурент противостоять
+
+[88] = Наконец, подобно тому как накопление капитала увеличивает размеры промышленности, а значит, и число рабочих, благодаря этому накоплению то же количество промышленности производит большее количество изделий, что превращается в перепроизводство и кончается либо тем, что большую часть рабочих лишают работы, либо тем, что их заработок сводят к самому жалкому минимуму.
+- Endlich = Наконец,
+- wie die Häufung des Kapitals = как накопление капитала
+- die Quantität der Industrie = количество промышленности,
+- also die Arbeiter vermehrt = а значит, и рабочих увеличивает,
+- bringt durch diese Akkumulation = так благодаря этому накоплению
+- dieselbe Quantität der Industrie = то же количество промышленности
+- eine größere Quantität Machwerk herbei = производит большее количество изделий,
+- die zur Überproduktion wird = которое становится перепроизводством
+- und entweder damit endet = и кончается либо тем,
+- einen großen Teil Arbeiter = что большую часть рабочих
+- außer Arbeit zu setzen = лишают работы,
+- oder ihren Lohn = либо их заработок
+- auf das kümmerlichste Minimum zu reduzieren = сводят к самому жалкому минимуму
++ bringt herbei = производит, доставляет ~ herbeibringen
+* machwerk = изделия, поделки | das Machwerk | сущ. | обычно пренебрежительно: «стряпня»
+
+[89] = Таковы последствия состояния общества, наиболее благоприятного для рабочего, а именно состояния растущего, прогрессирующего богатства.
+- Das sind die Folgen = Таковы последствия
+- eines Gesellschaftszustandes = состояния общества,
+- der dem Arbeiter am günstigsten ist = которое благоприятнее всего для рабочего,
+- nämlich des Zustandes = а именно состояния
+- des wachsenden, fortschreitenden Reichtums = растущего, прогрессирующего богатства
+
+[90] = Но в конце концов это растущее состояние должно же когда-нибудь достичь своей высшей точки.
+- Endlich aber muß = Но в конце концов должно
+- dieser wachsende Zustand = это растущее состояние
+- doch einmal = всё же когда-нибудь
+- seinen Höhepunkt erreichen = достичь своей высшей точки
